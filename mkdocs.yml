@@ -1,0 +1,7 @@
+site_name: Vintage Reel Service Guides
+
+nav:
+  - Home: index.md
+  - Penn:
+      - Penn 730 Service: penn-730-service-guide.md
+

@@ -1,5 +1,8 @@
 site_name: Vintage Reel Service Guides
 
+theme:
+   name: readthedocs
+
 nav:
   - Home: index.md
   - Penn 730 Service Guide: penn-730-service-guide.md
@@ -7,4 +10,5 @@ nav:
   - Removing Line from and Adding Line to a Spool: removing-adding-line.md
   - Tools and Materials: tools-materials.md
   - Workspace Setup and Safety: workspace-setup-safety.md
+
 

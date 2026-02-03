@@ -8,6 +8,10 @@ nav:
   - Tools and Materials: tools-materials.md
   - Workspace Setup and Safety: workspace-setup-safety.md
 
+theme:
+  name: readthedocs
+
+
 
 
 

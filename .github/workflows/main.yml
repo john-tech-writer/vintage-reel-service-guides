@@ -27,4 +27,3 @@ jobs:
           python-version: '3.x'
 
       - name: Install MkDocs
-      ...

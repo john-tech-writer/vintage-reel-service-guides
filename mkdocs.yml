@@ -9,7 +9,8 @@ nav:
   - Workspace Setup and Safety: workspace-setup-safety.md
 
 theme:
-  name: mkdocs
+  name: readthedocs
+
 
 
 

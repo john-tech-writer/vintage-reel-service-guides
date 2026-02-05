@@ -1,4 +1,5 @@
 site_name: Vintage Reel Service Guides
+site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 
 nav:
   - Home: index.md

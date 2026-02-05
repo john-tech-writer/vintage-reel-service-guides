@@ -22,4 +22,4 @@ Brief overview of Penn's spinning reels, the 700 series in particular, and refer
 
 Each guide will provide step-by-step illustrated procedures for disassembling, servicing (cleaning and lubricating), and re-assembling the reel. The guides will also provide information on commonly required repairs [will this be documented within the service guide or linked to a separate procedure?]
 
-The [Penn 730](/penn/730/penn-730-service-guide.md).
+The [Penn 730](penn/730/penn-730-service-guide.md).

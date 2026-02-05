@@ -28,4 +28,4 @@ Since this procedure will be more or less the same for every reel see [Removing 
 
 2. Remove the spool.
 
-![Penn 720 with spool and drag cap removed](img/penn-720-spool-drag-cap-removed.jpg)
+![Penn 730 with spool and drag cap removed](img/penn-730-spool-drag-cap-removed.jpg)

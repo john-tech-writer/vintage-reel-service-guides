@@ -3,7 +3,7 @@ site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 
 nav:
   - Home: index.md
-  - Penn 730 Service Guide: penn/penn-730-service-guide.md
+  - Penn 720 Service Guide: penn/penn-730-service-guide.md
   - Initial Evaluation: initial-evaluation.md
   - Removing Line from and Adding Line to a Spool: removing-adding-line.md
   - Tools and Materials: tools-materials.md

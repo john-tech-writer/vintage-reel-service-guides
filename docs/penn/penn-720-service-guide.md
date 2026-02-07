@@ -2,6 +2,9 @@
 
 The Penn 720 is an open-faced spinning reel, part of Penn's 700 "spinfisher" series, which ranged from the smallest--the 720, mostly intended for freshwater fishing--to the largest, the mighty 706, designed for heavy saltwater duty. Accordingly, the line capacities for the spools, materials, and overall heft of the reels varied. These reels were very simple, strong, dependable designs, and many are still in use today. This guide will show you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher.
 
+![Penn 720--Badge Side](../../img/penn/720/penn-720-badge-side-standing.jpg)
+![Penn 720--Handle Side](../../img/penn/720/penn-720-handle-side-standing.jpg)
+
 Specs: Weight (with and/or without line on the spool), dimensions, materials (with variations like different arbor materials--cork, etc., gears brass or steel, or nylon), line capacity for various lb. tests, gear ratios.
 
 This video provides a very general overview of the Penn 720 and this procedure. Use the following sections for detailed instructions.
@@ -30,4 +33,10 @@ Since this procedure will be more or less the same for every reel see [Removing 
 
 2. Remove the spool.
 
-![Penn 720 with Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
+![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap-removed.jpg)
+![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
+![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate-removed.jpg)
+![Penn 720--Main Shaft Removed](../../img/penn/720/penn-720-spool-shaft-removed.jpg)
+![Penn 720--Crosswind Block Removed](../../img/penn/720/penn-720-crosswind-block-removed.jpg)
+![Penn 720--Pinion Gear Removed](../../img/penn/720/penn-720-pinion-gear-removed.jpg)
+![Penn 720--Main Gear Removed](../../img/penn/720/penn-720-main-gear-removed.jpg)

@@ -18,15 +18,15 @@ Difficulty and Time for this Procedure: The Penn 730 is probably one of the simp
 There are many possible configurations for setting up a workspace, but in general a few basic requirements should be considered. Since this is basically the same for all reels, see [Basic Workspace Setup and Safety](../workspace-setup-safety.md) before proceeding.
 
 ## Initial Evaluation
-All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison. Since this is basically the same for all reels, see [Initial Evaluation](initial-evaluation.md) before proceeding.
+All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison. Since this is basically the same for all reels, see [Initial Evaluation](../initial-evaluation.md) before proceeding.
 
 ## Tools and Materials
-The basic set of simple tools and materials is the same for all reels; see [Tools and Materials](tools-materials.md) before proceeding.
+The basic set of simple tools and materials is the same for all reels; see [Tools and Materials](../tools-materials.md) before proceeding.
 
 ## Disassembly
 
 1. Remove the line from the spool.
-Since this procedure will be more or less the same for every reel see [Removing Line from and Adding Line to a Spool](removing-adding-line.md) before proceeding.
+Since this procedure will be more or less the same for every reel see [Removing Line from and Adding Line to a Spool](../removing-adding-line.md) before proceeding.
 
 2. Remove the spool.
 

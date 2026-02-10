@@ -4,6 +4,7 @@ site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 nav:
   - Home: index.md
   - Penn 720 Service Guide: penn/penn-720-service-guide.md
+  - Penn Spinfisher Series: penn/penn-spinfisher-series.md
   - Initial Evaluation: initial-evaluation.md
   - Removing Line from and Adding Line to a Spool: removing-adding-line.md
   - Tools and Materials: tools-materials.md

@@ -18,17 +18,13 @@ Text about spinning reels, an overview, some content, arrangement, and topics wi
 
 Major American manufacturers of the period will be listed and briefly reviewed in historical/functional context, including Pflueger, Penn, etc.
 
-### Penn
+**Penn:** Brief overview of Penn's spinning reels, the 700 series in particular, and references to their other types of reels. Places all the 700 series reels in context of creating balanced tackle for different fishing applications--species, salt/fresh, trolling, surf fishing, etc.
 
-Brief overview of Penn's spinning reels, the 700 series in particular, and references to their other types of reels. Places all the 700 series reels in context of creating balanced tackle for different fishing applications--species, salt/fresh, trolling, surf fishing, etc.
+[The Penn Spinfisher Series.](penn-spinfisher-series.md)
 
-### Pfleuger
+**Pfleuger:** The Pelican.
 
-The Pelican.
-
-### Ted Williams/Sears
-
-The 440. Like Craftsman tools of that era, very durable.
+**Ted Williams/Sears:** The 440. Like Craftsman tools of that era, very durable.
 
 ## Spincasting Reels
 

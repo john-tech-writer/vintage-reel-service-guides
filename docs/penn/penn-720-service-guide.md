@@ -80,7 +80,7 @@ Since this procedure will be more or less the same for every reel see [Removing 
 
 This is a good time to inspect the plastic for cracks. Note that this example reel's drag cap has several minor cracks, which were repaired with epoxy. [link to mod on epoxy repairs]
 
-![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap-removed.jpg)
+![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
 
 Variations: On this example 720 cap the plastic completely surrounds the brass inner cap; on some caps more of the brass inner cap is exposed. This is a part that is subject to wear, so it's helpful for the repair person that it may be available as new/remanufactured [term?].
 
@@ -110,7 +110,8 @@ Pry the Housing Plate from the main Housing. On some reels the plate may be stuc
 
 You can now see the Main gear and associated parts. This is a good time to inspect the overall condition of the gears, the accumulation of old lubricants, etc.
 
-![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
+Note that this reel has already been disassembled, serviced, and reassembled, so the gears are very clean. The same reel before servicing shows accumulated old grease, which hardens and can impair function. It's also impossible to know what sorts of lubricants (if any) have been applied in past servicings, so it is best to clean all the parts and start fresh with the correct [lubricants](../tools-materials.md).
+
 ![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate-removed.jpg)
 ![Penn 720--Main Shaft Removed](../../img/penn/720/penn-720-spool-shaft-removed.jpg)
 ![Penn 720--Crosswind Block Removed](../../img/penn/720/penn-720-crosswind-block-removed.jpg)

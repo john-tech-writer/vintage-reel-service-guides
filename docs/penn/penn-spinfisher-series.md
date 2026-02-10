@@ -1,6 +1,6 @@
 # Penn Spinfisher Series
 
-The Penn Spinfisher series of open-faced spinning reels ranged from the ultralight 720/722 models--mostly intended for freshwater fishing--to the largest, the mighty 704/705 models, designed for heavy saltwater duty. Accordingly, the line capacities for the spools, materials, and overall heft of the reels in the 700 series varied. These reels were very simple, strong, dependable designs, and many are still in use today. Since there are currently (2026) a fair number of these reels available in the used marketplace, spare parts are reasonably available too--it's a good idea to buy a "parts" reel that matches the reel that actually goes out into the field. In the case of the 720/722, there are even a few parts (like the drag cap) available new.
+The Penn Spinfisher series of open-faced spinning reels ranged from the ultralight [720/722 models](penn-720-service-guide.md)--mostly intended for freshwater fishing--to the largest, the mighty 704/705 models, designed for heavy saltwater duty. Accordingly, the line capacities for the spools, materials, and overall heft of the reels in the 700 series varied. These reels were very simple, strong, dependable designs, and many are still in use today. Since there are currently (2026) a fair number of these reels available in the used marketplace, spare parts are reasonably available too--it's a good idea to buy a "parts" reel that matches the reel that actually goes out into the field. In the case of the 720/722, there are even a few parts (like the drag cap) available new.
 
 Penn made each size Spinfisher in two different models, with the most important differences being the same across the entire series--one model in each size used a brass bushing on the main shaft, and the other model used a ball bearing, with the practical result being smoother cranking action for the slightly upgraded, ball bearing version.
 
@@ -8,13 +8,10 @@ Penn made each size Spinfisher in two different models, with the most important 
   -----   ------------------
   720   | bushing
   722   | bearing
-        |
   710   | bushing
   711   | bearing
-        |
   712   | bushing
-  713   | bearing
-        |
+  713   | bearing|
   704   | bushing
   705   | bearing
 

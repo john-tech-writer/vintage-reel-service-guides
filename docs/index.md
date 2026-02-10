@@ -14,13 +14,11 @@ If your main interest is in servicing a specific reel you can easily just bypass
 
 ## Spinning Reels
 
-Text about spinning reels, an overview, some content, arrangement, and topics will be taken at least in rough form from the Perplexity space on reel service guides.
+[Text about spinning reels, an overview, some content, arrangement, and topics will be taken at least in rough form from the Perplexity space on reel service guides.]
 
-Major American manufacturers of the period will be listed and briefly reviewed in historical/functional context, including Pflueger, Penn, etc.
+[Major American manufacturers of the period will be listed and briefly reviewed in historical/functional context, including Pflueger, Penn, etc.]
 
-**Penn:** Brief overview of Penn's spinning reels, the 700 series in particular, and references to their other types of reels. Places all the 700 series reels in context of creating balanced tackle for different fishing applications--species, salt/fresh, trolling, surf fishing, etc.
-
-[The Penn Spinfisher Series.](penn-spinfisher-series.md)
+**Penn:** Brief overview of Penn's spinning reels and references to their other types of reels. [The Penn Spinfisher Series](/docs/penn-spinfisher-series.md) includes eight different models from ultralight to heavy duty.
 
 **Pfleuger:** The Pelican.
 
@@ -30,35 +28,33 @@ Major American manufacturers of the period will be listed and briefly reviewed i
 
 About spincasting reels--much background can come from Shakespeare.
 
-### Zebco
-
-The 33.
+**Zebco:** The 33.
 
 ## Baitcasting Reels
 
 About baitcasting reels.
 
-### Pfleuger
+**Pfleuger:** The Nobby.
 
-The Nobby.
+**South Bend:** The 550.
 
-### South Bend
-
-The 550.
-
-### Abu Garcia
-
-The 2000--6000 series. Not strictly an American company, but important enough to mention in the world of baitcasting.
+**Abu Garcia:** The 2000--6000 series. Not strictly an American company, but important enough to mention in the world of baitcasting.
 
 ## Fly Reels
 
-### Shakespeare
+**Shakespeare:** The Silent Tru-arT automatic fly reel.
 
-The Silent Tru-arT automatic fly reel.
+## General Information about Servicing
+
+Initial Evaluation
+
+Removing Line from and Adding Line to a Spool
+
+Tools and Materials
+
+Workplace Setup and Safety
 
 ## The Service Guides
-
-### General Information
 
 Each service guide provides step-by-step illustrated procedures for disassembling, servicing (cleaning and lubricating), and re-assembling the reel. The guides also provide information on common repairs [will this be documented within the service guide or linked to a separate procedure?]
 

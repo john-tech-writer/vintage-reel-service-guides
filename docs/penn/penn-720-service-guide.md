@@ -71,14 +71,14 @@ If you just acquired the reel, remove the line from the spool. There is no way t
 
 1. Remove the drag cap (part #52) by turning it clockwise (all directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod).
    
-![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1.jpg)
-![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap2.jpg)
+   ![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1.jpg)
+   ![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap2.jpg)
    
-This is a good time to inspect the plastic for cracks. Note that this example reel's drag cap has several minor cracks, which were repaired with epoxy. [link to mod on epoxy repairs]
-      
-![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
+   This is a good time to inspect the plastic for cracks. Note that this example reel's drag cap has several minor cracks, which were repaired with epoxy. [link to mod on epoxy repairs]
    
-**Variations:** On this example 720 cap the plastic completely surrounds the brass inner cap; on some caps more of the brass inner cap is exposed. This is a part that is subject to wear, so it's helpful for the repair person that it may be available as new/remanufactured [term?].
+   ![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
+   
+   **Variations:** On this example 720 cap the plastic completely surrounds the brass inner cap; on some caps more of the brass inner cap is exposed. This is a part that is subject to wear, so it's helpful for the repair person that it may be available as new/remanufactured [term?].
    
 2. Remove the spool (part #47) by pulling straight out.
    

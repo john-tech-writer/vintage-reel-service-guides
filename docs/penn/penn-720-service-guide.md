@@ -33,11 +33,17 @@ The handle can be rotated for storage by loosening the nut at the base.
 ### Specs
 
 Weight (reel only, no line on spool): 9 1/2 oz.
+
 Gear ratio: 4:1
+
 Line capacity (lb. test/yds.): 4/300, 6/200, 8/150, 10/125, 12/100
+
 Rod length/action: 5 1/2'--7' light action
+
 Lure weights: 1/8--1/2 oz.
+
 Dimensions:
+
 Materials:(with variations like different arbor materials--cork, etc., gears brass or steel, or nylon)
 Line selection varies with different field conditions. For freshwater use 4 to 6 lb. test mono may be optimal; in salt water 8 lb. may be better, to handle casting heavier lures.
 
@@ -73,7 +79,7 @@ If you just acquired the reel, remove the line from the spool. There is no way t
    ![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
    
    **Variations:** On this example 720 cap the plastic completely surrounds the brass inner cap; on some caps more of the brass inner cap is exposed. This is a part that is subject to wear, so it's helpful for the repair person that it may be available as new/remanufactured [term?].
-
+   
 2. Remove the spool (part #47) by pulling straight out.
    
    ![Penn 720--Spool Removed](../../img/penn/720/penn-720-spool.jpg)
@@ -84,7 +90,7 @@ If you just acquired the reel, remove the line from the spool. There is no way t
    
    ![Penn 720--Removing Handle](../../img/penn/720/penn-720-handle1.jpg)
    ![Penn 720--Handle Removed](../../img/penn/720/penn-720-handle2.jpg)
-
+   
 4. Remove the Housing Plate.
    
    Unscrew the one screw used to secure the housing. A short-handled screwdriver is useful for working on large screws like this one.

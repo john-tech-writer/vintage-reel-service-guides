@@ -1,35 +1,44 @@
 # Penn 720 Service Guide
 
-The Penn 720 is an ultralight open-faced spinning reel, part of Penn's 700 Spinfisher series, which ranged from the smallest--the 720, mostly intended for freshwater fishing--to the largest, the mighty 704, designed for heavy saltwater duty. Accordingly, the line capacities for the spools, materials, and overall heft of the reels in the 700 series varied. These reels were very simple, strong, dependable designs, and many are still in use today. This guide will show you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
+The Penn 720 is an ultralight open-faced spinning reel, part of Penn's 700 Spinfisher series, which ranged from the smallest--the 720, mostly intended for freshwater fishing--to the largest, the mighty 704, designed for heavy saltwater duty. Accordingly, the line capacities for the spools, materials, and overall heft of the reels in the 700 series varied.
 
-Note that the Penn 722 was basically the same reel with a few minor upgrades, the most important mechanical difference being that the 722 uses a ball bearing on the main shaft --the 720 uses a brass bushing. The practical implication is that the 722 has a bit smoother cranking action. In terms of appearance, the 722 was finished in light green (known to enthusiasts as a "greenie")-- the 720 was finished in a light metallic blue. Otherwise the reels are mechanically almost identical, and the practical implication of this is that most parts are interchangeable. If you need a replacement part for a 720, then you could locate and use either a 720 or a 722 for most internal parts. You could even mix and match exterior parts like the housing, housing plate, and rotor cup. 
+These reels were very simple, strong, dependable designs, and many are still in use today. This guide will show you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
+
+Note that the Penn 722 was basically the same reel with a few minor upgrades, the most important mechanical difference being that the 722 uses a ball bearing on the main shaft --the 720 uses a brass bushing. The practical implication is that the 722 has a bit smoother cranking action.
+
+In terms of appearance, the 722 was finished in light green (known to enthusiasts as a "greenie")-- the 720 was finished in a light metallic blue.  Otherwise the reels are mechanically almost identical, and the practical implication of this is that most parts are interchangeable. If you need a replacement part for a 720, then you could locate and use either a 720 or a 722 for most internal parts. You could even mix and match exterior parts like the housing, housing plate, and rotor cup. 
 
 ![Penn 720--Front Left](../../img/penn/720/penn-720-front-left.jpg)
 
 ![Penn 720--Front Right](../../img/penn/720/penn-720-front-right.jpg)
 
-![Penn 720--Badge](../../img/penn/720/penn-720-badge-800x600px.jpg)
+![Penn 720--Badge](../../img/penn/720/penn-720-badge.jpg)
+
 The badge varies depending on the year. The example reel here has the earlier badge design. [show example of later design, etc.]
 
 The 720 was a very simple design with a few interesting exterior features.
 
-![Penn 720--Anti-Reverse(../../img/penn/720/penn-720-anti-rev-800x600px.jpg)
+![Penn 720--Anti-Reverse(../../img/penn/720/penn-720-anti-rev.jpg)
 
 The Eccentric Lever (part #6E) has two positions; in one the anti-reverse and clicker are engaged, in the other the retrieve is silent.
 
-![Penn 720--Anti-Reverse and Handle in Storage Position(../../img/penn/720/penn-720-anti-rev-handle-800x600px.jpg)
+![Penn 720--Anti-Reverse and Handle in Storage Position(../../img/penn/720/penn-720-anti-rev-handle.jpg)
 
 The handle can be rotated for storage by loosening the nut at the base then re-tightening.
 
-Specs: Weight with line on the spool: 10.5 oz/~.3 kg.
+##Specs
+
+Weight (reel only, no line on spool): 9 1/2 oz.
+Gear ratio: 4:1
+Line capacity (lb. test/yds.): 4/300, 6/200, 8/150, 10/125, 12/100
+Rod length/action: 5 1/2'--7' light action
+Lure weights: 1/8--1/2 oz.
 Dimensions:
 Materials:(with variations like different arbor materials--cork, etc., gears brass or steel, or nylon)
-Line capacity: For various lb. tests
-Gear ratios:
+
+Line selection varies with different field conditions. For freshwater use 4 to 6 lb. test mono may be optimal; in salt water 8 lb. may be better, to handle casting heavier lures.
 
 This video [YT vid, to be recorded] provides a very general overview of the Penn 720 and this procedure. Use the following sections for detailed instructions.
-
-Place in a Balanced Tackle Setup: What rods, lines, casting weights, fishing types--salt/fresh, species, trolling, surf fishing, etc.
 
 History, Models, Years, and Variations: Different badges, rough estimate of year, typical manufacturer's marks.
 
@@ -53,36 +62,36 @@ Since this procedure will be more or less the same for every reel see [Removing 
 
 2. Remove the drag cap (part #52) by turning it counter-clockwise (all directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod).
 
-![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1-800x600px.jpg)
+![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1jpg)
 
-![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap2-800x600px.jpg)
+![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap2.jpg)
 
 This is a good time to inspect the plastic for cracks. Note that this example reel's drag cap has several minor cracks, which were repaired with epoxy. [link to mod on epoxy repairs]
 Variations: On this example 720 cap the plastic completely surrounds the brass inner cap; on some caps more of the brass inner cap is exposed. This is a part that is subject to wear, so it's helpful for the repair person that it may be available as new/remanufactured [term?].
 
 3. Remove the spool (part #47) by pulling straight out.
 
-![Penn 720--Spool Removed](../../img/penn/720/penn-720-spool-800x600px.jpg)
+![Penn 720--Spool Removed](../../img/penn/720/penn-720-spool.jpg)
 
 This is a good time to inspect the drag and click mechanism on the inside of the spool. If it is possible to obtain one or two extra spools, for example, by purchasing "parts" reels, those will prove useful for keeping several pound-tests of line handy for quick changes in the field.
 
 4. Remove the handle (part #15) by turning it clockwise (with the handle side of the reel facing you)--opposite to the direction you turn it to reel in line.
 
-![Penn 720--Removing Handle](../../img/penn/720/penn-720-handle1-800x600px.jpg)
+![Penn 720--Removing Handle](../../img/penn/720/penn-720-handle1.jpg)
 
-![Penn 720--Handle Removed](../../img/penn/720/penn-720-handle2-800x600px.jpg)
+![Penn 720--Handle Removed](../../img/penn/720/penn-720-handle2.jpg)
 
 5. Remove the Housing Plate.
 
 Unscrew the one screw used to secure the housing. A short-handled screwdriver is useful for working on large screws like this one.
 
-![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1-800x600px.jpg)
+![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1.jpg)
 
-![Penn 720--Removing Housing Plate](../../img/penn/720/penn-720-housing-plate2-800x600px.jpg)
+![Penn 720--Removing Housing Plate](../../img/penn/720/penn-720-housing-plate2.jpg)
 
 Pry the Housing Plate from the main Housing. On some reels the plate may be stuck in place. Do not attempt to pry these apart with a screwdriver, which is likely to slip and damage the finish. Use a thin blade and work it carefully under into the gap between the two parts; eventually it should pop off.
 
-![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate3-800x600px.jpg)
+![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate3.jpg)
 
 You can now see the Main gear and associated parts. This is a good time to inspect the overall condition of the gears, the accumulation of old lubricants, etc.
 

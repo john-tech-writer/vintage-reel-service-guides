@@ -59,18 +59,18 @@ Difficulty and time for this procedure: The Penn 720 is probably one of the simp
 ### Preparation: Basic Workspace Setup and Safety
 There are many possible configurations for setting up a workspace, but in general a few basic requirements should be considered. Since this is basically the same for all reels, see [Basic Workspace Setup and Safety](../workspace-setup-safety.md) before proceeding.
 
-### Initial Evaluation
-All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison. Since this is basically the same for all reels, see [Initial Evaluation](../initial-evaluation.md) before proceeding.
-
 ### Tools and Materials
 The basic set of simple tools and materials is the same for all reels; see [Tools and Materials](../tools-materials.md) before proceeding.
 
+### Before You Begin
+
+Complete an initial evaluation of the reel. All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison. Since this is basically the same for all reels, see [Initial Evaluation](../initial-evaluation.md) before proceeding.
+
+If you just acquired the reel, remove the line from the spool. There is no way to determine the age or condition of the line on a newly acquired vintage reel, so it makes sense to start with new line as the final part of servicing a reel. This also allows you to inspect the arbor to determine what type of material it is made of (this will help date the reel) and clean it along with the rest of the parts. Since this procedure will be more or less the same for every reel see [Removing Line from and Adding Line to a Spool](../removing-adding-line.md) before proceeding.
+
 ## Disassembly
 
-1. Remove the line from the spool.
-Since this procedure will be more or less the same for every reel see [Removing Line from and Adding Line to a Spool](../removing-adding-line.md) before proceeding.
-
-2. Remove the drag cap (part #52) by turning it clockwise (all directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod).
+1. Remove the drag cap (part #52) by turning it clockwise (all directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod).
 
 ![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1.jpg)
 

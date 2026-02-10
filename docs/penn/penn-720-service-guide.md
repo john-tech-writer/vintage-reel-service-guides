@@ -1,10 +1,12 @@
 # Penn 720 Service Guide
 
-The Penn 720 is an open-faced spinning reel, part of Penn's 700 "spinfisher" series, which ranged from the smallest--the 720, mostly intended for freshwater fishing--to the largest, the mighty 706, designed for heavy saltwater duty. Accordingly, the line capacities for the spools, materials, and overall heft of the reels varied. These reels were very simple, strong, dependable designs, and many are still in use today. This guide will show you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher.
+The Penn 720 is an ultralight open-faced spinning reel, part of Penn's 700 Spinfisher series, which ranged from the smallest--the 720, mostly intended for freshwater fishing--to the largest, the mighty 704, designed for heavy saltwater duty. Accordingly, the line capacities for the spools, materials, and overall heft of the reels in the 700 series varied. These reels were very simple, strong, dependable designs, and many are still in use today. This guide will show you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn/penn-spinfisher-series.md).
 
-![Penn 720--Front Left](../../img/penn/720/penn-720-front-left-800x600px.jpg)
+Note that the Penn 722 was basically the same reel with a few minor upgrades, the most important mechanical difference being that the 722 uses a ball bearing on the main shaft --the 720 uses a brass bushing. The practical implication is that the 722 has a bit smoother cranking action. In terms of appearance, the 722 was finished in light green (known to enthusiasts as a "greenie")-- the 720 was finished in a light metallic blue. Otherwise the reels are mechanically almost identical, and the practical implication of this is that most parts are interchangeable. If you need a replacement part for a 720, then you could locate and use either a 720 or a 722 for most internal parts. You could even mix and match exterior parts like the housing, housing plate, and rotor cup. 
 
-![Penn 720--Front Right](../../img/penn/720/penn-720-front-right-800x600px.jpg)
+![Penn 720--Front Left](../../img/penn/720/penn-720-front-left.jpg)
+
+![Penn 720--Front Right](../../img/penn/720/penn-720-front-right.jpg)
 
 ![Penn 720--Badge](../../img/penn/720/penn-720-badge-800x600px.jpg)
 The badge varies depending on the year. The example reel here has the earlier badge design. [show example of later design, etc.]

@@ -18,7 +18,7 @@ The badge varies depending on the year. The example reel here has the earlier ba
 
 ![Penn 720--Badge](../../img/penn/720/penn-720-badge.jpg)
 
-The 720 was a very simple design with a few interesting exterior features.
+The 720 is a very simple design with a few interesting exterior features.
 
 ![Penn 720--Anti-Reverse](../../img/penn/720/penn-720-anti-rev.jpg)
 
@@ -71,44 +71,28 @@ If you just acquired the reel, remove the line from the spool. There is no way t
 ## Disassembly
 
 1. Remove the drag cap (part #52) by turning it clockwise (all directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod).
+   ![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1.jpg)
+   ![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap2.jpg)
+   This is a good time to inspect the plastic for cracks. Note that this example reel's drag cap has several minor cracks, which were repaired with epoxy. [link to mod on epoxy repairs]
+   ![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
+   **Variations:** On this example 720 cap the plastic completely surrounds the brass inner cap; on some caps more of the brass inner cap is exposed. This is a part that is subject to wear, so it's helpful for the repair person that it may be available as new/remanufactured [term?].
 
-![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1.jpg)
+2. Remove the spool (part #47) by pulling straight out.
+   ![Penn 720--Spool Removed](../../img/penn/720/penn-720-spool.jpg)
+   This is a good time to inspect the drag and click mechanism on the inside of the spool. If it is possible to obtain one or two extra spools, for example, by purchasing "parts" reels, those will prove useful for keeping several pound-tests of line handy for quick changes in the field.
 
-![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap2.jpg)
+3. Remove the handle (part #15) by turning it clockwise (with the handle side of the reel facing you)--opposite to the direction you turn it to reel in line.
+   ![Penn 720--Removing Handle](../../img/penn/720/penn-720-handle1.jpg)
+   ![Penn 720--Handle Removed](../../img/penn/720/penn-720-handle2.jpg)
 
-This is a good time to inspect the plastic for cracks. Note that this example reel's drag cap has several minor cracks, which were repaired with epoxy. [link to mod on epoxy repairs]
-
-![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
-
-Variations: On this example 720 cap the plastic completely surrounds the brass inner cap; on some caps more of the brass inner cap is exposed. This is a part that is subject to wear, so it's helpful for the repair person that it may be available as new/remanufactured [term?].
-
-3. Remove the spool (part #47) by pulling straight out.
-
-![Penn 720--Spool Removed](../../img/penn/720/penn-720-spool.jpg)
-
-This is a good time to inspect the drag and click mechanism on the inside of the spool. If it is possible to obtain one or two extra spools, for example, by purchasing "parts" reels, those will prove useful for keeping several pound-tests of line handy for quick changes in the field.
-
-4. Remove the handle (part #15) by turning it clockwise (with the handle side of the reel facing you)--opposite to the direction you turn it to reel in line.
-
-![Penn 720--Removing Handle](../../img/penn/720/penn-720-handle1.jpg)
-
-![Penn 720--Handle Removed](../../img/penn/720/penn-720-handle2.jpg)
-
-5. Remove the Housing Plate.
-
-Unscrew the one screw used to secure the housing. A short-handled screwdriver is useful for working on large screws like this one.
-
-![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1.jpg)
-
-![Penn 720--Removing Housing Plate](../../img/penn/720/penn-720-housing-plate2.jpg)
-
-Pry the Housing Plate from the main Housing. On some reels the plate may be stuck in place. Do not attempt to pry these apart with a screwdriver, which is likely to slip and damage the finish. Use your thumbnail or a thin blade and work it carefully under into the gap between the two parts; eventually it should pop off.
-
-![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate3.jpg)
-
-You can now see the Main gear and associated parts. This is a good time to inspect the overall condition of the gears, the accumulation of old lubricants, etc.
-
-Note that this reel has already been disassembled, serviced, and reassembled, so the gears are very clean. The same reel before servicing shows accumulated old grease, which hardens and can impair function. It's also impossible to know what sorts of lubricants (if any) have been applied in past servicings, so it is best to clean all the parts and start fresh with the correct [lubricants](../tools-materials.md).
+4. Remove the Housing Plate.
+   Unscrew the one screw used to secure the housing. A short-handled screwdriver is useful for working on large screws like this one.
+   ![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1.jpg)
+   ![Penn 720--Removing Housing Plate](../../img/penn/720/penn-720-housing-plate2.jpg)
+   Pry the Housing Plate from the main Housing. On some reels the plate may be stuck in place. Do not attempt to pry these apart with a screwdriver, which is likely to slip and damage the finish. Use your thumbnail or a thin blade and work it carefully under into the gap between the two parts; eventually it should pop off.
+   ![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate3.jpg)
+   You can now see the Main gear and associated parts. This is a good time to inspect the overall condition of the gears, the accumulation of old lubricants, etc.
+   This example reel has already been disassembled, serviced, and reassembled, so the gears are very clean. The same reel before servicing shows accumulated old grease, which hardens and can impair function. It is not possible to know what sorts of lubricants have been applied over a particular reel's lifetime, so it is best to clean all the parts and start fresh with the correct [lubricants](../tools-materials.md).
 
 ![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate-removed.jpg)
 ![Penn 720--Main Shaft Removed](../../img/penn/720/penn-720-spool-shaft-removed.jpg)

@@ -4,21 +4,19 @@
 
 The Penn 720 is an ultralight open-faced spinning reel, part of Penn's 700 Spinfisher series, which ranged from the smallest--the 720, mostly intended for freshwater fishing--to the largest, the mighty 704, designed for heavy saltwater duty. Accordingly, the line capacities for the spools, materials, and overall heft of the reels in the 700 series varied.
 
-These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
-
-Note that the Penn 722 is basically the same reel with a few minor upgrades, the most important mechanical difference being that the 722 uses a ball bearing on the main shaft --the 720 uses a brass bushing. The practical implication is that the 722 has a bit smoother cranking action.
-
-In terms of appearance, the 722 is finished in light green (known to enthusiasts as a "greenie")-- the 720 is finished in a light metallic blue.  Otherwise the reels are mechanically almost identical, and the practical implication of this is that most parts are interchangeable. If you need a replacement part for a 720, then you could locate and use either a 720 or a 722 for most internal parts. You could even mix and match exterior parts like the housing, housing plate, and rotor cup. 
-
 ![Penn 720--Front Left](../../img/penn/720/penn-720-front-left.jpg)
+
+These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
 
 ![Penn 720--Front Right](../../img/penn/720/penn-720-front-right.jpg)
 
-Note the small strips of painter's tape holding the line in place on the spool--this maintains tension on the spooled line when the reel is not in use. Painter's tape has many qualities that are useful for work on vintage reels--it sticks well to metal and plastic surfaces and yet is easily removed, and it does not leave sticky residue. It is also available in many widths for different applications.
+The Penn *722* is basically the same reel with a few minor upgrades, the most important mechanical difference being that the 722 uses a ball bearing on the main shaft --the 720 uses a brass bushing. The practical implication is that the 722 has a bit smoother cranking action. In terms of appearance, the 722 is finished in light green (known to enthusiasts as a "greenie")-- the 720 is finished in a light metallic blue.  Otherwise the reels are mechanically almost identical, and the practical implication of this is that most parts are interchangeable. If you need a replacement part for a 720, then you could locate and use either a 720 or a 722 for most internal parts. You could even mix and match exterior parts like the housing, housing plate, and rotor cup. 
 
-![Penn 720--Badge](../../img/penn/720/penn-720-badge.jpg)
+The small strips of painter's tape holding the line in place on the spool maintain tension on the spooled line when the reel is not in use. Painter's tape has many qualities that are useful for work on vintage reels--it sticks well to metal and plastic surfaces and yet is easily removed, and it does not leave sticky residue. It is also available in many widths for different applications.
 
 The badge varies depending on the year. The example reel here has the earlier badge design. This also shows the remarkable condition of the original light blue metallic finish, which (in 2026) is around 75 years old! [show example of later design, etc.]
+
+![Penn 720--Badge](../../img/penn/720/penn-720-badge.jpg)
 
 The 720 was a very simple design with a few interesting exterior features.
 
@@ -26,11 +24,11 @@ The 720 was a very simple design with a few interesting exterior features.
 
 The Eccentric Lever (part #6E) has two positions; in one the anti-reverse and clicker are engaged, in the other the retrieve is silent.
 
-Note that part numbers in the steps refer to the schematics in the Penn Reels Instruction Manual. These exploded diagrams and parts lists provide useful references when disassembling and reassembling the reel. This technical document and many others are available from the Old Reel Collectors Association library of downloadable reel schematics at https://www.orcaonline.org
+Part numbers in the steps refer to the schematics in the Penn Reels Instruction Manual. These exploded diagrams and parts lists provide useful references when disassembling and reassembling the reel. This technical document and many others are available from the Old Reel Collectors Association library of downloadable reel schematics at the [ORCA website](https://www.orcaonline.org)
 
 ![Penn 720--Anti-Reverse and Handle in Storage Position](../../img/penn/720/penn-720-anti-rev-handle.jpg)
 
-The handle can be rotated for storage by loosening the nut at the base then re-tightening.
+The handle can be rotated for storage by loosening the nut at the base.
 
 ### Specs
 
@@ -72,7 +70,7 @@ The basic set of simple tools and materials is the same for all reels; see [Tool
 1. Remove the line from the spool.
 Since this procedure will be more or less the same for every reel see [Removing Line from and Adding Line to a Spool](../removing-adding-line.md) before proceeding.
 
-2. Remove the drag cap (part #52) by turning it counter-clockwise (all directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod).
+2. Remove the drag cap (part #52) by turning it clockwise (all directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod).
 
 ![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1.jpg)
 

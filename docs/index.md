@@ -12,7 +12,7 @@ Each of the major American reel manufacturers from this era produced a range of 
 
 If your main interest is in servicing a specific reel you can easily just bypass all the overview information and go directly to the service guides.
 
-**Spinning Reels:** [Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and manufacturers](spinning-reels.md)
+[**Spinning Reels:**](spinning-reels.md) Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and manufacturers
 
 **Spincasting Reels:** [Info on spincasting reels and manufacturers](spincasting-reels.md)
 
@@ -32,9 +32,9 @@ If your main interest is in servicing a specific reel you can easily just bypass
 
 ## The Service Guides
 
-Each service guide provides step-by-step illustrated procedures for disassembling, servicing (cleaning and lubricating), and re-assembling the reel. The guides also provide information on common repairs [will this be documented within the service guide or linked to a separate procedure?]
+Each service guide provides step-by-step illustrated procedures for disassembling, servicing (cleaning and lubricating), and re-assembling the reel. The guides also provide information on common repairs.
 
-[The Penn 720 Spinfisher Service Guide](penn/penn-720-service-guide.md).
+[The Penn 720 Spinfisher Service Guide](penn/penn-720-service-guide.md): The Penn 720 is an ultralight open-faced spinning reel, part of Penn's 700 Spinfisher series.
 
 [The Pfleuger Pelican Service Guide](pflueger/pflueger-pelican-service-guide.md)
 

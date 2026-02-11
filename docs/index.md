@@ -6,27 +6,29 @@ This is a growing and evolving repository for service and repair guides and hist
 
 This repository honors American craftsmanship of the early 20th century and provides resources for those interested in restoring and keeping concrete examples of that craftsmanship in working order, with the intent to use them in the field rather than simply collect, curate, and display them, although these activities are also valued.
 
-Each of the major American reel manufacturers from this era produced a range of different types of reels. The overview information is organized by reel type, then by manufacturer. For example, on the [spinning reel pages](spinning-reels.md) you will find general background information on spinning reels and more specific information on manufacturers like Penn and Pfleuger, among others. The service guides that follow provide detailed illustrated procedures for servicing specific reels.
+## Background on Reel Types
+
+Each of the major American reel manufacturers from this era produced a range of different types of reels. The background information is organized by reel type, then by manufacturer. For example, on the [spinning reels page](spinning-reels.md) you will find general background information on spinning reels and more specific information on manufacturers like Penn and Pfleuger, among others. The service guides that follow provide detailed illustrated procedures for servicing specific reels.
 
 If your main interest is in servicing a specific reel you can easily just bypass all the overview information and go directly to the service guides.
 
-**Spinning Reels:**[Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and manufacturers](spinning-reels.md)
+**Spinning Reels:** [Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and manufacturers](spinning-reels.md)
 
-**Spincasting Reels:**[Info on spincasting reels and manufacturers](spincasting-reels.md)
+**Spincasting Reels:** [Info on spincasting reels and manufacturers](spincasting-reels.md)
 
-**Baitcasting Reels:**[Info on baitcasting reels and manufacturers](baitcasting-reels.md)
+**Baitcasting Reels:** [Info on baitcasting reels and manufacturers](baitcasting-reels.md)
 
-**Fly Reels:**[Info on fly reel types--automatic, manual, and manufacturers](fly-reels.md)
+**Fly Reels:** [Info on fly reel types--automatic, manual, and manufacturers](fly-reels.md)
 
 ## General Information about Servicing
 
-Initial Evaluation
+[Workplace Setup and Safety](workplace-setup.md)
 
-Removing Line from and Adding Line to a Spool
+[Tools and Materials](tools-materials.md)
 
-Tools and Materials
+[Initial Evaluation](initial-evaluation.md)
 
-Workplace Setup and Safety
+[Removing Line from and Adding Line to a Spool](removing-adding-line.md)
 
 ## The Service Guides
 

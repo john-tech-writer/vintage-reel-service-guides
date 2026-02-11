@@ -1,48 +1,22 @@
 # Vintage Reel Service Guides
 
-This site documents service procedures for mid‑priced American‑made fishing reels from the 1930s–1970s.
+This site's main purpose is to provide detailed, illustrated service procedures for mid‑priced American‑made fishing reels from the 1930s–1970s. It also provides repair procedures and background information on the various reels.
 
-This site is intended to provide a growing and evolving repository for service and repair guides plus historical background for mid-priced American-made reels for all types of fishing--spinning, spincasting, baitcasting, fly-fishing--from the 1930s through the 1970s; placing these reels in context of creating practical, usable, affordable balanced tackle for all types of fishing in combination with modern tackle.
+This is a growing and evolving repository for service and repair guides and historical background for spinning, spincasting ("push-button"), baitcasting, and fly-fishing reels. Line capacities and other specifications are provided to place these reels in the context of creating practical, affordable, balanced tackle for all types of fishing, in combination with modern tackle.
 
-Part of the purpose of this repository is to celebrate American craftsmanship of the early 20th century, and to provide resources for those interested in keeping concrete examples of that craftsmanship in working order, with the intent to use them in the field rather than simply collect, curate, and display them, although these activities are also valued.
+This repository honors American craftsmanship of the early 20th century and provides resources for those interested in restoring and keeping concrete examples of that craftsmanship in working order, with the intent to use them in the field rather than simply collect, curate, and display them, although these activities are also valued.
 
-Another aspect of this service/repair/usage approach is to suggest, explore, and discover how vintage reels can be integrated into modern tackle; for example, line will typically be new, and this repository will include information on appropriate pound-tests, line types, and spool capacities for each reel; this will facilitate making informed decisions about creating balanced tackle using a combination of the best of vintage and modern tackle.
-
-Each of the major American reel manufacturers from this era produced a range of different types of reels. This site provides some overview information up front, organized by reel type first, then by manufacturer. For example, in the spinning reel section you will find general background information on spinning reels and links to the Penn Spinfisher series and the Pfleuger Pelican, among others. The service guides follow, which provide detailed illustrated procedures for servicing each reel model.
+Each of the major American reel manufacturers from this era produced a range of different types of reels. The overview information is organized by reel type, then by manufacturer. For example, on the [spinning reel pages](spinning-reels.md) you will find general background information on spinning reels and more specific information on manufacturers like Penn and Pfleuger, among others. The service guides that follow provide detailed illustrated procedures for servicing specific reels.
 
 If your main interest is in servicing a specific reel you can easily just bypass all the overview information and go directly to the service guides.
 
-## Spinning Reels
+**Spinning Reels:**[Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and manufacturers](spinning-reels.md)
 
-[Text about spinning reels, an overview, some content, arrangement, and topics will be taken at least in rough form from the Perplexity space on reel service guides.]
+**Spincasting Reels:**[Info on spincasting reels and manufacturers](spincasting-reels.md)
 
-[Major American manufacturers of the period will be listed and briefly reviewed in historical/functional context, including Pflueger, Penn, etc.]
+**Baitcasting Reels:**[Info on baitcasting reels and manufacturers](baitcasting-reels.md)
 
-**Penn:** Brief overview of Penn's spinning reels and references to their other types of reels. [The Penn Spinfisher Series](/docs/penn-spinfisher-series.md) includes eight different models from ultralight to heavy duty.
-
-**Pfleuger:** The Pelican.
-
-**Ted Williams/Sears:** The 440. Like Craftsman tools of that era, very durable.
-
-## Spincasting Reels
-
-About spincasting reels--much background can come from Shakespeare.
-
-**Zebco:** The 33.
-
-## Baitcasting Reels
-
-About baitcasting reels.
-
-**Pfleuger:** The Nobby.
-
-**South Bend:** The 550.
-
-**Abu Garcia:** The 2000--6000 series. Not strictly an American company, but important enough to mention in the world of baitcasting.
-
-## Fly Reels
-
-**Shakespeare:** The Silent Tru-arT automatic fly reel.
+**Fly Reels:**[Info on fly reel types--automatic, manual, and manufacturers](fly-reels.md)
 
 ## General Information about Servicing
 

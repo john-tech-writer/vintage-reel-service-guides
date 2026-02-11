@@ -32,6 +32,8 @@ The handle can be rotated for storage by loosening the nut at the base.
 
 ### Specs
 
+![test table](../../img/penn/720/test-table.jpg)
+
 Weight (reel only, no line on spool): 9 1/2 oz.
 
 Gear ratio: 4:1

@@ -36,12 +36,12 @@ Each service guide provides step-by-step illustrated procedures for disassemblin
 
 [The Penn 720 Spinfisher Service Guide](penn/penn-720-service-guide.md).
 
-[The Pfleuger Pelican Service Guide]
+[The Pfleuger Pelican Service Guide](pflueger/pflueger-pelican-service-guide.md)
 
-[The Ted Williams/Sears 440 Service Guide]
+[The Pflueger Nobby Service Guide](pflueger/pflueger-nobby-service-guide.md)
 
-[The Pflueger Nobby Service Guide]
+[The Ted Williams/Sears 440 Service Guide](sears/sears-440-service-guide.md)
 
-[The South Bend 550 Service Guide]
+[The South Bend 550 Service Guide](south-bend/south-bend-550-service-guide.md)
 
-[The Shakespeare Silent Tru-arT Service Guide]
+[The Shakespeare Silent Tru-arT Service Guide](shakespeare/shakespeare-silent-tru-art-service-guide.md)

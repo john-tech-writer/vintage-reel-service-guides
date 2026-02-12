@@ -3,21 +3,23 @@ site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 
 nav:
   - Home: index.md
-  - Spinning Reels: spinning-reels.md
-  - Spincasting Reels: spincasting-reels.md
-  - Baitcasting Reels: baitcasting-reels.md
-  - Fly Reels: fly-reels.md
+  - Background on Reel Types:
+    - Spinning Reels: spinning-reels.md
+    - Spincasting Reels: spincasting-reels.md
+    - Baitcasting Reels: baitcasting-reels.md
+    - Fly Reels: fly-reels.md
   - General Information on Servicing:
-    - Workspace Setup and Safety: workspace-safety.md
-    - Tools and Materials: tool-materials.md
+    - Workspace Setup and Safety: workspace-setup.md
+    - Tools and Materials: tools-materials.md
     - Initial Evaluation: initial-evaluation.md
     - Removing Line from and Adding Line to a Spool: removing-adding-line.md
-  - Penn 720 Service Guide: penn/penn-720-service-guide.md
-  - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md
-  - Pflueger Pelican Service Guide: pflueger/pflueger-pelican-service-guide.md
-  - Sears 440 Service Guide: sears/sears-440-service-guide.md
-  - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
-  - South Bend 550 Service Guide: south-bend/south-bend-550-service-guide.md
+  - The Service Guides:
+    - Penn 720 Service Guide: penn/penn-720-service-guide.md
+    - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md
+    - Pflueger Pelican Service Guide: pflueger/pflueger-pelican-service-guide.md
+    - Sears 440 Service Guide: sears/sears-440-service-guide.md
+    - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
+    - South Bend 550 Service Guide: south-bend/south-bend-550-service-guide.md
 theme:
   name: readthedocs
 

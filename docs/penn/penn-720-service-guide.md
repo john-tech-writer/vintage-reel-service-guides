@@ -72,6 +72,16 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 
 ## Disassembly and Servicing
 
+Since not all parts of a reel may need the same level of attention, the disassembly and servicing for the 720 is divided into the following sections:
+
+**Housing and Gears:** On most reels this is a good place to start.
+
+**Rotor Cup and Bail:** Since spinning reel bails are spring-loaded, they can be a bit more difficult to reassemble than the housing and gears. If the bail seems to work properly--it flips into the casting position easily, then springs back readily when retrieve is started--it may be best to simply use some reel oil to lubricate both points where the bail pivots on the rotor cup and the line roller and stop there.
+
+**Drag:** The drag mechanism on the 720 consists of a stack of washers in the spool, held in place by a retaining ring; like the bail, this may be a bit more challenging to remove and re-assemble, so it may be best to simply leave the drag alone if it appears to be working correctly.
+
+A good plan for the beginning vintage reel enthusiast could be to service the housing and gears, use the reel for a bit, then perform a second round of servicing for the bail and drag assemblies.
+
 ### Housing and Gears
 
 1. Remove the drag cap by turning it clockwise.
@@ -102,17 +112,18 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 4. Remove the single screw that secures the housing plate.
 
     ![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1.jpg)
-    ![Penn 720--Removing Housing Plate](../../img/penn/720/penn-720-housing-plate2.jpg)
 
      A short-handled screwdriver is useful for working on large screws like this one.
 
 5. Pry the housing plate from the main housing.
 
-    ![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate3.jpg)
+    ![Penn 720--Removing Housing Plate](../../img/penn/720/penn-720-housing-plate2.jpg)
 
     On some reels the plate may be stuck in place. Do not attempt to pry these apart with a screwdriver, which is likely to slip and damage the finish. Use your thumbnail or a thin blade and work it carefully under into the gap between the two parts; eventually it should pop off.
 
-    You can now see the Main gear and associated parts. This is a good time to inspect the overall condition of the gears, the accumulation of old lubricants, etc.
+    ![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate3.jpg)
+
+    You can now see the main gear and associated parts. This is a good time to inspect the overall condition of the gears, the accumulation of old lubricants, etc.
 
     This example reel has already been disassembled, serviced, and reassembled, so the gears are very clean. The same reel before servicing shows accumulated old grease, which hardens and can impair function. It is not possible to know what sorts of lubricants have been applied over a particular reel's lifetime, so it is best to clean all the parts and start fresh with the correct [lubricants](../tools-materials.md).
 

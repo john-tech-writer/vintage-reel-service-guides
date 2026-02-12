@@ -12,21 +12,21 @@ If your main interest is in servicing a specific reel you can easily just bypass
 
 [**Spinning Reels:**](spinning-reels.md) Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and manufacturers
 
-[**Spincasting Reels:**](spincasting-reels.md) [Info on spincasting reels and manufacturers]
+[**Spincasting Reels:**](spincasting-reels.md) Info on spincasting reels and manufacturers.
 
-[**Baitcasting Reels:**](baitcasting-reels.md) [Info on baitcasting reels and manufacturers]
+[**Baitcasting Reels:**](baitcasting-reels.md) Info on baitcasting reels and manufacturers.
 
-[**Fly Reels:**](fly-reels.md) [Info on fly reel types--automatic, manual, and manufacturers]
+[**Fly Reels:**](fly-reels.md) Info on fly reel types--automatic, manual, and manufacturers.
 
 ## General Information about Servicing
 
-[Workplace Setup and Safety](workplace-setup.md)
+[**Workplace Setup and Safety:**](workplace-setup.md)
 
-[Tools and Materials](tools-materials.md)
+[**Tools and Materials:**](tools-materials.md)
 
-[Initial Evaluation](initial-evaluation.md)
+[**Initial Evaluation:**](initial-evaluation.md)
 
-[Removing Line from and Adding Line to a Spool](removing-adding-line.md)
+[**Removing Line from and Adding Line to a Spool:**](removing-adding-line.md)
 
 ## The Service Guides
 

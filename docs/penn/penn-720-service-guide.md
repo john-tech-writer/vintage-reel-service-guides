@@ -35,8 +35,9 @@ The handle can be rotated for storage by loosening the nut at the base.
 Line capacity
 
 lb. test | yds.
-4 | 300
-6 | 200
+---------|-----
+       4 | 300
+       6 | 200
 
 Weight (reel only, no line on spool): 9 1/2 oz.
 
@@ -93,7 +94,7 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 
 4. Remove the Housing Plate.
 
-   Unscrew the one screw used to secure the housing. A short-handled screwdriver is useful for working on large screws like this one.
+    Unscrew the one screw used to secure the housing. A short-handled screwdriver is useful for working on large screws like this one.
 
     ![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1.jpg)
     ![Penn 720--Removing Housing Plate](../../img/penn/720/penn-720-housing-plate2.jpg)

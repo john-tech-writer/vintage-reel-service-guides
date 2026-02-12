@@ -10,19 +10,17 @@ These reels are very simple, strong, dependable designs, and many are still in u
 
 ![Penn 720--Front Right](../../img/penn/720/penn-720-front-right.jpg)
 
-The Penn 722 is basically the same reel with a few minor upgrades, the most important mechanical difference being that the 722 uses a ball bearing on the main shaft --the 720 uses a brass bushing. The practical implication is that the 722 has a bit smoother cranking action. In terms of appearance, the 722 is finished in light green (known to enthusiasts as a "greenie")-- the 720 is finished in a light metallic blue.  Otherwise the reels are mechanically almost identical, and the practical implication of this is that most parts are interchangeable. If you need a replacement part for a 720, then you could locate and use either a 720 or a 722 for most internal parts. You could even mix and match exterior parts like the housing, housing plate, and rotor cup. 
+The Penn 722 (not pictured) is basically the same reel with a few minor upgrades, the most important mechanical difference being that the 722 uses a ball bearing on the main shaft --the 720 uses a brass bushing. The practical implication is that the 722 has a bit smoother cranking action. In terms of appearance, the 722 is finished in light green (known to enthusiasts as a "greenie")-- the 720 is finished in a light metallic blue.  Otherwise the reels are mechanically almost identical, and the practical implication of this is that most parts are interchangeable. If you need a replacement part for a 720, then you could locate and use either a 720 or a 722 for most internal parts. You could even mix and match exterior parts like the housing, housing plate, and rotor cup. 
 
 The small strips of painter's tape holding the line in place on the spool maintain tension on the spooled line when the reel is not in use. Painter's tape has many qualities that are useful for work on vintage reels--it sticks well to metal and plastic surfaces and yet is easily removed, and it does not leave sticky residue. It is also available in many widths for different applications.
 
-The badge varies depending on the year. The example reel here has the earlier badge design. This also shows the remarkable condition of the original light blue metallic finish, which (in 2026) is around 75 years old! [show example of later design, etc.]
+The badge varies depending on the year. The example reel here has the earlier badge design. This also shows the remarkable condition of the original light blue metallic finish, which (in 2026) is around 75 years old!
 
 ![Penn 720--Badge](../../img/penn/720/penn-720-badge.jpg)
 
 The 720 is a very simple design with a few interesting exterior features.
 
-The Eccentric Lever (part #6E) has two positions; in one the anti-reverse and clicker are engaged, in the other the retrieve is silent.
-
-Part numbers in the steps refer to the schematics in the Penn Reels Instruction Manual. These exploded diagrams and parts lists provide useful references when disassembling and reassembling the reel. This technical document and many others are available from the Old Reel Collectors Association library of downloadable reel schematics at the [ORCA website](https://www.orcaonline.org)
+The Eccentric Lever has two positions; in one the anti-reverse and clicker are engaged, in the other the retrieve is silent.
 
 ![Penn 720--Anti-Reverse](../../img/penn/720/penn-720-anti-rev.jpg)
 
@@ -30,7 +28,7 @@ The handle can be rotated for storage by loosening the nut at the base.
 
 ![Penn 720--Anti-Reverse and Handle in Storage Position](../../img/penn/720/penn-720-anti-rev-handle.jpg)
 
-### Specs and Balancing Tackle
+[Schematics](../schematics.md) are available in the Penn Reels Instruction Manual.
 
 **Line Capacity**
 
@@ -43,10 +41,15 @@ lb. test | yds.
       12 | 100
 
 **Weight:** 9 1/2 oz.
+
 **Gear ratio:** 4:1
+
 **Rod length/action:** 5 1/2'--7' light action
+
 **Lure weights:** 1/8--1/2 oz.
+
 **Dimensions:**
+
 **Materials:**(with variations like different arbor materials--cork, etc., gears brass or steel, or nylon)
 
 This video [YT vid, to be recorded] provides a very general overview of the Penn 720 and this procedure. Use the following sections for detailed instructions.

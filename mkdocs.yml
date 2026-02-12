@@ -7,8 +7,17 @@ nav:
   - Spincasting Reels: docs/spincasting-reels.md
   - Baitcasting Reels: docs/baitcasting-reels.md
   - Fly Reels: docs/fly-reels.md
+  - General Information on Servicing:
+    - Workspace Setup and Safety
+    - Tools and Materials
+    - Initial Evaluation
+    - Removing Line from and Adding Line to a Spool
   - Penn 720 Service Guide: penn/penn-720-service-guide.md
- 
+  - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md
+  - Pflueger Pelican Service Guide: pflueger/pflueger-pelican-service-guide.md
+  - Sears 440 Service Guide: sears/sears-440-service-guide.md
+  - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
+  - South Bend 550 Service Guide: south-bend/south-bend-550-service-guide.md
 theme:
   name: readthedocs
 

@@ -63,7 +63,9 @@ Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vint
 
 If you just acquired the reel, [remove the line from the spool](../removing-adding-line.md). There is no way to determine the age or condition of the line on a newly acquired vintage reel, so it makes sense to start with new line as the final part of servicing a reel. This also allows you to inspect the arbor to determine what type of material it is made of (this will help date the reel) and clean it along with the rest of the parts.
 
-## Disassembly
+## Disassembly and Servicing
+
+### Housing and Gears
 
 1. Remove the drag cap (part #52) by turning it clockwise. All directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod.
 
@@ -119,3 +121,9 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 8. Remove the Main Gear.
 
     ![Penn 720--Main Gear Removed](../../img/penn/720/penn-720-main-gear-removed.jpg)
+
+### Rotor Cup and Bail
+
+### Drag
+
+## Re-Assembly

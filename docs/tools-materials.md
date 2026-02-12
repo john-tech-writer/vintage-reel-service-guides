@@ -4,6 +4,8 @@
 
 Drivers, wrenches, picks
 
+[iFixit](https://www.ifixit.com/Tools/Toolkits) is a good source for tools.
+
 ## Cleaning Tools and Materials
 
 Containers, brushes, old toothbrushes, picks, rags, mineral spirits, detergents, paper towels

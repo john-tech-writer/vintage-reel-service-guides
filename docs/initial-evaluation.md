@@ -1,9 +1,18 @@
 # Initial Evaluation
 
-## Photos and Notes
+**Photos and Notes:** Take photos of each newly acquired reel before beginning work and during all phases of disassembly. Keep a notebook and pencil/pen in the workspace and take some basic notes at the outset of each service project--date the reel was acquired, from where or who, cost, any notes on known issues, initial impression of condition.
 
-## Initial Testing
+It can be useful to have both a basic 8.5" x 11" looseleaf notebook and a moleskine-style notebook for different types of notes. For example, the smaller notebook can be easier to jot brief notes and the looseleaf notebook can hold not only longer notes, but printed 3-hole-punched pages, schematics, receipts for reels and tools, etc.
 
-## Mounting on a Rod and Test-Casting
+**Initial Testing:** Try the reel without mounting it on a rod, with the line it came with if that is basically serviceable (if, for example, it is an old fly reel with crumbling line, removing the line will come first). Try whatever controls the reel has--the drag, the anti-reverse, clicker, the bail on open-face spinning reels, the button on spincasting reels, the anti-backlash on baitcasting reels. Notice how smoothly (or not) the retrieve feels.
 
-### Making a Set of Test-Casting Weights
+Add any notes to your notebook.
+
+**Mounting on a Rod and Test-Casting:** Next try mounting the reel on the proper type of rod (see references to balanced tackle in these guides), attach a test-casting weight of the proper weight (see following section on making a set), and try a few test casts/retrieves. You will definitely need at least one general-purpose rod for each type of reel you want to work with since spinning, spincasting/baitcasting, and fly reels are all very different. Working with vintage reels may lead to working with vintage rods as well, but to keep things simple, if you are just starting out it will certainly be easier and more cost-effective to buy a few inexpensive modern rods, then start exploring the options for vintage rods. Shakespeare still (in 2026) makes good-quality, relatively inexpensive spinning and casting rods. Fly rods, as with most things fly fishing, tend to be more expensive and the buying decision more complicated.
+
+
+**Making a Set of Test-Casting Weights:** If you are working with vintage reels with the intention to use them in the field, it is necessary to test them with a range of casting weights. For example, the Penn 720 Spinfisher can cast lures in the 1/8 to 1/2 oz. range, so it will be useful to test it with 1/8, 1/4, 3/8, and 1/2 oz. weights. This kind of testing can be done in your yard or anyplace with at least 50 to 75 feet of clear space for casting. If this is convenient to your workspace, so much the better. There is no need to go to the water or fish in order to test reels, and in fact casting should be practiced at home to improve your fishing experience when you do go into the field.
+
+Casting plugs are available, but generally only in one weight, so they lack versatility and precision in testing. For example, if you are planning to do mostly freshwater fishing for smaller bass and sunfish you could assemble a balanced tackle setup with a Penn 720, an ultralight 6'6" spinning rod, and 4 or 6 lb. test line; with this setup you would get the best results with lures in the 1/8 to 3/8 oz. range, so that is the range you would want to use for testing. A set can be made very easily and inexpensively using a range of egg sinkers and some monofilament.
+
+The test-casting weights will take a lot of abuse, so you need to use the correct knots on making these so they will stay attached to your line.

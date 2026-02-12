@@ -1,9 +1,13 @@
 # Removing Line from and Adding Line to a Spool
 
-## Removing Line
+**Removing Line:** When a vintage reel is newly acquired the old line should be removed. Sometimes it is very obvious, in the case of older fly lines, for example, which tend to crumble. But even with monofilament which appears to be in relatively good condition, there is no way to know the age of the line, what it has been exposed to (saltwater, oils, etc.), whether or not there are any splices in the line and whether or not the person doing the splicling knew how to tie a good blood knot--there are so many reasons to start fresh. Putting new line on also allows you to check the condition of the spool and clean it along with the rest of the parts. And, you can use the lb. test, brand, and color line you want.
 
-To save or not to save, storage, jig, uses for old line
+A simple jig can be built from scraps in the workshop, or even if a few items must be purchased, for less than $5.00. The same jig can be used both for removing old line and for installing new line. Old line may be saved for knot-tying practice--another important and sometimes under-rated skill. It is essential to master at least the blood knot (for joining sections of line) and the clinch (or improved clinch) knot for tying on snap swivels, hooks, and lures.
 
-## Adding Line
+Old line can be stored on empty spools that line is sold on.
 
-Choosing the right line, how to avoid line twist, jig
+It may also be necessary to remove relatively fresh line from a spool, for example, if you have only one spool for a reel and you want to change lb. test from 8 to 12. In this case you will want to be able to remove the line without adding twist, and store it/label so that you can keep track of it.
+
+**Adding Line:** In choosing the right line for balancing a tackle setup, it will be very helpful if you can obtain the manual that comes with the reel. It is always desirable to find a vintage reel with the original manual, but since this is not always possible, websites that archive vintage reel manuals--like ORCA--are very valuable. You may also be able to do a web search and locate the information without getting the manual. You can also make intelligent guesses--for example, if you are assembling a balanced tackle setup for large bass or snook, you would be using line in the 6 to 10 lb. test range.
+
+In any case, the most important thing to understand about installing new line on a reel is how to avoid line twist, and with a simple jig this is very easy to do without a partner. Without the jig, a partner is most helpful, and since many hobbyists like to be independent, it is very useful to build a simple jig.

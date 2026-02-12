@@ -1,11 +1,11 @@
-# Preparation: Basic Workspace Setup and Safety
+# Workspace Setup and Safety
 
-## Protective Gear
+**Protective Gear:**
 
-## Work Surface and Seating
+**Work Surface and Seating:**
 
-## Lighting
+**Lighting:**
 
-## Ventilation
+**Ventilation:**
 
-## Consideration for the Rest of the Household
+**Consideration for the Rest of the Household:**

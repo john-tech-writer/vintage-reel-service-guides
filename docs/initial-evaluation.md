@@ -2,7 +2,7 @@
 
 **Photos and Notes:** Take photos of each newly acquired reel before beginning work and during all phases of disassembly. Keep a notebook and pencil/pen in the workspace and take some basic notes at the outset of each service project--date the reel was acquired, from where or who, cost, any notes on known issues, initial impression of condition.
 
-It can be useful to have both a basic 8.5" x 11" looseleaf notebook and a moleskine-style notebook for different types of notes. For example, the smaller notebook can be easier to jot brief notes and the looseleaf notebook can hold not only longer notes, but printed 3-hole-punched pages, schematics, receipts for reels and tools, etc.
+It can be useful to have both a basic 8.5" x 11" looseleaf notebook and a [moleskine-style journal](https://www.moleskine.com/en-us/shop/notebooks/journals/cahier-journals/cahier-journals-kraft-brown-9788883705069.html) for different types of notes. For example, the smaller notebook can be easier to jot brief notes and the looseleaf notebook can hold not only longer notes, but printed 3-hole-punched pages, schematics, receipts for reels and tools, etc.
 
 **Initial Testing:** Try the reel without mounting it on a rod, with the line it came with if that is basically serviceable (if, for example, it is an old fly reel with crumbling line, removing the line will come first). Try whatever controls the reel has--the drag, the anti-reverse, clicker, the bail on open-face spinning reels, the button on spincasting reels, the anti-backlash on baitcasting reels. Notice how smoothly (or not) the retrieve feels.
 

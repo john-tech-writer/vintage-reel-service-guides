@@ -20,7 +20,7 @@ If your main interest is in servicing a specific reel you can easily just bypass
 
 ## General Information about Servicing
 
-[**Workplace Setup and Safety:**](workplace-setup.md)
+[**Workspace Setup and Safety:**](workspace-setup.md)
 
 [**Tools and Materials:**](tools-materials.md)
 

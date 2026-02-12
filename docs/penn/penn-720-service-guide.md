@@ -30,37 +30,32 @@ The handle can be rotated for storage by loosening the nut at the base.
 
 ![Penn 720--Anti-Reverse and Handle in Storage Position](../../img/penn/720/penn-720-anti-rev-handle.jpg)
 
-### Specs
+### Specs and Balancing Tackle
 
-Line capacity
+**Line Capacity**
 
 lb. test | yds.
 ---------|-----
        4 | 300
        6 | 200
+       8 | 150
+      10 | 125
+      12 | 100
 
-Weight (reel only, no line on spool): 9 1/2 oz.
-
-Gear ratio: 4:1
-
-Line capacity (lb. test/yds.): 4/300, 6/200, 8/150, 10/125, 12/100
-
-Rod length/action: 5 1/2'--7' light action
-
-Lure weights: 1/8--1/2 oz.
-
-Dimensions:
-
-Materials:(with variations like different arbor materials--cork, etc., gears brass or steel, or nylon)
-Line selection varies with different field conditions. For freshwater use 4 to 6 lb. test mono may be optimal; in salt water 8 lb. may be better, to handle casting heavier lures.
+**Weight:** 9 1/2 oz.
+**Gear ratio:** 4:1
+**Rod length/action:** 5 1/2'--7' light action
+**Lure weights:** 1/8--1/2 oz.
+**Dimensions:**
+**Materials:**(with variations like different arbor materials--cork, etc., gears brass or steel, or nylon)
 
 This video [YT vid, to be recorded] provides a very general overview of the Penn 720 and this procedure. Use the following sections for detailed instructions.
 
-History, Models, Years, and Variations: Different badges, rough estimate of year, typical manufacturer's marks.
+**History, models, years, and variations:* Different badges, rough estimate of year, typical manufacturer's marks.
 
-Typical Issues: For example, clicker/anti-reverse not working.
+**Typical issues:** For example, clicker/anti-reverse not working.
 
-Difficulty and time for this procedure: The Penn 720 is probably one of the simplest open-face spinning reels to service, so it is a good choice for a first project--but don't let this make it seem insignificant--it does require some dexterity and patience, and acquiring a "feel" for working on vintage reels, and at the same time it helps you build those very skills. If you already have your workspace set up and your tools and materials on hand, the evaluation and servicing might take around 3 hours, assuming you are a beginner and are proceeding at a leisurely pace (a good idea when first starting; don't be in a hurry). More experience will result in a considerably shorter timeframe.
+**Difficulty and time for this procedure:** The Penn 720 is probably one of the simplest open-face spinning reels to service, so it is a good choice for a first project--but don't let this make it seem insignificant--it does require some dexterity and patience, and acquiring a "feel" for working on vintage reels, and at the same time it helps you build those very skills. If you already have your workspace set up and your tools and materials on hand, the evaluation and servicing might take around 3 hours, assuming you are a beginner and are proceeding at a leisurely pace (a good idea when first starting; don't be in a hurry). More experience will result in a considerably shorter timeframe.
 
 ## Before You Begin
 
@@ -107,8 +102,20 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 
     This example reel has already been disassembled, serviced, and reassembled, so the gears are very clean. The same reel before servicing shows accumulated old grease, which hardens and can impair function. It is not possible to know what sorts of lubricants have been applied over a particular reel's lifetime, so it is best to clean all the parts and start fresh with the correct [lubricants](../tools-materials.md).
 
-![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate-removed.jpg)
-![Penn 720--Main Shaft Removed](../../img/penn/720/penn-720-spool-shaft-removed.jpg)
-![Penn 720--Crosswind Block Removed](../../img/penn/720/penn-720-crosswind-block-removed.jpg)
-![Penn 720--Pinion Gear Removed](../../img/penn/720/penn-720-pinion-gear-removed.jpg)
-![Penn 720--Main Gear Removed](../../img/penn/720/penn-720-main-gear-removed.jpg)
+    ![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate-removed.jpg)
+
+5. Remove the Spool Shaft.
+
+    ![Penn 720--Main Shaft Removed](../../img/penn/720/penn-720-spool-shaft-removed.jpg)
+
+6. Remove the Crosswind Block.
+
+    ![Penn 720--Crosswind Block Removed](../../img/penn/720/penn-720-crosswind-block-removed.jpg)
+
+7. Remove the Pinion Gear.
+
+    ![Penn 720--Pinion Gear Removed](../../img/penn/720/penn-720-pinion-gear-removed.jpg)
+
+8. Remove the Main Gear.
+
+    ![Penn 720--Main Gear Removed](../../img/penn/720/penn-720-main-gear-removed.jpg)

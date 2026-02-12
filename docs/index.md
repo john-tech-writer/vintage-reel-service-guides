@@ -1,10 +1,8 @@
 # Vintage Reel Service Guides
 
-This site's main purpose is to provide detailed, illustrated service procedures for mid‑priced American‑made fishing reels from the 1930s–1970s. It also provides repair procedures and background information on the various reels.
+This site's main purpose is to provide detailed, illustrated service procedures for mid‑priced American‑made fishing reels from the 1930s–1970s. It also provides repair procedures and background information on the various reels. This is a growing and evolving repository for service and repair guides and historical background for spinning, spincasting ("push-button"), baitcasting, and fly-fishing reels.
 
-This is a growing and evolving repository for service and repair guides and historical background for spinning, spincasting ("push-button"), baitcasting, and fly-fishing reels. Line capacities and other specifications are provided to place these reels in the context of creating practical, affordable, balanced tackle for all types of fishing, in combination with modern tackle.
-
-This repository honors American craftsmanship of the early 20th century and provides resources for those interested in restoring and keeping concrete examples of that craftsmanship in working order, with the intent to use them in the field rather than simply collect, curate, and display them, although these activities are also valued.
+This repository honors American craftsmanship of the early 20th century and provides resources for those interested in restoring and keeping concrete examples of that craftsmanship in working order, with the intent to use them in the field rather than simply collect, curate, and display them, although these activities are also valued. Line capacities and other specifications are provided to place these reels in the context of creating practical, affordable, balanced tackle for all types of fishing, in combination with modern tackle.
 
 ## Background on Reel Types
 
@@ -14,11 +12,11 @@ If your main interest is in servicing a specific reel you can easily just bypass
 
 [**Spinning Reels:**](spinning-reels.md) Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and manufacturers
 
-**Spincasting Reels:** [Info on spincasting reels and manufacturers](spincasting-reels.md)
+[**Spincasting Reels:**](spincasting-reels.md) [Info on spincasting reels and manufacturers]
 
-**Baitcasting Reels:** [Info on baitcasting reels and manufacturers](baitcasting-reels.md)
+[**Baitcasting Reels:**](baitcasting-reels.md) [Info on baitcasting reels and manufacturers]
 
-**Fly Reels:** [Info on fly reel types--automatic, manual, and manufacturers](fly-reels.md)
+[**Fly Reels:**](fly-reels.md) [Info on fly reel types--automatic, manual, and manufacturers]
 
 ## General Information about Servicing
 

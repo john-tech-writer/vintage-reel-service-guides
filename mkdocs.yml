@@ -3,15 +3,15 @@ site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 
 nav:
   - Home: index.md
-  - Spinning Reels: docs/spinning-reels.md
-  - Spincasting Reels: docs/spincasting-reels.md
-  - Baitcasting Reels: docs/baitcasting-reels.md
-  - Fly Reels: docs/fly-reels.md
+  - Spinning Reels: spinning-reels.md
+  - Spincasting Reels: spincasting-reels.md
+  - Baitcasting Reels: baitcasting-reels.md
+  - Fly Reels: fly-reels.md
   - General Information on Servicing:
-    - Workspace Setup and Safety: docs/workspace-safety.md
-    - Tools and Materials: docs/tool-materials.md
-    - Initial Evaluation: docs/initial-evaluation.md
-    - Removing Line from and Adding Line to a Spool: docs/removing-adding-line.md
+    - Workspace Setup and Safety: workspace-safety.md
+    - Tools and Materials: tool-materials.md
+    - Initial Evaluation: initial-evaluation.md
+    - Removing Line from and Adding Line to a Spool: removing-adding-line.md
   - Penn 720 Service Guide: penn/penn-720-service-guide.md
   - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md
   - Pflueger Pelican Service Guide: pflueger/pflueger-pelican-service-guide.md

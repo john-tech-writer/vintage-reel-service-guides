@@ -1,5 +1,6 @@
 # A Taxonomy of Reels
 
+```mermaid
 flowchart TD
   A[Spinning & Spincast Reels]
   A --> B[Open-face]
@@ -24,3 +25,4 @@ flowchart TD
 
   C2 --> H1[Zebco 33]
   C2 --> H2[South Bend 88]
+```

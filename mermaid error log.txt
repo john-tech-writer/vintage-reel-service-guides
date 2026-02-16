@@ -1,0 +1,233 @@
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\jiwanshakti>E:
+
+E:\>cd \documents\vintage-reel-service-guides
+
+E:\documents\vintage-reel-service-guides>git add .
+
+E:\documents\vintage-reel-service-guides>git commit -m "added taxonomy file and content to spinning reels"
+[main a7f570a] added taxonomy file and content to spinning reels
+ 2 files changed, 47 insertions(+)
+ create mode 100644 docs/reel-taxonomy.md
+
+E:\documents\vintage-reel-service-guides>git push origin main
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 2.39 KiB | 2.39 MiB/s, done.
+Total 5 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/john-tech-writer/vintage-reel-service-guides.git
+   576e676..a7f570a  main -> main
+
+E:\documents\vintage-reel-service-guides>py -m pip install mkdocs-mermaid2-plugin
+Collecting mkdocs-mermaid2-plugin
+  Downloading mkdocs_mermaid2_plugin-1.2.3-py3-none-any.whl.metadata (6.1 kB)
+Collecting beautifulsoup4>=4.6.3 (from mkdocs-mermaid2-plugin)
+  Downloading beautifulsoup4-4.14.3-py3-none-any.whl.metadata (3.8 kB)
+Collecting jsbeautifier (from mkdocs-mermaid2-plugin)
+  Downloading jsbeautifier-1.15.4-py3-none-any.whl.metadata (374 bytes)
+Requirement already satisfied: mkdocs>=1.0.4 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs-mermaid2-plugin) (1.6.1)
+Collecting pymdown-extensions>=8.0 (from mkdocs-mermaid2-plugin)
+  Downloading pymdown_extensions-10.21-py3-none-any.whl.metadata (3.1 kB)
+Collecting requests (from mkdocs-mermaid2-plugin)
+  Downloading requests-2.32.5-py3-none-any.whl.metadata (4.9 kB)
+Collecting setuptools>=18.5 (from mkdocs-mermaid2-plugin)
+  Downloading setuptools-82.0.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting soupsieve>=1.6.1 (from beautifulsoup4>=4.6.3->mkdocs-mermaid2-plugin)
+  Downloading soupsieve-2.8.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting typing-extensions>=4.0.0 (from beautifulsoup4>=4.6.3->mkdocs-mermaid2-plugin)
+  Downloading typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Requirement already satisfied: click>=7.0 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (8.3.1)
+Requirement already satisfied: colorama>=0.4 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (0.4.6)
+Requirement already satisfied: ghp-import>=1.0 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (2.1.0)
+Requirement already satisfied: jinja2>=2.11.1 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (3.1.6)
+Requirement already satisfied: markdown>=3.3.6 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (3.10)
+Requirement already satisfied: markupsafe>=2.0.1 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (3.0.3)
+Requirement already satisfied: mergedeep>=1.3.4 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (1.3.4)
+Requirement already satisfied: mkdocs-get-deps>=0.2.0 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (0.2.0)
+Requirement already satisfied: packaging>=20.5 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (25.0)
+Requirement already satisfied: pathspec>=0.11.1 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (1.0.3)
+Requirement already satisfied: pyyaml-env-tag>=0.1 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (1.1)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (6.0.3)
+Requirement already satisfied: watchdog>=2.0 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (6.0.0)
+Requirement already satisfied: python-dateutil>=2.8.1 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from ghp-import>=1.0->mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (2.9.0.post0)
+Requirement already satisfied: platformdirs>=2.2.0 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from mkdocs-get-deps>=0.2.0->mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (4.5.1)
+Requirement already satisfied: six>=1.5 in c:\users\jiwanshakti\appdata\local\python\pythoncore-3.14-64\lib\site-packages (from python-dateutil>=2.8.1->ghp-import>=1.0->mkdocs>=1.0.4->mkdocs-mermaid2-plugin) (1.17.0)
+Collecting editorconfig>=0.12.2 (from jsbeautifier->mkdocs-mermaid2-plugin)
+  Downloading editorconfig-0.17.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting charset_normalizer<4,>=2 (from requests->mkdocs-mermaid2-plugin)
+  Downloading charset_normalizer-3.4.4-cp314-cp314-win_amd64.whl.metadata (38 kB)
+Collecting idna<4,>=2.5 (from requests->mkdocs-mermaid2-plugin)
+  Downloading idna-3.11-py3-none-any.whl.metadata (8.4 kB)
+Collecting urllib3<3,>=1.21.1 (from requests->mkdocs-mermaid2-plugin)
+  Downloading urllib3-2.6.3-py3-none-any.whl.metadata (6.9 kB)
+Collecting certifi>=2017.4.17 (from requests->mkdocs-mermaid2-plugin)
+  Downloading certifi-2026.1.4-py3-none-any.whl.metadata (2.5 kB)
+Downloading mkdocs_mermaid2_plugin-1.2.3-py3-none-any.whl (17 kB)
+Downloading beautifulsoup4-4.14.3-py3-none-any.whl (107 kB)
+Downloading pymdown_extensions-10.21-py3-none-any.whl (268 kB)
+Downloading setuptools-82.0.0-py3-none-any.whl (1.0 MB)
+   ---------------------------------------- 1.0/1.0 MB 6.2 MB/s  0:00:00
+Downloading soupsieve-2.8.3-py3-none-any.whl (37 kB)
+Downloading typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+Downloading jsbeautifier-1.15.4-py3-none-any.whl (94 kB)
+Downloading editorconfig-0.17.1-py3-none-any.whl (16 kB)
+Downloading requests-2.32.5-py3-none-any.whl (64 kB)
+Downloading charset_normalizer-3.4.4-cp314-cp314-win_amd64.whl (107 kB)
+Downloading idna-3.11-py3-none-any.whl (71 kB)
+Downloading urllib3-2.6.3-py3-none-any.whl (131 kB)
+Downloading certifi-2026.1.4-py3-none-any.whl (152 kB)
+Installing collected packages: urllib3, typing-extensions, soupsieve, setuptools, pymdown-extensions, idna, editorconfig, charset_normalizer, certifi, requests, jsbeautifier, beautifulsoup4, mkdocs-mermaid2-plugin
+   ------------------ ---------------------  6/13 [editorconfig]  WARNING: The script editorconfig.exe is installed in 'C:\Users\jiwanshakti\AppData\Local\Python\pythoncore-3.14-64\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script normalizer.exe is installed in 'C:\Users\jiwanshakti\AppData\Local\Python\pythoncore-3.14-64\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+   ------------------------------ --------- 10/13 [jsbeautifier]  WARNING: The script js-beautify.exe is installed in 'C:\Users\jiwanshakti\AppData\Local\Python\pythoncore-3.14-64\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed beautifulsoup4-4.14.3 certifi-2026.1.4 charset_normalizer-3.4.4 editorconfig-0.17.1 idna-3.11 jsbeautifier-1.15.4 mkdocs-mermaid2-plugin-1.2.3 pymdown-extensions-10.21 requests-2.32.5 setuptools-82.0.0 soupsieve-2.8.3 typing-extensions-4.15.0 urllib3-2.6.3
+
+[notice] A new release of pip is available: 25.3 -> 26.0.1
+[notice] To update, run: C:\Users\jiwanshakti\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install --upgrade pip
+
+E:\documents\vintage-reel-service-guides>py -m mkdocs serve
+INFO    -  Building documentation...
+INFO    -  Cleaning site directory
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+             - cleaning-lubricating.md
+             - epoxy-repairs.md
+             - reel-taxonomy.md
+             - schematics.md
+             - penn\penn-spinfisher-series.md
+INFO    -  Doc file 'spinning-reels.md' contains an absolute link '/penn/penn-spinfisher-series.md', it was left as is.
+           Did you mean 'penn/penn-spinfisher-series.md'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-front-left.jpg', but
+           the target '../img/penn/720/penn-720-front-left.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-front-left.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-front-right.jpg', but
+           the target '../img/penn/720/penn-720-front-right.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-front-right.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-badge.jpg', but the
+           target '../img/penn/720/penn-720-badge.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-badge.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-anti-rev.jpg', but the
+           target '../img/penn/720/penn-720-anti-rev.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-anti-rev.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-anti-rev-handle.jpg',
+           but the target '../img/penn/720/penn-720-anti-rev-handle.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-anti-rev-handle.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-drag-cap1.jpg', but
+           the target '../img/penn/720/penn-720-drag-cap1.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-drag-cap1.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-drag-cap2.jpg', but
+           the target '../img/penn/720/penn-720-drag-cap2.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-drag-cap2.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link 'docs/epoxy-repairs.md', but the target
+           'penn/docs/epoxy-repairs.md' is not found among documentation files.
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-spool-drag-cap-removed.jpg', but the target
+           '../img/penn/720/penn-720-spool-drag-cap-removed.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-spool-drag-cap-removed.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-spool.jpg', but the
+           target '../img/penn/720/penn-720-spool.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-spool.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-handle1.jpg', but the
+           target '../img/penn/720/penn-720-handle1.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-handle1.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-handle2.jpg', but the
+           target '../img/penn/720/penn-720-handle2.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-handle2.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-housing-plate1.jpg',
+           but the target '../img/penn/720/penn-720-housing-plate1.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-housing-plate1.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-housing-plate2.jpg',
+           but the target '../img/penn/720/penn-720-housing-plate2.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-housing-plate2.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-housing-plate3.jpg',
+           but the target '../img/penn/720/penn-720-housing-plate3.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-housing-plate3.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-housing-plate-removed.jpg', but the target
+           '../img/penn/720/penn-720-housing-plate-removed.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-housing-plate-removed.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-crosswind-connector.jpg', but the target
+           '../img/penn/720/penn-720-removing-crosswind-connector.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-removing-crosswind-connector.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-spool-shaft.jpg', but the target
+           '../img/penn/720/penn-720-removing-spool-shaft.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-removing-spool-shaft.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-crosswind-block.jpg', but the target
+           '../img/penn/720/penn-720-removing-crosswind-block.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-removing-crosswind-block.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-rotor-cup.jpg', but the target
+           '../img/penn/720/penn-720-removing-rotor-cup.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-removing-rotor-cup.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-rotor-cup-removed.jpg', but the target
+           '../img/penn/720/penn-720-rotor-cup-removed.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-rotor-cup-removed.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-pinion-gear-screw.jpg', but the target
+           '../img/penn/720/penn-720-removing-pinion-gear-screw.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-removing-pinion-gear-screw.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-pinion-gear.jpg', but the target
+           '../img/penn/720/penn-720-removing-pinion-gear.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-removing-pinion-gear.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-main-gear.jpg', but the target
+           '../img/penn/720/penn-720-removing-main-gear.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-removing-main-gear.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-spool-shaft-sleeve.jpg', but the target
+           '../img/penn/720/penn-720-removing-spool-shaft-sleeve.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-removing-spool-shaft-sleeve.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-dog-spring.jpg', but the target
+           '../img/penn/720/penn-720-removing-dog-spring.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-removing-dog-spring.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-removing-thrust-washer.jpg', but the target
+           '../img/penn/720/penn-720-removing-thrust-washer.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-removing-thrust-washer.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-cleaning-gears.jpg',
+           but the target '../img/penn/720/penn-720-cleaning-gears.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-cleaning-gears.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link 'cleaning-lubricating.md', but the target
+           'penn/cleaning-lubricating.md' is not found among documentation files.
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-greasing-gears.jpg',
+           but the target '../img/penn/720/penn-720-greasing-gears.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-greasing-gears.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-replacing-crosswind-block.jpg', but the target
+           '../img/penn/720/penn-720-replacing-crosswind-block.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-replacing-crosswind-block.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-aligning-shaft-block.jpg', but the target
+           '../img/penn/720/penn-720-aligning-shaft-block.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-aligning-shaft-block.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-replacing-crosswind-block-connector.jpg', but the target
+           '../img/penn/720/penn-720-replacing-crosswind-block-connector.jpg' is not found among documentation files.
+           Did you mean '../img/penn/720/penn-720-replacing-crosswind-block-connector.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-dog-disengaged.jpg',
+           but the target '../img/penn/720/penn-720-dog-disengaged.jpg' is not found among documentation files. Did you
+           mean '../img/penn/720/penn-720-dog-disengaged.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link '../../img/penn/720/penn-720-dog-engaged.jpg', but
+           the target '../img/penn/720/penn-720-dog-engaged.jpg' is not found among documentation files. Did you mean
+           '../img/penn/720/penn-720-dog-engaged.jpg'?
+WARNING -  Doc file 'penn/penn-720-service-guide.md' contains a link
+           '../../img/penn/720/penn-720-tightening-eccentric-screw.jpg', but the target
+           '../img/penn/720/penn-720-tightening-eccentric-screw.jpg' is not found among documentation files.
+INFO    -  Documentation built in 1.52 seconds
+INFO    -  [22:10:46] Serving on http://127.0.0.1:8000/vintage-reel-service-guides/
+WARNING -  [22:11:55] "GET /vintage-reel-service-guides/img/penn/720/penn-720-tightening-eccentric-screw.jpg HTTP/1.1"
+           code 404
+WARNING -  [22:12:42] "GET /favicon.ico HTTP/1.1" code 404

@@ -82,7 +82,7 @@ Since not all parts of a reel may need the same level of attention, the disassem
 
 A good plan for the beginning vintage reel enthusiast could be to service the housing and gears, use the reel for a bit, then perform a second round of servicing for the bail and drag assemblies.
 
-### Housing and Gears
+### Disassembling the Housing
 
 1. Remove the drag cap by turning it clockwise.
 
@@ -98,22 +98,26 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     ![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
 
+
 2. Remove the spool by pulling straight out.
 
     ![Penn 720--Spool Removed](../../img/penn/720/penn-720-spool.jpg)
 
     This is a good time to inspect the drag and click mechanism on the inside of the spool. If it is possible to obtain one or two extra spools, for example, by purchasing parts reels, those will prove useful for keeping several pound-tests of line handy for quick changes in the field. Another option to consider with the 720 and the other Penn Spinfishers would be to obtain the sister model reel (in this case, the 722)--this would provide you with two spools which could be shared between the reels and the slightly different experience of the bearing-equipped reel versus the bushing- equipped 720.
 
+
 3. Remove the handle by turning it clockwise (with the handle side of the reel facing you)--opposite to the direction you turn it to reel in line.
 
     ![Penn 720--Removing Handle](../../img/penn/720/penn-720-handle1.jpg)
     ![Penn 720--Handle Removed](../../img/penn/720/penn-720-handle2.jpg)
+
 
 4. Remove the single screw that secures the housing plate.
 
     ![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1.jpg)
 
      A short-handled screwdriver is useful for working on large screws like this one.
+
 
 5. Pry the housing plate from the main housing.
 
@@ -129,11 +133,13 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     ![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate-removed.jpg)
 
+
 6. Remove the crosswind connector.
 
     ![Penn 720--Removing Crosswind Connector](../../img/penn/720/penn-720-removing-crosswind-connector.jpg)
 
     Use a pair of needle-nose pliers to pull the connector straight out.
+
 
 7. Remove the spool shaft.
 
@@ -141,9 +147,11 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     Pull the spool shaft out through the front of the rotor cup.
 
+
 8. Remove the crosswind block.
 
     ![Penn 720--Removing Crosswind Block](../../img/penn/720/penn-720-removing-crosswind-block.jpg)
+
 
 9. Remove the rotor cup.
 
@@ -153,45 +161,54 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     ![Penn 720--Rotor Cup Removed](../../img/penn/720/penn-720-rotor-cup-removed.jpg)
 
-10. Remove the pinion gear screw.
+### Disassembling the Gears
+
+1. Remove the pinion gear screw.
 
     ![Penn 720--Removing Pinion Gear Screw](../../img/penn/720/penn-720-removing-pinion-gear-screw.jpg)
 
     Optionally you can just loosen the screw enough to remove the pinion gear.
 
-11. Remove the pinion gear.
+
+2. Remove the pinion gear.
 
     ![Penn 720--Removing Pinion Gear](../../img/penn/720/penn-720-removing-pinion-gear.jpg)
 
     Pull the pinion gear straight out. You may need to rotate the pinion and/or the main gear slightly to disengage the teeth.
 
-12. Remove the main gear.
+
+3. Remove the main gear.
 
     ![Penn 720--Removing Main Gear](../../img/penn/720/penn-720-removing-main-gear.jpg)
 
-13. Remove the spool shaft sleeve.
+
+4. Remove the spool shaft sleeve.
 
     ![Penn 720--Removing Spool Shaft Sleeve](../../img/penn/720/penn-720-removing-spool-shaft-sleeve.jpg)
 
     The spool shaft sleeve is a short brass sleeve that the back end of the spool shaft fits into. Note that the front end of the sleeve has a slightly larger diameter flange than the back end--when re-assembling, remember that the smaller end goes first into the block at the back of the housing.
 
-14. Remove the dog and dog spring. Note! Before removing note the orientation of the dog/dog spring relative to the eccentric (the small brass semi-circle next to the dog)--this must be re-installed correctly for the anti-reverse to work correctly. It's a good idea to take a picture of it before removing.
+
+5. Remove the dog and dog spring. Note! Before removing note the orientation of the dog/dog spring relative to the eccentric (the small brass semi-circle next to the dog)--this must be re-installed correctly for the anti-reverse to work correctly. It's a good idea to take a picture of it before removing.
 
     ![Penn 720--Removing dog and dog spring](../../img/penn/720/penn-720-removing-dog-spring.jpg)
 
     Grasp the dog spring with a pair of tweezers and pull straight out. The spring is held in the circular opening in the dog by spring tension but is not attached--be careful not to lose these small parts. 
 
-15. Remove the thrust washer.
+
+6. Remove the thrust washer.
 
     ![Penn 720--Removing Thrust Washer](../../img/penn/720/penn-720-removing-thrust-washer.jpg)
 
-16. Clean the gears and inside of housing.
+
+7. Clean the gears and inside of housing.
 
     ![Penn 720--Cleaning Gears](../../img/penn/720/penn-720-cleaning-gears.jpg)
 
     See the [Basic Cleaning and Lubricating Procedures](cleaning-lubricating.md)
 
-17. Grease the gears and the main gear and spool shafts.
+
+8. Grease the gears and the main gear and spool shafts.
 
     ![Penn 720--Greasing Gears](../../img/penn/720/penn-720-greasing-gears.jpg)
 
@@ -209,39 +226,44 @@ When replacing the crosswind block:
 
     ![Penn 720--Replacing Crosswind Block](../../img/penn/720/penn-720-replacing-crosswind-block.jpg)
 
-2. There are two hole in the spool shaft--the crosswind connector fits into those holes after passing through the matching set of holes in the crosswind block. To align these holes correctly, first insert the spool shaft and position it so that the holes are facing up and are next to the crosswind block. See the pencil point in the following image.
+
+2. There are two holes in the spool shaft--the crosswind connector fits into those holes after passing through the matching set of holes in the crosswind block. To align these holes correctly, first insert the spool shaft and position it so that the holes are facing up and are next to the crosswind block. See the pencil point in the following image.
 
     ![Penn 720--Aligning Spool Shaft with Crosswind Block](../../img/penn/720/penn-720-aligning-shaft-block.jpg)
 
     Under a strong light, pull the spool shaft forward until the holes in the shaft line up roughly with the holes in the crosswind block. You will be able to see this with a strong enough light source.
 
+
 3. Apply a light coating of grease to the crosswind connector and slide it into the holes in the crosswind block, then on into the holes in the spool shaft--this may require a bit of back-and-forth with the spool shaft and working the connector back and forth with your fingertip. A little finesse and patience is required for this move. Either side of the connector should fit in either hole in the block, but if it does not fit easily one way, flip it around and try it the other way.  When the connector is fully inserted it will fit flush with the top of the block.
 
     ![Penn 720--Replacing Crosswind Block Connector](../../img/penn/720/penn-720-replacing-crosswind-block-connector.jpg)
 
+
 When replacing the dog and spring:
 
-1. Make sure round section of the spring is seated correctly in the round opening in the dog. Apply a light coating of grease to the dog/spring. Press the eccentric lever toward the back of the housing--you will see the eccentric (the small brass semicircle) rotate so that the flat side is positioned toward the front of the housing. Press the dog/spring onto the center nib at the back of the housing. Make sure the long section of the spring presses against the back of the housing. See the pencil point in the following image.
+1. Make sure round section of the spring is seated correctly in the round opening in the dog. Apply a light coating of grease to the dog/spring. Flip the eccentric lever toward the back of the housing--you will see the eccentric (the small brass semicircle) rotate so that the flat side is positioned toward the front of the housing. Press the dog/spring onto the center nib at the back of the housing. Make sure the long section of the spring presses against the other nib toward the top of the housing. See the pencil point in the following image.
 
     ![Penn 720--Dog Disengaged](../../img/penn/720/penn-720-dog-disengaged.jpg)
+
 
 2. Flip the eccentric lever toward the front of the housing. See the pencil point in the following image. The eccentric should rotate so that the flat side turns toward the dog and allows the spring to rotate the dog clockwise--this is the engaged position for the anti-reverse. When in this position the dog engages with the brass teeth on the back side of the main gear to prevent the handle from turning in reverse.
 
     ![Penn 720--Dog Engaged](../../img/penn/720/penn-720-dog-engaged.jpg)
 
-3. After completing the rest of the reel re-assembly, make sure the eccentric screw is tight.
+
+3. After completing the rest of the reel re-assembly make sure the eccentric screw is tight.
 
     ![Penn 720--Tightening Eccentric Screw](../../img/penn/720/penn-720-tightening-eccentric-screw.jpg)
 
-When replacing the pinion gear, make sure that the teeth mesh with the teeth on the main gear--give them both a few turns with your fingers to check for smooth operation.
+When replacing the pinion gear: Make sure the teeth mesh with the teeth on the main gear--give them both a few turns with your fingers to check for smooth operation.
 
-When replacing the rotor cup, note that the pinion gear shaft, the hole in the rotor cup, and the rotor cup washer all have flat sides--make sure to align these correctly when fitting them together. Make sure to tighten the nut enough to stay put, but not overly tight--too much pressure can damage any or all of these parts.
+When replacing the rotor cup note that the pinion gear shaft: Note that the hole in the rotor cup, and the rotor cup washer all have flat sides--make sure to align these correctly when fitting them together. Make sure to tighten the nut enough to stay put, but not overly tight--too much pressure can damage any or all of these parts.
 
-When replacing the handle, remember that it screws in counter-clockwise, opposite to most screws (**not** "rightie-tightie").
+When replacing the handle: Remember it screws in counter-clockwise, opposite to most screws (**not** "rightie-tightie").
 
-When replacing the housing plate, make sure it is seated correctly against the housing all around the edges.
+When replacing the housing plate: Make sure it is seated tightly against the housing all around the edges.
 
-When replacing the spool, rotate it clockwise until it clicks.
+When replacing the spool: Rotate it clockwise until it clicks.
 
     ![Penn 720--Replacing Spool](../../img/penn/720/penn-720-replacing-spool.jpg)
 

@@ -6,7 +6,7 @@ The Penn 720 is an ultralight open-faced spinning reel, part of Penn's 700 Spinf
 
 ![Penn 720--Front Left](../../img/penn/720/penn-720-front-left.jpg)
 
-This video [YT vid, to be recorded] provides a very general overview of the Penn 720.
+This video [YT vid, to be recorded] provides a very general overview of the Penn 720. Video is a work in progress.
 
 These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
 

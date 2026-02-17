@@ -22,23 +22,3 @@ nav:
     - South Bend 550 Service Guide: south-bend/south-bend-550-service-guide.md
 theme:
   name: readthedocs
-  plugins:
-  - search
-  - mermaid2:
-      javascript: https://unpkg.com/mermaid@10.4.0/dist/mermaid.esm.min.mjs
-
-markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid
-
-
-
-
-
-
-
-
-

@@ -4,29 +4,31 @@ This site's main purpose is to provide detailed, illustrated service procedures 
 
 This repository honors American craftsmanship of the early 20th century and provides resources for those interested in restoring and keeping concrete examples of that craftsmanship in working order, with the intent to use them in the field rather than simply collect, curate, and display them, although these activities are also valued. Line capacities and other specifications are provided to place these reels in the context of creating practical, affordable, balanced tackle for all types of fishing, in combination with modern tackle.
 
+While the main focus is on American reels, another important focus is on highlighting important manufacturers for each type of reel, and in some cases non-US examples are important to the overall story; for example, Swedish maker Abu's baitcasting reels--the 3000s, 4000s, and others of that series--were too influential to leave out.
+
 ## Background on Reel Types
 
 Each of the major American reel manufacturers from this era produced a range of different types of reels. The background information is organized by reel type, then by manufacturer. For example, on the [spinning reels page](spinning-reels.md) you will find general background information on spinning reels and more specific information on manufacturers like Penn and Pfleuger, among others. The service guides that follow provide detailed illustrated procedures for servicing specific reels.
 
 If your main interest is in servicing a specific reel you can easily just bypass all the overview information and go directly to the service guides.
 
-[**Spinning Reels:**](spinning-reels.md) Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and manufacturers
+[**Baitcasting Reels:**](baitcasting-reels.md) The most basic archetypal reels. Info on baitcasting reels and important manufacturers.
 
-[**Spincasting Reels:**](spincasting-reels.md) Info on spincasting reels and manufacturers.
+[**Spinning Reels:**](spinning-reels.md) These reels became very popular in the US after WWII. Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and important manufacturers
 
-[**Baitcasting Reels:**](baitcasting-reels.md) Info on baitcasting reels and manufacturers.
+[**Spincasting Reels:**](spincasting-reels.md) Info on spincasting (also known as "push-button") reels and important manufacturers.
 
-[**Fly Reels:**](fly-reels.md) Info on fly reel types--automatic, manual, and manufacturers.
+[**Fly Reels:**](fly-reels.md) Info on fly reel types--automatic, manual, and important manufacturers.
 
 ## General Information about Servicing
 
-[**Workspace Setup and Safety:**](workspace-setup.md)
+[**Workspace Setup and Safety:**](workspace-setup.md) A brief overview of protective gear, work surfaces and seating, lighting, and ventilation.
 
-[**Tools and Materials:**](tools-materials.md)
+[**Tools and Materials:**](tools-materials.md) Suggestions for a compact, inexpensive set of hand tools (drivers, wrenches, picks), cleaning and lubricating tools and materials (containers, brushes, solvents, greases), sources for tools and materials, and how to build inexpensive jigs for tasks like line winding and spring compression.
 
-[**Initial Evaluation:**](initial-evaluation.md)
+[**Initial Evaluation:**](initial-evaluation.md) Ideas for a simple but comprehensive evaluation proceess, including taking photos and keeping notes, initial testing, mounting on a rod and test-casting, making a set of test-casting weights.
 
-[**Removing Line from and Adding Line to a Spool:**](removing-adding-line.md)
+[**Removing Line from and Adding Line to a Spool:**](removing-adding-line.md) Methods for quickly removing line from old reels using a simple DIY winding jig, uses for old line (knot tying practice), and adding line to a reel without twist.
 
 ## The Service Guides
 

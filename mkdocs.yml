@@ -3,10 +3,11 @@ site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 
 nav:
   - Home: index.md
+  - About: about.md
   - Background on Reel Types:
+    - Baitcasting Reels: baitcasting-reels.md
     - Spinning Reels: spinning-reels.md
     - Spincasting Reels: spincasting-reels.md
-    - Baitcasting Reels: baitcasting-reels.md
     - Fly Reels: fly-reels.md
   - General Information on Servicing:
     - Workspace Setup and Safety: workspace-setup.md

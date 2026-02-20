@@ -8,17 +8,15 @@ The Penn 720 is an ultralight open-faced spinning reel, part of Penn's 700 Spinf
 
 You can watch a brief overview of the Penn 720 here:
 
-<div style="aspect-ratio: 16 / 9;">
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/I_GaHU_zz9Y"
-    title="Penn 720 Overview"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/I_GaHU_zz9Y"
+  title="Penn 720 Overview"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+  allowfullscreen>
+</iframe>
 
 If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTube](https://www.youtube.com/watch?v=I_GaHU_zz9Y").
 

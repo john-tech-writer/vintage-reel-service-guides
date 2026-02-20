@@ -22,6 +22,19 @@ The iframe version:
   </iframe>
 </div>
 
+new improved iframe version:
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/I_GaHU_zz9Y"
+  title="Penn 720 Overview"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+  allowfullscreen>
+</iframe>
+
+
 These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
 
 ![Penn 720--Front Right](../../img/penn/720/penn-720-front-right.jpg)

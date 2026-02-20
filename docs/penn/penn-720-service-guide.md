@@ -19,8 +19,8 @@ You can watch a brief overview of the Penn 720 here:
     allowfullscreen>
   </iframe>
 </div>
-
-If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTube](https://www.youtube.com/watch?v=I_GaHU_zz9Y"). *If the videos are not working, you can try changing your browser security settings or your VPN settings, if you use a VPN.*
+If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTube](https://www.youtube.com/watch?v=I_GaHU_zz9Y").
+*If the videos are not working, you can try changing your browser security settings and/or your VPN settings, if you use a VPN.*
 
 These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
 

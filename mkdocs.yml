@@ -4,6 +4,7 @@ site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 nav:
   - Home: index.md
   - Background on Reel Types:
+    - A Taxonomy of Reel Types: reel-taxonomy.md
     - Spinning Reels: spinning-reels.md
     - Spincasting Reels: spincasting-reels.md
     - Baitcasting Reels: baitcasting-reels.md

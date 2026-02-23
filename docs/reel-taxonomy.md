@@ -1,4 +1,4 @@
-# A Taxonomy of Reels
+# A Taxonomy of Mid-Century Reels
 
 A taxonomy is like a family tree. It helps you understand the relationships between different things, how they fit into groups based on shared characteristics. This page includes taxonomies for each of the four main typse of reels. For each sub-type we have one or two of what we call "pure" examples, which are chosen on the basis of how well and simply they represent that sub-type. For instance, the Penn 720 is shown as a good example of the open-face, full-bail spinning reel since it is one of the cleanest and simplest examples of this design, as well as being a very successful and well-known model. The more oddball open-face finger pick-up design is represented by one of the more well-known of the relatively few models that were made, the Ocean City 350 Spin-A-Long.
 
@@ -6,12 +6,12 @@ Reels that represent hybrid designs, which don't fit easily into the categories 
 
 You can easily see where any reel you encounter fits into this chart by reading the background page on that reel type (like the [Spinning Reels page](spinning-reels.md).
 
-## All Reel Types
+## All Mid-Century Reel Types
 
 ```mermaid
 
 flowchart TD
-  A[Reels]
+  A[Mid-Century Reels]
   A --> S[Spinning & Spincasting]
   A --> B[Baitcasting]
   A --> F[Fly]
@@ -46,11 +46,13 @@ flowchart TD
   B --> B2[Finger pick-up]
   B --> B3[Manual/roller pick-up]
 
-  C --> C1[Closed-face spinning]
-  C --> C2[Push-button spincast]
+  C --> C1[Closed-face spinning (Shakespeare 1810)]
+  C --> C2[Push-button spincast (Zebco 33)]
 
   B1 --> D1[Penn 720]
   B1 --> D2[Pflueger 1020]
+  
+  click D1 "/vintage-reel-service-guides/penn/penn-720-service-guide/"
 
   B2 --> E1[Ocean City 350 Spin-A-Long]
 

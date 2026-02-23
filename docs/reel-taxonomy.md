@@ -51,9 +51,10 @@ flowchart TD
 
   B1 --> D1[Penn 720]
   B1 --> D2[Pflueger 1020]
+
   B2 --> E1[Ocean City 350 Spin-A-Long]
+
   B3 --> F1[Pflueger Pelican 1021]
-  click D1 "/penn/penn-720-service-guide/"
 
   C1 --> G1[Shakespeare 1810]
   C1 --> G2[Abu 506]

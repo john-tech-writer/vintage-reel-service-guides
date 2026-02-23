@@ -46,8 +46,8 @@ flowchart TD
   B --> B2[Finger pick-up]
   B --> B3[Manual/roller pick-up]
 
-  C --> C1[Closed-face spinning (Shakespeare 1810)]
-  C --> C2[Push-button spincast (Zebco 33)]
+  C --> C1[Closed-face spinning]
+  C --> C2[Push-button spincast]
 
   B1 --> D1[Penn 720]
   B1 --> D2[Pflueger 1020]

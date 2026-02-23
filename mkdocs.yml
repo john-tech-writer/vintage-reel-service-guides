@@ -3,17 +3,16 @@ site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 
 nav:
   - Home: index.md
-  - About: about.md
   - Background on Reel Types:
-    - Baitcasting Reels: baitcasting-reels.md
     - Spinning Reels: spinning-reels.md
     - Spincasting Reels: spincasting-reels.md
+    - Baitcasting Reels: baitcasting-reels.md
     - Fly Reels: fly-reels.md
   - General Information on Servicing:
     - Workspace Setup and Safety: workspace-setup.md
     - Tools and Materials: tools-materials.md
     - Initial Evaluation: initial-evaluation.md
-    - Removing Line from and Adding Line to a Spool: removing-adding-line.md
+    - Removing and Adding Line: removing-adding-line.md
   - The Service Guides:
     - Penn 720 Service Guide: penn/penn-720-service-guide.md
     - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md
@@ -23,3 +22,23 @@ nav:
     - South Bend 550 Service Guide: south-bend/south-bend-550-service-guide.md
 theme:
   name: readthedocs
+plugins:
+  - search
+  - mermaid2:
+      javascript: https://unpkg.com/mermaid@10.4.0/dist/mermaid.esm.min.mjs
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid
+
+
+
+
+
+
+
+
+

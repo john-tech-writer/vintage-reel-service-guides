@@ -19,6 +19,7 @@ You can watch a brief overview of the Penn 720 here:
     allowfullscreen>
   </iframe>
 </div>
+
 If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTube](https://www.youtube.com/watch?v=I_GaHU_zz9Y").
 *If the videos are not working, you can try changing your browser security settings and/or your VPN settings, if you use a VPN.*
 

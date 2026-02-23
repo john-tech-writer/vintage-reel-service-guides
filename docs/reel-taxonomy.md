@@ -1,6 +1,7 @@
 # A Taxonomy of Reels
 
 ```mermaid
+
 flowchart TD
   A[Spinning & Spincast Reels]
   A --> B[Open-face]

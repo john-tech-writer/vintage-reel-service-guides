@@ -51,7 +51,6 @@ flowchart TD
 
   B1 --> D1[Penn 720]
   B1 --> D2[Pflueger 1020]
-  click D1"/penn/penn-720-service-guide/"
 
   B2 --> E1[Ocean City 350 Spin-A-Long]
 

@@ -6,7 +6,39 @@ The basic principle of the spinning reel is that the spool is stationary when ca
 
 While spinning has several advantages over more traditional bait-casting there are still significant technical advantages to baitcasting: big fish, heavier lures, and underwater snags are all easier to handle, greater casting accuracy is possible (which depends on the angler developing his or her skill).
 
-The two main types of spinning reels are open-faced and closed-faced, but there are also several (mostly oddball) variation on the open-faced design. Each is described in the following sections.
+The two main types of spinning reels are open-faced and closed-faced, but there are also several (mostly oddball) variation on the open-faced design. Closed-face spinning reels are closely related by design to spincasting (sometimes called "push-button") reels. This diagram shows the various types of spinning and spincasting reels and their relationships.
+
+## Spinning and Spincasting Reels with Examples
+
+```mermaid
+
+flowchart TD
+  A[Spinning & Spincasting Reels]
+  A --> B[Open-face]
+  A --> C[Closed-face]
+
+  B --> B1[Full-bail spinning]
+  B --> B2[Finger pick-up]
+  B --> B3[Manual/roller pick-up]
+
+  C --> C1[Closed-face spinning]
+  C --> C2[Push-button spincast]
+
+  B1 --> D1[Penn 720]
+  B1 --> D2[Pflueger 1020]
+
+  B2 --> E1[Ocean City 350 Spin-A-Long]
+
+  B3 --> F1[Pflueger Pelican 1021]
+
+  C1 --> G1[Shakespeare 1810]
+  C1 --> G2[Abu 506]
+
+  C2 --> H1[Zebco 33]
+  C2 --> H2[South Bend 88]
+```
+
+Each of these reel types is described in the following sections.
 
 **Open-faced:** There are several different typs of open-faced spinning reels:
 

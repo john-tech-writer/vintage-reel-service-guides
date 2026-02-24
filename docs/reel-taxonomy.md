@@ -90,3 +90,11 @@ flowchart TD
 
   C --> C1[need example]
 ```
+
+```mermaid
+
+flowchart TD
+  B1[Full-bail spinning] --> D1[Penn 720]
+
+  click D1 "/penn/penn-720-service-guide/"
+  ```

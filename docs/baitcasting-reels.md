@@ -2,24 +2,20 @@
 
 Overview of baitcasting reels, their history, and how they work.
 
-The two main types of baitcasting reels are round and low-profile, but there are also several design variation on these two basic types, like anti-backlash and star drag. Round baitcasting reels are the older design. Low-profile baitcasting reels are a more modern design. This diagram shows the various types of baitcasting reels and their relationships.
+## Features
 
-## Baitcasting Reels with Examples
+Mid-century baitcasting reels all share a single basic design. Well-known makers like Shakespeare, Pflueger, Langley, and Ambassadeur all used a typically round frame in this era; later, more modern baitcasting reels would evolve into a more low-profile design. Various makers and models evolved a fairly short set of internal features that helped make the reels easier to use:
 
-```mermaid
+- Level wind
 
-flowchart TD
-  A[Baitcasting Reels]
-  A --> B[Low-profile]
-  A --> C[Round]
+- Free‑spool
 
-  B --> B1[Abu Garcia 4000]
+- Anti‑backlash
 
-  C --> C1[Pflueger Nobby]
-```
+- Various braking types, for example, cast control caps and centrifugal
 
-**Pfleuger:** The Nobby.
+**Pfleuger:** The [Nobby](pflueger/pflueger-nobby-service-guide.md).
 
-**South Bend:** The 550.
+**South Bend:** The [550](south-bend/south-bend-550-service-guide.md).
 
 **Abu Garcia:** The 2000--6000 series. Not strictly an American company, but important enough to mention in the world of baitcasting.

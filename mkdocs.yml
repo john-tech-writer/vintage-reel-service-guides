@@ -6,7 +6,7 @@ nav:
   - About: about.md
   - Background on Reel Types:
     - A Taxonomy of Reel Types: reel-taxonomy.md
-    - Spinning and Spincasting Reels: spinning-reels.md
+    - Spinning and Spincast Reels: spinning-reels.md
     - Baitcasting Reels: baitcasting-reels.md
     - Fly Reels: fly-reels.md
   - General Information on Servicing:
@@ -19,7 +19,8 @@ nav:
   - The Service Guides:
     - Penn 720 Service Guide: penn/penn-720-service-guide.md
     - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md
-    - Pflueger Pelican Service Guide: pflueger/pflueger-pelican-service-guide.md
+    - Pflueger Pelican 1020 Service Guide: pflueger/pflueger-pelican-service-guide.md
+    - Pflueger Pelican 1021 Service Guide: pflueger/pflueger-pelican-1021-service-guide.md
     - Sears 440 Service Guide: sears/sears-440-service-guide.md
     - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
     - South Bend 550 Service Guide: south-bend/south-bend-550-service-guide.md

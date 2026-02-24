@@ -1,0 +1,3 @@
+# Annotated List of References
+
+Shakespeare, Henry. *Secrets of Successful Fishing.* 1962. Dell Publishing Co., Inc. New York. A very comprehensive, compact guide to all types of fishing from a mid-century American perspective. Describes equipment, how to create balanced tackle outfits, and fishing methods. Included many diagrams showing how to cast, where to locate fish, and various types of lures.

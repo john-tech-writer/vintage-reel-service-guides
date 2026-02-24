@@ -11,7 +11,8 @@ flowchart TD
   A --> B[automatic]
   A --> C[manual]
 
-  B --> B1[Shakespeare Silent Tru-arT]
+  B --> B1[Shakespeare Silent Tru-arT linked service guide]
+  click B1 "/vintage-reel-service-guides/shakespeare/shakespeare-silent-tru-art-service-guide/"
 
   C --> C1[need example]
 ```

@@ -6,8 +6,7 @@ nav:
   - About: about.md
   - Background on Reel Types:
     - A Taxonomy of Reel Types: reel-taxonomy.md
-    - Spinning Reels: spinning-reels.md
-    - Spincasting Reels: spincasting-reels.md
+    - Spinning and Spincasting Reels: spinning-reels.md
     - Baitcasting Reels: baitcasting-reels.md
     - Fly Reels: fly-reels.md
   - General Information on Servicing:
@@ -15,6 +14,8 @@ nav:
     - Tools and Materials: tools-materials.md
     - Initial Evaluation: initial-evaluation.md
     - Removing and Adding Line: removing-adding-line.md
+    - Epoxy Repairs: epoxy-repairs.md
+    - Schematics: schematics.md
   - The Service Guides:
     - Penn 720 Service Guide: penn/penn-720-service-guide.md
     - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md

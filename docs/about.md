@@ -8,7 +8,7 @@ First of all, this site was for myself, to satisfy a desire to preserve the info
 
 If you like digging into the technical aspects of fishing tackle and have a very minimum of mechanical ability, this site is for you. If you are just interested in seeing the insides of various reels to see what makes them tick, this is also for you. If you like to get outdoors and fish and enjoy the companionship of others who also enjoy these things, this site is for you. You could be any age. I like to think that younger generations of fishermen and women will discover this site many years from now and say "wow, this is cool . . . I think I could do this . . ."
 
-In terms of safety, please remember that any sort of mechanical work involving tools, solvents, and sharp objects has the potential to result in injury, even for the most cautious person. I have performed all the procedures documented here myself and done my best to provide warnings where they are appropriate, however all responsibility for safety is ultimaately up to the end user.
+In terms of safety, please remember that any sort of mechanical work involving tools, solvents, and sharp objects has the potential to result in injury, even for the most cautious person. I have performed all the procedures documented here myself and done my best to provide warnings where they are appropriate, however all responsibility for safety is ultimately up to the end user.
 
 ## Who Created This Site and Why
 
@@ -28,10 +28,10 @@ At present (February 2026) this site is just taking its form, so there is not ye
 
 The more-or-less final site should eventually include representative examples of all types of mid-priced American-made (plus a few foreign-made) reels from the 1930s--1970s. It is not intended to be a totally exhaustive list of every reel ever made, no matter how obscure. Representative examples are selected based on research and on specific guidelines:
 
-Reels that were considered the iconic example for a specific type, for example, the Zebco 33 for spincasting reels.
+- Reels that were considered the iconic example for a specific type, for example, the Zebco 33 for spincasting reels.
 
-Reels that demonstrated some innovation, like the unique drag system in the Pfleuger Pelican.
+- Reels that demonstrated some innovation, like the unique drag system in the Pfleuger Pelican.
 
-Reels that dominated the market for their time (usually for good reason), for example, Penn's Spinfisher series.
+- Reels that dominated the market for their time (usually for good reason), for example, Penn's Spinfisher series.
 
 If each type of reel includes half a dozen representative examples, the site will be reasonably well fleshed-out with about 25 to 30 complete procedures--this is a very rough target/guess. When this level of content is achieved--which will probably take a few years--it will be a good time to re-assess. Again, the intent is not only to document specific service procedures, but also to help people become confident with this sort of work, and to work out procedures of their own for reels not documented here. The principles of how to assess, disassemble, service, and re-assemble a vintage reel can be internalized and mastered by doing, and that is what this site hopes to encourage.

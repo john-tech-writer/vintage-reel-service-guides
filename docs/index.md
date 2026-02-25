@@ -14,9 +14,9 @@ If your main interest is in servicing a specific reel you can easily just bypass
 
 [**Baitcasting Reels:**](baitcasting-reels.md) The most basic archetypal reels. Info on baitcasting reels and important manufacturers.
 
-[**Spinning Reels:**](spinning-reels.md) These reels became very popular in the US after WWII. Info on spinning reel types--open-faced, full-bail, finger pick-up, roller pick-up, closed-faced, and important manufacturers
+[**Spinning Reels:**](spinning-reels.md) These reels became very popular in the US after WWII. Info on spinning reel types--open-face, full-bail, finger pick-up, roller pick-up, closed-face, and important manufacturers
 
-[**Spincasting Reels:**](spincasting-reels.md) Info on spincasting (also known as "push-button") reels and important manufacturers.
+[**Spincast Reels:**](spincasting-reels.md) Info on spincast (also known as "push-button") reels and important manufacturers.
 
 [**Fly Reels:**](fly-reels.md) Info on fly reel types--automatic, manual, and important manufacturers.
 
@@ -28,20 +28,22 @@ If your main interest is in servicing a specific reel you can easily just bypass
 
 [**Initial Evaluation:**](initial-evaluation.md) Ideas for a simple but comprehensive evaluation proceess, including taking photos and keeping notes, initial testing, mounting on a rod and test-casting, making a set of test-casting weights.
 
-[**Removing Line from and Adding Line to a Spool:**](removing-adding-line.md) Methods for quickly removing line from old reels using a simple DIY winding jig, uses for old line (knot tying practice), and adding line to a reel without twist.
+[**Removing and Adding Line:**](removing-adding-line.md) Methods for quickly removing line from old reels using a simple DIY winding jig, uses for old line (knot tying practice), and adding line to a reel without twist.
 
 ## The Service Guides
 
 Each service guide provides step-by-step illustrated procedures for disassembling, servicing (cleaning and lubricating), and re-assembling the reel. The guides also provide information on common repairs.
 
-[The Penn 720 Spinfisher Service Guide](penn/penn-720-service-guide.md): The Penn 720 is an ultralight open-faced spinning reel, part of Penn's 700 Spinfisher series.
+[Penn 720 Spinfisher Service Guide](penn/penn-720-service-guide.md): The Penn 720 is an ultralight open-faced spinning reel, part of Penn's 700 Spinfisher series.
 
-[The Pfleuger Pelican Service Guide](pflueger/pflueger-pelican-service-guide.md)
+[The Pflueger Nobby Service Guide](pflueger/pflueger-nobby-service-guide.md): The Nobby is an ultra-light or sporty baitcasting reel.
 
-[The Pflueger Nobby Service Guide](pflueger/pflueger-nobby-service-guide.md)
+[Pfleuger Pelican 1020 Service Guide](pflueger/pflueger-pelican-service-guide.md): The Pelican 1020 is a light to medium open-face, full-bail spinning reel.
 
-[The Ted Williams/Sears 440 Service Guide](sears/sears-440-service-guide.md)
+[Pflueger Pelican 1021 Service Guide](pflueger/pflueger-pelican-1021-service-guide.md): The Pelican 1021 is a roller pick-up version of the 1020--no bail.
 
-[The South Bend 550 Service Guide](south-bend/south-bend-550-service-guide.md)
+[Shakespeare Silent Tru-arT Service Guide](shakespeare/shakespeare-silent-tru-art-service-guide.md): The Tru-arT is an automatic fly reel.
 
-[The Shakespeare Silent Tru-arT Service Guide](shakespeare/shakespeare-silent-tru-art-service-guide.md)
+[South Bend 550 Service Guide](south-bend/south-bend-550-service-guide.md): The 550 is an ultra-light or sporty baitcasting reel.
+
+[Ted Williams/Sears 440 Service Guide](sears/sears-440-service-guide.md): The 440 is a light to medium open-face, full-bail spinning reel.

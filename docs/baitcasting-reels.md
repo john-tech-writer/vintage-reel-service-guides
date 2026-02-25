@@ -19,3 +19,5 @@ Mid-century baitcasting reels all share a single basic design. Well-known makers
 **South Bend:** The [550](south-bend/south-bend-550-service-guide.md).
 
 **Abu Garcia:** The 2000--6000 series. Not strictly an American company, but important enough to mention in the world of baitcasting.
+
+[References](references.md)

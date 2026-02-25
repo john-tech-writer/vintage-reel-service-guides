@@ -32,3 +32,5 @@ flowchart TD
   F --> Fly2[Automatic]
   F --> Fly3[Mid century disk drag]
 ```
+
+[References](references.md)

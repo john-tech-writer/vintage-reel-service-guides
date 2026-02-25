@@ -15,14 +15,11 @@ Each of these reel types is described in the following sections.
 
 **Open-face:** There are several different typs of open-face spinning reels:
 
-- **Full-bail:** The most common design. One notable example is the [Pfleuger Pelican 1020](pflueger/pflueger-pelican-service-guide.md). The mid-century Pelican is a has a full bail. It was Pfleuger's top-of-the-line spinning reel of that time, with a unique rear drag system.
-
-Another American maker of this period, Penn, produced a range of open-face spinning reels, [The Penn Spinfisher Series](../penn-spinfisher-series.md), which includes eight different models from ultralight to heavy duty.
+- **Full-bail:** The most common design. One notable example is the [Pfleuger Pelican 1020](pflueger/pflueger-pelican-service-guide.md). The mid-century Pelican is a has a full bail. It was Pfleuger's top-of-the-line spinning reel of that time, with a unique rear drag system. Another American maker of this period, Penn, produced a range of open-face spinning reels, [The Penn Spinfisher Series](../penn-spinfisher-series.md), which includes eight different models from ultralight to heavy duty.
 
 - **Roller pick-up:** The finger pick-up style was considered a bit of an oddball design and never became very popular. An iconic example of this type is the [Pfleuger Pelican 1021](pflueger/pflueger-pelican-1021-service-guide.md), marketed as a reel for the more expert or advanced angler. Instead of a full wire bail the manual roller pick-up mechanism is engaged by hand.
 
-- **Finger pick-up:** Like the roller pick-up, the finger pick-up style was considered an odd design, probably even more so than the roller pick-up style. Classic mid-century American model is the Ocean City 350 Spin-A-Long, produced in the mid-1950s when spinning reels were relatively new to the U.S. market.
-
+- **Finger pick-up:** Like the roller pick-up, the finger pick-up style was considered an odd design, probably even more so than the roller pick-up style. Classic mid-century American model is the Ocean City 350 Spin-A-Long, produced in the mid-1950s when spinning reels were relatively new to the U.S. market. 
 While this site focuses primarily on mid-century American-made reels, there were a few European makers that merit inclusion in the overall picture of how reel designs  evolved during this time period. One of these was the Swiss maker Monti, who made the Super spinning reel, also a finger pick-up design; one feature that marks it as a more evolved design is an adjustable drag nut.
 
 **Closed-face:** This type of spinning reel is easily confused with reels more correctly referred to as spincast or "push-button" reels. All push-button reels are closed-face, but not all closed-face reels are push-button. True closed-face spinning reels do not have a button for controlling the clutch and line release, like the classic [Zebco 33](zebco/zebco-33-service-guide.md), which is still in production today, with a lot of internal changes. The Shakespeare 1810 series is a good pure example of a closed-face spinning reel. The Swedish-made Abu 506 is a bit more evolved version of the same design.

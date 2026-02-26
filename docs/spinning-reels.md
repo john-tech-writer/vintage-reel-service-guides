@@ -2,13 +2,18 @@
 
 Overview of spinning and spincast reels, their history, and how they work.
 
-## How They Work
-
 The basic principle of the spinning reel is that the spool is stationary when casting--it doesn't revolve like the spool on a baitcasting reel. The spool only rotates when a fish takes out line. There are several technical advantages to the stationary-when-casting spool: backlash, which is part of the challenge of baitcasting, is eliminated; it also is easier to make longer casts with lighter lures. Overall spinning began to exceed more traditional baitcasting in popularity beacuse it is simply easier to learn.
 
 While spinning has several advantages over more traditional bait-casting there are still significant technical advantages to baitcasting: big fish, heavier lures, and underwater snags are all easier to handle, greater casting accuracy is possible (which depends on the angler developing his or her skill).
 
 Spincast reels are also called "push-button" reels.
+
+## Features
+
+
+## Important Manufacturers and Models
+
+Penn, Pflueger, Zebco.
 
 ## Types
 
@@ -64,16 +69,11 @@ flowchart TD
 
 ## Balanced Tackle
 
-This table shows how you can fit any spinning reel into a balanced tackle outfit. If you are starting from the "collector" end and want to first choose a specific reel you can use this table to determine what rod to pair it up with and what line weights and lure weights will result in the best casting action.
+This section shows how you can fit any spinning or spincast reel into a balanced tackle outfit. If you are starting from the "collector" end and want to first choose a specific reel you can use this table to determine what rod to pair it up with and what line weights and lure weights will result in the best casting action.
 
-If you are starting from the "angler" end and want to focus on a specific fish or fishing method (like trolling), you can research the reels to determine which will work best for the fish you are after and go from there. For example, if you wanted to primarily fish for smaller bass with a spinning reel you could use 4 to 8 lb test line.
+If you are starting from the "angler" end and want to focus on a specific fish or fishing method (like trolling), you can research the reels to determine which will work best for the fish you are after and go from there. For example, if you wanted to primarily fish for smaller bass with a spinning reel you would use 4 to 8 lb. test line and so would be looking for a reel that performed best with 4 to 8 lb. test.
 
-You can determine what line weights work well with a given reel by researching that reel on sites like [ORCA](https://www.orcaonline.org/) or using an AI-assisted web search, for example, [Perplexity](https://www.perplexity.ai/)--you want to locate the original package insert, user manual, or schematic. If you were considering a Penn 720, you would find that it does indeed handle 2 to 10 lb line, so it would not only work for small bass but would be a nice light outfit for panfish as well--a good example of the versatility of that reel.
-
-Spinning reels are made in a wide enough range of sizes so that whatever species of fish you are after, there is a spinning reel that can handle it. In Penn's Spinfisher series alone, for example, there are reels like the 720 that can handle line weights down to 2 lbs. all the way up to the mighty 704, which can handle line weights up to 30 lbs. and cast 4 1/2 oz. lures!
-
-Remember with balanced tackle outfits the main consideration is the lure weight--what you are going to be *casting* determines what rod, reel, and line will work best. And backing up a bit more to actual field conditions, what species and size fish you are after determines what lures you will be using.
-
+### Spinning Reels
 
 Type of Fishing | Reel | Rod | Line lb. Test | Lures oz.
 ----------------|--------------|-------------|----------------|---------------
@@ -82,5 +82,19 @@ bass<br>rainbow trout<br>grayling | medium-light | light<br>6'6"--7' | 4--8 | 1/
 big bass<br>snook<br>walleye | medium | medium<br>6'6"--7' | 6--10 | 3/8--3/4
 muskie<br>tarpon<br>salmon<br>bonefish | medium-heavy | saltwater class<br>7'--8'6" | 10--15 | 1/2--1
 saltwater:<br>- surf<br>-boat | heavy | saltwater class<br>9'--10'6" | 12--20 | 1--4
+
+### Spincast (Push-Button) Reels
+
+Type of Fishing | Reel | Rod | Line lb. Test | Lures oz.
+----------------|--------------|-------------|----------------|---------------
+bass<br>sporty casting | light | extra-light<br>6'--7' | 4--6 | 1/4 best<br>1/8--1/2 good
+big bass<br>muskie<br>freshwater trolling | medium | light<br>6'6"--7' | 8--12 | 3/8 best<br>1/4--5/8 good
+snook<br>salmon<br>saltwater casting | medium-heavy | medium<br>6'--6'6" | 12--20 | 5/8 best<br>3/8--1 good
+
+You can determine what line weights work well with a given reel by researching that reel on sites like [ORCA](https://www.orcaonline.org/) or using an AI-assisted web search, for example, [Perplexity](https://www.perplexity.ai/)--you want to locate the original package insert, user manual, or schematic. If you were considering a Penn 720, you would find that it does indeed handle 2 to 10 lb line, so it would not only work for small bass but would be a nice light outfit for panfish as well--a good example of the versatility of that reel.
+
+Spinning reels are made in a wide enough range of sizes so that whatever species of fish you are after, there is a spinning reel that can handle it. In Penn's Spinfisher series alone, for example, there are reels like the 720 that can handle line weights down to 2 lbs. all the way up to the mighty 704, which can handle line weights up to 30 lbs. and cast 4 1/2 oz. lures!
+
+Remember with balanced tackle outfits the main consideration is the lure weight--what you are going to be *casting* determines what rod, reel, and line will work best. And backing up a bit more to actual field conditions, what species and size fish you are after determines what lures you will be using.
 
 [References](references.md)

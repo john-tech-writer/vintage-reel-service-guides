@@ -1,24 +1,5 @@
 # Fly Reels
 
-The two main types of fly reels are manual and automatic, but there are also several variation on these basic designs. Manual fly reels are, at their most basic, a simple spool. Automatic fly reels contain a spring, like a very large watch spring, which retrieves the line. This diagram shows the various types of fly reels and their relationships.
-
-## Fly Reel Chart with Examples
-
-```mermaid
-
-flowchart TD
-  A[Fly Reels]
-  A --> B[automatic]
-  A --> C[manual or single-action]
-
-  B --> B1[Shakespeare Silent Tru-arT linked service guide]
-  click B1 "/vintage-reel-service-guides/shakespeare/shakespeare-silent-tru-art-service-guide/"
-
-  C --> C1[need example]
-```
-
-*(Nodes labeled "linked service guide" have an associated guide.)*
-
-**Shakespeare:** The Silent Tru-arT automatic fly reel.
+The two main types of fly reels are manual, or single-action, and automatic, but there are also several variation on these two main types. Manual fly reels are, at their most basic, a simple spool. Automatic fly reels contain a spring, like a very large watch spring, which retrieves the line, like the [Shakespeare Silent Tru-arT automatic fly reel](shakespeare/shakespeare-silent-tru-art-service-guide.md).
 
 [References](references.md)

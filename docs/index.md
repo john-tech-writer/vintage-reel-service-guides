@@ -47,3 +47,5 @@ Each service guide provides step-by-step illustrated procedures for disassemblin
 [South Bend 550 Service Guide](south-bend/south-bend-550-service-guide.md): The 550 is an ultra-light or sporty baitcasting reel.
 
 [Ted Williams/Sears 440 Service Guide](sears/sears-440-service-guide.md): The 440 is a light to medium open-face, full-bail spinning reel.
+
+[Zebco 33 Service Guide](zebco/zebco-33-service-guide.md): The Zebco 33 is a light to medium spincast reel,*the* iconic spincast, or "push-button" reel.

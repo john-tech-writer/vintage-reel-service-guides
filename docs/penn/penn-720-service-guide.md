@@ -67,8 +67,6 @@ lb. test | yds.
 
 **Lure weights:** 1/8--1/2 oz.
 
-**Dimensions:**
-
 **Materials:** The 720's housing and rotor cup are made of steel, as is the main gear; the rest of the gears are mostly brass. The crosswind block and drag cap are made of white plastic. The spool is made of aluminum.
 
 **History, models, years, and variations:** The 720 was introduced in 1968 and Penn ended production in 1978. These early 700-series reels were finished in either blue (like the 720) or green (the "greenies," like the 722, which differed from their blue counterparts only in that they used a bearing rather than a bushing--this made the action a bit smoother.

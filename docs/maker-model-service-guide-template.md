@@ -2,7 +2,7 @@
 
 ## Overview
 
-Reel type, history, part of a series, what it's for.
+Reel type, models/variations, history, part of a series, what it's for. For case, gears, spool, any plastic parts, finish.
 
 Image of reel from front angled to show handle side.
 
@@ -17,6 +17,8 @@ If the embedded video doesn't work you can [Watch the maker and model overview o
 Image of reel from front angled to show other side.
 
 These reels are [something about the reel, how commonly it is used today]. This guide shows you how to disassemble, clean, lubricate, and reassemble the [Maker Model]. For more complete background on the very wide range of reels in [the series if there is one, similar reels], see [series or related reels](series.md).
+
+## Variations
 
 **Similar Models:**
 
@@ -41,14 +43,6 @@ lb. test | yds.
 **Weight:** oz.
 
 **Gear ratio:** 
-
-**Rod length/action:** 
-
-**Lure weights:** 
-
-**Materials:** For case, gears, spool, any plastic parts, finish.
-
-**History, models, years, and variations:** 
 
 **Typical issues:**
 

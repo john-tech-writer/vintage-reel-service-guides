@@ -20,7 +20,7 @@ The following video provides a very brief overview of the Penn 720.
   <iframe
     width="560"
     height="315"
-    src="https://www.youtube.com/embed/I_GaHU_zz9Y"
+    src="https://youtu.be/2c1ZWjAN6yU"
     title="Penn 720 Overview"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

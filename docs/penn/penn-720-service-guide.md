@@ -14,7 +14,7 @@ The 720's housing and rotor cup are made of steel, as is the main gear; the rest
 
 ![Penn 720--Front Left](../../img/penn/720/penn-720-front-left.jpg)
 
-The following video provides a very brief overview of the Penn 720.
+The following video provides a brief overview of the Penn 720.
 
 <div style="aspect-ratio: 16 / 9;">
   <iframe
@@ -28,8 +28,18 @@ The following video provides a very brief overview of the Penn 720.
   </iframe>
 </div>
 
-If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTube](https://youtu.be/2c1ZWjAN6yU").
+If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTube](https://youtu.be/2c1ZWjAN6yU).
 *If the videos are not working, you can try changing your browser security settings and/or your VPN settings, if you use a VPN.*
+
+The following videos provide a full walkthrough of servicing a Penn 720. Use the step‑by‑step photos and instructions that follow the videos while you work.
+
+[Service--Part 1 of 3: Disassembling the Housing](https://youtu.be/y7BL6ELa-p4)
+
+[Service--Part 2 of 3: Disassembling the Gears](https://youtu.be/wXQH5phQCzg)
+
+[Service--Part 3 of 3: Reassembly and Testing](https://youtu.be/m2hmNXakdD8)
+
+[Cleaning and Lubrication for Vintage Reels](https://youtu.be/LsqoT7lD7cw)
 
 These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
 
@@ -117,7 +127,11 @@ If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTu
 
 ### Disassembling the Housing
 
+Video: 01:25 [Disassembling the housing](https://youtu.be/y7BL6ELa-p4?t=85")
+
 1. Remove the drag cap by turning it clockwise.
+
+Video: 01:34 Removing the drag cap, spool, and handle
 
     All directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod.
 
@@ -144,6 +158,8 @@ If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTu
 
 4. Remove the single screw that secures the housing plate.
 
+Video: 02:11 Removing the housing plate
+
     ![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1.jpg)
 
      A short-handled screwdriver is useful for working on large screws like this one.
@@ -164,6 +180,8 @@ If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTu
 
 6. Remove the crosswind connector.
 
+Video: 02:47 Removing the crosswind block and spool shaft
+
     ![Penn 720--Removing Crosswind Connector](../../img/penn/720/penn-720-removing-crosswind-connector.jpg)
 
     Use a pair of needle-nose pliers to pull the connector straight out.
@@ -179,6 +197,8 @@ If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTu
     ![Penn 720--Removing Crosswind Block](../../img/penn/720/penn-720-removing-crosswind-block.jpg)
 
 9. Remove the rotor cup.
+
+Video: 03:22 Removing the rotor cup
 
     ![Penn 720--Removing Rotor Cup](../../img/penn/720/penn-720-removing-rotor-cup.jpg)
 

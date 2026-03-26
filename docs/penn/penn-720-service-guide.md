@@ -14,8 +14,7 @@ The 720's housing and rotor cup are made of steel, as is the main gear; the rest
 
 ![Penn 720--Front Left](../../img/penn/720/penn-720-front-left.jpg)
 
-The following video provides a brief overview of the Penn 720.
-
+[Brief overview of the Penn 720](https://youtu.be/2c1ZWjAN6yU).
 <div style="aspect-ratio: 16 / 9;">
   <iframe
     width="560"
@@ -27,11 +26,11 @@ The following video provides a brief overview of the Penn 720.
     allowfullscreen>
   </iframe>
 </div>
-If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTube](https://youtu.be/2c1ZWjAN6yU).
 *If the embedded videos are not working, you can try changing your browser security settings and/or your VPN settings, if you use a VPN.*
 
 The following videos provide a full walkthrough of servicing a Penn 720. Use the step‑by‑step photos and instructions that follow the videos while you work.
 
+[Service--Part 1 of 3: Disassembling the Housing](https://youtu.be/y7BL6ELa-p4)
 <div style="aspect-ratio: 16 / 9;">
   <iframe
     width="560"
@@ -43,8 +42,8 @@ The following videos provide a full walkthrough of servicing a Penn 720. Use the
     allowfullscreen>
   </iframe>
 </div>
-[Service--Part 1 of 3: Disassembling the Housing](https://youtu.be/y7BL6ELa-p4)
 
+[Service--Part 2 of 3: Disassembling the Gears](https://youtu.be/wXQH5phQCzg)
 <div style="aspect-ratio: 16 / 9;">
   <iframe
     width="560"
@@ -56,8 +55,8 @@ The following videos provide a full walkthrough of servicing a Penn 720. Use the
     allowfullscreen>
   </iframe>
 </div>
-[Service--Part 2 of 3: Disassembling the Gears](https://youtu.be/wXQH5phQCzg)
 
+[Service--Part 3 of 3: Reassembly and Testing](https://youtu.be/m2hmNXakdD8)
 <div style="aspect-ratio: 16 / 9;">
   <iframe
     width="560"
@@ -69,8 +68,8 @@ The following videos provide a full walkthrough of servicing a Penn 720. Use the
     allowfullscreen>
   </iframe>
 </div>
-[Service--Part 3 of 3: Reassembly and Testing](https://youtu.be/m2hmNXakdD8)
 
+[Cleaning and Lubrication for Vintage Reels](https://youtu.be/LsqoT7lD7cw)
 <div style="aspect-ratio: 16 / 9;">
   <iframe
     width="560"
@@ -82,7 +81,6 @@ The following videos provide a full walkthrough of servicing a Penn 720. Use the
     allowfullscreen>
   </iframe>
 </div>
-[Cleaning and Lubrication for Vintage Reels](https://youtu.be/LsqoT7lD7cw)
 
 These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
 

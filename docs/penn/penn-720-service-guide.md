@@ -33,6 +33,18 @@ If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTu
 
 The following videos provide a full walkthrough of servicing a Penn 720. Use the step‑by‑step photos and instructions that follow the videos while you work.
 
+<div style="aspect-ratio: 16 / 9;">
+  <iframe
+    width="560"
+    height="315"
+    src="https://youtube.com/embed/y7BL6ELa-p4"
+    title="Penn 720 Overview"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 [Service--Part 1 of 3: Disassembling the Housing](https://youtu.be/y7BL6ELa-p4)
 
 [Service--Part 2 of 3: Disassembling the Gears](https://youtu.be/wXQH5phQCzg)

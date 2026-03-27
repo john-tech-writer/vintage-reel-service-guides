@@ -14,7 +14,7 @@ The 720's housing and rotor cup are made of steel, as is the main gear; the rest
 
 ![Penn 720--Front Left](../../img/penn/720/penn-720-front-left.jpg)
 
-Watch on YouTube: [Penn 720 - Overview](https://youtu.be/2c1ZWjAN6yU).
+Watch on YouTube: [Penn 720 - Overview](https://youtu.be/2c1ZWjAN6yU)
 <a href="https://www.youtube.com/watch?v=2c1ZWjAN6yU" target="_blank" rel="noopener">
   <img
     src="https://img.youtube.com/vi/2c1ZWjAN6yU/hqdefault.jpg"
@@ -124,36 +124,32 @@ Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vint
 
 If you just acquired the reel, [remove the line from the spool](../removing-adding-line.md). There is no way to determine the age or condition of the line on a newly acquired vintage reel, so it makes sense to start with new line as the final part of servicing a reel. This also allows you to inspect the arbor to determine what type of material it is made of (this will help date the reel) and clean it along with the rest of the parts.
 
-## Disassembly and Servicing
+## Parts of a Complete Service
 
-Since not all parts of a reel may need the same level of attention, the disassembly and servicing for the 720 is divided into the following sections:
+Since not all parts of a reel may need the same level of attention, the servicing for the 720 is divided into the following sections:
 
-**Housing and Gears:** On most reels this is a good place to start.
+**Disassembling the Housing** The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly--simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated hardened, old grease and contaiminants like sand and salt, go on to the next procedure.
 
-**Rotor Cup and Bail:** Since spinning reel bails are spring-loaded, they can be a bit more difficult to reassemble than the housing and gears. If the bail seems to work properly--it flips into the casting position easily, then springs back readily when retrieve is started--it may be best to simply use some reel oil to lubricate both points where the bail pivots on the rotor cup and the line roller and stop there.
+**Disassembling the Gears:** If the gears need cleaning, they will need to be disassembled, then cleaned and lubricated before reassembly.
 
-**Drag:** The drag mechanism on the 720 consists of a stack of washers in the spool, held in place by a retaining ring; like the bail, this may be a bit more challenging to remove and re-assemble, so it may be best to simply leave the drag alone if it appears to be working correctly.
+**Cleaning and Lubricating:** After disassembling the gears, all the parts, including the housing, should be cleaned and lubricated.
+
+**Reassembly and Testing:** As the reel is reassembled, various mini-tests can be performed along the way to catch any minor issues and avoid having to take the reel completely apart again. After the reel is completely reassembled there are several bench tests that should be performed to make sure it is ready for field use.
+
+**Bail:** Since spinning reel bails are spring-loaded, they can be a bit more difficult to reassemble than the housing and gears. If the bail seems to work properly--it flips into the casting position easily, then springs back readily when retrieve is started--it may be best to simply use some reel oil to lubricate both points where the bail pivots on the rotor cup and the line roller and stop there.
+
+**Drag:** The drag mechanism on the 720 consists of a stack of washers in the spool, held in place by a retaining ring; like the bail, this may be a bit more challenging to remove and re-assemble, so it may be best to simply leave the drag alone if it is working correctly.
 
 A good plan for the beginning vintage reel enthusiast could be to service the housing and gears, use the reel for a bit, then perform a second round of servicing for the bail and drag assemblies.
 
-The following video provides a very quick overview of the servicing procedures.
-
-If the embedded video doesn't work you can [Watch the Penn 720 overview on YouTube](https://www.youtube.com/watch?v=I_GaHU_zz9Y").
-*If the videos are not working, you can try changing your browser security settings and/or your VPN settings, if you use a VPN.*
-
 ### Disassembling the Housing
 
-Video: 01:25 [Disassembling the housing](https://youtu.be/y7BL6ELa-p4?t=85")
-
 1. Remove the drag cap by turning it clockwise.
-
-Video: 01:34 Removing the drag cap, spool, and handle
 
     All directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod.
 
     ![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1.jpg)
     ![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap2.jpg)
-
 
     This is a good time to inspect the plastic for cracks. That this example reel's drag cap has several minor cracks, which were [repaired with epoxy](docs/epoxy-repairs.md).
 
@@ -173,8 +169,6 @@ Video: 01:34 Removing the drag cap, spool, and handle
     ![Penn 720--Handle Removed](../../img/penn/720/penn-720-handle2.jpg)
 
 4. Remove the single screw that secures the housing plate.
-
-Video: 02:11 Removing the housing plate
 
     ![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1.jpg)
 
@@ -196,8 +190,6 @@ Video: 02:11 Removing the housing plate
 
 6. Remove the crosswind connector.
 
-Video: 02:47 Removing the crosswind block and spool shaft
-
     ![Penn 720--Removing Crosswind Connector](../../img/penn/720/penn-720-removing-crosswind-connector.jpg)
 
     Use a pair of needle-nose pliers to pull the connector straight out.
@@ -213,8 +205,6 @@ Video: 02:47 Removing the crosswind block and spool shaft
     ![Penn 720--Removing Crosswind Block](../../img/penn/720/penn-720-removing-crosswind-block.jpg)
 
 9. Remove the rotor cup.
-
-Video: 03:22 Removing the rotor cup
 
     ![Penn 720--Removing Rotor Cup](../../img/penn/720/penn-720-removing-rotor-cup.jpg)
 
@@ -330,4 +320,4 @@ This assembly consists of a series of washers stacked into the spool. The drag w
 
 ### References
 
-Penn Reel Production Archive.
+[References](references.md)

@@ -22,41 +22,6 @@ Watch on YouTube: [Penn 720 - Overview](https://youtu.be/2c1ZWjAN6yU)
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
 
-The following videos provide a full walkthrough of servicing a Penn 720. Use the step‑by‑step photos and instructions that follow the videos while you work.
-
-Watch on YouTube:
-[Penn 720 - Quick Service - Part 1 of 3](https://youtu.be/y7BL6ELa-p4)
-<a href="https://www.youtube.com/watch?v=y7BL6ELa-p4" target="_blank" rel="noopener">
-  <img
-    src="https://img.youtube.com/vi/y7BL6ELa-p4/hqdefault.jpg"
-    alt="Penn 720 Overview video"
-    style="max-width: 100%; height: auto; cursor: pointer;">
-</a>
-
-[Penn 720 - Quick Service - Part 2 of 3](https://youtu.be/wXQH5phQCzg)
-<a href="https://www.youtube.com/watch?v=wXQH5phQCzg" target="_blank" rel="noopener">
-  <img
-    src="https://img.youtube.com/vi/wXQH5phQCzg/hqdefault.jpg"
-    alt="Penn 720 Overview video"
-    style="max-width: 100%; height: auto; cursor: pointer;">
-</a>
-
-[Penn 720 - Quick Service - Part 3 of 3](https://youtu.be/m2hmNXakdD8)
-<a href="https://www.youtube.com/watch?v=m2hmNXakdD8" target="_blank" rel="noopener">
-  <img
-    src="https://img.youtube.com/vi/m2hmNXakdD8/hqdefault.jpg"
-    alt="Penn 720 Overview video"
-    style="max-width: 100%; height: auto; cursor: pointer;">
-</a>
-
-[Cleaning and Lubrication for Vintage Reels](https://youtu.be/LsqoT7lD7cw)
-<a href="https://www.youtube.com/watch?v=LsqoT7lD7cw" target="_blank" rel="noopener">
-  <img
-    src="https://img.youtube.com/vi/LsqoT7lD7cw/hqdefault.jpg"
-    alt="Penn 720 Overview video"
-    style="max-width: 100%; height: auto; cursor: pointer;">
-</a>
-
 These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
 
 ![Penn 720--Front Right](../../img/penn/720/penn-720-front-right.jpg)
@@ -129,12 +94,40 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 Since not all parts of a reel may need the same level of attention, the servicing for the 720 is divided into the following sections:
 
 **Disassembling the Housing** The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly--simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated hardened, old grease and contaiminants like sand and salt, go on to the next procedure.
+Watch on YouTube: [Penn 720 - Quick Service - Part 1 of 3](https://youtu.be/y7BL6ELa-p4)
+<a href="https://www.youtube.com/watch?v=y7BL6ELa-p4" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/y7BL6ELa-p4/hqdefault.jpg"
+    alt="Penn 720 Overview video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
 
 **Disassembling the Gears:** If the gears need cleaning, they will need to be disassembled, then cleaned and lubricated before reassembly.
+Watch on YouTube: [Penn 720 - Quick Service - Part 2 of 3](https://youtu.be/wXQH5phQCzg)
+<a href="https://www.youtube.com/watch?v=wXQH5phQCzg" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/wXQH5phQCzg/hqdefault.jpg"
+    alt="Penn 720 Overview video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
 
 **Cleaning and Lubricating:** After disassembling the gears, all the parts, including the housing, should be cleaned and lubricated.
+Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/LsqoT7lD7cw)
+<a href="https://www.youtube.com/watch?v=LsqoT7lD7cw" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/LsqoT7lD7cw/hqdefault.jpg"
+    alt="Penn 720 Overview video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
 
 **Reassembly and Testing:** As the reel is reassembled, various mini-tests can be performed along the way to catch any minor issues and avoid having to take the reel completely apart again. After the reel is completely reassembled there are several bench tests that should be performed to make sure it is ready for field use.
+Watch on YouTube: [Penn 720 - Quick Service - Part 3 of 3](https://youtu.be/m2hmNXakdD8)
+<a href="https://www.youtube.com/watch?v=m2hmNXakdD8" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/m2hmNXakdD8/hqdefault.jpg"
+    alt="Penn 720 Overview video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
 
 **Bail:** Since spinning reel bails are spring-loaded, they can be a bit more difficult to reassemble than the housing and gears. If the bail seems to work properly--it flips into the casting position easily, then springs back readily when retrieve is started--it may be best to simply use some reel oil to lubricate both points where the bail pivots on the rotor cup and the line roller and stop there.
 

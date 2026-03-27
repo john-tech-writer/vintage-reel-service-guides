@@ -209,7 +209,7 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     ![Penn 720--Rotor Cup Removed](../../img/penn/720/penn-720-rotor-cup-removed.jpg)
 
-### Disassembling the Gears, Cleaning, and Lubricating
+### Disassembling the Gears
 
 1. Remove the pinion gear screw.
 
@@ -243,21 +243,27 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     ![Penn 720--Removing Thrust Washer](../../img/penn/720/penn-720-removing-thrust-washer.jpg)
 
-7. Clean the gears and inside of housing.
+    You are now ready to clean and lubricate the gears and housing.
+
+### Cleaning and Lubricating
+
+1. Clean the gears and inside of housing.
 
     ![Penn 720--Cleaning Gears](../../img/penn/720/penn-720-cleaning-gears.jpg)
 
     See the [Basic Cleaning and Lubricating Procedures](cleaning-lubricating.md)
 
-8. Grease the gears and the main gear and spool shafts.
+2 Lubricate the gears with grease and all other lubrications points with oil.
 
     ![Penn 720--Greasing Gears](../../img/penn/720/penn-720-greasing-gears.jpg)
+
+    **Note!** The grease and oil you use should be specifically for fishing reels.
 
     See the [Basic Cleaning and Lubricating Procedures](cleaning-lubricating.md
 
     You are now ready to re-assemble the gears and housing.
 
-## Re-Assembling the Housing and Gears
+## Reassembly and Testing
 
 To re-assemble the reel you basically just perform the disassembly steps in reverse order. There are, however, a couple of additional details to note that will make re-assembly go more smoothly.
 
@@ -306,6 +312,25 @@ When replacing the housing plate: Make sure it is seated tightly against the hou
 When replacing the spool: Apply a few drops of reel oil to the spool shaft behind the click ratchet and at the point where the spool revolves on the shaft. Rotate it clockwise until it clicks and pushes all the way in.
 
     ![Penn 720--Replacing Spool](../../img/penn/720/penn-720-replacing-spool.jpg)
+
+    You can now do some final testing of the overall functioning of the reel.
+
+## Testing
+
+You should perform several general functional tests before taking the reel into the field. The main things to check:
+
+1. With the anti-reverse **off**: Make sure the handle turns smoothly in both directions.
+
+2. With the anti-reverse **engaged**: Make sure the handle will not turn backwards. Also make sure you can hear the clicker.
+
+4. Make sure the rotor turns smoothly.
+
+5. Make sure the bail flips correctly--easily flips manually into casting position, then when the handle is cranked, flips crisply back into retrieve position.
+
+If all this works, you can call it ready to fish.
+
+Any tight spots or noises at this stage tell you to stop and recheck your work before calling the service complete. Go back through the service procedures as necessary to troubleshoot.
+
 
 ## Servicing the Rotor Cup and Bail
 

@@ -31,30 +31,30 @@ The 720's housing and rotor cup are made of steel, as is the main gear; the rest
 The following videos provide a full walkthrough of servicing a Penn 720. Use the step‑by‑step photos and instructions that follow the videos while you work.
 
 [Service--Part 1 of 3: Disassembling the Housing](https://youtu.be/y7BL6ELa-p4)
-<div style="aspect-ratio: 16 / 9;">
-  <iframe
-    width="560"
-    height="315"
-    src="https://youtube.com/embed/y7BL6ELa-p4"
-    title="Penn 720 Overview"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+<a href="https://www.youtube.com/watch?v=y7BL6ELa-p4" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/y7BL6ELa-p4/hqdefault.jpg"
+    alt="Penn 720 Overview video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
 
 [Service--Part 2 of 3: Disassembling the Gears](https://youtu.be/wXQH5phQCzg)
-<div style="aspect-ratio: 16 / 9;">
-  <iframe
-    width="560"
-    height="315"
-    src="https://youtube.com/embed/wXQH5phQCzg"
-    title="Penn 720 Overview"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+<a href="https://www.youtube.com/watch?v=wXQH5phQCzg" target="_blank" rel="noopener"
+   style="position: relative; display: inline-block;">
+  <img
+    src="https://img.youtube.com/vi/wXQH5phQCzg/hqdefault.jpg"
+    alt="Penn 720 Overview video"
+    style="display: block; max-width: 100%; height: auto;">
+  <span style="
+    position:absolute;
+    top:50%; left:50%;
+    transform:translate(-50%, -50%);
+    width:64px; height:64px;
+    border-radius:50%;
+    background:rgba(0,0,0,0.6);
+  ">
+  </span>
+</a>
 
 [Service--Part 3 of 3: Reassembly and Testing](https://youtu.be/m2hmNXakdD8)
 <div style="aspect-ratio: 16 / 9;">

@@ -48,7 +48,7 @@ The handle can be rotated for storage by loosening the nut at the base.
 
 ![Penn 720--Anti-Reverse and Handle in Storage Position](../../img/penn/720/penn-720-anti-rev-handle.jpg)
 
-## Specifications
+### Specifications
 
 **Technical documents:** [Schematics](../schematics.md) and other useful information on servicing and using this reel are included in the Penn Reels Instruction Manual.
 
@@ -83,13 +83,13 @@ Rod | Line lb. test | Lures oz.
 
 If you already have your workspace set up and your tools and materials on hand, the evaluation and servicing might take around 3 hours, assuming you are a beginner and are proceeding at a leisurely pace (a good idea when first starting; don't be in a hurry). More experience will result in a considerably shorter timeframe.
 
-## Before You Begin
+## Service - Before You Begin
 
 Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison.
 
 If you just acquired the reel, [remove the line from the spool](../removing-adding-line.md). There is no way to determine the age or condition of the line on a newly acquired vintage reel, so it makes sense to start with new line as the final part of servicing a reel. This also allows you to inspect the arbor to determine what type of material it is made of (this will help date the reel) and clean it along with the rest of the parts.
 
-## Parts of a Complete Service
+### Parts of a Complete Service
 
 Since not all parts of a reel may need the same level of attention, the servicing for the 720 is divided into the following sections. Watching the YouTube videos is a good way to get an overall feel for the procedure--the step-by-step illustrated instructions that follow are useful at the bench as you work in the reel for specifics.
 
@@ -259,11 +259,11 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     **Note!** The grease and oil you use should be specifically for fishing reels.
 
-    See the [Basic Cleaning and Lubricating Procedures](cleaning-lubricating.md
+    See the [Basic Cleaning and Lubricating Procedures](cleaning-lubricating.md)
 
     You are now ready to re-assemble the gears and housing.
 
-## Reassembly and Testing
+### Reassembly and Testing
 
 To re-assemble the reel you basically just perform the disassembly steps in reverse order. There are, however, a couple of additional details to note that will make re-assembly go more smoothly.
 
@@ -279,17 +279,23 @@ When replacing the crosswind block:
 
     Under a strong light, pull the spool shaft forward until the holes in the shaft line up roughly with the holes in the crosswind block. You will be able to see this with a strong enough light source.
 
-3. Apply a light coating of grease to the crosswind connector and slide it into the holes in the crosswind block, then on into the holes in the spool shaft--this may require a bit of back-and-forth with the spool shaft and working the connector back and forth with your fingertip. A little finesse and patience is required for this move. Either side of the connector should fit in either hole in the block, but if it does not fit easily one way, flip it around and try it the other way.  When the connector is fully inserted it will fit flush with the top of the block.
+3. Apply a light coating of grease to the crosswind connector and slide it into the holes in the crosswind block, then on into the holes in the spool shaft--this may require a bit of back-and-forth with the spool shaft and working the connector back and forth with your fingertip.
+
+A little finesse and patience is required for this move. Either side of the connector should fit in either hole in the block, but if it does not fit easily one way, flip it around and try it the other way.  When the connector is fully inserted it will fit flush with the top of the block.
 
     ![Penn 720--Replacing Crosswind Block Connector](../../img/penn/720/penn-720-replacing-crosswind-block-connector.jpg)
 
 When replacing the dog and spring:
 
-1. Make sure round section of the spring is seated correctly in the round opening in the dog. Apply a light coating of grease to the dog/spring. Flip the eccentric lever toward the back of the housing--you will see the eccentric (the small brass semicircle) rotate so that the flat side is positioned toward the front of the housing. Press the dog/spring onto the center nib at the back of the housing. Make sure the long section of the spring presses against the back of the housing. See the pencil point in the following image. In this position the anti-reverse and clicker are disengaged.
+1. Make sure round section of the spring is seated correctly in the round opening in the dog. Apply a light coating of grease to the dog/spring. Flip the eccentric lever toward the back of the housing--you will see the eccentric (the small brass semicircle) rotate so that the flat side is positioned toward the front of the housing.
+
+Press the dog/spring onto the center nib at the back of the housing. Make sure the long section of the spring presses against the back of the housing. See the pencil point in the following image. In this position the anti-reverse and clicker are disengaged.
 
     ![Penn 720--Dog Disengaged](../../img/penn/720/penn-720-dog-disengaged.jpg)
 
-2. Flip the eccentric lever toward the front of the housing. See the pencil point in the following image. The eccentric should rotate so that the flat side turns toward the dog and allows the spring to rotate the dog clockwise--this is the engaged position for the anti-reverse. When in this position the dog engages with the brass teeth on the back side of the main gear to prevent the handle from turning in reverse.
+2. Flip the eccentric lever toward the front of the housing. See the pencil point in the following image. The eccentric should rotate so that the flat side turns toward the dog and allows the spring to rotate the dog clockwise--this is the engaged position for the anti-reverse.
+
+When in this position the dog engages with the brass teeth on the back side of the main gear to prevent the handle from turning in reverse.
 
 The dog/spring assembly actually serves two functions: When engaged, it not only prevents the handle from turning in reverse, but also serves as the "clicker" when retrieving--the long part of the spring clicks against the back of the housing during retrieve. If the spring does not contact the back of the housing it can be **gently** bent a little so that it does make contact.
 
@@ -313,11 +319,7 @@ When replacing the spool: Apply a few drops of reel oil to the spool shaft behin
 
     ![Penn 720--Replacing Spool](../../img/penn/720/penn-720-replacing-spool.jpg)
 
-    You can now do some final testing of the overall functioning of the reel.
-
-## Testing
-
-You should perform several general functional tests before taking the reel into the field. The main things to check:
+You can now perform several general functional tests before taking the reel into the field. The main things to check:
 
 1. With the anti-reverse **off**: Make sure the handle turns smoothly in both directions.
 
@@ -331,15 +333,14 @@ If all this works, you can call it ready to fish.
 
 Any tight spots or noises at this stage tell you to stop and recheck your work before calling the service complete. Go back through the service procedures as necessary to troubleshoot.
 
-
-## Servicing the Rotor Cup and Bail
+### Servicing the Rotor Cup and Bail
 
 The bail relies on a spring to flip it into the retrieve position, and springs can be a bit challenging to re-insert properly after disassembly. So, if the bail seems to be working correctly it may be best to simply apply a few drops of reel oil at both points where the bail pivot on the rotor cup, and on the line roller.
 
-## Servicing the Spool and Drag Assembly
+### Servicing the Spool and Drag Assembly
 
 This assembly consists of a series of washers stacked into the spool. The drag washers are held in place by a spring, and may not need servicing. If the drag seems to be working correctly it may be best to simply leave it alone.
 
-### References
+## References
 
 [References](references.md)

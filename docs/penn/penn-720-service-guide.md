@@ -323,7 +323,10 @@ You can now perform several general functional tests before taking the reel into
 
 1. With the anti-reverse **off**: Make sure the handle turns smoothly in both directions.
 
-2. With the anti-reverse **engaged**: Make sure the handle will not turn backwards. Also make sure you can hear the clicker.
+
+2. With the anti-reverse **engaged**: Make sure the handle will not turn backwards.
+
+3. With the anti-reverse **engaged**: Make sure you can hear the clicker.
 
 4. Make sure the rotor turns smoothly.
 

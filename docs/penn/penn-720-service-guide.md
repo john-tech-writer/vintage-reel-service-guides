@@ -24,7 +24,7 @@ Watch on YouTube: [Penn 720 - Overview](https://youtu.be/2c1ZWjAN6yU)
 
 These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
 
-![Penn 720--Front Right](../../img/penn/720/penn-720-front-right.jpg)
+![Penn 720--Front Right](../img/penn/720/penn-720-front-right.jpg)
 
 **Similar Models:** The Penn 722 (not pictured) is basically the same reel with a few minor upgrades, the most important mechanical difference being that the 722 uses a ball bearing on the main shaft --the 720 uses a brass bushing. The practical implication is that the 722 has a bit smoother cranking action. In terms of appearance, the 722 is finished in light green (known to enthusiasts as a "greenie")-- the 720 is finished in a light metallic blue.
 
@@ -34,7 +34,7 @@ The small strips of painter's tape holding the line in place on the spool mainta
 
 **The Badge:** This varies depending on the year of production. The example reel here has the earlier badge design. Later reels changed to a more text-oriented design. This also shows the remarkable condition of the original light blue metallic finish, which (in 2026) is around 75 years old!
 
-![Penn 720--Badge](../../img/penn/720/penn-720-badge.jpg)
+![Penn 720--Badge](../img/penn/720/penn-720-badge.jpg)
 
 **Features and Controls:** The 720 is a very simple design with a few interesting exterior features.
 
@@ -42,11 +42,11 @@ The white plastic drag cap on the front of the spool is simply twisted to apply 
 
 The eccentric lever has two positions; in one the anti-reverse and clicker are engaged, in the other the retrieve is silent. In this location, directly below the handle, it is easily engaged when a fish strikes to prevent the handle from revolving backwards.
 
-![Penn 720--Anti-Reverse](../../img/penn/720/penn-720-anti-rev.jpg)
+![Penn 720--Anti-Reverse](../img/penn/720/penn-720-anti-rev.jpg)
 
 The handle can be rotated for storage by loosening the nut at the base.
 
-![Penn 720--Anti-Reverse and Handle in Storage Position](../../img/penn/720/penn-720-anti-rev-handle.jpg)
+![Penn 720--Anti-Reverse and Handle in Storage Position](../img/penn/720/penn-720-anti-rev-handle.jpg)
 
 ### Specifications
 
@@ -145,103 +145,103 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     All directions assume you are looking at the front of the reel, with the reel upright--foot up--as it would be mounted on a rod.
 
-    ![Penn 720--Removing Drag Cap](../../img/penn/720/penn-720-drag-cap1.jpg)
-    ![Penn 720--Drag Cap Removed](../../img/penn/720/penn-720-drag-cap2.jpg)
+    ![Penn 720--Removing Drag Cap](../img/penn/720/penn-720-drag-cap1.jpg)
+    ![Penn 720--Drag Cap Removed](../img/penn/720/penn-720-drag-cap2.jpg)
 
     This is a good time to inspect the plastic for cracks. That this example reel's drag cap has several minor cracks, which were [repaired with epoxy](docs/epoxy-repairs.md).
 
     **Variations:** On this example 720 cap the plastic completely surrounds the brass inner cap; the design varied with different manufacture years, so that on some caps more of the brass inner cap is exposed--these all appear to be interchangeable. The drag cap is a part that is subject to wear. Some damage can be repaired; in other cases it may be necessary to locate a parts reel, and since these reels are relatively common it is also possible to find just the drag caps, used as well as newly manufactured. eBay is generally a good starting point for most parts.
 
-    ![Penn 720--Spool and Drag Cap Removed](../../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
+    ![Penn 720--Spool and Drag Cap Removed](../img/penn/720/penn-720-spool-drag-cap-removed.jpg)
 
 2. Remove the spool by pulling straight out.
 
-    ![Penn 720--Spool Removed](../../img/penn/720/penn-720-spool.jpg)
+    ![Penn 720--Spool Removed](../img/penn/720/penn-720-spool.jpg)
 
     This is a good time to inspect the drag and click mechanism on the inside of the spool. If it is possible to obtain one or two extra spools, for example, by purchasing parts reels, those will prove useful for keeping several pound-tests of line handy for quick changes in the field. Another option to consider with the 720 and the other Penn Spinfishers would be to obtain the sister model reel (in this case, the 722)--this would provide you with two spools which could be shared between the reels and the slightly different experience of the bearing-equipped reel versus the bushing- equipped 720.
 
 3. Remove the handle by turning it clockwise (with the handle side of the reel facing you)--opposite to the direction you turn it to reel in line.
 
-    ![Penn 720--Removing Handle](../../img/penn/720/penn-720-handle1.jpg)
-    ![Penn 720--Handle Removed](../../img/penn/720/penn-720-handle2.jpg)
+    ![Penn 720--Removing Handle](../img/penn/720/penn-720-handle1.jpg)
+    ![Penn 720--Handle Removed](../img/penn/720/penn-720-handle2.jpg)
 
 4. Remove the single screw that secures the housing plate.
 
-    ![Penn 720--Removing Housing Plate Screw](../../img/penn/720/penn-720-housing-plate1.jpg)
+    ![Penn 720--Removing Housing Plate Screw](../img/penn/720/penn-720-housing-plate1.jpg)
 
      A short-handled screwdriver is useful for working on large screws like this one.
 
 5. Pry the housing plate from the main housing.
 
-    ![Penn 720--Removing Housing Plate](../../img/penn/720/penn-720-housing-plate2.jpg)
+    ![Penn 720--Removing Housing Plate](../img/penn/720/penn-720-housing-plate2.jpg)
 
     On some reels the plate may be stuck in place. Do not attempt to pry these apart with a screwdriver, which is likely to slip and damage the finish. Use your thumbnail or a thin blade and work it carefully under into the gap between the two parts; eventually it should pop off.
 
-    ![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate3.jpg)
+    ![Penn 720--Housing Plate Removed](../img/penn/720/penn-720-housing-plate3.jpg)
 
     You can now see the main gear and associated parts. This is a good time to inspect the overall condition of the gears, the accumulation of old lubricants, etc.
 
     This example reel has already been disassembled, serviced, and reassembled, so the gears are very clean. The same reel before servicing shows accumulated old grease, which hardens and can impair function. It is not possible to know what sorts of lubricants have been applied over a particular reel's lifetime, so it is best to clean all the parts and start fresh with the correct [lubricants](../tools-materials.md).
 
-    ![Penn 720--Housing Plate Removed](../../img/penn/720/penn-720-housing-plate-removed.jpg)
+    ![Penn 720--Housing Plate Removed](../img/penn/720/penn-720-housing-plate-removed.jpg)
 
 6. Remove the crosswind connector.
 
-    ![Penn 720--Removing Crosswind Connector](../../img/penn/720/penn-720-removing-crosswind-connector.jpg)
+    ![Penn 720--Removing Crosswind Connector](../img/penn/720/penn-720-removing-crosswind-connector.jpg)
 
     Use a pair of needle-nose pliers to pull the connector straight out.
 
 7. Remove the spool shaft.
 
-    ![Penn 720--Removing Spool Shaft](../../img/penn/720/penn-720-removing-spool-shaft.jpg)
+    ![Penn 720--Removing Spool Shaft](../img/penn/720/penn-720-removing-spool-shaft.jpg)
 
     Pull the spool shaft out through the front of the rotor cup.
 
 8. Remove the crosswind block.
 
-    ![Penn 720--Removing Crosswind Block](../../img/penn/720/penn-720-removing-crosswind-block.jpg)
+    ![Penn 720--Removing Crosswind Block](../img/penn/720/penn-720-removing-crosswind-block.jpg)
 
 9. Remove the rotor cup.
 
-    ![Penn 720--Removing Rotor Cup](../../img/penn/720/penn-720-removing-rotor-cup.jpg)
+    ![Penn 720--Removing Rotor Cup](../img/penn/720/penn-720-removing-rotor-cup.jpg)
 
     Use a 3/8" socket wrench. Hold the rotor cup while turning the wrench.
 
-    ![Penn 720--Rotor Cup Removed](../../img/penn/720/penn-720-rotor-cup-removed.jpg)
+    ![Penn 720--Rotor Cup Removed](../img/penn/720/penn-720-rotor-cup-removed.jpg)
 
 ### Disassembling the Gears
 
 1. Remove the pinion gear screw.
 
-    ![Penn 720--Removing Pinion Gear Screw](../../img/penn/720/penn-720-removing-pinion-gear-screw.jpg)
+    ![Penn 720--Removing Pinion Gear Screw](../img/penn/720/penn-720-removing-pinion-gear-screw.jpg)
 
     Optionally you can just loosen the screw enough to remove the pinion gear.
 
 2. Remove the pinion gear.
 
-    ![Penn 720--Removing Pinion Gear](../../img/penn/720/penn-720-removing-pinion-gear.jpg)
+    ![Penn 720--Removing Pinion Gear](../img/penn/720/penn-720-removing-pinion-gear.jpg)
 
     Pull the pinion gear straight out. You may need to rotate the pinion and/or the main gear slightly to disengage the teeth.
 
 3. Remove the main gear.
 
-    ![Penn 720--Removing Main Gear](../../img/penn/720/penn-720-removing-main-gear.jpg)
+    ![Penn 720--Removing Main Gear](../img/penn/720/penn-720-removing-main-gear.jpg)
 
 4. Remove the spool shaft sleeve.
 
-    ![Penn 720--Removing Spool Shaft Sleeve](../../img/penn/720/penn-720-removing-spool-shaft-sleeve.jpg)
+    ![Penn 720--Removing Spool Shaft Sleeve](../img/penn/720/penn-720-removing-spool-shaft-sleeve.jpg)
 
     The spool shaft sleeve is a short brass sleeve that the back end of the spool shaft fits into. Note that the front end of the sleeve has a slightly larger diameter flange than the back end--when re-assembling, remember that the smaller end goes first into the block at the back of the housing.
 
 5. Remove the dog and dog spring. Note! Before removing note the orientation of the dog/dog spring relative to the eccentric (the small brass semi-circle next to the dog)--this must be re-installed correctly for the anti-reverse to work correctly. It's a good idea to take a picture of it before removing.
 
-    ![Penn 720--Removing dog and dog spring](../../img/penn/720/penn-720-removing-dog-spring.jpg)
+    ![Penn 720--Removing dog and dog spring](../img/penn/720/penn-720-removing-dog-spring.jpg)
 
     Grasp the dog spring with a pair of tweezers and pull straight out. The spring is held in the circular opening in the dog by spring tension but is not attached--be careful not to lose these small parts. 
 
 6. Remove the thrust washer.
 
-    ![Penn 720--Removing Thrust Washer](../../img/penn/720/penn-720-removing-thrust-washer.jpg)
+    ![Penn 720--Removing Thrust Washer](../img/penn/720/penn-720-removing-thrust-washer.jpg)
 
     You are now ready to clean and lubricate the gears and housing.
 
@@ -271,11 +271,11 @@ When replacing the crosswind block:
 
 1. There is a small nib on the face of the main gear--the slot on the bottom of the crosswind block fits over that nib. First rotate the gear to position the nib towards the front of the housing, then set the crosswind block on top of it with the nib fitted into the slot.
 
-    ![Penn 720--Replacing Crosswind Block](../../img/penn/720/penn-720-replacing-crosswind-block.jpg)
+    ![Penn 720--Replacing Crosswind Block](../img/penn/720/penn-720-replacing-crosswind-block.jpg)
 
 2. There are two holes in the spool shaft--the crosswind connector fits into those holes after passing through the matching set of holes in the crosswind block. To align these holes correctly, first insert the spool shaft and position it so that the holes are facing up and are next to the crosswind block. See the pencil point in the following image.
 
-    ![Penn 720--Aligning Spool Shaft with Crosswind Block](../../img/penn/720/penn-720-aligning-shaft-block.jpg)
+    ![Penn 720--Aligning Spool Shaft with Crosswind Block](../img/penn/720/penn-720-aligning-shaft-block.jpg)
 
     Under a strong light, pull the spool shaft forward until the holes in the shaft line up roughly with the holes in the crosswind block. You will be able to see this with a strong enough light source.
 
@@ -291,7 +291,7 @@ When replacing the dog and spring:
 
     Press the dog/spring onto the center nib at the back of the housing. Make sure the long section of the spring presses against the back of the housing. See the pencil point in the following image. In this position the anti-reverse and clicker are disengaged.
 
-    ![Penn 720--Dog Disengaged](../../img/penn/720/penn-720-dog-disengaged.jpg)
+    ![Penn 720--Dog Disengaged](../img/penn/720/penn-720-dog-disengaged.jpg)
 
 2. Flip the eccentric lever toward the front of the housing. See the pencil point in the following image. The eccentric should rotate so that the flat side turns toward the dog and allows the spring to rotate the dog clockwise--this is the engaged position for the anti-reverse.
 
@@ -299,11 +299,11 @@ When replacing the dog and spring:
 
     The dog/spring assembly actually serves two functions: When engaged, it not only prevents the handle from turning in reverse, but also serves as the "clicker" when retrieving--the long part of the spring clicks against the back of the housing during retrieve. If the spring does not contact the back of the housing it can be **gently** bent a little so that it does make contact.
 
-    ![Penn 720--Dog Engaged](../../img/penn/720/penn-720-dog-engaged.jpg)
+    ![Penn 720--Dog Engaged](../img/penn/720/penn-720-dog-engaged.jpg)
 
 3. After completing the rest of the reel re-assembly make sure the eccentric screw is tight.
 
-    ![Penn 720--Tightening Eccentric Screw](../../img/penn/720/penn-720-tightening-eccentric-screw.jpg)
+    ![Penn 720--Tightening Eccentric Screw](../img/penn/720/penn-720-tightening-eccentric-screw.jpg)
 
     When replacing the main gear: Make sure the thrust washer is in place and that the gear seats all the way so that the back of the gear is flush with the back of the housing. With the anti-reverse disengaged, try turning the gear both clockwise and counter-clockwise; it should spin freely either way. If not, you may need to remove it and inspect the dog/spring assembly to make sure they are still seated properly.
 

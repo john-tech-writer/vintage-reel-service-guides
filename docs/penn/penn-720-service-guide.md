@@ -48,7 +48,7 @@ The handle can be rotated for storage by loosening the nut at the base.
 
 ![Penn 720--Anti-Reverse and Handle in Storage Position](../img/penn/720/penn-720-anti-rev-handle.jpg)
 
-### Specifications
+## Specifications
 
 **Technical documents:** [Schematics](../schematics.md) and other useful information on servicing and using this reel are included in the Penn Reels Instruction Manual.
 
@@ -83,7 +83,9 @@ Rod | Line lb. test | Lures oz.
 
 If you already have your workspace set up and your tools and materials on hand, the evaluation and servicing might take around 3 hours, assuming you are a beginner and are proceeding at a leisurely pace (a good idea when first starting; don't be in a hurry). More experience will result in a considerably shorter timeframe.
 
-## Service - Before You Begin
+## Service
+
+### Before You Begin
 
 Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison.
 
@@ -148,7 +150,7 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
     ![Penn 720--Removing Drag Cap](../img/penn/720/penn-720-drag-cap1.jpg)
     ![Penn 720--Drag Cap Removed](../img/penn/720/penn-720-drag-cap2.jpg)
 
-    This is a good time to inspect the plastic for cracks. That this example reel's drag cap has several minor cracks, which were [repaired with epoxy](docs/epoxy-repairs.md).
+    This is a good time to inspect the plastic for cracks. That this example reel's drag cap has several minor cracks, which were [repaired with epoxy](../epoxy-repairs.md).
 
     **Variations:** On this example 720 cap the plastic completely surrounds the brass inner cap; the design varied with different manufacture years, so that on some caps more of the brass inner cap is exposed--these all appear to be interchangeable. The drag cap is a part that is subject to wear. Some damage can be repaired; in other cases it may be necessary to locate a parts reel, and since these reels are relatively common it is also possible to find just the drag caps, used as well as newly manufactured. eBay is generally a good starting point for most parts.
 
@@ -251,15 +253,13 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     ![Penn 720--Cleaning Gears](../img/penn/720/penn-720-cleaning-gears.jpg)
 
-    See the [Basic Cleaning and Lubricating Procedures](cleaning-lubricating.md)
+    See the [Basic Cleaning and Lubricating Procedures](../cleaning-lubricating.md)
 
 2. Lubricate the gears with grease and all other lubrications points with oil.
 
     ![Penn 720--Greasing Gears](../img/penn/720/penn-720-greasing-gears.jpg)
 
     **Note!** The grease and oil you use should be specifically for fishing reels.
-
-    See the [Basic Cleaning and Lubricating Procedures](../cleaning-lubricating.md)
 
     You are now ready to re-assemble the gears and housing.
 
@@ -346,4 +346,4 @@ This assembly consists of a series of washers stacked into the spool. The drag w
 
 ## References
 
-[References](references.md)
+[References](../references.md)

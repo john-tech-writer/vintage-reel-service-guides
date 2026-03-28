@@ -249,7 +249,7 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
 1. Clean the gears and inside of housing.
 
-    ![Penn 720--Cleaning Gears](../../img/penn/720/penn-720-cleaning-gears.jpg)
+    ![Penn 720--Cleaning Gears](../img/penn/720/penn-720-cleaning-gears.jpg)
 
     See the [Basic Cleaning and Lubricating Procedures](cleaning-lubricating.md)
 

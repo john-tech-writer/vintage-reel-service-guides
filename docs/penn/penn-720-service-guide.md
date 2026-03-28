@@ -253,7 +253,7 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     See the [Basic Cleaning and Lubricating Procedures](cleaning-lubricating.md)
 
-2 Lubricate the gears with grease and all other lubrications points with oil.
+2. Lubricate the gears with grease and all other lubrications points with oil.
 
     ![Penn 720--Greasing Gears](../img/penn/720/penn-720-greasing-gears.jpg)
 
@@ -281,7 +281,7 @@ When replacing the crosswind block:
 
 3. Apply a light coating of grease to the crosswind connector and slide it into the holes in the crosswind block, then on into the holes in the spool shaft--this may require a bit of back-and-forth with the spool shaft and working the connector back and forth with your fingertip.
 
-A little finesse and patience is required for this move. Either side of the connector should fit in either hole in the block, but if it does not fit easily one way, flip it around and try it the other way.  When the connector is fully inserted it will fit flush with the top of the block.
+    A little finesse and patience is required for this move. Either side of the connector should fit in either hole in the block, but if it does not fit easily one way, flip it around and try it the other way.  When the connector is fully inserted it will fit flush with the top of the block.
 
     ![Penn 720--Replacing Crosswind Block Connector](../img/penn/720/penn-720-replacing-crosswind-block-connector.jpg)
 
@@ -289,15 +289,15 @@ When replacing the dog and spring:
 
 1. Make sure round section of the spring is seated correctly in the round opening in the dog. Apply a light coating of grease to the dog/spring. Flip the eccentric lever toward the back of the housing--you will see the eccentric (the small brass semicircle) rotate so that the flat side is positioned toward the front of the housing.
 
-Press the dog/spring onto the center nib at the back of the housing. Make sure the long section of the spring presses against the back of the housing. See the pencil point in the following image. In this position the anti-reverse and clicker are disengaged.
+    Press the dog/spring onto the center nib at the back of the housing. Make sure the long section of the spring presses against the back of the housing. See the pencil point in the following image. In this position the anti-reverse and clicker are disengaged.
 
     ![Penn 720--Dog Disengaged](../../img/penn/720/penn-720-dog-disengaged.jpg)
 
 2. Flip the eccentric lever toward the front of the housing. See the pencil point in the following image. The eccentric should rotate so that the flat side turns toward the dog and allows the spring to rotate the dog clockwise--this is the engaged position for the anti-reverse.
 
-When in this position the dog engages with the brass teeth on the back side of the main gear to prevent the handle from turning in reverse.
+    When in this position the dog engages with the brass teeth on the back side of the main gear to prevent the handle from turning in reverse.
 
-The dog/spring assembly actually serves two functions: When engaged, it not only prevents the handle from turning in reverse, but also serves as the "clicker" when retrieving--the long part of the spring clicks against the back of the housing during retrieve. If the spring does not contact the back of the housing it can be **gently** bent a little so that it does make contact.
+    The dog/spring assembly actually serves two functions: When engaged, it not only prevents the handle from turning in reverse, but also serves as the "clicker" when retrieving--the long part of the spring clicks against the back of the housing during retrieve. If the spring does not contact the back of the housing it can be **gently** bent a little so that it does make contact.
 
     ![Penn 720--Dog Engaged](../../img/penn/720/penn-720-dog-engaged.jpg)
 
@@ -305,17 +305,17 @@ The dog/spring assembly actually serves two functions: When engaged, it not only
 
     ![Penn 720--Tightening Eccentric Screw](../../img/penn/720/penn-720-tightening-eccentric-screw.jpg)
 
-When replacing the main gear: Make sure the thrust washer is in place and that the gear seats all the way so that the back of the gear is flush with the back of the housing. With the anti-reverse disengaged, try turning the gear both clockwise and counter-clockwise; it should spin freely either way. If not, you may need to remove it and inspect the dog/spring assembly to make sure they are still seated properly.
+    When replacing the main gear: Make sure the thrust washer is in place and that the gear seats all the way so that the back of the gear is flush with the back of the housing. With the anti-reverse disengaged, try turning the gear both clockwise and counter-clockwise; it should spin freely either way. If not, you may need to remove it and inspect the dog/spring assembly to make sure they are still seated properly.
 
-When replacing the pinion gear: the teeth mesh with the teeth on the main gear--give them both a few turns with your fingers to check for smooth operation.
+    When replacing the pinion gear: the teeth mesh with the teeth on the main gear--give them both a few turns with your fingers to check for smooth operation.
 
-When replacing the rotor cup note that the pinion gear shaft: Note that the hole in the rotor cup, and the rotor cup washer all have flat sides--make sure to align these correctly when fitting them together. Make sure to tighten the nut enough to stay put, but not overly tight--too much pressure can damage any or all of these parts.
+    When replacing the rotor cup note that the pinion gear shaft: Note that the hole in the rotor cup, and the rotor cup washer all have flat sides--make sure to align these correctly when fitting them together. Make sure to tighten the nut enough to stay put, but not overly tight--too much pressure can damage any or all of these parts.
 
-When replacing the handle: Before replacing it apply a few drops of reel oil into the handle drive shaft. Remember it screws in counter-clockwise, opposite to most screws (**not** "rightie-tightie"). Apply a few drops of reel oil to the handle knob screw and at the base of the knob sleeve where it joins the handle arm.
+    When replacing the handle: Before replacing it apply a few drops of reel oil into the handle drive shaft. Remember it screws in counter-clockwise, opposite to most screws (**not** "rightie-tightie"). Apply a few drops of reel oil to the handle knob screw and at the base of the knob sleeve where it joins the handle arm.
 
-When replacing the housing plate: Make sure it is seated tightly against the housing all around the edges.
+    When replacing the housing plate: Make sure it is seated tightly against the housing all around the edges.
 
-When replacing the spool: Apply a few drops of reel oil to the spool shaft behind the click ratchet and at the point where the spool revolves on the shaft. Rotate it clockwise until it clicks and pushes all the way in.
+    When replacing the spool: Apply a few drops of reel oil to the spool shaft behind the click ratchet and at the point where the spool revolves on the shaft. Rotate it clockwise until it clicks and pushes all the way in.
 
     ![Penn 720--Replacing Spool](../img/penn/720/penn-720-replacing-spool.jpg)
 

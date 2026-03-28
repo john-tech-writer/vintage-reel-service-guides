@@ -255,11 +255,11 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
 2 Lubricate the gears with grease and all other lubrications points with oil.
 
-    ![Penn 720--Greasing Gears](../../img/penn/720/penn-720-greasing-gears.jpg)
+    ![Penn 720--Greasing Gears](../img/penn/720/penn-720-greasing-gears.jpg)
 
     **Note!** The grease and oil you use should be specifically for fishing reels.
 
-    See the [Basic Cleaning and Lubricating Procedures](cleaning-lubricating.md)
+    See the [Basic Cleaning and Lubricating Procedures](../cleaning-lubricating.md)
 
     You are now ready to re-assemble the gears and housing.
 
@@ -283,7 +283,7 @@ When replacing the crosswind block:
 
 A little finesse and patience is required for this move. Either side of the connector should fit in either hole in the block, but if it does not fit easily one way, flip it around and try it the other way.  When the connector is fully inserted it will fit flush with the top of the block.
 
-    ![Penn 720--Replacing Crosswind Block Connector](../../img/penn/720/penn-720-replacing-crosswind-block-connector.jpg)
+    ![Penn 720--Replacing Crosswind Block Connector](../img/penn/720/penn-720-replacing-crosswind-block-connector.jpg)
 
 When replacing the dog and spring:
 
@@ -317,7 +317,7 @@ When replacing the housing plate: Make sure it is seated tightly against the hou
 
 When replacing the spool: Apply a few drops of reel oil to the spool shaft behind the click ratchet and at the point where the spool revolves on the shaft. Rotate it clockwise until it clicks and pushes all the way in.
 
-    ![Penn 720--Replacing Spool](../../img/penn/720/penn-720-replacing-spool.jpg)
+    ![Penn 720--Replacing Spool](../img/penn/720/penn-720-replacing-spool.jpg)
 
 You can now perform several general functional tests before taking the reel into the field. The main things to check:
 

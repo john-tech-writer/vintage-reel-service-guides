@@ -5,18 +5,18 @@ nav:
   - Home: index.md
   - About: about.md
   - The Reels:
-    - Penn
+    - Penn:
       - Penn 720 Overview: penn/penn-720-overview.md
       - Penn 720 Service Guide: penn/penn-720-service-guide.md
-    - Pflueger
+    - Pflueger:
       - Pflueger Nobby Overview: pflueger/pflueger-nobby-overview.md
       - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md
       - Pflueger Pelican 1021 Overview: pflueger/pflueger-pelican-1021-overview.md
       - Pflueger Pelican 1021 Service Guide: pflueger/pflueger-pelican-1021-service-guide.md
-    - Shakespeare
+    - Shakespeare:
       - Shakespeare Silent Tru-arT Overview: shakespeare/shakespeare-silent-tru-art-overview.md
       - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
-    - Zebco
+    - Zebco:
       - Zebco 33 Overview: zebco/zebco-33-overview.md
       - Zebco 33 Service Guide: zebco/zebco-33-service-guide.md
   - General Information on Servicing:

@@ -28,6 +28,7 @@ THE REELS
 # Penn 720 Overview
   ## Similar Models
   ## Badges and Finishes
+  ## Features and Controls
   ## Specifications
   ## Balanced Tackle Outfits
   ## Technical Documents
@@ -42,5 +43,6 @@ THE REELS
   ## Reassembly and Testing
   ## Servicing the Bail
   ## Servicing the Drag
+  ## Technical Documents
 
 # References

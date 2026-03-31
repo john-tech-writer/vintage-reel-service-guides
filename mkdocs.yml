@@ -4,11 +4,21 @@ site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 nav:
   - Home: index.md
   - About: about.md
-  - Background on Reel Types:
-    - A Family Tree of Mid-Century Reels: reel-family-tree.md
-    - Baitcasting Reels: baitcasting-reels.md
-    - Spinning and Spincast Reels: spinning-reels.md
-    - Fly Reels: fly-reels.md
+  - The Reels:
+    - Penn
+      - Penn 720 Overview: penn/penn-720-overview.md
+      - Penn 720 Service Guide: penn/penn-720-service-guide.md
+    - Pflueger
+      - Pflueger Nobby Overview: pflueger/pflueger-nobby-overview.md
+      - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md
+      - Pflueger Pelican 1021 Overview: pflueger/pflueger-pelican-1021-overview.md
+      - Pflueger Pelican 1021 Service Guide: pflueger/pflueger-pelican-1021-service-guide.md
+    - Shakespeare
+      - Shakespeare Silent Tru-arT Overview: shakespeare/shakespeare-silent-tru-art-overview.md
+      - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
+    - Zebco
+      - Zebco 33 Overview: zebco/zebco-33-overview.md
+      - Zebco 33 Service Guide: zebco/zebco-33-service-guide.md
   - General Information on Servicing:
     - Workspace Setup and Safety: workspace-setup.md
     - Tools and Materials: tools-materials.md
@@ -16,15 +26,11 @@ nav:
     - Removing and Adding Line: removing-adding-line.md
     - Epoxy Repairs: epoxy-repairs.md
     - Schematics: schematics.md
-  - The Service Guides:
-    - Penn 720 Service Guide: penn/penn-720-service-guide.md
-    - Pflueger Nobby Service Guide: pflueger/pflueger-nobby-service-guide.md
-    - Pflueger Pelican 1020 Service Guide: pflueger/pflueger-pelican-service-guide.md
-    - Pflueger Pelican 1021 Service Guide: pflueger/pflueger-pelican-1021-service-guide.md
-    - Sears 440 Service Guide: sears/sears-440-service-guide.md
-    - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
-    - South Bend 550 Service Guide: south-bend/south-bend-550-service-guide.md
-    - Zebco 33 Service Guide: zebco/zebco-33-service-guide.md
+  - Background on Reel Types:
+    - A Family Tree of Mid-Century Reels: reel-family-tree.md
+    - Baitcasting Reels: baitcasting-reels.md
+    - Spinning and Spincast Reels: spinning-reels.md
+    - Fly Reels: fly-reels.md
 theme:
   name: readthedocs
 plugins:

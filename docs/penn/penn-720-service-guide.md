@@ -183,7 +183,7 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     You can now see the main gear and associated parts. This is a good time to inspect the overall condition of the gears, the accumulation of old lubricants, etc.
 
-    This example reel has already been disassembled, serviced, and reassembled, so the gears are very clean. The same reel before servicing shows accumulated old grease, which hardens and can impair function. It is not possible to know what sorts of lubricants have been applied over a particular reel's lifetime, so it is best to clean all the parts and start fresh with the correct [lubricants](../tools-materials.md).
+    This example reel has already been disassembled, serviced, and reassembled, so the gears are very clean. The same reel before servicing shows accumulated old grease, which hardens and can impair function. It is not possible to know what sorts of lubricants have been applied over a particular reel's lifetime, so it is best to clean all the parts and start fresh with the correct [lubricants](../cleaning-lubricating.md).
 
     ![Penn 720--Housing Plate Removed](../img/penn/720/penn-720-housing-plate-removed.jpg)
 

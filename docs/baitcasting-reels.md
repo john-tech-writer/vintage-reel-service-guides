@@ -2,6 +2,8 @@
 
 Overview of baitcasting reels, their history, and how they work.
 
+The first baitcasting reels were made by watchmakers in early 19th century Kentucky. William Shakespeare, Jr. invented and patented the important level-wind mechanism in the last years of the 1800s, which automated the job of reeling line evenly across the spool on retrieve. The baitcasting reel page provides more background information on the features of mid-century baitcastng reels, important manufacturers and models, and how to integrate vintage reels with other tackle into a balanced outfit.
+
 ## Features
 
 Mid-century baitcasting reels all share a single basic design. Well-known makers like Shakespeare, Pflueger, Langley, and Ambassadeur all used a typically round frame in this era; later, more modern baitcasting reels would evolve into a more low-profile design. Various makers and models evolved a fairly short set of internal features that helped make the reels easier to use:

@@ -3,34 +3,46 @@ site_url: https://john-tech-writer.github.io/vintage-reel-service-guides
 
 nav:
   - Home: index.md
-  - About: about.md
-  - The Reels:
-    - Penn:
-      - Penn 720 Overview: penn/penn-720-overview.md
-      - Penn 720 Service Guide: penn/penn-720-service-guide.md
-    - Pflueger:
-      - Pflueger Nobby 1963 Overview: pflueger/pflueger-nobby-1963-overview.md
-      - Pflueger Nobby 1963 Service Guide: pflueger/pflueger-nobby-service-guide.md
-      - Pflueger Pelican 1021 Overview: pflueger/pflueger-pelican-1021-overview.md
-      - Pflueger Pelican 1021 Service Guide: pflueger/pflueger-pelican-1021-service-guide.md
-    - Shakespeare:
-      - Shakespeare Silent Tru-arT Overview: shakespeare/shakespeare-silent-tru-art-overview.md
-      - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
-    - Zebco:
-      - Zebco 33 Overview: zebco/zebco-33-overview.md
-      - Zebco 33 Service Guide: zebco/zebco-33-service-guide.md
-  - General Information on Servicing:
+  - Reels - Overviews and Service Guides:
+    - By Maker:
+      - Penn:
+        - Penn 720 Overview: penn/penn-720-overview.md
+        - Penn 720 Service Guide: penn/penn-720-service-guide.md
+      - Pflueger:
+        - Pflueger Nobby 1963 Overview: pflueger/pflueger-nobby-1963-overview.md
+        - Pflueger Nobby 1963 Service Guide: pflueger/pflueger-nobby-service-guide.md
+        - Pflueger Pelican 1021 Overview: pflueger/pflueger-pelican-1021-overview.md
+        - Pflueger Pelican 1021 Service Guide: pflueger/pflueger-pelican-1021-service-guide.md
+      - Shakespeare:
+        - Shakespeare Silent Tru-arT Overview: shakespeare/shakespeare-silent-tru-art-overview.md
+        - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
+      - Zebco:
+        - Zebco 33 Overview: zebco/zebco-33-overview.md
+        - Zebco 33 Service Guide: zebco/zebco-33-service-guide.md
+    - By Type:
+      - Family Tree of Reel Types: reel-family-tree.md
+        - Baitcasting Reels:
+          - Overview - Baitcasting Reels: baitcasting-reels.md
+          - Pflueger Nobby 1963 Overview: pflueger/pflueger-nobby-1963-overview.md
+          - Pflueger Nobby 1963 Service Guide: pflueger/pflueger-nobby-service-guide.md
+        - Spinning and Spincast Reels:
+          - Overview - Spinning and Spincast Reels: spinning-reels.md
+          - Penn 720 Overview: penn/penn-720-overview.md
+          - Penn 720 Service Guide: penn/penn-720-service-guide.md
+          - Zebco 33 Overview: zebco/zebco-33-overview.md
+          - Zebco 33 Service Guide: zebco/zebco-33-service-guide.md
+        - Fly Reels:
+          - Overview - Fly Reels: fly-reels.md
+          - Shakespeare Silent Tru-arT Overview: shakespeare/shakespeare-silent-tru-art-overview.md
+          - Shakespeare Silent Tru-arT Service Guide: shakespeare/shakespeare-silent-tru-art-service-guide.md
+  - General Servicing Information:
     - Workspace Setup and Safety: workspace-setup.md
     - Tools and Materials: tools-materials.md
     - Initial Evaluation: initial-evaluation.md
     - Removing and Adding Line: removing-adding-line.md
     - Epoxy Repairs: epoxy-repairs.md
     - Schematics: schematics.md
-  - Background on Reel Types:
-    - A Family Tree of Mid-Century Reels: reel-family-tree.md
-    - Baitcasting Reels: baitcasting-reels.md
-    - Spinning and Spincast Reels: spinning-reels.md
-    - Fly Reels: fly-reels.md
+  - About: about.md
 theme:
   name: readthedocs
 plugins:

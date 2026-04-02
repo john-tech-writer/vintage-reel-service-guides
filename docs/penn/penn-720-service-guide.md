@@ -10,22 +10,12 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 
 Since not all parts of a reel may need the same level of attention, the servicing for the 720 is divided into the following sections. Watching the YouTube videos is a good way to get an overall feel for the procedure--the step-by-step illustrated instructions that follow are useful at the bench as you work in the reel for specifics.
 
-**Disassembling the Housing** The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly--simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated hardened, old grease and contaiminants like sand and salt, go on to the next procedure.
+**Disassembly and Assessment** The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly--simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated hardened, old grease and contaiminants like sand and salt, you will need to follow the entire disassembly procedure. While disassembling the reel you can note and assess any issues.
 
-Watch on YouTube: [Penn 720 - Quick Service - Part 1 of 3](https://youtu.be/y7BL6ELa-p4)
-<a href="https://www.youtube.com/watch?v=y7BL6ELa-p4" target="_blank" rel="noopener">
+Watch on YouTube: Watch on YouTube: [Penn 720 - Quick Service - Part 1 of 2](https://youtu.be/lF3cL1qhqAA)
+<a href="https://youtu.be/lF3cL1qhqAA" target="_blank" rel="noopener">
   <img
-    src="https://img.youtube.com/vi/y7BL6ELa-p4/hqdefault.jpg"
-    alt="Penn 720 Overview video"
-    style="max-width: 100%; height: auto; cursor: pointer;">
-</a>
-
-**Disassembling the Gears:** If the gears need cleaning, they will need to be disassembled, then cleaned and lubricated before reassembly.
-
-Watch on YouTube: [Penn 720 - Quick Service - Part 2 of 3](https://youtu.be/wXQH5phQCzg)
-<a href="https://www.youtube.com/watch?v=wXQH5phQCzg" target="_blank" rel="noopener">
-  <img
-    src="https://img.youtube.com/vi/wXQH5phQCzg/hqdefault.jpg"
+    src="https://img.youtube.com/vi/m2hmNXakdD8/hqdefault.jpg"
     alt="Penn 720 Overview video"
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
@@ -42,7 +32,7 @@ Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/
 
 **Reassembly and Testing:** As the reel is reassembled, various mini-tests can be performed along the way to catch any minor issues and avoid having to take the reel completely apart again. After the reel is completely reassembled there are several bench tests that should be performed to make sure it is ready for field use.
 
-Watch on YouTube: [Penn 720 - Quick Service - Part 3 of 3](https://youtu.be/m2hmNXakdD8)
+Watch on YouTube: [Penn 720 - Quick Service - Part 2 of 2](https://youtu.be/m2hmNXakdD8)
 <a href="https://www.youtube.com/watch?v=m2hmNXakdD8" target="_blank" rel="noopener">
   <img
     src="https://img.youtube.com/vi/m2hmNXakdD8/hqdefault.jpg"
@@ -52,13 +42,15 @@ Watch on YouTube: [Penn 720 - Quick Service - Part 3 of 3](https://youtu.be/m2hm
 
 ## Typical Issues
 
-For example, clicker/anti-reverse not working.
+For example, clicker/anti-reverse not working. Hardened grease can immobilize the dog and dog spring, which means the clicker and anti-reverse will not engage. A simple disassembly, cleaning and lubrication, and reassembly will fix this issue without needing to repair or replace any parts.
 
 ## Difficulty and Time Estimate
 
 The Penn 720 is probably one of the simplest open-face spinning reels to service, so it is a good choice for a first project--but don't let this make it seem insignificant--it does require some dexterity and patience, and acquiring a "feel" for working on vintage reels, and at the same time it helps you build those very skills.
 
-If you already have your workspace set up and your tools and materials on hand, the evaluation and servicing might take around 3 hours, assuming you are a beginner and are proceeding at a leisurely pace (a good idea when first starting; don't be in a hurry). More experience will result in a considerably shorter timeframe.
+If you already have your workspace set up and your tools and materials on hand this reel can be disassembled, cleaned and lubricated, and reassembled in about an hour to 90 minutes for a reasonably experienced DIY person. This does not include time for parts to soak in a solvent bath if they have heavy deposits of hardened grease and grit that need to be softened, nor does it account for issues like screws that are frozen in place--all these unknowns will add some time to the total service. But, it does not all have to be done at one go. A good strategy is probably to disassemble, make notes of any issues, soak the parts overnight, then the next day clean, dry, lubricate, and reassemble and test.
+
+If you are a complete beginner and are proceeding at a leisurely pace (a good idea when first starting; don't be in a hurry) the evaluation and servicing might take around 3 hours. More experience will result in a considerably shorter timeframe.
 
 **Bail:** Since spinning reel bails are spring-loaded, they can be a bit more difficult to reassemble than the housing and gears. If the bail seems to work properly--it flips into the casting position easily, then springs back readily when retrieve is started--it may be best to simply use some reel oil to lubricate both points where the bail pivots on the rotor cup and the line roller and stop there.
 
@@ -246,7 +238,6 @@ You can now perform several general functional tests before taking the reel into
 
 1. With the anti-reverse **off**: Make sure the handle turns smoothly in both directions.
 
-
 2. With the anti-reverse **engaged**: Make sure the handle will not turn backwards.
 
 3. With the anti-reverse **engaged**: Make sure you can hear the clicker.
@@ -268,8 +259,4 @@ The bail relies on a spring to flip it into the retrieve position, and springs c
 This assembly consists of a series of washers stacked into the spool. The drag washers are held in place by a spring, and may not need servicing. If the drag seems to be working correctly it may be best to simply leave it alone.
 
 ## Technical Documents
-[Schematics](../schematics.md) and other useful information on servicing and using this reel are included in the Penn Reels Instruction Manual.
-
-## References
-
-[References](../references.md)
+[Schematics](../schematics.md) and other useful information on servicing and using this reel are included in the Penn Reels Instruction Manual. Other related resources can be found in the [References](../references.md)

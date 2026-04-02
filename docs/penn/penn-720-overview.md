@@ -20,7 +20,9 @@ Watch on YouTube: [Penn 720 - Overview](https://youtu.be/2c1ZWjAN6yU)
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
 
-These reels are very simple, strong, dependable designs, and many are still in use today. This guide shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
+These reels are very simple, strong, dependable designs, and many are still in use today. This overview provides background on similar models, badges and finishes, features and controls, specifications, and how to integrate the Penn 720 into a balanced tackle outfit, putting the reel into the context of what rods, lines, and lure weights it is designed for. Finally there is a list of references to point the way to other resources and further reading. For more complete background on the very wide range of reels in the Spinfisher series, see [Penn's 700 Spinfisher series](penn-spinfisher-series.md).
+
+The [Penn 720 Service Guide](https://john-tech-writer.github.io/vintage-reel-service-guides/penn/penn-720-service-guide/) shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher.
 
 ![Penn 720--Front Right](../img/penn/720/penn-720-front-right.jpg)
 
@@ -78,10 +80,6 @@ Rod | Line lb. test | Lures oz.
 6' light action | 4--8 | 1/4--1/2
 6'6" light action | 4--8 | 1/4--1/2
 7' light action | 4--10 | 1/--1/2
-
-## Technical documents
-
-[Schematics](../schematics.md) and other useful information on servicing and using this reel are included in the Penn Reels Instruction Manual.
 
 ## References
 

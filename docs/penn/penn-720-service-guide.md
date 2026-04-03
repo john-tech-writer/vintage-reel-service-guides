@@ -15,7 +15,7 @@ Since not all parts of a reel may need the same level of attention, the servicin
 Watch on YouTube: Watch on YouTube: [Penn 720 - Quick Service - Part 1 of 2](https://youtu.be/lF3cL1qhqAA)
 <a href="https://youtu.be/lF3cL1qhqAA" target="_blank" rel="noopener">
   <img
-    src="https://img.youtube.com/vi/m2hmNXakdD8/hqdefault.jpg"
+    src="https://img.youtube.com/vi/lF3cL1qhqAA/hqdefault.jpg"
     alt="Penn 720 Overview video"
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
@@ -32,10 +32,10 @@ Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/
 
 **Reassembly and Testing:** As the reel is reassembled, various mini-tests can be performed along the way to catch any minor issues and avoid having to take the reel completely apart again. After the reel is completely reassembled there are several bench tests that should be performed to make sure it is ready for field use.
 
-Watch on YouTube: [Penn 720 - Quick Service - Part 2 of 2](https://youtu.be/m2hmNXakdD8)
-<a href="https://www.youtube.com/watch?v=m2hmNXakdD8" target="_blank" rel="noopener">
+Watch on YouTube: [Penn 720 - Quick Service - Part 2 of 2](https://youtu.be/rvZYXbDXlTs)
+<a href="https://www.youtube.com/watch?v=rvZYXbDXlTs" target="_blank" rel="noopener">
   <img
-    src="https://img.youtube.com/vi/m2hmNXakdD8/hqdefault.jpg"
+    src="https://img.youtube.com/vi/rvZYXbDXlTs/hqdefault.jpg"
     alt="Penn 720 Overview video"
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>

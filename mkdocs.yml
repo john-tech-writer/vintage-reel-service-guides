@@ -4,6 +4,7 @@ site_url: https://vintage-reel-service-guides
 nav:
   - Home: index.md
   - About: about.md
+  - Subscribe to Substack: subscribe-substack.md
 
   - Reels - Overviews and Service:
       - Penn:

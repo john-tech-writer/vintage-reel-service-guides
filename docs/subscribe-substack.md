@@ -1,6 +1,6 @@
 # Subscribe
 
-![Vintage Reel Service Guides](img/penn-720-front-left.jpg){ width="200" }
+![Vintage Reel Service Guides](img/penn/720/penn-720-front-left.jpg){ width="200" }
 
 If you would like to stay updated with more narrative aspects of reel repair—short stories about new reels, behind-the-scenes from the bench, and field reports on using these restored reels to actually fish—you can subscribe to the Vintage Reel Service Guides Substack:
 

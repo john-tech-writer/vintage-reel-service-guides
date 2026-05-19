@@ -1,4 +1,6 @@
-# Subscribe
+# Substack
+
+
 
 If you would like to stay updated with more narrative aspects of reel repair—short stories about new reels, behind-the-scenes from the bench, and field reports on using these restored reels to actually fish—you can subscribe to the Vintage Reel Service Guides Substack:
 

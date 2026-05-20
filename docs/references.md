@@ -20,6 +20,6 @@ Miller, Bob. "Pflueger Pfacts." *The Reel News*, July 2003.
 
 A brief historical overview of early Pflueger spinning and spincast reels, with emphasis on model introductions and distinguishing features. Useful for cross‑checking dates and variations when identifying and describing specific Pflueger models in the overview documents.[web:37][web:42]
 
-Steward, Douglas. *A History of the Shakespeare Company 1896 - 1952.* Retrieved from (https://cache.kzoo.edu). 2.26.2026.
+Steward, Douglas. *A History of the Shakespeare Company 1896 - 1952.* Retrieved from Kalamazoo College CACHE Digital Archive (https://cache.kzoo.edu). 2.26.2026.
 
 Covers what years important reel models were introduced.

@@ -7,8 +7,8 @@
 2. Take initial pictures of reel, standard set. For more details see [Photo Standards](photo-standards.md)
 
 3. Write substack post for the "welcome to the bench" series.
-  - Use template/example E://documents/vintage-reel-service-guides/docs/project-docs/welcome-bench-magic-fishing-reel-example.md, save as E://documents/1-vintage reel service guide project/substack/welcome-bench-maker-model-number.md
-  - Post to substack, tag as "new arrival" (this is the tag corresponding to "welcome to the bench."
+  - Use [this template](substack-welcome-bench-magic-fishing-reel-example.md), save to [workspace](directory-layout.md) using [standard slug](naming-slugs.md).
+  - Post to substack, tag as "new arrival" (tag corresponding to "welcome to the bench" post series.
   - Wiring to repo: The post template includes a connections section which includes a link to the repo and notes that when the overview and guide are published there, a notification will be posted on substack.
   Wiring to YT: Create substack video for posting to YouTube.
 

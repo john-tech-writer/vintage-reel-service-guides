@@ -2,7 +2,7 @@
 
 1. Select reel based on roadmap for volumes, acquire. See [Volume Planning](volume-planning.md). This file includes a record of what's been done and what needs to be done for each reel.
 
-2. Acquire all available documentation for the reel. Schematics, box inserts, user manuals, articles. ORCA archive, US patent office, ask Perplexity.ai. If documents and/or box is included with reel, take photos and save in project folder. Add an entry to [References](references.md).
+2. Acquire all available documentation for the reel. Schematics, box inserts, user manuals, articles. ORCA archive, US patent office, ask Perplexity.ai. If documents and/or box is included with reel, take photos and save in project folder. Add an entry to [References](../references.md).
 
 2. Take initial pictures of reel, standard set. For more details see [Photo Standards](photo-standards.md)
 

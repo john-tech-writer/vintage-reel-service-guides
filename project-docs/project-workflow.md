@@ -1,6 +1,6 @@
 # Project Workflow
 
-1. Select reel based on roadmap for volumes, acquire.
+1. Select reel based on roadmap for volumes, acquire. See [Volume Planning](volume-planning.md). This file includes a record of what's been done and what needs to be done for each reel.
 
 2. Acquire all available documentation for the reel. Schematics, box inserts, user manuals, articles. ORCA archive, US patent office, ask Perplexity.ai. If documents and/or box is included with reel, take photos and save in project folder. Add an entry to [References](references.md).
 
@@ -37,40 +37,6 @@ Notes: The skeletons and examples should be in the project folder as .md files s
 
 13. Commit and push; confirm GitHub Pages update.
 
-# Volumes planned
-Each volume will include one reel of each of the four basic types (spinner, etc.) plus one oddball/novel reel. Currently (may 2026) 5 volumes are planned.
-
-## Volume 1
-Penn Spinfisher 720 open face spinning reel
-Pflueger Nobby model 1963 baitcasting reel
-Zebco 33 spincasting reel
-Shakespeare Silent Tru aRT automatic fly reel
-Pfueger Pelican 1021 manual pick-up open face spinning reel
-
-## Volume 2
-Pflueger Pelican 1020/1020A open face spinning reel
-Garcia 3000 (or 2000, etc.) baitcasting reel
-South Bend 88 spincast reel
-Manual/single action fly reel TBD
-Magic Fishing Reel, combo type
-
-## Volume 3
-Penn Spinfisher (next size up, 2 of 4, bearing version)
-Baitcasting reel TBD
-Spincast reel TBD
-Precisionbilt Mosquito fly reel, or other more "classic" TBD
-Ocean City Spin-A-Long finger pick-up open face spinning reel
-
-## Volume 4
-Penn Spinfisher (next size up, 3 of 4, bushing version)
-Shakespeare 1810 closed-face spinning reel
-
-## Volume 5
-Penn Spinfisher (largest, 4 of 4, bearing version)
-Abu 506 closed-face spinning reel
-
-## Possible future volumes 5+
-Penn Spinfishers, the other 4 of 8 models
 
 # Content standards
 - Titles: pattern, capitalization rules.

@@ -8,7 +8,7 @@
 
 3. Write substack post for the "welcome to the bench" series.
   - Use .md template in [/project-docs](directory-layout.md) save to /substack/slug in workspace using [standard slug](naming-slugs.md).
-  - For help with developing content, see [Substack Ideas](substack-ideas.md) and post examples--[Welcome to the Bench](substack-welcome-bench-example.md) and [Reel Stories](substack-reel-stories-example.md).
+  - For help with developing content, see [Substack Ideas](substack-ideas.md) and post examples--[Welcome to the Bench](substack-welcome-bench-example.md).
   - Post to substack, tag as "new arrival" (corresponds to "welcome to the bench" post series).
   - Wire to repo: Post template includes a connections section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.
   - Wire to YT: Connections section includes link to YT. Create substack video for posting to YouTube.

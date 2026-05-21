@@ -31,3 +31,19 @@ Allowing the ideas and reels to come in.
 # Why It Matters
 
 Craftsmanship. Fixing things is good. Things that can be fixed are good.
+
+## Connections
+
+For each reel, two documents are published on the Vintage Reel Service Guides website:
+  - An overview covering history and technical features. 
+  - A service guide providing complete, illustrated, step-by-step instructions for disassembling, servicing, and reassembling the reel.
+
+For each reel several videos are published on the Vintage Reel Service Guides YouTube channel:
+  - A quick overview of the reel covering history and technical features.
+  - A disassembly video.
+  - A video covering servicing the reel--complete cleaning and lubrication of the working mechanism.
+  - A reassembly video.
+
+These videos complement the documents on the Vintage Reel Service Guides website and are intended to provide a fast way to see the procedures that are documented in more detail on the website. If you are working on the bench the website and videos are most effective when used together on your device of choice.
+
+When each full set of documents and videos are completed and published, *one* notification will be posted here on substack. If you would like to receive automatic notifications, please subscribe to this substack. In the meantime, you can visit [Vintage Reel Service Guides](https://vintage-reel-service-guides.com) to view reels already documented there, and browse the video library on the [YouTube channel](https://www.youtube.com/channel/UCNqFcXvrXasuozFZuoMbPUQ).

@@ -9,25 +9,34 @@ Currently (may 2026) 5 volumes are planned.
 
 ## Volume 1
 Penn Spinfisher 720 open face spinning reel
+
 5.20.26: Completed overview and service guide for repo. Completed overview, disassembly, and reassembly videos for YT.
+
 Needed: Additional mini service guides for drag stack and bail. Additional corresponding vids for YT. Retro "welcome to the bench" and "notification" posts for substack.
 
 Pflueger Nobby model 1963 baitcasting reel
+
 5.20.26: Completed overview vid for YT.
+
 Needed: Overview and service guide for repo. Service vid for YT. Welcome to the bench and notification posts for SS.
 
 Zebco 33 spincasting reel
+
 5.20.26: Drafted "Reel stories"/hero post for SS.
+
 Needed: Complete reel stories post.
 
 Shakespeare Silent Tru aRT automatic fly reel
+
 5.20.26: Acquired, also box and inserts.
 
 Pfueger Pelican 1021 manual pick-up open face spinning reel
+
 5.20.26: Acquired, also manual from ORCA.
 
 ## Volume 2
 Pflueger Pelican 1020/1020A open face spinning reel
+
 5.20.26: Acquired, also manual from ORCA.
 
 Garcia 3000 (or 2000, etc.) baitcasting reel

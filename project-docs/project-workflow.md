@@ -2,17 +2,20 @@
 
 1. Select reel based on roadmap for volumes, acquire. See [Volume Planning](volume-planning.md). This file includes a record of what's been done and what needs to be done for each reel.
 
-2. Acquire all available documentation for the reel. Schematics, box inserts, user manuals, articles. ORCA archive, US patent office, ask Perplexity.ai. If documents and/or box is included with reel, take photos and save in project folder. Add an entry to [References](../docs/references.md).
+2. Acquire all available documentation for the reel. Schematics, box inserts, user manuals, articles. ORCA archive, US patent office, ask Perplexity.ai. Save to [workspace](directory-layout.md) in If documents and/or box is included with reel, take photos and save in project folder. Add an entry to [References](../docs/references.md).
 
 2. Take initial pictures of reel, standard set. For more details see [Photo Standards](photo-standards.md)
 
 3. Write substack post for the "welcome to the bench" series.
-  - Use [this template](substack-welcome-bench-magic-fishing-reel-example.md), save to [workspace](directory-layout.md) using [standard slug](naming-slugs.md).
-  - Post to substack, tag as "new arrival" (tag corresponding to "welcome to the bench" post series.
-  - Wiring to repo: The post template includes a connections section which includes a link to the repo and notes that when the overview and guide are published there, a notification will be posted on substack.
-  Wiring to YT: Create substack video for posting to YouTube.
+  - Use .md template in [/project-docs](directory-layout.md) save to /substack/slug in workspace using [standard slug](naming-slugs.md).
+  - For help with developing content, see [Substack Ideas](substack-ideas.md) and post examples--[Welcome to the Bench](substack-welcome-bench-example.md) and [Reel Stories](substack-reel-stories-example.md).
+  - Post to substack, tag as "new arrival" (corresponds to "welcome to the bench" post series).
+  - Wire to repo: Post template includes a connections section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.
+  - Wire to YT: Connections section includes link to YT. Create substack video for posting to YouTube.
 
 4. Post substack vid to YT.
+  - Wire to substack:
+  - Wire to repo: 
 
 5. Write overview using Notepad ++ based on template in , save as .md file as E://documents/vintage-reel-service-guides/docs/maker/maker-model-number-overview.md
 

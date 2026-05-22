@@ -2,17 +2,17 @@
 
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 
-This file includes a record of what's been done and what needs to be done for each reel.
+    This file includes a record of what's been done and what needs to be done for each reel.
 
-2. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in /maker and reel specific docs/maker. Add an entry to [References](../docs/references.md).
+2. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in /maker and reel specific docs/`[maker]`. Add an entry to [References](../docs/references.md).
 
-  - If documents and/or box is included with reel, take photos and save in project folder in /docs/maker. These images are treated as documents and links are provided in the references page.
+  - If documents and/or box is included with reel, take photos and save in project folder in /docs/`[maker]`. These images are treated as documents and links are provided in the references page.
   - If documents are obtained from other sources, the source link will be provided in the references page.
 
 3. Take initial pictures of reel, standard set. For more details see [Photo Standards](photo-standards.md)
 
 4. Write substack post for the "welcome to the bench" series.
-  - Use .md template in [/project-docs](directory-layout.md) save to /substack/slug in workspace using [standard slug](naming-slugs.md).
+  - Use .md template in [/project-docs](directory-layout.md) save to /substack/`[slug]` in workspace using [standard slug](naming-slugs.md).
   - For help with developing content, see [Substack Ideas](substack-ideas.md) and post examples--[Welcome to the Bench](substack-welcome-bench-example.md).
   - Post to substack, tag as "new arrival" (corresponds to "welcome to the bench" post series).
   - Wire to repo: Post template includes a connections section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.

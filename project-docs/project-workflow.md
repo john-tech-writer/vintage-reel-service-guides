@@ -4,7 +4,7 @@
 
     This file includes a record of what's been done and what needs to be done for each reel.
 
-2. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in `/maker-and-reel-specific-docs/[maker]/`. Add an entry to [References](../docs/references.md).
+2. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in `/maker and reel specific docs/[maker]/`. Add an entry to [References](../docs/references.md).
 
   - If documents and/or box is included with reel, take photos and save in project folder in `/docs/[maker]`. These images are treated as documents and links are provided in the references page.
   - If documents are obtained from other sources, the source link will be provided in the references page.

@@ -6,10 +6,10 @@
 
 2. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in `/maker and reel specific docs/[maker]/[slug]-[desc]`. Add an entry to [References](../docs/references.md).
 
-  - If documents and/or box is included with reel, take photos and save in project folder in `/docs/[maker]`. These images are treated as documents and links are provided in the references page.
-  - If documents are obtained from other sources, the source link will be provided in the references page.
+  - If documents and/or box is included with reel, take photos and save in project folder in `/docs/[maker]`. These these images are treated as documents and included in the project so users can view them using the link provided in the references page.
+  - If documents are obtained from other sources, the files are not included in the project. The source link will be provided in the references page but users may need to pay to view the documents (e.g., ORCA online archives).
 
-3. Take initial pictures of reel using [Photo Standards](photo-standards.md). Save to to [workspace](directory-layout.md) in `/maker and reel specific docs/[maker]/`.
+3. Take initial pictures of reel using [Photo Standards](photo-standards.md). Save to to [workspace](directory-layout.md) in `/maker and reel docs/[maker]/`.
 
 4. Write substack post for the "welcome to the bench" series.
   - Use .md template in [/project-docs](directory-layout.md) save to /substack/`[slug]` in workspace using [standard slug](naming-slugs.md).

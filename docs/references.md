@@ -37,7 +37,7 @@ Schematic, parts list, line capacity, cleaning and lubricating instructions, and
 
 ## Journal and newsletter articles
 
-Miller, Bob. "The Pflueger Nobby - A Few Surpises." *The Reel News* 13, no. 3 (2003): 10-12.(https://www.orcaonline.org/the-reel-news-index-online-full/).
+Miller, Bob. "The Pflueger Nobby - A Few Surpises." *The Reel News* 13, no. 3 (2003): 10-12. (https://www.orcaonline.org/the-reel-news-index-online-full/).
 
 A brief historical overview of the various models of the Pflueger Nobby baitcasting reel. Discusses the naming, production dates, amd mechanical details for all the models in the series. Includes illustrations.
 

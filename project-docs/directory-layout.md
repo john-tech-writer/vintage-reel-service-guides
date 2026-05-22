@@ -27,7 +27,7 @@ Local clone of `vintage-reel-service-guides`:
 
 Active working documents that do **not** go in the repo:
 
-- `vintage-reel-service-guides-workspace/`  ← currently `1-vintage reel service guide project/`
+- `vintage-reel-service-guides-workspace/`
   - `substack/`
     - `[slug]/`
       - `welcome-bench-[slug].md`
@@ -48,18 +48,14 @@ Active working documents that do **not** go in the repo:
 
 All raw and edited photos:
 
-- `Pictures/1-vintage reel service guides/`
-  - `penn/`
-    - `720/` (existing)
-    - `[slug]/` for future reels
-  - `pfleuger/`
-    - `[slug]/`
-  - `zebco/`
-  - `assets-logos/`
+- `Pictures/vintage reel service guides/`
+  - `[maker]/`
+    - `[model]/`
+      - `[slug]-[img-desc].jpg`
+  - `assets-banners-logos/`
   - `fish images/`
   - `jigs for reel repair/`
-  - `workshop-studio/`
-  - `yt channel/`
+  - `workspace-bench/`
 
 ## 4. Video
 

@@ -11,15 +11,16 @@ Local clone of `vintage-reel-service-guides`:
     - `img/`
       - `[maker]/`
         - `[model]/`
-          - `[slug]-[image-desc.jpg]`  ← final images used in guides
+          - `[slug]-[image-desc].jpg`  ← final images used in guides
     - `[maker]/`
       - `[slug]-overview.md`
       - `[slug]-service-guide.md`
+    - `references.md`
+    - etc.
   - `project-docs/`
     - `project-workflow.md`
-    - `naming-and-slugs.md`
+    - `naming-slugs.md`
     - `directory-layout.md`
-    - `references-and-annotations.md`
     - templates, etc.
   - `site/`  ← built site files
 

@@ -40,7 +40,9 @@ Heros 1 Reel positioned as if mounted on rod, for example, for spinning reels th
 
 ## Video cam settings
 
-Software is Guvcview. On startup select cam. Use preset 3.
+Software is [Guvcview](https://guvcview.sourceforge.net/) loaded on an ubuntu laptop.
+
+On startup select cam. Use preset 3.
   - Resolution: 1920x1080
   - Frame rate: 30 fps
   - Video codec: H.264
@@ -48,7 +50,7 @@ Software is Guvcview. On startup select cam. Use preset 3.
 
 ## Video export settings
 
-Software is Shotcut. Export preset is YT1080p30 stack. This outputs an MP4 file with H.264 video and AAC audio, optimized for YouTube. Custom settings, based on h.264 main profile:
+Software is [Shotcut](https://www.shotcut.org) loaded on a Windows desktop. Export preset is YT1080p30 stack. This outputs an MP4 file with H.264 video and AAC audio, optimized for YouTube. Custom settings, based on h.264 main profile:
 
 Video tab
   - Resolution: 1920x1080
@@ -81,7 +83,7 @@ NEO
 
 ## Saving images, naming standards, slugs, and dirs for image files
 
-All images are saved as jpg files. For image workflow, see [project-workflow](project-workflow.md).
+All images are saved as jpg files. For image workflow, see [project workflow](project-workflow.md).
 
 For details on naming and slugs see [naming slugs](naming-slugs.md).
 

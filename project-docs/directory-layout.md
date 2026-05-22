@@ -10,7 +10,8 @@ Local clone of `vintage-reel-service-guides`:
   - `docs/`
     - `img/`
       - `[maker]/`
-        - `[slug]/`  ← final images used in guides
+        - `[model]/`
+          - `[slug]-[image-desc.jpg]`  ← final images used in guides
     - `[maker]/`
       - `[slug]-overview.md`
       - `[slug]-guide.md`

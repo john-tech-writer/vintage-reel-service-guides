@@ -2,6 +2,8 @@
 Each volume will include one reel of each of the four basic types (spinner, etc.) plus one oddball/novel reel. Each reel will get:
   - Overview and service guide for repo
   - Any extra service guides for repo for standalone services like bail service on spinning reels--varies with reel.
+
+In addition to the volume on the repo the stack will include videos hosted on YouTube and supporting narrative and notification posts on Substack:
   - Overview, disassembly, and reassembly vids for youtube.
   - Welcome to the bench and notification posts for substack.
 
@@ -9,42 +11,33 @@ Currently (may 2026) 5 volumes are planned.
 
 ## Volume 1
 Penn Spinfisher 720 open face spinning reel
-
-5.20.26: Completed overview and service guide for repo. Completed overview, disassembly, and reassembly videos for YT.
-
-Needed: Additional mini service guides for drag stack and bail. Additional corresponding vids for YT. Retro "welcome to the bench" and "notification" posts for substack.
+  - .20.26: Completed overview and service guide for repo. Completed overview, disassembly, and reassembly videos for YT.
+  - Needed: Additional mini service guides for drag stack and bail. Additional corresponding vids for YT. Retro "welcome to the bench" and "notification" posts for substack.
 
 Pflueger Nobby model 1963 baitcasting reel
-
-5.20.26: Completed overview vid for YT.
-
-Needed: Overview and service guide for repo. Service vid for YT. Welcome to the bench and notification posts for SS.
+  - 5.20.26: Completed overview vid for YT.
+  - Needed: Overview and service guide for repo. Service vid for YT. Welcome to the bench and notification posts for SS.
 
 Zebco 33 spincasting reel
-
-5.20.26: Drafted "Reel stories"/hero post for SS.
-
-Needed: Complete reel stories post.
+  - 5.20.26: Drafted "Reel stories"/hero post for SS.
+  - Needed: Complete reel stories post.
 
 Shakespeare Silent Tru aRT automatic fly reel
-
-5.20.26: Acquired, also box and inserts.
+  - 5.20.26: Acquired, also box and inserts.
 
 Pfueger Pelican 1021 manual pick-up open face spinning reel
-
-5.20.26: Acquired, also manual from ORCA.
+  - 5.20.26: Acquired, also manual from ORCA.
 
 ## Volume 2
 Pflueger Pelican 1020/1020A open face spinning reel
-
-5.20.26: Acquired, also manual from ORCA.
+  - 5.20.26: Acquired, also manual from ORCA.
 
 Garcia 3000 (or 2000, etc.) baitcasting reel
 South Bend 88 spincast reel
 Manual/single action fly reel TBD
 
 Magic Fishing Reel, combo type
-5.20.26: Acquired, also schematics from US patent site.
+  - 5.20.26: Acquired, also patent docs including schematics, mechanical description, and user instructions.
 
 ## Volume 3
 Penn Spinfisher (next size up, 2 of 4, bearing version)

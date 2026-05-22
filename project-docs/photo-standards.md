@@ -79,15 +79,10 @@ Describe lights, intensity, color temp, diffusion fabric.
 
 NEO
 
-## Naming standards, slugs, and dirs for image files
+## Saving images, naming standards, slugs, and dirs for image files
 
-All images are saved as jpg files.
+All images are saved as jpg files. For image workflow, see [project-workflow](project-workflow.md).
 
-maker-model-number-hero.jpg, etc.
-maker-model-number-badge.jpg
-maker-model-number-drag-lever.jpg, etc.
-maker-model-number-remove-cover-plate.jpg, etc.
+For details on naming and slugs see [naming slugs](naming-slugs.md).
 
-For more details on naming and slugs see (naming-slugs.md)
-
-For more details on dirs see (directory-layout.md)
+For details on dirs see [directory layout](directory-layout.md).

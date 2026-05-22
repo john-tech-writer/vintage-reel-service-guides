@@ -1,4 +1,4 @@
-# Project Workflow
+# Project workflow
 
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 

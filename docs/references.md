@@ -1,6 +1,6 @@
 # References and annotations
 
-This annotated bibliography and references page tells you where specific information in these guides comes from and how to locate the original sources for follow‑up. To see which documents were used for a particular reel, check the References section at the end of that reel’s overview and service guide.
+This references page tells you where specific information in these guides comes from and how to locate the original sources for follow‑up. To see which documents were used for a particular reel, check the References section at the end of that reel’s overview and service guide. The annotations provide brief summaries of why each source is useful to the vintage reel enthusiast.
 
 ## Books
 
@@ -8,7 +8,7 @@ Shakespeare, Henry. *Secrets of Successful Fishing.* 1962. Dell Publishing Co., 
 
 A very comprehensive, compact field guide to all types of fishing from a mid-century American perspective. Describes equipment, how to create balanced tackle outfits, and fishing methods. Included many diagrams showing how to cast, where to locate fish, and various types of lures. Still (in 2026) remarkably current, particularly when working with vintage tackle.
 
-## Company manuals and box inserts
+## Manuals and box inserts
 
 Penn Fishing Tackle Mfg. Co. *Spinfisher Instruction Manual.* Box insert for Penn Spinfisher reels, n.d.
 
@@ -23,3 +23,9 @@ A brief historical overview of early Pflueger spinning and spincast reels, with 
 Steward, Douglas. *A History of the Shakespeare Company 1896 - 1952.* Retrieved from Kalamazoo College CACHE Digital Archive (https://cache.kzoo.edu). 2.26.2026.
 
 Covers what years important reel models were introduced.
+
+## Other online sources
+
+Fishing Reel patent 2,571,440. United States Patent Office. October 16, 1951. Goldberg, Jacob M., Denver, CO.
+
+Describes the mechanics and operation of the reel marketed as the Magic Fishing Reel, includes schematics.

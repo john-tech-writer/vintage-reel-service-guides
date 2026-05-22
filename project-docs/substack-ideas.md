@@ -48,31 +48,24 @@ Yes—that last setup is exactly what I’d run with.
 
 You can always tweak the tagline later in Substack’s Settings without breaking anything, but keeping this core naming consistent across your domain, GitHub, Substack, and YouTube will set you up nicely.
 
-## Opening feature: “At the Bench”
+## Opening feature
 
-Post 1: **“At the Bench: How Vintage Reel Service Guides Get Made”**
-Rough flow:
-
-- Hook: one photo of your bench and why you care about saving these reels.
-- Tour: what’s on the bench (tools, a reel in progress, how you photograph it).
-- Process: light walkthrough of “from reel on the bench → notes → GitHub repo → finished guide on Substack,” focusing on the human parts rather than deep Git.
-- Invitation: what kinds of reels you’ll cover and how often people can expect posts.
-
-This can also be one of the “foundational posts” you link in your Substack welcome email later.
+Ended up being "Reel Stories: The Reel That Started It All."
 
 ## Ongoing series structure
 
-You could run three loose series side by side:
+Ended up with these series:
 
-1. **Bench Notes** (behind the scenes, like the opener)
-    - Short posts about specific repairs, odd problems, or a cool tool you relied on.
-    - Occasional light mentions of the GitHub repo: “here’s the cleaned‑up version of today’s notes if you’re curious.”
-2. **Service Guides** (the more structured, practical posts)
-    - Each guide = one reel model, with sections: overview, common issues, tools, steps, gotchas, and link out to the repo.
-    - Think “reference that’s still readable in email.”
-3. **Reel Stories** (field / fishing outing pieces)
+1. **Reel Stories** (about why a reel is special, field/fishing outing pieces)
     - Narrative posts about using a reel you’ve restored, the day on the water, what worked and what didn’t.
     - These can be lighter and more story‑driven, still tying back to the gear.
+    - The initial hero post is a "Reel Story" about my Zebco 33 and how it led to starting the repo project.
+2. **Bench Notes** (behind the scenes, like the opener)
+    - Short posts about specific repairs, odd problems, or a cool tool you relied on.
+    - Occasional light mentions of the GitHub repo: “here’s the cleaned‑up version of today’s notes if you’re curious.”
+3. **Service Guides** (the more structured, practical posts)
+    - Each guide = one reel model, with sections: overview, common issues, tools, steps, gotchas, and link out to the repo.
+    - Think “reference that’s still readable in email.”
 
 You don’t need a rigid template, but keeping these three “lanes” in mind will help readers know what they’re opening that day.
 

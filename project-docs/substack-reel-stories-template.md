@@ -1,7 +1,7 @@
 # Reel Stories: [Short hook title]
 *Optional subheading: [Brand Model] – [brief where/when]*
 
-## The Reel
+## The Reel/The Reel Thing
 
 This is a [era]-era **[Brand Model]**, a **[type]** reel that [brief significance in the wider world: e.g., introduced a lot of kids to fishing / was a common sight at local ponds].
 

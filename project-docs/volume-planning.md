@@ -11,7 +11,7 @@ Currently (may 2026) 5 volumes are planned.
 
 ## Volume 1
 Penn Spinfisher 720 open face spinning reel
-  - .20.26: Completed overview and service guide for repo. Completed overview, disassembly, and reassembly videos for YT.
+  - 5.20.26: Completed overview and service guide for repo. Completed overview, disassembly, and reassembly videos for YT.
   - Needed: Additional mini service guides for drag stack and bail. Additional corresponding vids for YT. Retro "welcome to the bench" and "notification" posts for substack.
 
 Pflueger Nobby model 1963 baitcasting reel

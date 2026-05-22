@@ -14,14 +14,14 @@ Local clone of `vintage-reel-service-guides`:
           - `[slug]-[image-desc.jpg]`  ← final images used in guides
     - `[maker]/`
       - `[slug]-overview.md`
-      - `[slug]-guide.md`
+      - `[slug]-service-guide.md`
   - `project-docs/`
     - `project-workflow.md`
     - `naming-and-slugs.md`
     - `directory-layout.md`
     - `references-and-annotations.md`
     - templates, etc.
-  - `site/`  ← built site files (if used)
+  - `site/`  ← built site files
 
 ## 2. Workspace
 

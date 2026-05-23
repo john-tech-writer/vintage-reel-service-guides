@@ -45,8 +45,10 @@ Active working documents that do **not** go in the repo:
     - `general-reference.md`  ← writing references
     - `reel collection.docx`
   - `maker and reel docs/`
-  - `notes on reels/`
-  - etc.
+    - `generic-spinning-reels/`
+    - `penn/`
+      - `penn-700-series-manual.pdf`
+      - etc.
 
 ## 3. Pictures
 

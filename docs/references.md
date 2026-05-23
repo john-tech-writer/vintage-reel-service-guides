@@ -1,6 +1,8 @@
 # References and annotations
 
-This references page tells you where specific information in these guides comes from and how to locate the original sources for follow‑up. To see which documents were used for a particular reel, check the References section at the end of that reel’s overview and service guide. The annotations provide brief summaries of why each source is useful to the vintage reel enthusiast.
+This references page tells you where specific information in these guides comes from and how to locate the original sources for follow‑up. To see which documents were used for a particular reel, check the References section at the end of that reel’s overview and service guide.
+
+The annotations provide brief summaries of why each source is useful to the vintage reel enthusiast.
 
 These bibliography entries follow a combination of the Chicago Manual of Style and the Council of Science Editors.
 

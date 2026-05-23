@@ -2,7 +2,7 @@
 
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 
-    Add an entry for the reel in the [reels collection](reels-collection.md) log file in the [workspace](directory-layout.md) in `/maker and reel docs/[maker]/[slug]-[desc]`. This file includes a record of when each reel was acquired, cost, origin, etc., and notes on what's been done and what needs to be done for each reel.
+    Add an entry for the reel in the reel collection log file in the [workspace dir](directory-layout.md) `/maker and reel docs/general reference docs/`. This file is a record of when each reel was acquired, cost, origin, and notes on what's been done/needs to be done for each reel.
 
 2. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in `/maker and reel docs/[maker]/[slug]-[desc]`. Add an entry to [References](../docs/references.md).
 

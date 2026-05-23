@@ -41,6 +41,9 @@ Active working documents that do **not** go in the repo:
       - `[slug]-reassembly.docx`
   - `templates/`
   - `articles on reels/`
+  - `general referece docs/`
+    - `general-reference.md`  ← writing references
+    - `reel collection.docx`
   - `maker and reel docs/`
   - `notes on reels/`
   - etc.

@@ -18,8 +18,9 @@
 Most of these actions are already saved in XnView but can be checked/unchecked, edited, etc.
   - Save to [project folder](directory-layout.md) in `/docs/img/[maker]/[model]/[slug]-[desc].jpg` using Tools > Batch convert > Output tab
 
-4. Write substack post for the "welcome to the bench" series.
-  - Use .md template in [/project-docs](directory-layout.md) save to /substack/`[slug]` in workspace using [standard slug](naming-slugs.md).
+4. Write substack post for "welcome to the bench" series.
+  - Use template in [project folder](directory-layout.md) `/project-docs/templates`, save to workspace `/substack/[slug]/welcome-bench-[slug].md`.
+  *stop 5.23.26*
   - For help with developing content, see [Substack Ideas](substack-ideas.md) and post examples--[Welcome to the Bench](substack-welcome-bench-example.md).
   - Post to substack, tag as "new arrival" (corresponds to "welcome to the bench" post series).
   - Wire to repo: Post template includes a connections section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.

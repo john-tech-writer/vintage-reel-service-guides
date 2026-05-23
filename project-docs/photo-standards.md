@@ -38,6 +38,10 @@ Use Olympus PL1:
 
 Heros 1 Reel positioned as if mounted on rod, for example, for spinning reels the foot should be at top. Reel front facing left, center of front lower 3rd, handle side facing camera, handle at diagonal.
 
+## XnView settings
+
+for image size, output dirs, levels, etc.
+
 ## Video cam settings
 
 Software is [Guvcview](https://guvcview.sourceforge.net/) loaded on an ubuntu laptop.

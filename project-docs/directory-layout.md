@@ -1,6 +1,6 @@
 # Directory layout
 
-## 1. Repo (GitHub)
+## 1. Repo (GitHub)/project folder
 
 Local clone of `vintage-reel-service-guides`:
 
@@ -21,7 +21,9 @@ Local clone of `vintage-reel-service-guides`:
     - `project-workflow.md`
     - `naming-slugs.md`
     - `directory-layout.md`
-    - templates, etc.
+    - `templates`
+      - `substack-reel-stories-template.md`
+      - etc.
   - `site/`  ← built site files
 
 ## 2. Workspace
@@ -57,7 +59,7 @@ All raw and edited photos:
 - `Pictures/vintage reel service guides/`
   - `[maker]/`
     - `[model]/`
-      - `[slug]-[img-desc].jpg`
+      - `[slug]-[desc].jpg`
   - `assets-banners-logos/`
   - `fish images/`
   - `jigs for reel repair/`

@@ -2,9 +2,9 @@
 
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 
-    This file includes a record of what's been done and what needs to be done for each reel.
+    Add an entry for the reel in the [reels collection](reels-collection.md) log file in the [workspace](directory-layout.md) in `/maker and reel docs/[maker]/[slug]-[desc]`. This file includes a record of when each reel was acquired, cost, origin, etc., and notes on what's been done and what needs to be done for each reel.
 
-2. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in `/maker and reel specific docs/[maker]/[slug]-[desc]`. Add an entry to [References](../docs/references.md).
+2. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in `/maker and reel docs/[maker]/[slug]-[desc]`. Add an entry to [References](../docs/references.md).
 
   - If documents and/or box is included with reel, take photos and save in project folder in `/docs/[maker]`. These these images are treated as documents and included in the project so users can view them using the link provided in the references page.
   - If documents are obtained from other sources, the files are not included in the project. The source link will be provided in the references page but users may need to pay to view the documents (e.g., ORCA online archives).

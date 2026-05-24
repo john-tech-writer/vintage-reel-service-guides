@@ -2,7 +2,7 @@
 
 ## Links
 
-General, links to other .md files
+Links to files
   - In the same dir: [Alt text](filename.md)
 For example, [Photo Standards](photo-standards.md)
 
@@ -12,7 +12,7 @@ Each ../ goes up one level in the dir structure, so two levels up would be ../..
 
   - If the target is in a different dir/subdir off the root, add the path: (../img/dir/dir/filename.md)
 
-Images
+Links to images
 
 ![Alt text](path.jpg)
 

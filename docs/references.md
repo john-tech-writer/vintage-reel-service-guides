@@ -49,6 +49,6 @@ Covers what years important reel models were introduced.
 
 ## Patents
 
-Goldberg, Jacob M., inventor. Fishing Reel. United States patent US 2,571,440. 1951 Oct 16.
+Goldberg, Jacob M., inventor. Fishing Reel. [United States patent US 2,571,440](magic/magic-fishing-reel-patent.pdf). 1951 Oct 16.
 
 Describes the mechanics and operation of the reel marketed as the Magic Fishing Reel, includes schematics.

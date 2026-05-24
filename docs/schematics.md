@@ -6,7 +6,7 @@ Most other schematics, instruction manuals, and other technical documentation ca
 
 ## Magic Fishing Reel
 
-[Original patent](../magic/magic-fishing-reel-patent.pdf)
+[Original patent](magic/magic-fishing-reel-patent.pdf)
 
 Includes schematics, functional description, and usage description.
 

@@ -1,8 +1,8 @@
 # Directory layout
 
-## 1. Repo (GitHub)/project folder
+## 1. Project folder
 
-Local clone of `vintage-reel-service-guides`:
+Local clone of `vintage-reel-service-guides` repository on Github
 
 - `vintage-reel-service-guides/`
   - `.git/`
@@ -11,10 +11,13 @@ Local clone of `vintage-reel-service-guides`:
     - `img/`
       - `[maker]/`
         - `[model]/`
-          - `[slug]-[image-desc].jpg`  ← final images used in guides
+          - `[slug]-[image-desc].jpg`  ← final images used in guides in repo
     - `[maker]/`
-      - `[slug]-overview.md`
+      - `[slug]-overview.md`  ← final docs used in guides in repo
       - `[slug]-service-guide.md`
+      - `penn-spinfisher-series.md`  ← example-other *reel-specific* docs used in repo
+    - `about.md`  ← generic docs used in repo
+    - `index.md`  ← repo landing page
     - `references.md`
     - etc.
   - `project-docs/`
@@ -28,7 +31,7 @@ Local clone of `vintage-reel-service-guides`:
 
 ## 2. Workspace
 
-Active working documents that do **not** go in the repo:
+Active working documents that do **not** go in the repo
 
 - `vintage-reel-service-guides-workspace/`
   - `substack/`
@@ -54,7 +57,7 @@ Active working documents that do **not** go in the repo:
 
 ## 3. Pictures
 
-All raw and edited photos:
+All raw and edited photos
 
 - `Pictures/vintage reel service guides/`
   - `[maker]/`
@@ -67,15 +70,12 @@ All raw and edited photos:
 
 ## 4. Video
 
-All captured footage and edits:
+All captured footage and edits
 
-- `Video/1-vintage reel service guides/`
+- `Video/vintage reel service guides/`
   - `general/`
-  - `magic/`
-  - `penn/`
-    - `720/`
-      - `penn-720-overview/`
-      - `service/`
-  - `pfleuger/`
-    - `[slug]/` for future reels
-  - `zebco/`
+  - `[maker]/`
+    - `[model]/`
+      - `[slug]-overview.mp4/`  ← final videos used on YouTube
+      - `[slug]-disassembly.mp4/`
+      - `[slug]-reassembly.mp4/`

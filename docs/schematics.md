@@ -1,5 +1,19 @@
-# Schematics and Other Technical Documentation
+# Schematics and other technical documentation
 
-Schematics are available in the Penn Reels Instruction Manual. These exploded diagrams and parts lists provide useful references when disassembling and reassembling the reel. This technical document and many others are available from the Old Reel Collectors Association library of downloadable reel schematics at the [ORCA website](https://www.orcaonline.org/product-category/orca-library/reel-schematics/). If you are a member these are free (a good value for the reel enthusiast). If you are not a member there is a charge for each document.
+This page includes documents imaged by Vintage Reel Service Guides and docs obtained from open sources. Images of boxes are also provided if they include technical information.
 
-The ORCA website also provides links to other sources for technical documentation related to vintage reels.
+Most other schematics, instruction manuals, and other technical documentation can be found on the [Old Reel Collector's Association](https://www.orcaonline.org/services/reel-schematics/) website; free to members and available on a per-item cost basis for non-members. This site also includes many other resources for vintage reel enthusiasts. ORCA Membership is an excellent value for anyone interested in vintage fishing reels.
+
+## Magic Fishing Reel
+
+[Original patent](/magic/magic-fishing-reel-patent.pdf)
+
+Includes schematics, functional description, and usage description.
+
+## Shakespeare Silent Tru aRT no. 1847
+
+Box insert, includes service instructions and usage instructions.
+
+## Zebco 33
+
+Box inserts, include service instructions and usage instructions.

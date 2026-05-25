@@ -4,7 +4,7 @@ site_url: https://vintage-reel-service-guides
 nav:
   - Home: index.md
   - About: about.md
-  - Substack: subscribe-substack.md
+  - Substack: substack-subscribe.md
   - YouTube: youtube-channel.md
 
   - Reels - Overviews and Service:
@@ -37,7 +37,8 @@ nav:
       - Spinning and Spincast Reels: spinning-reels.md
       - Fly Reels: fly-reels.md
 
-  - References: references.md
+  - References:
+      - References: references.md
 theme:
   name: readthedocs
 plugins:

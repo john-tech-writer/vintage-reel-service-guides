@@ -4,7 +4,7 @@ All the video content on Vintage Reel Service Guides is hosted on the [YouTube c
 
 <a href="https://youtu.be/lF3cL1qhqAA" target="_blank" rel="noopener">
   <img
-    src="https://www.youtube.com/channel/UCNqFcXvrXasuozFZuoMbPUQ"
+    src="https://www.youtube.com/@vintage-reel-service-guides"
     alt="Vintage Reel Service Guides YouTube channel"
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>

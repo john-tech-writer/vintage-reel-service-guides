@@ -35,6 +35,8 @@ nav:
       - Baitcasting Reels: baitcasting-reels.md
       - Spinning and Spincast Reels: spinning-reels.md
       - Fly Reels: fly-reels.md
+
+  - References: references.md
 theme:
   name: readthedocs
 plugins:

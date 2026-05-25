@@ -10,13 +10,15 @@ These bibliography entries follow a combination of the Chicago Manual of Style a
 
 *Cleaning, Restoring, and Repairing Antique Fishing Reels*. 4th ed., Old Reel Collectors Association, (2024).
 
-A collection of articles from *The Reel News*, including articles on assessing and grading antique reels, restoration and cleaning, materials and finishes.
+    A collection of articles from *The Reel News*, including articles on assessing and grading antique reels, restoration and cleaning, materials and finishes.
 
 Cacioppo, Michael. "Servicing a Penn Spinfisher 710 Spinning Reel," in *Cleaning, Restoring, and Repairing Antique Fishing Reels*. 4th ed., Old Reel Collectors Association, (2024).
 
+    Illustrated procedure, cover disassembly and reassembly. Some of the information can be generalized to the other reels in the Penn Spinfishers series, provides a good starting point to work out specific procedures for other similar reels.
+
 Shakespeare, Henry. *Secrets of Successful Fishing.* Dell Publishing Co., 1962.
 
-Comprehensive field guide to all types of fishing from a mid-century American perspective. Describes all types of reels, rods, lines, terminal tackle, lures, how to create balanced tackle outfits, and fishing methods. Includs many diagrams showing how to cast, where to locate fish, and various types of lures.
+    Comprehensive field guide to all types of fishing from a mid-century American perspective. Describes all types of reels, rods, lines, terminal tackle, lures, how to create balanced tackle outfits, and fishing methods. Includs many diagrams showing how to cast, where to locate fish, and various types of lures.
 
 
 ## Manuals and box inserts

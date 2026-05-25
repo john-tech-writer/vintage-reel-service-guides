@@ -51,7 +51,9 @@ Active working documents that do **not** go in the repo
     - `reel collection.docx`
   - `maker and reel docs/`
     - `generic-spinning-reels/`
-    - `penn/`
+    - `[maker]`
+      - `[maker]/[slug]-[desc].[ext]`
+    - `penn/`  ← for example
       - `penn-700-series-manual.pdf`
       - etc.
 

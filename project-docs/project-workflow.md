@@ -32,7 +32,7 @@ Most of these actions are already saved in XnView but can be checked/unchecked, 
 
 5. Write overview using template in [workspace](directory-layout.md) in `/repo templates/` and save in [project folder](directory-layout.md) as `/docs/[slug]-overview.md.` This will get pushed to the repo.
 
-Write service guide using template in [workspace](directory-layout.md) in `/repo templates/` and save in [project folder](directory-layout.md) as `/docs/[slug]-service-guide.md.` This will get pushed to the repo.
+6. Write service guide using template in [project folder](directory-layout.md) in `/repo templates/` and save in [project folder](directory-layout.md) as `/docs/[slug]-service-guide.md.` This will get pushed to the repo.
 
 6. Write script for overview based on skeleton and example in E://documents/vintage-reel-service-guides/docs/project-docs, save as E://documents/1-vintage reel service guide project/video scripts/script maker model number-overview.docx
 

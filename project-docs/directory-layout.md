@@ -21,11 +21,13 @@ Local clone of `vintage-reel-service-guides` repository on Github
     - `references.md`
     - etc.
   - `project-docs/`
+    - `repo templates/`
+      - `overview-template-example.md`
+      - `guide-template-example.md`
     - `project-workflow.md`
     - `naming-slugs.md`
     - `directory-layout.md`
-    - `templates`
-      - `substack-reel-stories-template.md`
+
       - etc.
   - `site/`  ← built site files
 
@@ -38,7 +40,7 @@ Active working documents that do **not** go in the repo
     - `general-reference.md`  ← writing references
     - `reel collection.docx`
   - `how-to class outlines/`
-    - `maker and reel docs/`
+  - `maker and reel docs/`
     - `generic-spinning-reels/`
     - `[maker]`
       - `[maker]/[slug]-[desc].[ext]`
@@ -48,24 +50,20 @@ Active working documents that do **not** go in the repo
   - `reel-balanced tackle disc/`
     - `garcia 3000-4000 disc.pdf`  ← for example
     - etc.
-  - `repo templates/`
-    - `overview-template-example.md`
-    - `guide-template-example.md`
   - `substack/`
     - `[slug]/`
       - `welcome-bench-[slug].md`
       - `new-service-guide-series-[slug].md`
-  - `video scripts/`
+  - `youtube/`
     - `[slug]/`
-      - `[slug]-overview.docx`
-      - `[slug]-disassembly.docx`
-      - `[slug]-service.docx`
-      - `[slug]-reassembly.docx`
-  - `templates/`
-      - 
-  - `articles on reels/`
-
-
+      - `[slug]-overview script.docx`
+      - `[slug]-disassembly script.docx`
+      - `[slug]-reassembly script.docx`
+      - `[slug]-youtube desc.docx`  ← descriptions for all YT vids
+    - `templates`
+      - `overview-script template-example.docx`
+      - `service-script template-example.docx`  ← for both service vids
+      - `youtube desc template-example.docx`
 
 ## 3. Pictures
 

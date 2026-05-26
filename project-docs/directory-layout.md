@@ -34,6 +34,23 @@ Local clone of `vintage-reel-service-guides` repository on Github
 Active working documents that do **not** go in the repo
 
 - `vintage-reel-service-guides-workspace/`
+  - `general referece docs/`
+    - `general-reference.md`  ← writing references
+    - `reel collection.docx`
+  - `how-to class outlines/`
+    - `maker and reel docs/`
+    - `generic-spinning-reels/`
+    - `[maker]`
+      - `[maker]/[slug]-[desc].[ext]`
+    - `penn/`  ← for example
+      - `penn-700-series-manual.pdf`
+      - etc.
+  - `reel-balanced tackle disc/`
+    - `garcia 3000-4000 disc.pdf`  ← for example
+    - etc.
+  - `repo templates/`
+    - `overview-template-example.md`
+    - `guide-template-example.md`
   - `substack/`
     - `[slug]/`
       - `welcome-bench-[slug].md`
@@ -45,17 +62,10 @@ Active working documents that do **not** go in the repo
       - `[slug]-service.docx`
       - `[slug]-reassembly.docx`
   - `templates/`
+      - 
   - `articles on reels/`
-  - `general referece docs/`
-    - `general-reference.md`  ← writing references
-    - `reel collection.docx`
-  - `maker and reel docs/`
-    - `generic-spinning-reels/`
-    - `[maker]`
-      - `[maker]/[slug]-[desc].[ext]`
-    - `penn/`  ← for example
-      - `penn-700-series-manual.pdf`
-      - etc.
+
+
 
 ## 3. Pictures
 

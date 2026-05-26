@@ -30,9 +30,9 @@ Most of these actions are already saved in XnView but can be checked/unchecked, 
   - Wire to substack:
   - Wire to repo: 
 
-5. Write overview using Notepad ++ based on template in , save as .md file as E://documents/vintage-reel-service-guides/docs/maker/maker-model-number-overview.md
+5. Write overview using template in [workspace](directory-layout.md) in `/repo templates/` and save in [project folder](directory-layout.md) as `/docs/[slug]-overview.md.` This will get pushed to the repo.
 
-Notes: Currently (may 2026) there doesn't seem to be a need to create subdirectories for each model, i.e., E://documents/vintage-reel-service-guides/docs/maker/model/maker-model-number-overview.md and it just seems to add unnecessary complexity, also would require some work on existing published docs--Penn 720 and Pflueger Nobby--but in the future it might become desirable as the library grows.
+Write service guide using template in [workspace](directory-layout.md) in `/repo templates/` and save in [project folder](directory-layout.md) as `/docs/[slug]-service-guide.md.` This will get pushed to the repo.
 
 6. Write script for overview based on skeleton and example in E://documents/vintage-reel-service-guides/docs/project-docs, save as E://documents/1-vintage reel service guide project/video scripts/script maker model number-overview.docx
 

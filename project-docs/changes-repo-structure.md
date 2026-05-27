@@ -201,10 +201,12 @@ BACKGROUND ON REEL TYPES
 
 --------------------------------------------
 
-New Repo Structure 3--Top Level--THIS WAS THE WINNER
+New Repo Structure 3--Top Level--**THIS WAS THE WINNER**
 
 Home
 About
+Substack
+YouTube
 
 REELS - OVERVIEWS AND SERVICE GUIDES
 
@@ -233,9 +235,9 @@ GENERAL SERVICE INFORMATION
 # Removing and Adding Line
 # Cleaning and Lubrication
 # Epoxy Repairs
-# Schematics and Tech Docs
 
 BACKGROUND - REEL TYPES AND MAKERS
+makers will be added as background on makers content is developed, e.g., history of shakespeare co.
 
 # A Family Tree of Mid-Century Reels
 # Baitcasting Reels
@@ -246,6 +248,10 @@ BACKGROUND - REEL TYPES AND MAKERS
 # Shakespeare
 # Zebco
 etc...in alpha order
+
+REFERENCES - MANUALS - SCHEMATICS
+
+# References
 
 --------------------------------------------
 

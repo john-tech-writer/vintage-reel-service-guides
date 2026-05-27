@@ -35,7 +35,7 @@ Most of these actions are already saved in XnView but can be checked/unchecked, 
 
 1. Write script for overview based on skeleton and example in E://documents/vintage-reel-service-guides/docs/project-docs, save as E://documents/1-vintage reel service guide project/video scripts/script maker model number-overview.docx
 
-Notes: The skeletons and examples should be in the project folder as .md files so they can eventually be pushed to a github repo to (1) document the project workflow for my personal use, and (2) to use as a basis for the "how to build a stack" future project. The reel-specific scripts however should be saved as .docx files for easy printing and reading while recording the vids. There is no simple way to print reader-friendly .md files. Also they should be saved (as noted) in the project working docs folder since the reel-specific files don't belong in the repo.
+    Notes: The skeletons and examples should be in the project folder as .md files so they can eventually be pushed to a github repo to (1) document the project workflow for my personal use, and (2) to use as a basis for the "how to build a stack" future project. The reel-specific scripts however should be saved as .docx files for easy printing and reading while recording the vids. There is no simple way to print reader-friendly .md files. Also they should be saved (as noted) in the project working docs folder since the reel-specific files don't belong in the repo.
 
 1. Capture video for overview using logitech cam and guvcview on laptop.
     - Save as .mpv

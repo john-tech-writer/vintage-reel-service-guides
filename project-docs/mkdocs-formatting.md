@@ -16,6 +16,17 @@ Each ../ goes up one level in the dir structure, so two levels up would be ../..
 
   - If the target is in a different dir/subdir off the root, add the path: (../img/dir/dir/filename.md)
 
+### Adding links to site navigation
+
+In root add filename to `mkdocs.yml`:
+
+  - `Reels - Overviews and Service:`  ← renders in blue all caps, no link
+      - `Penn:`  ← renders with + sign, linked as dropdown
+          - `Penn 720 Overview (Spinning): penn/penn-720-overview.md`  ← render as links to doc
+          - `Penn 720 Service (Spinning): penn/penn-720-service-guide.md`
+
+This example uses readthedocs mkdocs template; other templates would render the nav somewhat differently. For each nested level add 2 more spaces to the beginning of the line.
+
 ### Links to images
 
 `![Alt text](path.jpg)`
@@ -68,3 +79,39 @@ This gives the look of YouTube embed without the overhead.
   ">
   </span>
 </a>
+
+## Numbered steps
+
+The following format allows entering numbers for procedures in mkdocs for editing purposes which will also be stable when pushed to the repo. Note that as long as this formatting is used you can use 1s for all steps and they will renumber correctly when pushed to the repo.
+
+**Steps**
+
+Start at the left margin, e.g.:
+
+1. Remove the drag cap...
+2. Remove the spool...
+
+**Content under a step**
+
+For example, images and extra paragraphs.
+
+Indent 4 spaces:
+
+␣␣␣␣![image](...)
+
+␣␣␣␣This is a good time to inspect...
+
+**Blank lines inside a step**
+
+Between paragraphs or images.
+
+Leave them *truly* blank (no spaces), e.g.:
+
+␣␣␣␣![image](...)
+<empty line>
+␣␣␣␣Next sentence...
+
+**Between steps**
+
+One normal blank line (no spaces), then the next step number.
+

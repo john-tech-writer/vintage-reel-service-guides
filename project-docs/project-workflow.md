@@ -4,12 +4,12 @@
 
     Add an entry for the reel in reel collection.docx in [workspace](directory-layout.md) `/maker and reel docs/general reference docs/`. This file is a record of when each reel was acquired, cost, origin, and notes on what's been done/needs to be done for each reel.
 
-2. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in `/maker and reel docs/[maker]/[slug]-[desc].[ext]`. Add an entry to [References](../docs/references.md).
+1. Acquire all available documentation for the reel, save to [workspace](directory-layout.md) in `/maker and reel docs/[maker]/[slug]-[desc].[ext]`. Add an entry to [References](../docs/references.md).
 
   - If documents and/or box is included with reel, take photos and save in [project folder](directory-layout.md) in `/docs/[maker]`. These these images are treated as documents and included in the project so users can view them using the link provided in the References page.
   - If documents are obtained from other sources, the files are not included in the project. The source link will be provided in the References page but users may need to pay to view the documents (e.g., ORCA online archives).
 
-3. Take initial pictures of reel using [Photo Standards](photo-standards.md). Save to [Pictures](directory-layout.md) in `/maker and reel docs/[maker]/` as `[slug]-[desc].jpg`.
+1. Take initial pictures of reel using [Photo Standards](photo-standards.md). Save to [Pictures](directory-layout.md) in `/maker and reel docs/[maker]/` as `[slug]-[desc].jpg`.
 
 4. Open pictures folder using [XnView](https://www.xnview.com/en/xnview/) and edit as necessary:
 

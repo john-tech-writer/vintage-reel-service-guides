@@ -3,8 +3,10 @@
 This references page tells you where specific information in these guides comes from and how to locate the original sources for follow‑up. To see which documents were used for a particular reel, check the References section at the end of that reel’s overview and service guide.
 
 *Schematics and manuals* are the most important documents for service procedures so all *known* manuals and schematics are listed here in one of two ways:
+
   - Some entries provide direct links to schematics or the documents containing them; these are typically documents owned and scanned by Vintage Reel Service Guides, or documents from open-source archives.
-  - Some entries provide links to other sites or archives. Some of these sites, for example, The Old Reel Collector's Association, charge non-members a nominal fee for downloading manuals and schematics per document; members can download documents free. ORCA provides valuable services to the entire vintage reel enthusiast community and the fees go toward supporting these services.
+
+  - Some entries provide links to other sites or archives. Some of these sites, for example, [The Old Reel Collector's Association]((https://www.orcaonline.org/), charge non-members a nominal fee for downloading manuals and schematics per document; members can download documents free. ORCA provides valuable services to the entire vintage reel enthusiast community and the fees go toward supporting these services.
   
 Other documents listed here, like books and articles, are less directly important for service procedures but provide background information that will be of interest to the vintage reel enthusiast. Some provide information about field use, like how to create balanced tackle outfits, how to cast effectively, and how to fish using specific methods like trolling.
 

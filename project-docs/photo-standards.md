@@ -34,6 +34,16 @@ Use Olympus PL1:
   - 3 x 3 grid
   - Shoot white card for white balance: Press start/OK, select capture WB icon, press info, point camera at white card, press shutter, select yes. If the camera can't set WB based on what's in front of it--low light, etc.--there will be error message WB NG RETRY.
 
+### Grids
+
+To turn on and select type.
+
+MENU > [two gears icon] > DISP/PC > /INFO SETTING > LV-Info > Displayed Grid [4 types or off]
+
+During shooting use INFO to toggle selected grid on/off.
+
+Also see [Using grids and framing shots](using-grids-framing-shots.md).
+
 ## Framing/positioning
 
 Heros 1 Reel positioned as if mounted on rod, for example, for spinning reels the foot should be at top. Reel front facing left, center of front lower 3rd, handle side facing camera, handle at diagonal.

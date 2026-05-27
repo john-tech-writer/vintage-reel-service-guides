@@ -82,7 +82,7 @@ This gives the look of YouTube embed without the overhead.
 
 ## Numbered steps
 
-The following format allows entering numbers for procedures in mkdocs for editing purposes which will also be stable when pushed to the repo. Note that as long as this formatting is used you can use 1s for all steps and they will renumber correctly when pushed to the repo.
+The following format allows entering numbers for procedures in mkdocs for editing purposes which will also be stable when pushed to the repo. Note that as long as this formatting is used you can *use 1s for all steps* and they will renumber correctly when pushed to the repo. This is useful when initially authoring steps where there may be a lot of additions, deletions, etc. so you don't have to keep renumbering them.
 
 **Steps**
 

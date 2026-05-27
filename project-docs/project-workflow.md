@@ -11,6 +11,8 @@
 
 1. Take initial pictures of reel using [Photo Standards](photo-standards.md). Save to [Pictures](directory-layout.md) in `/maker and reel docs/[maker]/` as `[slug]-[desc].jpg`.
 
+See [Using grids and framing shots](using-grids-framing-shots.md) for a detailed discussion.
+
 1. Open pictures folder using [XnView](https://www.xnview.com/en/xnview/) and edit as necessary:
 
     - Crop and rotate.

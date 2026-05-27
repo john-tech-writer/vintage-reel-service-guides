@@ -101,6 +101,8 @@ Indent 4 spaces:
 
 ␣␣␣␣This is a good time to inspect...
 
+For bulleted lists under steps, to keep autonumbering working correctly (if using 1s for all steps) you will need to always indent 4 spaces rather than starting the first level of bullets with 2 spaces.
+
 **Blank lines inside a step**
 
 Between paragraphs or images.

@@ -21,3 +21,50 @@ Each ../ goes up one level in the dir structure, so two levels up would be ../..
 `![Alt text](path.jpg)`
 
 For example, ![Penn 720--Front Left](../../img/penn/720/penn-720-front-left.jpg)
+
+## iframes and YouTube
+
+### Lazy loading for iframes
+
+Allows YouTube embeds to load only as they are displayed on a scrolled page.
+
+<iframe
+  loading="lazy"
+  src="https://www.youtube.com/embed/2c1ZWjAN6yU"
+  title="Penn 720 Overview"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+### Thumbnail embed
+
+A YouTube thumbnail.
+
+<a href="https://www.youtube.com/watch?v=2c1ZWjAN6yU" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/2c1ZWjAN6yU/hqdefault.jpg"
+    alt="Penn 720 Overview video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
+
+### Fake player icon and embed
+
+This gives the look of YouTube embed without the overhead.
+
+<a href="https://www.youtube.com/watch?v=2c1ZWjAN6yU" target="_blank" rel="noopener"
+   style="position: relative; display: inline-block;">
+  <img
+    src="https://img.youtube.com/vi/2c1ZWjAN6yU/hqdefault.jpg"
+    alt="Penn 720 Overview video"
+    style="display: block; max-width: 100%; height: auto;">
+  <span style="
+    position:absolute;
+    top:50%; left:50%;
+    transform:translate(-50%, -50%);
+    width:64px; height:64px;
+    border-radius:50%;
+    background:rgba(0,0,0,0.6);
+  ">
+  </span>
+</a>

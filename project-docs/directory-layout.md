@@ -28,8 +28,7 @@ Local clone of `vintage-reel-service-guides` repository on Github
     - `project-workflow.md`
     - `naming-slugs.md`
     - `directory-layout.md`
-
-      - etc.
+    - etc.
   - `site/`  ← built site files
 
 ## 2. Workspace

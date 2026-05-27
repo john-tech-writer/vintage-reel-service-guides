@@ -2,39 +2,44 @@
 
 ## Reel slugs
 
-Each reel gets a **slug** that is used consistently across folders and filenames.
+Each reel gets a *slug* that is used consistently across folders and filenames.
 
 ### Pattern
 
 - Base:  
-  `[maker]-[model]`  
-  Examples: `penn-720`, `zebco-33`, `shakespeare-silent-tru-art`.
-- If there is an official model number or size, append it:  
-  `[maker]-[model]-[model-number]`  
-  Examples: `pfleuger-nobby-1963`, `penn-senator-113h`.
-- Only add extra descriptors if needed to distinguish variants:  
-  `[maker]-[model]-[model-number]-[variant]`  
-  Example: `zebco-33-classic-late`.
+  `[maker]-[model]`
+  Example: `penn-720`
+- If there is a model number or size:
+  `[maker]-[model]-[model-number]`
+  Example: `pfleuger-pelican-1020`
+- If there is a variant:
+  `[maker]-[model]-[model-number](if applicable)-[variant]`
+  Example: `zebco-33-hudson-bay-red`
 
 ### Rules
 
-- All lowercase.  
-- Use hyphens between all words and codes.  
-- Do **not** use production years unless they are the official model number.
+- All lowercase
+- Use hyphens between all words and codes
+- In general do not use production years-*may* be used to distinguish variants
 
-### Where the slug is used
+### Where slugs are used-examples
 
-- **Repo docs**  
-  - Overview: `docs/[maker]/[slug]-overview.md`  
+Project folder
+  - Overview: `docs/[maker]/[slug]-overview.md`
   - Service guide: `docs/[maker]/[slug]-guide.md`
-- **Workspace docs**  
-  - Substack drafts: `.../substack/[slug]/...`  
-  - Video scripts: `.../video scripts/[slug]-overview.docx`, `[slug]-disassembly.docx`, etc.
-- **Media folders**  
-  - Pictures: `.../pictures/.../[maker]/[slug]/`  
-  - Video: `.../Video/1-vintage reel service guides/[maker]/[slug]/`
 
-### Current examples
+Workspace
+  - Substack drafts: `.../substack/[slug]/[slug]-new-arrival.md`
+  - etc.
+  - Video scripts: `.../youtube/[slug]-overview script.docx`
+  - etc.
 
-- `penn-720` – Penn Spinfisher 720 spinning reel.  
-- `pfleuger-nobby-1963` – Pflueger Nobby model 1963 baitcasting reel.
+Media folders
+  - Pictures: `Pictures/vintage reel service guides/[maker]/[model]/[slug]-[desc].jpg`  ← all images
+  - Video: `Video/vintage reel service guides/[maker]/[model]/[overview, service guide]/[slug]-[desc].[mlt, mkv, rpp, wav, mp4]`
+
+.mlt = Shotcut project file
+.mkv = Shotcut file
+.mp4 = final output file for YouTube
+.wav = voiceover
+.rpp = Reaper file

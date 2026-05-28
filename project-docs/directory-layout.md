@@ -66,7 +66,7 @@ Active working documents that do **not** go in the repo
       - `youtube desc template-example.docx`
   - `project development-background/`
     - `audio troubleshooting in win.docx`
-    - `badge notes`
+    - `badge notes.docx`
     - etc.  ← 30+ docs, mostly .docx
 
 ## 3. Pictures

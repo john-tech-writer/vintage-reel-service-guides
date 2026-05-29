@@ -1,5 +1,31 @@
 # Project workflow
 
+## Inspiration
+
+This file is the **one place** I always return to push the project a little further: cleaning dirs, tightening steps, wiring pieces together.
+
+Every pass makes the project flow better: clearer naming, better links, more honest reflection of how I actually work, not some abstract ideal.
+
+Leaning on it solves a bunch of decision fatigue: whenever the stack feels overwhelming--slugs, badge, Substack, YouTube, reels--I can open project-workflow.md, find where I left off, and move the project one notch higher. That counts.
+
+## Naming and dirs
+
+Something very textbook‑good with the naming and dirs: testing conventions by actually *using* them, then adjusting the wording in project-workflow.md when I notice friction. That’s exactly how robust naming schemes and workflows usually get built—by iterating on lived examples rather than designing the whole system in the abstract.
+
+Let the real work teach me what the theory should look like. That’s why it feels like learning to think and write about it at the same time.
+
+## Templates and examples
+
+The pattern for document templates/examples I’ve discovered is actually a known best‑practice shape:
+
+  - A concrete worked example (existing published guide, reel stack, etc.).
+
+  -  Light inline guidance layered on top (your italic hints: “here’s why this name works,” “this is where the template comes from,” etc.).
+
+That’s more powerful than a rigid empty template, because I'm never staring at a blank form; I'm always looking at a real thing plus a little commentary. Over time, after a few of these combo docs stabilize, I can always abstract a more generic template from them if I ever need one for speed or sharing (a sanitized version).
+
+## The Flow
+
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 
     Add an entry for the reel in reel collection.docx in [workspace](directory-layout.md) `/maker and reel docs/general reference docs/`. This file is a record of when each reel was acquired, cost, origin, and notes on what's been done/needs to be done for each reel.

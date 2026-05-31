@@ -17,7 +17,7 @@ Local clone of `vintage-reel-service-guides` repository on Github
       - `[slug]-service-guide.md`
       - `penn-spinfisher-series.md`  ← example-other *reel-specific* docs used in repo
     - `about.md`  ← generic (*non-reel-specific*) docs used in repo
-    - `index.md`  ← repo landing page
+    - `index.md`  ← repo landing page for project documentation
     - `references.md`
     - `baitcasting-reels.md`
     - etc.
@@ -28,7 +28,7 @@ Local clone of `vintage-reel-service-guides` repository on Github
     - `project-workflow.md`
     - `naming-slugs.md`
     - `directory-layout.md`
-    - etc.
+    - etc.  ← other files that will be published on the repo, linked in either nav or other files
   - `site/`  ← built site files
 
 ## 2. Workspace
@@ -41,12 +41,25 @@ Active working documents that do **not** go in the repo
     - `reel collection.docx`
   - `how-to class outlines/`
   - `maker and reel docs/`
-    - `generic-spinning-reels/`
+    - `spinning-general/`
     - `[maker]`
-      - `[maker]/[slug]-[desc].[ext]`
+    - `[maker] [desc]`
+    -  or
+      - `[slug]-[desc].[ext]`
     - `penn/`  ← for example
+    - `penn production archive.pdf`
+    - or
       - `penn-700-series-manual.pdf`
       - etc.
+  - `project development-background/`
+    - `audio-troubleshooting-win.docx`
+    - `design-badge notes.docx`
+    - `docs-mermaid-flowcharts-mkdocs.docx`
+    - `photo-lighting-fixing glare-polarizing.docx`
+    - `README.md`← describes purpose for this folder and file naming conventions, read this first
+    - `video-adding-audio-shotcut.md`
+    - `z-review of first vid-burke drama ideas--other bits--old version.md`
+    - etc.  ← 30+ docs, mostly .docx
   - `reel-balanced tackle disc/`
     - `garcia 3000-4000 disc.pdf`  ← for example
     - etc.
@@ -64,10 +77,6 @@ Active working documents that do **not** go in the repo
       - `overview-script template-example.docx`
       - `service-script template-example.docx`  ← for both service vids
       - `youtube desc template-example.docx`
-  - `project development-background/`
-    - `audio troubleshooting in win.docx`
-    - `badge notes.docx`
-    - etc.  ← 30+ docs, mostly .docx
 
 ## 3. Pictures
 

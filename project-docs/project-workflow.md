@@ -2,29 +2,29 @@
 
 ## Inspiration
 
-This file is the **one place** I always return to push the project a little further: cleaning dirs, tightening steps, wiring pieces together.
+This file is the **one place** to always return to push the project a little further: cleaning dirs, tightening steps, wiring pieces together.
 
-Every pass makes the project flow better: clearer naming, better links, more honest reflection of how I actually work, not some abstract ideal.
+Every pass makes the project flow better: clearer naming, better links, more honest reflection of how project work is actually accomplished, not some abstract ideal.
 
-Leaning on it solves a bunch of decision fatigue: whenever the stack feels overwhelming--slugs, badge, Substack, YouTube, reels--I can open project-workflow.md, find where I left off, and move the project one notch higher. That counts.
+Leaning on it solves decision fatigue: if the stack feels overwhelming--slugs/naming, badge/design, Substack/narrative, YouTube/video, reels/content sourcing--`project-workflow.md` can be opened, reviewed, worked on, and will move the project one notch higher. **That counts**.
 
 ## Naming and dirs
 
-Something very textbook‑good with the naming and dirs: testing conventions by actually *using* them, then adjusting the wording in project-workflow.md when I notice friction. That’s exactly how robust naming schemes and workflows usually get built—by iterating on lived examples rather than designing the whole system in the abstract.
+Something very textbook‑good with the naming and dirs: testing conventions by actually *using* them, then adjusting the wording in `project-workflow.md` when friction is noticed. That’s exactly how robust naming schemes and workflows usually get built—by *terating on lived examples* rather than designing the whole system in the abstract.
 
-Let the real work teach me what the theory should look like. That’s why it feels like learning to think and write about it at the same time.
+**Let the real work teach what the theory should look like**. That’s why it feels like learning to think and write about it at the same time.
 
 ## Templates and examples
 
-The pattern for document templates/examples I’ve discovered is actually a known best‑practice shape:
+The pattern for document templates/examples being used in this project is a known best‑practice shape:
 
   - A concrete worked example (existing published guide, reel stack, etc.).
 
-  -  Light inline guidance layered on top (your italic hints: “here’s why this name works,” “this is where the template comes from,” etc.).
+  -  Light inline guidance layered on top (italic hints: *here’s why this name works*, *this is where the template comes from*, etc.).
 
-That’s more powerful than a rigid empty template, because I'm never staring at a blank form; I'm always looking at a real thing plus a little commentary. Over time, after a few of these combo docs stabilize, I can always abstract a more generic template from them if I ever need one for speed or sharing (a sanitized version).
+That’s more powerful than a rigid empty template, because the form is never blank; it always provides both a real thing plus a little commentary. Over time, after a few of these combo docs stabilize, a more generic template can always be abstracted from it if that is needed for speed or sharing (a sanitized version, for example, for a generic how-to project on the repo).
 
-## The Flow
+## The Workflow
 
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 
@@ -48,7 +48,7 @@ Most of these actions are already saved in XnView but can be checked/unchecked, 
 
 1. Write substack post for "welcome to the bench" series.
     - Use template in [project folder](directory-layout.md) `/project-docs/templates`, save to workspace `/substack/[slug]/welcome-bench-[slug].md`.
-    - For help with developing content, see [Substack Ideas](substack-ideas.md) and post examples--[Welcome to the Bench](substack-welcome-bench-example.md).
+    - For clarity on substack series names and tags, see [substack series](substack-series-tags-names.md); for ideas on developing content, see [Substack Ideas](substack-ideas.md) and post examples--[Welcome to the Bench](substack-welcome-bench-example.md).
     - Post to substack, tag as "new arrival" (corresponds to "welcome to the bench" post series).
     - Wire to repo: Post template includes a connections section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.
     - Wire to YT: Connections section includes link to YT. Create substack video for posting to YouTube.

@@ -28,11 +28,15 @@ Shakespeare Silent Tru aRT automatic fly reel
 Pfueger Pelican 1021 manual pick-up open face spinning reel
   - 5.20.26: Acquired, also manual from ORCA.
 
+These reels have already been acquired so are ready to be documented.
+
 ## Volume 2
 Pflueger Pelican 1020/1020A open face spinning reel
   - 5.20.26: Acquired, also manual from ORCA.
 
 Garcia 3000 (or 2000, etc.) baitcasting reel
+This will probably be the next acquisition, and is a bit of an anomaly as it is not an American maker, but the Abu Garcia baitcasting reels are so iconic for this era they really must be included. It will be important to focus on the lighter Garcias first, and perhaps in future volumes include the larger and heavier reels--in parallel with the Penn Spincaster series of spinning reels, going from the 720 toward the 706.
+
 South Bend 88 spincast reel
 Manual/single action fly reel TBD
 
@@ -41,9 +45,9 @@ Magic Fishing Reel, combo type
 
 ## Volume 3
 Penn Spinfisher (next size up, 2 of 4, bearing version)
-Baitcasting reel TBD
-Spincast reel TBD
-Precisionbilt Mosquito fly reel, or other more "classic" TBD
+Baitcasting reel TBD, maybe the next-heavier Abu Garcia--4000, etc.
+Spincast reel TBD (South Bend may have produced something like a "Futura" which is fairly easy to acquire and interesting)
+Precisionbilt Mosquito fly reel (novelty, clear sides to show working mechanism), or other more "classic" TBD
 Ocean City Spin-A-Long finger pick-up open face spinning reel
 
 ## Volume 4

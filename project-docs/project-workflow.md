@@ -5,6 +5,7 @@ This file is the index for all other project documentation.
 ## Other key files
 
 [README](README.md): Orientation to the project documentation.
+
 [Parking lot](parking-lot.md): Listing of project upgrades to work on.
 
 ## Inspiration

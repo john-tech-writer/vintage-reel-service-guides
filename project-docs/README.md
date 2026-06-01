@@ -2,49 +2,42 @@
 
 This folder contains internal project documents for planning, organizing, and maintaining the Vintage Reel Service Guides repository and related workflow. These files support the working process behind the public site and help keep structure, naming, and production decisions documented.
 
-These documents reside in the project folder `/project-docs/` and get pushed to the repo. They are most easily accessed via the `project-workflow.md` document, which acts as the index page for project documentation on the repo.
+These are working documents for managing the project itself, not end-user service guide content. They reside in the project folder in `/project-docs/` and get pushed to the repo but are not included in site navigation.
 
-## Start here
 
-Begin with `project-workflow.md`.
+## Stare here
 
-That file is the main process document for the project. It serves as the spine for the rest of the project documentation and describes the overall path from reel selection and research through writing, media production, publishing, and repository updates.
+These internal documents are most easily accessed on the repo via [project workflow](project-workflow.md), which acts as the index page for project documentation on the repo. This file is the main process document for the project. It serves as the spine for the rest of the project documentation and describes the overall path from reel selection and research through writing, media production, publishing, and repository updates.
 
-## What lives here
+## What lives here - key files
 
 This folder is for internal project-level documentation such as:
 
-- workflow and process notes (`project-workflow.md`) which also functions as the index page for all internal project documentation
-- directory structure and file-organization guides (`directory-layout.md`)
-- naming and slug conventions (`naming-slugs.md`)
-- planning notes and deferred ideas (`parking-lot.md`)
+- [project workflow](project-workflow.md) — workflow and process notes, main working sequence for producing and publishing project content, also functions as the index page for all internal project documentation
 
-Other project-related documents live elsewhere:
+- [directory layout](directory-layout.md) — directory structure diagrams and file-organization guides, folder-purpose notes
 
-- references, annotation, and self-documenting guidance on these elements of the project, live in the docs folder (`references.md`) so it will be part of the published pages in the repo
-- repo maintenance and publishing support documents, which address the main aspects of the project (admin, docs, photo, video, and design) live in the [workspace](directory-layout.md (`/project development-background`)
+- [naming and slugs](naming-and-slugs.md) — naming rules and slug conventions for reels, files, and folders
 
-These are working documents for managing the project itself, not end-user service guide content.
-
-## Key files
-
-- `project-workflow.md` — main working sequence for producing and publishing project content
-- `parking-lot.md` — ideas, deferred tasks, side roads, and future improvements
-- `directory-layout.md` — directory diagrams and folder-purpose notes
-- `naming-and-slugs.md` — naming rules for reels, files, and folders
-- `references-and-annotations.md` — guidance for gathering and documenting source material (in project `/docs` folder, so they will appear on the published repo)
+- [parking lot](parking-lot.md) — planning notes and deferred ideas, tasks, side roads, future additions and improvements
 
 *Adjust this list as files are added, renamed, split, or retired.*
 
+Other project-related documents live elsewhere:
+
+- [references](../docs/references.md) — - references, annotation, and self-documenting guidance on these elements of the project, part of the published pages in the repo
+
+- repo maintenance and publishing support documents, which address the main aspects of the project (admin, docs, photo, video, and design) live in the [workspace](directory-layout.md)in `/project development-background`)
+
 ## Relationship to the main site
 
-These files are part of the repository’s internal documentation layer. They may be version-controlled in the repo without being part of the public documentation site navigation.
+These files are part of the repo's internal documentation layer. They may be version-controlled in the repo without being part of the public documentation site navigation.
 
 If a separate workflow/documentation build is later created, this folder can serve as the source for that material or point to it.
 
 ## Working approach
 
-Edit Markdown locally, (optionally) review it in the local project environment, and then commit and push changes to GitHub. This folder should stay lean, readable, and useful during active work, with detailed reference material split into companion documents when needed.
+Edit Markdown locally, (optionally) review it in the local project environment, then commit and push changes to GitHub. Keep this folder lean and readable by splitting more detailed reference materials into companion documents as needed.
 
 ## Maintenance
 

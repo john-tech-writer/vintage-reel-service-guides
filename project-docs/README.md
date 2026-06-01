@@ -17,7 +17,7 @@ This folder is for internal project-level documentation such as:
 
 - [directory layout](directory-layout.md) — directory structure diagrams and file-organization guides, folder-purpose notes
 
-- [naming and slugs](naming-and-slugs.md) — naming rules and slug conventions for reels, files, and folders
+- [naming and slugs](naming-slugs.md) — naming rules and slug conventions for reels, files, and folders
 
 - [parking lot](parking-lot.md) — planning notes and deferred ideas, tasks, side roads, future additions and improvements
 

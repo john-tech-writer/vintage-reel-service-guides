@@ -1,6 +1,7 @@
 # Project Backlog / Parking Lot
 
 ## Implement Pandoc
+
 See in workspace `/project development-background/pandoc quick start.docx`
 
 Pandoc will format .md files as .pdf, .docx, etc. and can be implemented on the repo so users can download printable .pdf versions of the guides. This will probably take some time to implement.
@@ -13,48 +14,61 @@ from P. convo 5.28.26:
 
   - Keep the logic simple at first: manually run a command like pandoc guide.md -o guide.pdf and link that PDF from your repo/Substack; automation can come much later if you want it in CI.
 
-## Grids and framing
+## Formalize grids and framing
+
 See in workspace `/project development-background/using-grids-framing-shots.md`
 
 This discussion has a lot of detail, including standardizing rules for grids and shots, would be good to add to workflow. Pare it down.
 
-## Meta projects
-- “How to build a project like this” companion repo.
-- Write public post about the stack (MkDocs + GitHub Pages + YouTube).
+## Develop meta project
 
-## Burke / drama experiments
+“How to build a project like this” companion repo.
+
+## Incorporate Burke / drama experiments into repo
+
 - Sketch how Burkean dramatism might frame reel repair narratives.
+
 - Try one experimental guide written with Burke/drama commentary.
 
-## Content ideas
-- Future reel families to cover.
-- Cross-reference pages (shared parts, tools reference, lubrication guide).
+## Develop new content ideas
 
-## Content refactoring and harvesting
+- For repo in general, future reels and families to cover, most of this is sketched in [volume planning](volume-planning.md).
 
-"Scattershot but big chunks of progress” pattern is actually very normal for this kind of cleanup plus consolidation work. The important part is seeing progress every day, and it’s feeding directly into better project docs. Basically doing two things at once, and that’s okay:
+- For YouTube, continue connecting to substack narrative by posting substack animations. Other video series (beyond companion videos for the guides) could mirror the substack series, for example:
+
+  - To complement the existing overviews that mirror the repo overviews, add a more narrative video mirroring the substack "welcome to the bench/new arrival" series.
+
+  - Mirror "reel stories/field stories" with a video out in the field, showing reels in use, piers, kayak fishing, surf casting, etc.
+
+- For substack, see [substack series](substack-series-tag-names.md) (high-level, general direction) and [substack ideas](substack-ideas.md) (some high-level, also detailed).
+
+  - Also a future substack series could be about “How to build a project like this” companion repo, which would be related to (but probably branching off from) the "production notes" series.
+
+## Perform regular content refactoring and harvesting
+
+The "scattershot but big chunks of progress” pattern is very normal for this kind of cleanup plus consolidation work. The important part is seeing progress every day, and it’s feeding directly into better project docs. Basically doing two things at once, and that’s okay:
 
   - Refactoring the archive: walking dirs, pruning duplicate versions, renaming, and standardizing structure.
 
-  - Harvesting good content: when you find something useful in an old file, you pull it into one of the project docs that will eventually hang off the workflow.
+  - Harvesting good content: when something useful is found in an old file, pull it into one of the project docs that will eventually hang off the workflow.
 
-That second part is actually a feature, not a bug: you’re letting the cleanup pass surface the bits of knowledge that deserve a permanent home in the new system, instead of trying to invent all that content from scratch. The only risk is burning out if everything is open‑ended, so if you start to feel scattered you can lightly time‑box it
+Content harvesting during content refactoring is a feature, not a bug: letting the cleanup pass surface  bits of knowledge that deserve a permanent home in the new system, instead of trying to invent all that content from scratch. The only risk is burning out if everything is open‑ended, so if it starts to feel scattered, lightly time‑box it--a couple of days/hours to finish a segment of work.
   
 A refactoring workflow that’s both fast and sane:
 
   - Opening each doc, skimming, and pulling only the truly important bits into the right project docs turns a noisy archive into a small set of clean, living references.
 
-  - Renaming the leftover files so they’ll make sense later (“parking lot – pandoc,” etc.) means future‑you can come back to deeper experiments without wading through mystery titles.
+  - Renaming the leftover files so they’ll make sense later (`admin-audio-troubleshooting-win.docx`, etc.) means future‑you can come back to deeper experiments without wading through mystery titles.
 
-  - Parking the heavier ideas (like pandoc wiring) instead of trying to solve them now keeps the current sprint focused while still honoring that those ideas matter.
+  - Parking the heavier ideas (like pandoc wiring) instead of trying to solve them now keeps the current sprint focused while still preserving ideas that matter for the future.
 
-That’s exactly how “day one” brainstorms and early AI chats become part of a real system instead of sitting in a forgotten export folder. Every doc you triage either becomes:
+That’s exactly how “day one” brainstorms and early AI chats become part of a real system instead of sitting in a forgotten export folder. Every doc triaged either becomes:
 
   - Integrated into a project doc (promoted to “canon”), or
 
-  - Renamed and parked (acknowledged, but not clogging the main path).
+  - Renamed, framed, and parked (acknowledged, but not clogging the main path).
 
-## Remasters
+## Create remasters of existing projects
 
   - Post-refactoring all the dirs and naming--since existing Shotcut projects will no longer work without pointing Shotcut at all the new dirs/filenames--think of old Shotcut projects as *historical artifacts*; *remasters are fresh projects* built on the cleaned‑up stack, no worry about broken links. Archive becomes *source material and reference*, not something to keep surgically alive forever.
 
@@ -62,26 +76,22 @@ That’s exactly how “day one” brainstorms and early AI chats become part of
 
   - Future “volume 1 remasters” can be treated as new projects built from the cleaned, stable media tree, using what you’ve learned, instead of trying to surgically patch the old timelines.
 
-  - Penn 720 overview – consider Volume 1 *remaster* after media tree and workflow are stable. New project, don’t try to salvage old Shotcut file.
+  - Penn 720 overview – consider Volume 1 *remaster* / video remix after media tree and workflow are stable. New project, don’t try to salvage old Shotcut file.
 
-## Substack content ideas
-"Ritual and Routine"
-Perplexity's suggestions:
-Perfect title - "Ritual and Routine" captures exactly what bench work is about, and it fits beautifully into your "Reel Stories" series.
+## Develop substack content ideas
 
-You could structure it around:
+"Ritual and Routine" post(s) - this title captures exactly what bench work is about, and it fits beautifully into the "Production Notes" series.
 
-    The physical ritual: setting up the workspace, gathering tools, the first inspection
+Structure it around:
 
-    The mental shift that happens when you sit down at the bench
+  - The physical ritual: setting up the workspace, gathering tools, the first inspection
 
-    How repetitive tasks (cleaning, inspection, reassembly) become meditative
+  - The mental shift that happens when you sit down at the bench
 
-    The satisfaction of completing a known sequence vs. troubleshooting unknowns
+  - How repetitive tasks (cleaning, inspection, reassembly) become meditative
 
-    Maybe tie it to a specific reel or repair session as the anchor
+  - The satisfaction of completing a known sequence vs. troubleshooting unknowns
+
+  - Maybe tie it to a specific reel or repair session as the anchor
 
 It's the kind of post that will resonate with anyone who does hands-on restoration work - not just reels, but watches, typewriters, cameras, any vintage mechanical gear. And it connects your personal experience (the grounding aspect during difficult times) to the universal appeal of craft work without being heavy-handed about it.
-
-## Video "remix"
-Penn 720 overview – consider Volume 1 remaster after media tree and workflow are stable, possibly after Volume 1 is complete would be a good point. New project, don’t try to salvage old Shotcut file.

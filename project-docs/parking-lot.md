@@ -40,9 +40,7 @@ This discussion has a lot of detail, including standardizing rules for grids and
 
   - Mirror "reel stories/field stories" with a video out in the field, showing reels in use, piers, kayak fishing, surf casting, etc.
 
-- For substack, see [substack series](substack-series-tag-names.md) (high-level, general direction) and [substack ideas](substack-ideas.md) (some high-level, also detailed).
-
-  - Also a future substack series could be about “How to build a project like this” companion repo, which would be related to (but probably branching off from) the "production notes" series.
+- For substack, see [substack series](substack-series-tags.md) (lists series names, corresponding Substack tags, and descriptions of each), and [substack content ideas](substack-content-ideas.md) (specific ideas for posts and series). For older historic information and generic ideas for development, see [substack development](substack-development.md).
 
 ## Perform regular content refactoring and harvesting
 
@@ -77,21 +75,3 @@ That’s exactly how “day one” brainstorms and early AI chats become part of
   - Future “volume 1 remasters” can be treated as new projects built from the cleaned, stable media tree, using what you’ve learned, instead of trying to surgically patch the old timelines.
 
   - Penn 720 overview – consider Volume 1 *remaster* / video remix after media tree and workflow are stable. New project, don’t try to salvage old Shotcut file.
-
-## Develop substack content ideas
-
-"Ritual and Routine" post(s) - this title captures exactly what bench work is about, and it fits beautifully into the "Production Notes" series.
-
-Structure it around:
-
-  - The physical ritual: setting up the workspace, gathering tools, the first inspection
-
-  - The mental shift that happens when you sit down at the bench
-
-  - How repetitive tasks (cleaning, inspection, reassembly) become meditative
-
-  - The satisfaction of completing a known sequence vs. troubleshooting unknowns
-
-  - Maybe tie it to a specific reel or repair session as the anchor
-
-It's the kind of post that will resonate with anyone who does hands-on restoration work - not just reels, but watches, typewriters, cameras, any vintage mechanical gear. And it connects your personal experience (the grounding aspect during difficult times) to the universal appeal of craft work without being heavy-handed about it.

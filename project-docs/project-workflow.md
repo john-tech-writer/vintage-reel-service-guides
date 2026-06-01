@@ -1,5 +1,12 @@
 # Project workflow
 
+This file is the index for all other project documentation.
+
+## Other key files
+
+[README](README.md): Orientation to the project documentation.
+[Parking lot](parking-lot.md): Listing of project upgrades to work on.
+
 ## Inspiration
 
 This file is the **one place** to always return to push the project a little further: cleaning dirs, tightening steps, wiring pieces together.

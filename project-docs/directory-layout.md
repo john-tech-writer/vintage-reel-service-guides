@@ -65,9 +65,11 @@ Active working documents that do **not** go in the repo
     - etc.
   - `substack/`
     - `[slug]/`
-      - `welcome-bench-[slug].md`
-      - `new-service-guide-series-[slug].md`
-  - `youtube/`
+      - `[slug]-new-arrival.md`
+      - `[slug]-production-notes.md`
+      - `[slug]-field-stories.md`
+      - `[slug]-new-publication`
+    - `youtube/`
     - `[slug]/`
       - `[slug]-overview script.docx`
       - `[slug]-disassembly script.docx`

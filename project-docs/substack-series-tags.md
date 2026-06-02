@@ -16,7 +16,7 @@ Here are all four initial series titles and their tags:
 
 - Service guides: When a new overview + guide + video stack is completely published, a notification. **Tag = Guides**
 
-- Reel stories: When service is completed on a reel, a story about taking it into the field, how it performs, where it is integrated with other tackle to make a balanced outfit, what fish are caught. **Tag = Field Stories**
+- Reel stories: When service is completed on a reel, a story about taking it into the field, how it performs, where it is integrated with other tackle to make a balanced outfit, what fish are caught; also stories about how a reel is significant in my life, for example, the hero post for substack, about my first reel. **Tag = Field Stories**
 
 The hero post is tagged "Field Stories."
 

@@ -21,7 +21,7 @@ Local clone of `vintage-reel-service-guides` repository on Github
     - `references.md`
     - `baitcasting-reels.md`
     - etc.  ← generic (*non-reel-specific*) docs used in repo
-  - `project-docs/`  ← docs about repo standards, org., and content development
+  - `project-docs/`  ← files for planning, organizing, and maintaining the repo and workflow
     - `repo templates/`
       - `overview-template-example.md`
       - `service-guide-template-example.md`
@@ -30,7 +30,7 @@ Local clone of `vintage-reel-service-guides` repository on Github
     - `parking-lot.md`
     - `project-workflow.md`
     - `README.md`
-    - etc.  ← other files for planning, organizing, and maintaining the repo and workflow
+    - etc.
   - `site/`  ← built site files
 
 ## 2. Workspace
@@ -43,22 +43,18 @@ Active working documents that do **not** go in the repo
     - `reel collection.docx`
   - `how-to class outlines/`
   - `maker and reel docs/`
-    - `spinning-general/`
-    - `[maker]`
-    - `[maker] [desc]`
-    -  or
+    - `baitcasting-general/`
+    - `[maker/]`
       - `[slug]-[desc].[ext]`
     - `penn/`  ← for example
-    - `penn production archive.pdf`
-    - or
-      - `penn-700-series-manual.pdf`
-      - etc.
+      - `penn production archive.pdf`
+    - etc.
   - `project development-background/`
     - `audio-troubleshooting-win.docx`
     - `design-badge notes.docx`
     - `docs-mermaid-flowcharts-mkdocs.docx`
     - `photo-lighting-fixing glare-polarizing.docx`
-    - `README.md`← describes purpose for this folder and file naming conventions, read this first
+    - `README.md`← describes purpose for this folder and file naming conventions
     - `video-adding-audio-shotcut.md`
     - `z-review of first vid-burke drama ideas--other bits--old version.md`
     - etc.  ← 30+ docs, mostly .docx

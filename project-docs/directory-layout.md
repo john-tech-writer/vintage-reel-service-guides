@@ -16,11 +16,11 @@ Local clone of `vintage-reel-service-guides` repository on Github
       - `[slug]-overview.md`  ← final docs used in repo
       - `[slug]-service-guide.md`
       - `penn-spinfisher-series.md`  ← example-other *reel-specific* docs used in repo
-    - `about.md`  ← generic (*non-reel-specific*) docs used in repo
-    - `index.md`  ← repo landing page for project documentation
+    - `about.md`
+    - `index.md`  ← repo landing page
     - `references.md`
     - `baitcasting-reels.md`
-    - etc.
+    - etc.  ← generic (*non-reel-specific*) docs used in repo
   - `project-docs/`  ← docs about repo standards, org., and content development
     - `repo templates/`
       - `overview-template-example.md`

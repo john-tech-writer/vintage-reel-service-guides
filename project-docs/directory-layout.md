@@ -30,7 +30,7 @@ Local clone of `vintage-reel-service-guides` repository on Github
     - `parking-lot.md`
     - `project-workflow.md`
     - `README.md`
-    - etc.  ← other files that will be published on the repo, linked in either nav or other files
+    - etc.  ← other files for planning, organizing, and maintaining the repo and workflow
   - `site/`  ← built site files
 
 ## 2. Workspace

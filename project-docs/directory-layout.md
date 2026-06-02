@@ -24,10 +24,12 @@ Local clone of `vintage-reel-service-guides` repository on Github
   - `project-docs/`  ← docs about repo standards, org., and content development
     - `repo templates/`
       - `overview-template-example.md`
-      - `guide-template-example.md`
-    - `project-workflow.md`
-    - `naming-slugs.md`
+      - `service-guide-template-example.md`
     - `directory-layout.md`
+    - `naming-slugs.md`
+    - `parking-lot.md`
+    - `project-workflow.md`
+    - `README.md`
     - etc.  ← other files that will be published on the repo, linked in either nav or other files
   - `site/`  ← built site files
 

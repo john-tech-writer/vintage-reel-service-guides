@@ -24,9 +24,9 @@ Something very textbook‑good with the naming and dirs: testing conventions by 
 
 The pattern for document templates/examples being used in this project is a known best‑practice shape:
 
-  - A concrete worked example (existing published guide, reel stack, etc.).
+- A concrete worked example (existing published guide, reel stack, etc.).
 
-  -  Light inline guidance layered on top (italic hints: *here’s why this name works*, *this is where the template comes from*, etc.).
+-  Light inline guidance layered on top (italic hints: *here’s why this name works*, *this is where the template comes from*, etc.).
 
 That’s more powerful than a rigid empty template, because the form is never blank; it always provides both a real thing plus a little commentary. Over time, after a few of these combo docs stabilize, a more generic template can always be abstracted from it if that is needed for speed or sharing (a sanitized version, for example, for a generic how-to project on the repo).
 
@@ -46,22 +46,21 @@ That’s more powerful than a rigid empty template, because the form is never bl
     See [Using grids and framing shots](using-grids-framing-shots.md) for a detailed discussion.
 
 1. Open pictures folder using [XnView](https://www.xnview.com/en/xnview/) and edit as necessary:
-
     - Crop and rotate.
     - Size (standards?), auto contrast and levels using Tools > Batch convert > Actions tab
-Most of these actions are already saved in XnView but can be checked/unchecked, edited, etc.
+    Most of these actions are already saved in XnView but can be checked/unchecked, edited, etc.
     - Save to [project folder](directory-layout.md) in `/docs/img/[maker]/[model]/[slug]-[desc].jpg` using Tools > Batch convert > Output tab
 
 1. Write substack post for "welcome to the bench" series.
-    - Use template in [project folder](directory-layout.md) `/project-docs/templates`, save to workspace `/substack/[slug]/welcome-bench-[slug].md`.
-    - For clarity on substack series names and tags, see [substack series](substack-series-tags-names.md); for ideas on developing content, see [Substack Ideas](substack-ideas.md) and post examples--[Welcome to the Bench](substack-welcome-bench-example.md).
+    - Use template / example in workspace in `/substack/templates/`, save to workspace as`/substack/[slug]/[slug]-new-arrival.md`.
+    - For clarity on substack series names and tags, see [substack series](substack-series-tags.md); for ideas on developing content, see workspace `/project development and background/admin-substack-initial-setup-ideas.md.
     - Post to substack, tag as "new arrival" (corresponds to "welcome to the bench" post series).
-    - Wire to repo: Post template includes a connections section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.
+    - Wire to repo: Post template includes a *connections* section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.
     - Wire to YT: Connections section includes link to YT. Create substack video for posting to YouTube.
 
 1. Post substack vid to YT.
-    - Wire to substack:
-    - Wire to repo:
+    - Wire to substack: YouTube post description includes a *connections* section, with a link to Substack.
+    - Wire to repo: YouTube post description includes a *connections* section, with a link to the repo. 
 
 1. Write overview using template in [workspace](directory-layout.md) in `/repo templates/` and save in [project folder](directory-layout.md) as `/docs/[slug]-overview.md.` This will get pushed to the repo.
 

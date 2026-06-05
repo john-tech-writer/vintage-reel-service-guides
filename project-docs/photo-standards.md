@@ -8,6 +8,8 @@ Taken before the reel is serviced and also after. Used in overview, also possibl
   - Badge or nameplate
   - Exterior/special features (varies with reel, i.e., drag lever)
 
+Details: Hero images should show what makes each reel *visually distinctive*, like the badge, finish, or proportions - while this can be more or less generalized for each reel type, e.g., for spinning reels the handle side is usually more interesting, and the bail should be rotated to show it off - it will be somewhat different for each reel, and this will contribute to the unique take on each reel.
+
 ## Disassembly and reassembly photos
 
 Taken while working on reel in tray.

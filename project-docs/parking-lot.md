@@ -75,3 +75,7 @@ That’s exactly how “day one” brainstorms and early AI chats become part of
   - Future “volume 1 remasters” can be treated as new projects built from the cleaned, stable media tree, using what you’ve learned, instead of trying to surgically patch the old timelines.
 
   - Penn 720 overview – consider Volume 1 *remaster* / video remix after media tree and workflow are stable. New project, don’t try to salvage old Shotcut file.
+
+## Substack animations
+
+Use Substack animations only when there’s a strong, contiguous 1–2 paragraph passage in a post. These are for posting to YouTube as shorts.

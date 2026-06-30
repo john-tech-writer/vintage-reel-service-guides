@@ -10,7 +10,7 @@ Some later versions added sealed drag knobs and upgraded the line rollers and be
 
 The 720's housing and rotor cup are made of steel, as is the main gear; the rest of the gears are mostly brass. The crosswind block and drag cap are made of white plastic. The spool is made of aluminum.
 
-![Penn 720--Front Left](../../img/penn/720/penn-720-front-left.jpg)
+![Penn 720 - Front Left](../../img/penn/720/penn-720-front-left.jpg)
 
 Watch on YouTube: [Penn 720 - Overview](https://youtu.be/2c1ZWjAN6yU)
 <a href="https://www.youtube.com/watch?v=2c1ZWjAN6yU" target="_blank" rel="noopener">

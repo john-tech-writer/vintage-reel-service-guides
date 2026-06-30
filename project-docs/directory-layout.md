@@ -83,13 +83,18 @@ Active working documents that do **not** go in the repo
 All raw and edited photos
 
 - `Pictures/vintage reel service guides/`
+  - `assets-badge-banners/`
+  - `field trips/`
+    `- [place]`
+  - `fish images/`
+    - `[common-name]-[mods].jpg
+  - `jigs/`
+  - `workspace-bench/`
+    - `notebook pages/`
+    - etc.
   - `[maker]/`
     - `[model]/`
       - `[slug]-[desc].jpg`
-  - `assets-banners-logos/`
-  - `fish images/`
-  - `jigs for reel repair/`
-  - `workspace-bench/`
 
 ## 4. Video
 

@@ -1,4 +1,4 @@
-# References and annotations
+# References
 
 This references page tells you where specific information in these guides comes from and how to locate the original sources for follow‑up. To see which documents were used for a particular reel, check the References section at the end of that reel’s overview and service guide.
 
@@ -52,10 +52,6 @@ The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*. Box insert, n.d. (https
 Miller, Bob. "The Pflueger Nobby - A Few Surpises." *The Reel News* 13, no. 3 (2003): 10-12. (https://www.orcaonline.org/the-reel-news-index-online-full/).
 
   - A brief historical overview of the various models of the Pflueger Nobby baitcasting reel. Discusses the naming, production dates, amd mechanical details for all the models in the series. Includes illustrations.
-
-Steward, Douglas. "A History of the Shakespeare Company 1896-1952." (n.d.): Kalamazoo College CACHE Digital Archive (https://cache.kzoo.edu).
-
-  - Covers what years important reel models were introduced.
 
 ## Patents
 

@@ -20,9 +20,13 @@ See in workspace `/project development-background/using-grids-framing-shots.md`
 
 This discussion has a lot of detail, including standardizing rules for grids and shots, would be good to add to workflow. Pare it down.
 
+## Incorporate Burkean dramatism into guides / videos / posts
+
+See docs-burke-drama-ideas.md for a discussion of the basics.
+
 ## Develop meta project
 
-“How to build a project like this” companion repo.
+“How to build a project like this” companion repo. There are notes in the Substack section about adding a narrative series in substack that would parallel this project.
 
 ## Incorporate Burke / drama experiments into repo
 
@@ -32,15 +36,45 @@ This discussion has a lot of detail, including standardizing rules for grids and
 
 ## Develop new content ideas
 
-- For repo in general, future reels and families to cover, most of this is sketched in [volume planning](volume-planning.md).
+### Repo in general
 
-- For YouTube, continue connecting to substack narrative by posting substack animations. Other video series (beyond companion videos for the guides) could mirror the substack series, for example:
+Future reels and families to cover, most of this is sketched in [volume planning](volume-planning.md).
 
-  - To complement the existing overviews that mirror the repo overviews, add a more narrative video mirroring the substack "welcome to the bench/new arrival" series.
+### YouTube
 
-  - Mirror "reel stories/field stories" with a video out in the field, showing reels in use, piers, kayak fishing, surf casting, etc.
+Continue connecting to substack narrative by posting substack animations. Other video series (beyond companion videos for the guides) could mirror the substack series, for example:
 
-- For substack, see [substack series](substack-series-tags.md) (lists series names, corresponding Substack tags, and descriptions of each), and [substack content ideas](substack-content-ideas.md) (specific ideas for posts and series). For older historic information and generic ideas for development, see [substack development](substack-development.md).
+  - To complement the existing overviews that mirror the repo overviews, add a more narrative video mirroring the substack "welcome to the bench" series.
+
+  - Mirror "reel stories" with a video out in the field, showing reels in use, piers, kayak fishing, surf casting, etc.
+
+### Substack
+
+For substack, see in the workspace [substack notes](substack-notes.md) (lists series names, corresponding Substack tags, and descriptions of each), and [substack content ideas](substack-content-ideas.md) (specific ideas for posts and series). For older historic information and generic ideas for development, see [substack development](substack-development.md).
+
+- New series: Reel Zen: Notes on the meditative aspects of bench work, casting practice, and fishing. Probably would use existing tags like Production Notes, Field Stories, depending on the content. So some series titles might use multiple tags, and probably vice versa.
+
+Ritual and Routine
+
+This title captures exactly what bench work is about, and it fits beautifully into the "Production Notes" series.
+
+Structure it around:
+
+  - The physical ritual: setting up the workspace, gathering tools, the first inspection
+
+  - The mental shift that happens when you sit down at the bench
+
+  - How repetitive tasks (cleaning, inspection, reassembly) become meditative
+
+  - The satisfaction of completing a known sequence vs. troubleshooting unknowns
+
+  - Maybe tie it to a specific reel or repair session as the anchor
+
+It's the kind of post that will resonate with anyone who does hands-on restoration work - not just reels, but watches, typewriters, cameras, any vintage mechanical gear. And it connects your personal experience (the grounding aspect during difficult times) to the universal appeal of craft work without being heavy-handed about it.
+
+How to build a project like this
+
+Narrative series that would connect with the generic project building companion repository, which would be related to (but probably branching off from) the "production notes" series.
 
 ## Perform regular content refactoring and harvesting
 

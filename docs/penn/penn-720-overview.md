@@ -24,7 +24,7 @@ These reels are very simple, strong, dependable designs, and many are still in u
 
 The [Penn 720 Service Guide](https://john-tech-writer.github.io/vintage-reel-service-guides/penn/penn-720-service-guide/) shows you how to disassemble, clean, lubricate, and reassemble the Penn 720 Spinfisher.
 
-![Penn 720--Front Right](../img/penn/720/penn-720-front-right.jpg)
+![Penn 720 - Front Right](../img/penn/720/penn-720-front-right.jpg)
 
 ## Similar Models
 
@@ -38,7 +38,7 @@ The small strips of painter's tape holding the line in place on the spool mainta
 
 This varies depending on the year of production. The example reel here has the earlier badge design. Later reels changed to a more text-oriented design. This also shows the remarkable condition of the original light blue metallic finish, which (in 2026) is around 75 years old!
 
-![Penn 720--Badge](../img/penn/720/penn-720-badge.jpg)
+![Penn 720 - Badge](../img/penn/720/penn-720-badge.jpg)
 
 ## Features and Controls
 
@@ -48,11 +48,11 @@ The white plastic drag cap on the front of the spool is simply twisted to apply 
 
 The eccentric lever has two positions; in one the anti-reverse and clicker are engaged, in the other the retrieve is silent. In this location, directly below the handle, it is easily engaged when a fish strikes to prevent the handle from revolving backwards.
 
-![Penn 720--Anti-Reverse](../img/penn/720/penn-720-anti-rev.jpg)
+![Penn 720 - Anti-Reverse](../img/penn/720/penn-720-anti-rev.jpg)
 
 The handle can be rotated for storage by loosening the nut at the base.
 
-![Penn 720--Anti-Reverse and Handle in Storage Position](../img/penn/720/penn-720-anti-rev-handle.jpg)
+![Penn 720 - Anti-Reverse and Handle in Storage Position](../img/penn/720/penn-720-anti-rev-handle.jpg)
 
 ## Specifications
 

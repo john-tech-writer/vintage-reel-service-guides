@@ -29,7 +29,7 @@ Project folder
   - Service guide: `docs/[maker]/[slug]-guide.md`
 
 Workspace
-  - Substack drafts: `.../substack/[slug]/[slug]-new-arrival.md`
+  - Substack drafts: `.../substack/[slug]/[slug]-welcome-bench.md`
   - etc.
   - Video scripts: `.../youtube/[slug]-overview script.docx`
   - etc.

@@ -26,7 +26,7 @@ Use this mini-index as a map for this guide. Click on the links to go to that se
 
   - [Cleaning and lubricating](#cleaning-and-lubricating)
 
-  - [Reassembly](#reassembly
+  - [Reassembly](#reassembly)
 
   - [Bench testing](#bench-testing)
 
@@ -35,6 +35,8 @@ Use this mini-index as a map for this guide. Click on the links to go to that se
   - [References](#references)
 
 ## Before you begin
+
+Back to [Section overview](#section-overview)
 
 Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison.
 

@@ -1,10 +1,9 @@
 # Photo standards
 
-## Basic photos-initial session for new reels
+## Basic photos - initial session for new reels
 
 Taken before the reel is serviced and also after. Used in overview, also possibly in service guide, on substack posts, etc.
-  - Hero 1
-  - Hero 2
+  - Multiple views of whole reel - front, handle-side, badge / drag-side, top, bottom, back, left (angled left), right (angled right)  - these will be candidates for hero images
   - Badge or nameplate
   - Exterior/special features (varies with reel, i.e., drag lever)
 
@@ -53,13 +52,13 @@ Use numbers sparingly and consistently:
 
     - **States**: engaged / disengaged, pre-service, removed.
 
-    - **Views**: front, handle-side, badge / drag-side, top, bottom, back, on-rod, angled-left, angled-right.
+    - **Views**: front, handle-side, badge / drag-side, top, bottom, back, on-rod, left (angled left), right (angled right).
 
     - **Suffixes**: -ref (reference-only sets), -1, -2 (different views, generally higher numbers mean "more" - closer, larger angle, etc.) -v1/-v2 (versions, alt takes of same shot), numeric sequences for true progressions, `[processing]` like auto-contrast, etc., `[###]`px if resized.
 
     - **Usage**: hero- (used only when curating / copying / renaming files to project folder), -ref (used for files only used for internal reference, like unusable disassembly images).
 
-    - **Features**: badge / logo, drag, cork-arbor, foot (often has writing on it).
+    - **Features**: badge / logo, drag, cork-arbor, foot (often has writing on it), anti-rev (anti-reverse lever).
 
 ### Naming workflow
 

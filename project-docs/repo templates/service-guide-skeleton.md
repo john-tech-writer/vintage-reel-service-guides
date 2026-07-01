@@ -1,112 +1,199 @@
-# [MODEL NAME] Service Guide
+# [Maker] [Model] service guide
 
-## Before You Begin
+Updated 7.1.26
 
-Complete an [initial evaluation](../initial-evaluation.md) of the reel to establish a baseline for comparison after servicing. All vintage reels should be evaluated and tested before work begins.
+[Usage: This document skeleton lives in the project folder because it is used directly on the repo as the pattern for reel service guides. Open and save as to the maker directory.]
 
-If you just acquired the reel, [remove the line from the spool](../removing-adding-line.md) so you can inspect and clean the arbor and avoid working with unknown, potentially unsafe line.
+This is a detailed, step-by-step illustrated service procedure for the [Maker] [Model] [type] reel. This is a [duty rating] reel generally intended for [fresh / saltwater, trolling, etc.] use. It was in production [years].
 
-Refer to shared [tools and materials](../tools-materials.md) and [basic cleaning and lubricating procedures](../cleaning-lubricating.md) as needed during the service.
+For more detailed background information about this reel see [link to overview].
 
-## Reel Overview
+## Section overview
 
-Brief description of the reel:
+Use this mini-index as a map for this guide. Click on the links to go to that section.
 
-- **Model:** [MODEL NAME], [manufacturer]
-- **Type:** [Spinning / Baitcasting / Spincast / Fly]
-- **Era:** Approximate production years and country of manufacture
-- **Intended use:** e.g., freshwater ultralight, general-purpose baitcasting, etc.
+  - [Before you begin](#before-you-begin)
 
-Optional: link to a separate overview page if one exists.
+  - [Parts of a complete service and videos](#parts-of-a-complete-service-and-videos)
 
-## Parts of a Complete Service
+  - [Typical issues](#typical-issues)
 
-Since not all parts of a reel may need the same level of attention, servicing is divided into these main sections. Overview and bench videos provide a general feel for the procedure; the step‑by‑step instructions later in this guide are designed for use at the bench.
+  - [Difficulty and time estimate](#difficulty-and-time-estimate)
 
-**Disassembly and Assessment**  
-Open the housing and any external components required to inspect gears and key mechanisms. For a well‑maintained reel with clean lubrication, partial disassembly and fresh lubricant may be sufficient; if hardened grease and contaminants are present, follow the full disassembly sequence and note any issues.
+  - [Disassembly I](#disassembly-i)
 
-*(Optional: embed a “Disassembly and Assessment” video here.)*
+  - [Disassembly II](#disassembly-ii)
 
-**Cleaning and Lubricating**  
-After disassembly, all parts that require service (including the housing) are cleaned and lubricated. See the shared [cleaning and lubricating guide](../cleaning-lubricating.md) for general techniques and best practices.
+  - [Cleaning and lubricating](#cleaning-and-lubricating)
 
-**Reassembly and Testing**  
-As the reel is reassembled, perform small functional checks along the way to catch any issues early and avoid repeating the full teardown. After reassembly, complete bench tests to confirm the reel is ready for field use.
+  - [Reassembly](#reassembly
 
-*(Optional: embed a “Reassembly and Testing” video here.)*
+  - [Bench testing](#bench-testing)
 
-If this reel has separate procedures for specific subsystems (for example, bail or drag service on spinning reels), reference them briefly here and link to those guides instead of including the full details in this main service guide.
+  - [Additional procedures](#additional-procedures)
 
-## Typical Issues
+  - [References](#references)
 
-Outline model‑specific issues that a service is likely to address, for example:
+## Before you begin
 
-- [Example issue]: symptoms and typical cause.
-- [Example issue]: symptoms and typical cause.
+Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison.
 
-Note which of these are usually resolved by cleaning and lubrication alone and which may require parts replacement or more advanced repair.
+If you just acquired the reel, [remove the line from the spool](../removing-adding-line.md). There is no way to determine the age or condition of the line on a newly acquired vintage reel, so it makes sense to start with new line as the final part of servicing a reel. This also allows you to inspect the arbor to determine what type of material it is made of (this will help date the reel) and clean it along with the rest of the parts.
 
-## Difficulty and Time Estimate
+## Parts of a complete service and videos
 
-Give a realistic sense of difficulty and time:
+*Faux-embed YT overview and service videos when they are available - these will be made after the overview and guide are written and pushed to the repo, so this will be an update.*
 
-- **Difficulty:** Easy / Moderate / Advanced (for a reasonably experienced DIY person)
-- **Estimated service time:** Approximate time for disassembly, cleaning/lubrication, and reassembly, excluding long soak times or dealing with stuck hardware.
+Since not all parts of a reel may need the same level of attention, the servicing is divided into sections. Watching the YouTube videos first is a good way to get an overall feel for the procedure. The step-by-step illustrated instructions that follow are useful at the bench as you work on the reel for specifics.
 
-Mention factors that can extend service time, such as frozen screws, heavy corrosion, or the need to source replacement parts.
+**Disassembly and assessment** The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly. Simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated old grease and contaiminants like sand and salt, you will need to follow the entire disassembly procedure. While disassembling the reel you can note and assess any issues.
 
-## Step-by-Step Service Procedure
+Watch on YouTube: [alt text](https://youtu.be/[link])
+<a href="https://youtu.be/[link]" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/[link]/hqdefault.jpg"
+    alt="[alt text]"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
 
-This section is the reel-specific, bench‑mode sequence. Keep steps grouped under short, clear headings so the guide is easy to navigate while working.
+**Cleaning and lubricating:** After disassembling the gears, all the parts, including the housing, should be cleaned and lubricated.
 
-### Disassembly and Assessment
+Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/LsqoT7lD7cw)
+<a href="https://www.youtube.com/watch?v=LsqoT7lD7cw" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/LsqoT7lD7cw/hqdefault.jpg"
+    alt="Cleaning and lubrication for vintage reels video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
 
-Short goal statement for this phase.
+**Reassembly and testing:** As the reel is reassembled, various mini-tests can be performed along the way to catch any minor issues and avoid having to take the reel completely apart again. After the reel is completely reassembled there are several bench tests that should be performed to make sure it is ready for field use.
 
-1. [Step 1: external teardown, e.g., remove handle, knobs, external hardware.]
-2. [Step 2: open housing / access internals.]
-3. [Step 3: document gear train, drag stack, other key parts with photos or notes.]
-4. [Step 4: identify any obvious damage, missing parts, or heavy contamination.]
-5. [Additional steps as needed for this reel.]
+Watch on YouTube: [alt text](https://youtu.be/[link])
+<a href="https://www.youtube.com/watch?v=[link]" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/[link]/hqdefault.jpg"
+    alt="Penn 720 Overview video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
 
-*(Insert photos near steps that involve springs, dogs, or other orientation‑sensitive parts.)*
+## Typical issues
 
-### Cleaning and Lubricating (Applied to This Reel)
+For example, clicker/anti-reverse not working. Hardened grease can immobilize the dog and dog spring, which means the clicker and anti-reverse will not engage. A simple disassembly, cleaning and lubrication, and reassembly will fix this issue without needing to repair or replace any parts.
 
-This section connects the shared cleaning/lubricating guidance to reel‑specific notes.
+## Difficulty and time estimate
 
-1. Follow the general [cleaning and lubricating procedures](../cleaning-lubricating.md) for all gears, shafts, and internals.
-2. Note any surfaces on this reel that should remain dry (for example, certain drag washer materials).
-3. Apply grease and oil only where appropriate for this design (main gear, pinion, bearings/bushings, click mechanisms, etc.).
-4. Avoid over‑lubrication that could attract grit or impair function.
-5. Record any parts that required special attention or replacement.
+**Difficulty:** For a reasonably experienced DIY person this is an [Easy / Moderate / Advanced] procedure.
 
-### Reassembly and Testing
+**Estimated service time:** Excluding soak times or dealing with stuck hardware, the actual procedure should take about [#] hours.
 
-Goal statement for this phase.
+Servicing does not all have to be done all at one go. A good strategy is to disassemble, make notes of any issues, soak the parts overnight, then the next day clean, dry, lubricate, and reassemble and test.
 
-1. Reassemble the gear train, drag stack, and other internals in the correct order, using photos or notes as a reference.
-2. Confirm engagement of any dogs, springs, or anti‑reverse mechanisms in their proper orientation.
-3. Reinstall external components (side plate, handle, knobs, covers) and snug hardware evenly.
-4. Perform mini checks as you go (e.g., light cranking with the housing open where safe) to catch issues early.
-5. When fully assembled, complete basic bench tests for this reel type:
-   - Retrieve smoothness and noise.
-   - Anti‑reverse / clicker function (if present).
-   - Any type‑specific controls (e.g., anti‑backlash on baitcasters, bail trip on spinners).
+If you are a complete beginner it's a good idea to proceed at a leisurely pace. More experience will result in a considerably shorter timeframe.
 
-### Final Bench Notes
+This is probably one of the simplest open-face spinning reels to service, so it is a good choice for a first project, but don't let this make it seem insignificant. It does require some dexterity and patience, and acquiring a "feel" for working on vintage reels, and at the same time it helps you build those very skills.
 
-Summarize what changed and what remains:
+## Disassembly I
 
-- Issues resolved during this service.
-- Any remaining quirks or limitations to note.
-- Recommendations for future service intervals or parts to watch.
+Goal: remove [parts] so you can [access, etc.].
 
-## Variants and Related Models
+All directions assume you are looking at the front of the reel, with the reel upright - foot up - as it would be mounted on a rod.
 
-Use this section to connect the guide to broader context:
+Take a picture prior to each step so later you will know how parts were oriented, etc.
 
-- **Variants:** Differences in design across production runs that affect service steps (if known).
-- **Related models:** Links to guides for closely related reels that share parts or procedures.
-- **Parts considerations:** Any components that are notably scarce or different across variants.
+1. Remove [step text].
+
+    `![alt text](../img/[maker]/[model]/[slug]-[desc].jpg)`
+
+    [extended step text - results of step, inspections, possible issues at this point, etc.].
+
+    Variations:
+
+2. 
+
+    [image]
+
+    
+
+3. 
+
+4. 
+
+5. 
+
+## Disassembly II
+
+Goal: remove [parts] so you can [access, etc.].
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+    You are now ready to clean and lubricate the gears and housing.
+
+## Cleaning and lubricating
+
+1. Clean the gears and inside of housing.
+
+2. Lubricate the gears with grease and all other lubrications points with oil.
+
+    See the [Basic Cleaning and Lubricating Procedures](../cleaning-lubricating.md)
+
+    **Note!** The cleaners, grease, and oil you use should be *specifically* for fishing reels.
+
+Specific notes for this reel:
+
+- [for example, external grease discs / points, cite reel manual in refs]
+
+    You are now ready to re-assemble the gears and housing.
+
+## Reassembly
+
+Goal: replace [parts] so you can [access, etc.].
+
+To re-assemble the reel you basically reverse the disassembly steps. There are a couple of additional notes that will make re-assembly go more smoothly.
+
+When [specific step]:
+
+1. [note]
+
+    [image]
+
+2. 
+
+## Bench testing
+
+You can now perform several general functional tests before taking the reel into the field:
+
+1. With the anti-reverse **disengaged / off**: Make sure the handle turns smoothly in both directions.
+
+2. With the anti-reverse **engaged / on**: Make sure the handle will not turn backwards.
+
+3. With the anti-reverse **engaged**: Make sure you can hear the clicker.
+
+4. Make sure the rotor turns smoothly.
+
+5. [for spinning reels] Make sure the bail flips correctly - easily flips manually into casting position, then when the handle is cranked, flips crisply back into retrieve position.
+
+If all this works, you can call it ready to fish.
+
+Any tight spots or noises at this stage tell you to stop and recheck your work before calling the service complete. Go back through the service procedures as necessary to troubleshoot.
+
+## Additional procedures
+
+[any separate services, e.g., the bail]
+
+[link to separate file]
+
+## References
+
+Schematics, manuals, and other information on servicing and using this reel are listed in the [References](../references.md).
+
+Specific references used for this reel include:
+
+  - [cite, list]

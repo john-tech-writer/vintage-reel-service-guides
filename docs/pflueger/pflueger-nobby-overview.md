@@ -3,8 +3,8 @@
 The Pflueger Nobby is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament; that range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to tarpon, and for both freshwater and salt. This also means it is hefty enough to use for freshwater trolling.
 
 <figure markdown>
-![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
-<figcaption>Pflueger Nobby model 1963 - Front view</figcaption>
+  ![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
+  <figcaption>Pflueger Nobby model 1963 - Front view</figcaption>
 </figure>
 
 These reels are classic examples of mid-priced, mid-century American baitcasters and many are still on the water today. This overview provides background on similar reels, badges and finishes, features and controls, specifications, and how to integrate this reel into a balanced tackle outfit.

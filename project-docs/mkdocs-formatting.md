@@ -117,3 +117,13 @@ Leave them *truly* blank (no spaces), e.g.:
 
 One normal blank line (no spaces), then the next step number.
 
+## Figure captions
+
+example:
+
+<figure markdown>
+  ![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
+  <figcaption>Pflueger Nobby model 1963, front view.</figcaption>
+</figure>
+
+This supports inserting a link and / or emphasis in the caption.

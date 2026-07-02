@@ -4,7 +4,7 @@
 
 The Penn 720 is a light to medium duty open-face full-bail spinning reel, part of Penn's 700 Spinfisher series, which ranged from the smallest--the 720, mostly intended for freshwater fishing--to the largest, the mighty 704, designed for heavy saltwater duty. The line capacities, materials, and overall heft of the reels in the 700 series varied widely.
 
-![Pflueger Nobby model 1963 - hero](../img/pflueger-nobby-1963-front-2.jpg)`
+![Pflueger Nobby model 1963 - hero](../img/pflueger-nobby-1963-front-2.jpg)
 
 *Make some useful generalizations about the reel, preview what's in this overview.*
 

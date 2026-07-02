@@ -8,6 +8,8 @@ This is a detailed, step-by-step illustrated service procedure for the [Maker] [
 
 For more detailed background information about this reel see [link to overview].
 
+[hero image] `![alt text](../img/[maker]/[model]/[slug]-[desc].jpg)`
+
 ## Section overview
 
 Use this mini-index as a map for this guide. Click on the links to go to that section.

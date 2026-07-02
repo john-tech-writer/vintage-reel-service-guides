@@ -5,7 +5,7 @@ This folder contains internal project documents for planning, organizing, and ma
 These are working documents for managing the project itself, not end-user service guide content. They reside in the project folder in `/project-docs/` and get pushed to the repo but are not included in site navigation.
 
 
-## Stare here
+## Start here
 
 These internal documents are most easily accessed on the repo via [project workflow](project-workflow.md), which acts as the index page for project documentation on the repo. This file is the main process document for the project. It serves as the spine for the rest of the project documentation and describes the overall path from reel selection and research through writing, media production, publishing, and repository updates.
 

@@ -28,6 +28,10 @@ Mid-century baitcasting reels all share a single basic design. Well-known makers
 
 This table shows how you can fit any baitcasting reel into a balanced tackle outfit. If you are starting from the "collector" end and want to first choose a specific reel you can use this table to determine what rod to pair it up with and what line weights and lure weights will result in the best casting action.
 
+Duty ratings (e.g., ultra-light, sporty, heavy duty) in these guides are derived from period sources rather than assigned arbitrarily. For each reel and reel type, the reel’s original line recommendations from box inserts, manuals, or schematics are compared with the balanced‑tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing* to estimate where that reel falls within its proper tackle class.
+
+Because Shakespeare gives separate tables for baitcasting, spinning, spincast, and fly tackle, these ratings are explained within each reel family rather than forced into a single universal scale.
+
 Type of Fishing | Reel | Rod | Line lb. Test | Lures oz.
 ----------------|--------------|-------------|----------------|---------------
 small bass<br>panfish | ultra-light | extra-light<br>6'--6'6" | 6--10 | 1/4 best<br>1/8--3/8 good

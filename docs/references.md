@@ -12,7 +12,18 @@ Other documents listed here, like books and articles, are less directly importan
 
 The annotations provide brief summaries of why each source is useful to the vintage reel enthusiast.
 
-These bibliography entries follow a combination of the Chicago Manual of Style and the Council of Science Editors.
+These bibliography entries loosely follow a combination of the Chicago Manual of Style and the Council of Science Editors.
+
+For repository pages references are briefly cited as follows:
+
+  - For books and articles: `[Author last name], “[Title].”`
+    Examples: Shakespeare, *Secrets of Successful Fishing.*
+    Miller, "The Pflueger Nobby – A Few Surprises."
+
+  - For manuals / inserts with no named author: `[Company name], *[Title]*.`
+    Example: Penn Fishing Tackle Mfg. Co., *Instruction Manual Spinfisher 720, et al.*
+
+  - Optionally, the year in parentheses if needed to disambiguate.
 
 ## Books
 

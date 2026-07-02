@@ -71,7 +71,9 @@ flowchart TD
 
 This section shows how you can fit any spinning or spincast reel into a balanced tackle outfit. If you are starting from the "collector" end and want to first choose a specific reel you can use this table to determine what rod to pair it up with and what line weights and lure weights will result in the best casting action.
 
-If you are starting from the "angler" end and want to focus on a specific fish or fishing method (like trolling), you can research the reels to determine which will work best for the fish you are after and go from there. For example, if you wanted to primarily fish for smaller bass with a spinning reel you would use 4 to 8 lb. test line and so would be looking for a reel that performed best with 4 to 8 lb. test.
+Duty ratings (e.g., ultra-light, sporty, heavy duty) in these guides are derived from period sources rather than assigned arbitrarily. For each reel and reel type, the reel’s original line recommendations from box inserts, manuals, or schematics are compared with the balanced‑tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing* to estimate where that reel falls within its proper tackle class.
+
+Because Shakespeare gives separate tables for baitcasting, spinning, spincast, and fly tackle, these ratings are explained within each reel family rather than forced into a single universal scale.
 
 ### Spinning Reels
 
@@ -90,6 +92,8 @@ Type of Fishing | Reel | Rod | Line lb. Test | Lures oz.
 bass<br>sporty casting | light | extra-light<br>6'--7' | 4--6 | 1/4 best<br>1/8--1/2 good
 big bass<br>muskie<br>freshwater trolling | medium | light<br>6'6"--7' | 8--12 | 3/8 best<br>1/4--5/8 good
 snook<br>salmon<br>saltwater casting | medium-heavy | medium<br>6'--6'6" | 12--20 | 5/8 best<br>3/8--1 good
+
+If you are starting from the "angler" end and want to focus on a specific fish or fishing method (like trolling), you can research the reels to determine which will work best for the fish you are after and go from there. For example, if you wanted to primarily fish for smaller bass with a spinning reel you would use 4 to 8 lb. test line and so would be looking for a reel that performed best with 4 to 8 lb. test.
 
 You can determine what line weights work well with a given reel by researching that reel on sites like [ORCA](https://www.orcaonline.org/) or using an AI-assisted web search, for example, [Perplexity](https://www.perplexity.ai/)--you want to locate the original package insert, user manual, or schematic. If you were considering a Penn 720, you would find that it does indeed handle 2 to 10 lb line, so it would not only work for small bass but would be a nice light outfit for panfish as well--a good example of the versatility of that reel.
 

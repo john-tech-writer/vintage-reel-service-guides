@@ -2,16 +2,18 @@
 
 The Pflueger Nobby is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament; that range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to tarpon, and for both freshwater and salt. This also means it is hefty enough to use for freshwater trolling.
 
+Pflueger made several different models of the Nobby over its production years from 1935 to 1971. The reel shown in this overview is model no. 1963 - which, a bit confusingly, has nothing to do with production years. More details on models, variations, and years of production are provided in the following sections.
+
 <figure markdown>
 ![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
-<figcaption>Pflueger Nobby model 1963 - front view</figcaption>
+<figcaption>Pflueger Nobby model 1963 - front</figcaption>
 </figure>
 
 These reels are classic examples of mid-priced, mid-century American baitcasters and many are still on the water today. This overview provides background on similar reels, badges and finishes, features and controls, specifications, and how to integrate this reel into a balanced tackle outfit.
 
 ## Videos
 
-Watch on YouTube: [Pflueger Nobby overview](https://youtu.be/ZDQlTf7cjkY)
+The overview video provides a quick tour of this reel's main features and controls. Watch on YouTube: [Pflueger Nobby overview](https://youtu.be/ZDQlTf7cjkY)
 <a href="https://www.youtube.com/watch?v=ZDQlTf7cjkY" target="_blank" rel="noopener">
   <img
     src="https://img.youtube.com/vi/ZDQlTf7cjkY/hqdefault.jpg"
@@ -19,7 +21,7 @@ Watch on YouTube: [Pflueger Nobby overview](https://youtu.be/ZDQlTf7cjkY)
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
 
-The Pflueger Nobby service guide shows you how to disassemble, clean, lubricate, and reassemble this reel. Coming soon.
+The service guide video shows you how to disassemble, clean, lubricate, and reassemble this reel. This is the companion video for the illustrated, step-by-step service guide here on Vintage Reel Service Guides. Coming soon.
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - removing crank](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
@@ -28,16 +30,15 @@ The Pflueger Nobby service guide shows you how to disassemble, clean, lubricate,
 
 ## History and similar models
 
-*Cover production years, finishes, variations, evolution.*
+The reel shown in this overview is *no. 1963*, which was introduced in 1935. Production continued until 1957, when it was superceded by the *Nobby Deluxe 1960*. The following table summarizes the various models in the Nobby family of reels and their manufacture dates:
 
-This specific example of the Nobby reel is model 1963, which, perhaps confusingly, seems to have nothing to do with production years - it was introduced in 1935 and production ended in 1957. But the model 1963 was only one of the Nobby family of reels - the following table summarizes the various models and their manufacture dates:
-
-Model| Year introduced / ended production
+Model| Production years
 ---------|-----
-        1963 | 1935 - 1957
-       1963C (chromium finish) | 1954
-       Deluxe 1960 (replaced the basic 1963)| 1957
-      Ultimate (with push-button free spool and star drag) | 1964
+        *1963* | 1935 - 1957
+       *1963C* | 1954 - 1971
+       (chromium finish) |
+       *Deluxe 1960* (replaced the basic 1963)| 1957 - 1971
+      *Ultimate* (with push-button free spool and star drag) | 1964 - 1971
 
 Production of all Nobby models ended in 1971.
 
@@ -137,23 +138,30 @@ The example reel's handles suggest it was made after 1948.
 
 ## Features and controls
 
-The Nobby features an interesting "infinite" anti-backlash control button. By rotating the button in the direction of the arrow (clockwise) the user can gradually increase the amount of tension on the spool. In practical terms, 3 or 4 partial turns gets to the "click" point when tension is again zero. So when beginning a casting session the angler may want a little more tension to help prevent backlashes while getting warmed up - 3 partial turns, a few casts, then all the way to zero, 2 partial turns, and so on, until the sweet spot for casting is found.
+**Anti-backlash / ABL**:The Nobby features an interesting "infinite" anti-backlash control button. By rotating the button in the direction of the arrow (clockwise) the user can gradually increase the amount of tension on the spool. In practical terms, 3 or 4 partial turns gets to the "click" point when tension is again zero. So when beginning a casting session the angler may want a little more tension to help prevent backlashes while getting warmed up - 3 partial turns, a few casts, then all the way to zero, 2 partial turns, and so on, until the sweet spot for casting is found.
 
 Less tension means greater casting distance because of less tension on the spool, but also more possibility of backlash - depending on the skill of the angler! But in this angler's experience, compared to other mid-century baitcasters, the Nobby is relatively easy to use, even for beginners.
 
-The level wind mechanism uses a very small pawl that rides back and forth across the shaft during retrieve, and this part can be damaged if grit gets into the threads of the shaft. So, Pfleuger engineered a very small receptacle in the side of the reel, which holds an extra pawl. This receptacle is accessed by removing the screw above the grease disc.
+**Level wind**: The level wind mechanism uses a very small pawl that rides back and forth across the shaft during retrieve, and this part can be damaged if grit gets into the threads of the shaft. So, Pfleuger engineered a very small receptacle in the side of the reel, which holds an extra pawl. This receptacle is accessed by removing the screw above the grease disc.
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4.jpg)
 <figcaption>ABL button, extra pawl compartment</figcaption>
 </figure>
 
-Pfleuger recommends greasing the reel's gears regularly (as for any reel, but perhaps even more important for these mid-century baitcasters), and this reel sports a fairly innovative feature - by sliding the grease disc to one side a small hole is exposed, which allows the angler to grease the gears without disassembling the reel. The box insert states that "It should not be necessary to take this reel apart for cleaning oftener than once or twice a season . . ."
+**Grease disc**: Pfleuger recommends greasing the reel's gears regularly (as for any reel, but perhaps even more important for these mid-century baitcasters), and this reel sports a fairly innovative feature - by sliding the grease disc to one side a small hole is exposed, which allows the angler to grease the gears without disassembling the reel. The box insert states that "It should not be necessary to take this reel apart for cleaning oftener than once or twice a season . . ."
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - grease disc](../../img/pflueger/nobby/pflueger-nobby-1963-grease-disc.jpg)
 <figcaption>Grease disc</figcaption>
 </figure>
+
+**Clicker**: The click mechanism is thrown on or off by sliding the click button located on the back plate. This is intended to (1) sound a warning when a strike occurs or (2)keep the line tight on the spool when the reel is not in use. It is not intended to prevent backlashes, nor should it be on when casting or retrieving.
+
+<figure markdown>
+![Pflueger Nobby model 1963 - clicker side](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-side.jpg)
+<figcaption>Clicker</figcaption>
+</figure>pflueger-nobby-1963-clicker-side.jpg)
 
 ## Balanced tackle outfits
 
@@ -165,6 +173,12 @@ Rod | Line lb. test | Lures oz.
 5'2", 5'8" light or medium | 15 | 1/2 - best, 3/8 & 5/8 - good
 5'2", 5'8" medium | 20 | 5/6 - best, 3/8, 1/2, 3/4 - good
 4'6", 5'2" heavy | 25 | 3/4 and up
+
+## Dating the example reel
+
+Handles
+
+Finish
 
 ## References
 

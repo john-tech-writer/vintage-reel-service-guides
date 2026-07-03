@@ -1,4 +1,4 @@
-# Pflueger Nobby model 1963 overview
+# Pflueger Nobby overview
 
 The Pflueger Nobby is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament; that range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to tarpon, and for both freshwater and salt. This also means it is hefty enough to use for freshwater trolling.
 
@@ -6,10 +6,12 @@ Pflueger made several different models of the Nobby over its production years fr
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
-<figcaption>Pflueger Nobby model 1963 - front</figcaption>
+<figcaption>Pflueger Nobby model no. 1963 - front</figcaption>
 </figure>
 
-These reels are classic examples of mid-priced, mid-century American baitcasters and many are still on the water today. This overview provides background on similar reels, badges and finishes, features and controls, specifications, and how to integrate this reel into a balanced tackle outfit.
+These mid-priced, mid-century American baitcasters are still fine reels to take out on the water today - the design is very simple, strong, and easy to service. This is not to say that reel technology has not advanced in the years since the Nobby was state-of-the-art, but these reels provide a certain vintage feel that is worthy of experiencing in itself.
+
+This overview provides background on similar reels, badges and finishes, features and controls, specifications, and how to integrate this reel into a balanced tackle outfit.
 
 ## Videos
 
@@ -30,15 +32,15 @@ The service guide video shows you how to disassemble, clean, lubricate, and reas
 
 ## History and similar models
 
-The reel shown in this overview is *no. 1963*, which was introduced in 1935. Production continued until 1957, when it was superceded by the *Nobby Deluxe 1960*. The following table summarizes the various models in the Nobby family of reels and their manufacture dates:
+The reel shown in this overview is model *no. 1963*, which was introduced in 1935. Production continued until 1957, when it was superceded by the *Nobby Deluxe 1960*. The following table summarizes the various models in the Nobby family of reels and their manufacture dates:
 
 Model| Production years
 ---------|-----
         *1963* | 1935 - 1957
-       *1963C* | 1954 - 1971
-       (chromium finish) |
-       *Deluxe 1960* (replaced the basic 1963)| 1957 - 1971
-      *Ultimate* (with push-button free spool and star drag) | 1964 - 1971
+       *1963C*<br>(chromium finish) | 1954 - 1971
+       *Deluxe 1960*<br>(replaced the basic 1963)| 1957 - 1971
+      *Ultimate*
+      (with push-button free spool<br>and star drag) | 1964 - 1971
 
 Production of all Nobby models ended in 1971.
 

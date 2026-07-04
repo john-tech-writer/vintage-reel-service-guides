@@ -2,7 +2,7 @@
 
 The Pflueger Nobby is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament. That range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to tarpon, and for both freshwater and salt. This also means it is hefty enough to use for freshwater trolling.
 
-Pflueger made several different models of the Nobby over its production years from 1935 to 1971. The reel shown in this overview is model no. 1963 - which, a bit confusingly, has nothing to do with production years. More details on [models](#history-and-models), variations, and years of production are provided in the following sections.
+Pflueger made several different models of the Nobby over its production years from 1935 to 1971. The reel shown in this overview is model *no. 1963* - which, a bit confusingly, has nothing to do with production years. More details on [models](#history-and-models), variations, and years of production are provided in the following sections.
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
@@ -34,14 +34,20 @@ The service guide video shows you how to disassemble, clean, lubricate, and reas
 
 Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitcasting lineup: more refined and “nobbier” than earlier, plainer winch‑style reels, but simpler and more affordable than top‑end models with full drag stacks and more complex controls. Over the next few decades it evolved through several model numbers and finishes, reflecting both changing materials and changing ideas about what a stylish, mid‑priced American baitcaster should look like.
 
-The reel shown in this overview is model *no. 1963*, which was introduced in 1935. Production continued until 1957, when it was superceded by the *Nobby Deluxe 1960*. The following table summarizes the various models in the Nobby family of reels and their manufacture dates:
+Pflueger copyrighted the name in 1935 and in that year began production of the model shown in this overview, model *no. 1963*. Initial production featured a blue anodized aluminum finish, examples of which are rare today, apparently because the early anodization process was not very durable. In 1936 the satin "nickalum" finish was introduced, and the grease disc was added to facilitate easy maintenance. In 1941 the cork arbor replaced the original aluminum arbor (the spool was still aluminum).
+
+1948 saw the handle color change from the original marble to tan. In 1954 model *1963C* was introduced, with chromium finish and white plastic handles. 1957 saw the original *no. 1963* replaced by the *Deluxe no. 1960*, sporting a maroon finish and tan handles. In 1958 a snap-on plastic arbor was offered, which meant anglers could use less backing line and still fill the spool for easier casting. Sometime during the 1950s a green finish was offered.
+
+The "ultimate" model Nobby *no. 1965* was introduced in 1964 with a red finish, push-button free spool, and star drag. By 1967 the model *no. 1960* had been discontinued.
+
+The following table summarizes the various models in the Nobby family of reels and their manufacture dates:
 
 Model| Production years
 ---------|-----
         *no. 1963* | 1935 - 1957
-       *no. 1963C*<br>(chromium finish) | 1954 - 1971
-       *Deluxe 1960*<br>(replaced the basic 1963)| 1957 - 1971
-      *Ultimate*<br>(with push-button free spool<br>and star drag) | 1964 - 1971
+       *no. 1963C* | 1954 - 1971
+       *Deluxe 1960* | 1957 - 1960
+      *Ultimate* | 1964 - 1971
 
 Production of all Nobby models ended in 1971.
 
@@ -82,8 +88,8 @@ The three internal gears are made of brass, which makes them very durable, hard,
 The oil cups on the front and back plates, in which the steel pivots of the spool rotate, are inset with what the box insert calls "scarlet jewels," which appear to be garnets or some similar stone. In any case, they seem very long-wearing.
 
 <figure markdown>
-![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4.jpg)
-<figcaption>Handle-side controls</figcaption>
+![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4-annot.jpg)
+<figcaption>Handle-side features: ABL, extra pawl, grease disc, and oil cup</figcaption>
 </figure>
 
 The arbors were made of aluminum until 1941, when they began to be made of cork, which was supposed to make for easier casting, and to allow anglers to cast greater distances. The reel shown in this overview has the cork arbor. Some models also had plastic arbors.
@@ -160,7 +166,7 @@ Less tension means greater casting distance because the spool can spin more free
 **Clicker**: The click mechanism is thrown on or off by sliding the click button located on the back plate. This is intended to (1) sound a warning when a strike occurs, or (2) keep the line tight on the spool when the reel is not in use.
 
 <figure markdown>
-![Pflueger Nobby model 1963 - clicker side](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-side.jpg)
+![Pflueger Nobby model 1963 - clicker side](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-side-annot.jpg)
 <figcaption>Clicker</figcaption>
 </figure>
 

@@ -34,11 +34,13 @@ The service guide video shows you how to disassemble, clean, lubricate, and reas
 
 Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitcasting lineup: more refined and “nobbier” than earlier, plainer winch‑style reels, but simpler and more affordable than top‑end models with full drag stacks and more complex controls. Over the next few decades it evolved through several model numbers and finishes, reflecting both changing materials and changing ideas about what a stylish, mid‑priced American baitcaster should look like.
 
-Pflueger copyrighted the name in 1935 and in that year began production of the model shown in this overview, model *no. 1963*. Initial production featured a blue anodized aluminum finish, examples of which are rare today, apparently because the early anodization process was not very durable. In 1936 the satin "nickalum" finish was introduced, and the grease disc was added to facilitate easy maintenance. In 1941 the cork arbor replaced the original aluminum arbor (the spool was still aluminum).
+**1930s**: Pflueger copyrighted the name in 1935 and in that year began production of the model shown in this overview, model *no. 1963*. Initial production featured a blue anodized aluminum finish, examples of which are rare today, apparently because the early anodization process was not very durable. In 1936 the satin "nickalum" finish was introduced, and the grease disc was added to facilitate easy maintenance.
 
-1948 saw the handle color change from the original marble to tan. In 1954 model *1963C* was introduced, with chromium finish and white plastic handles. 1957 saw the original *no. 1963* replaced by the *Deluxe no. 1960*, sporting a maroon finish and tan handles. In 1958 a snap-on plastic arbor was offered, which meant anglers could use less backing line and still fill the spool for easier casting. Sometime during the 1950s a green finish was offered.
+**1940s**:In 1941 the cork arbor replaced the original aluminum arbor (the spool was still aluminum). 1948 saw the handle color change from the original marble to tan.
 
-The "ultimate" model Nobby *no. 1965* was introduced in 1964 with a red finish, push-button free spool, and star drag. By 1967 the model *no. 1960* had been discontinued.
+**1950s**: In 1954 model no. *1963C* was introduced, with chromium finish and white plastic handles. 1957 saw the original *no. 1963* replaced by the *Deluxe no. 1960*, sporting a maroon finish and tan handles. In 1958 a snap-on plastic arbor was offered, which meant anglers could use less backing line and still fill the spool for easier casting. Sometime during the 1950s a green finish was also offered.
+
+**1960s - 70s**: The *Ultimate no. 1965* was introduced in 1964 with a red finish, push-button free spool, and star drag. By 1967 the model *no. 1960* had been discontinued. Production of all Nobby models ended in 1971.
 
 The following table summarizes the various models in the Nobby family of reels and their manufacture dates:
 
@@ -46,10 +48,8 @@ Model| Production years
 ---------|-----
         *no. 1963* | 1935 - 1957
        *no. 1963C* | 1954 - 1971
-       *Deluxe 1960* | 1957 - 1960
-      *Ultimate* | 1964 - 1971
-
-Production of all Nobby models ended in 1971.
+       *Deluxe no. 1960* | 1957 - 1960
+      *Ultimate no. 1965* | 1964 - 1971
 
 ## Specifications and materials
 
@@ -86,11 +86,6 @@ The thread shaft - the main component of the level-wind mechanism - is made of w
 The three internal gears are made of brass, which makes them very durable, hard, and long-wearing.
 
 The oil cups on the front and back plates, in which the steel pivots of the spool rotate, are inset with what the box insert calls "scarlet jewels," which appear to be garnets or some similar stone. In any case, they seem very long-wearing.
-
-<figure markdown>
-![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4-annot.jpg)
-<figcaption>Handle-side features: ABL, extra pawl, grease disc, and oil cup</figcaption>
-</figure>
 
 The arbors were made of aluminum until 1941, when they began to be made of cork, which was supposed to make for easier casting, and to allow anglers to cast greater distances. The reel shown in this overview has the cork arbor. Some models also had plastic arbors.
 
@@ -144,6 +139,11 @@ The crank handles were made of plastic in a variety of colors:
 </figure>
 
 ## Features and controls
+
+<figure markdown>
+![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4-annot.jpg)
+<figcaption>Handle-side features: ABL, extra pawl, grease disc, and oil cup</figcaption>
+</figure>
 
 **Anti-backlash / ABL**: The Nobby features an interesting "infinite" anti-backlash control button. By rotating the button in the direction of the arrow (clockwise) the user can gradually increase the amount of tension on the spool. In practical terms, 3 or 4 partial turns gets to the "click" point when tension is again zero. So when beginning a casting session the angler may want a little more tension to help prevent backlashes while getting warmed up - 3 partial turns, a few casts, then all the way to zero, 2 partial turns, and so on, until the sweet spot for casting is found.
 

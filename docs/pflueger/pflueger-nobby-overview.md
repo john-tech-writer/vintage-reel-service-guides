@@ -86,7 +86,7 @@ The oil cups on the front and back plates, in which the steel pivots of the spoo
 <figcaption>Handle-side controls</figcaption>
 </figure>
 
-The arbors were made of aluminum until 1941, when they began to be made of cork, which was supposed to make for easier casting, and to allow anglers to cast greater distances. This reel shown in this overview has the cork arbor. Some models also had plastic arbors.
+The arbors were made of aluminum until 1941, when they began to be made of cork, which was supposed to make for easier casting, and to allow anglers to cast greater distances. The reel shown in this overview has the cork arbor. Some models also had plastic arbors.
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - cork arbor](../../img/pflueger/nobby/pflueger-nobby-1963-cork-arbor-front-ref.jpg)
@@ -139,7 +139,7 @@ The crank handles were made of plastic in a variety of colors:
 
 ## Features and controls
 
-**Anti-backlash / ABL**:The Nobby features an interesting "infinite" anti-backlash control button. By rotating the button in the direction of the arrow (clockwise) the user can gradually increase the amount of tension on the spool. In practical terms, 3 or 4 partial turns gets to the "click" point when tension is again zero. So when beginning a casting session the angler may want a little more tension to help prevent backlashes while getting warmed up - 3 partial turns, a few casts, then all the way to zero, 2 partial turns, and so on, until the sweet spot for casting is found.
+**Anti-backlash / ABL**: The Nobby features an interesting "infinite" anti-backlash control button. By rotating the button in the direction of the arrow (clockwise) the user can gradually increase the amount of tension on the spool. In practical terms, 3 or 4 partial turns gets to the "click" point when tension is again zero. So when beginning a casting session the angler may want a little more tension to help prevent backlashes while getting warmed up - 3 partial turns, a few casts, then all the way to zero, 2 partial turns, and so on, until the sweet spot for casting is found.
 
 Less tension means greater casting distance because the spool can spin more freely, but also increases possibility of backlash - depending on the skill of the angler!
 
@@ -157,7 +157,7 @@ Less tension means greater casting distance because the spool can spin more free
 <figcaption>Grease disc</figcaption>
 </figure>
 
-**Clicker**: The click mechanism is thrown on or off by sliding the click button located on the back plate. This is intended to (1) sound a warning when a strike occurs or (2)keep the line tight on the spool when the reel is not in use.
+**Clicker**: The click mechanism is thrown on or off by sliding the click button located on the back plate. This is intended to (1) sound a warning when a strike occurs, or (2) keep the line tight on the spool when the reel is not in use.
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - clicker side](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-side.jpg)
@@ -165,8 +165,6 @@ Less tension means greater casting distance because the spool can spin more free
 </figure>
 
 ## Balanced tackle outfits
-
-These specifications are for monofilament line.
 
 Rod | Line lb. test | Lures oz.
 -|-|-

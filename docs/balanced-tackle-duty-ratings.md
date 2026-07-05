@@ -4,7 +4,7 @@
 
 Duty ratings (e.g., ultra-light, sporty, heavy duty) in these guides are derived from period sources rather than being assigned arbitrarily. For each reel, original line recommendations from box inserts, manuals, or schematics are compared with the balanced tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing* (1962) to determine the proper tackle class for that reel.
 
-Shakespeare's *Secrets of Successful Fishing* gives separate tables for baitcasting, spinning, spincasting, and fly fishing tackle, so these ratings are explained within each reel family rather than forced into a single scale.
+Shakespeare's *Secrets of Successful Fishing* gives separate tables for baitcasting, spinning, spincasting, and fly fishing tackle, so these ratings are explained within each reel family rather than forced into a single scale. While there may be some variation in how different writers of that era classified different types of reels, [Henry Shakespeare](https://www.shakespeare-fishing.com/pages/about-us) has very good credentials, so this is the primary text being used.
 
 While there is some overlap there are significant differences due in part to the mechanics of the different types of reels. For example, for a baitcasting reel 10 lb. monofilament is classified at the high end of ultra-light tackle and the low end of sporty tackle; for a spinning reel, that same line weight is at the high end of medium and low end of medium-heavy tackle.
 
@@ -44,8 +44,18 @@ In the context of the other duty ratings, “sporty” can be characterized as:
 
   - The target species for this category are bass, walleye, and small pike.
 
-**Regular**: This category of tackle uses 15 lb. monofilament -
+**Regular**: This category of tackle uses 15 lb. monofilament - *more info coming soon.*
 
-**All-purpose**: This category of tackle uses 15 – 20 lb. monofilament-
+**All-purpose**: This category of tackle uses 15 – 20 lb. monofilament - *more info coming soon.*
 
 **Heavy duty**: This category of tackle uses 18 – 30 lb. monofilament - this tackle has serious pulling power for larger fish, heavier cover, and trolling.
+
+### Spinning
+
+*This section coming soon.*
+
+### Spincasting
+*This section coming soon.*
+
+### Fly
+*This section coming soon.*

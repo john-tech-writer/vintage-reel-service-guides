@@ -1,17 +1,17 @@
 # Pflueger Nobby overview
 
-The Pflueger Nobby, introduced in 1935, is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament. That range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to muskies. The Pflueger catalog (1955) states the Nobby is "*An especially lightweight bait-casting reel - designed primarily for casting lighter lures, yet rugged enough to withstand anything that may be required of a fresh water reel*."
+The Pflueger Nobby, [introduced in 1935](#history-and-models), is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament. That range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to muskies. The Pflueger catalog (1955) states the Nobby is "*An especially lightweight bait-casting reel - designed primarily for casting lighter lures, yet rugged enough to withstand anything that may be required of a fresh water reel*."
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
-<figcaption>Pflueger Nobby model no. 1963 - front</figcaption>
+<figcaption>Pflueger Nobby model No. 1963 - front</figcaption>
 </figure>
 
 By 1955 the Nobby, retailing at $12.50, was positioned in Pflueger's freshwater baitcasting lineup just below the more aristocratic Supreme ($35.00) and Summit $14.75) reels. It was on the same level as the Skilkast (featuring the "mechanical thumber"), and a bit above the Akron ($11.00), Trump, and Trusty reels - these last two retailing for $6.60 and $5.50, respectively.
 
 These mid-priced, mid-century American baitcasters are still fine reels to take out on the water today - the design is very simple, strong, and easy to service. This is not to say that reel technology has not advanced in the years since the Nobby was state-of-the-art, but combined with the right [balanced tackle](#balanced-tackle-outfits), this reel casts smoothly and has a very nostalgic, mechanical feel. This is a reel that will appeal to anglers who are either skilled baitcasters, or are willing to develop their skill in thumb control of the spool - not a difficult art, but one that requires some practice. 
 
-Pflueger made several different models of the Nobby over its production years from 1935 to 1971. The reel shown in this overview is model *no. 1963* - which, a bit confusingly, has nothing to do with production years. Details on [models](#history-and-models), history, variations, features and controls, and specifications are provided in the following sections.
+Pflueger made several different models of the Nobby over its production years from 1935 to 1971. The reel shown in this overview is model *No. 1963* - which, a bit confusingly, has nothing to do with production years. Details on [models](#history-and-models), history, variations, features and controls, and specifications are provided in the following sections.
 
 ## Videos
 
@@ -38,30 +38,30 @@ Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitc
 
 Over the next few decades it evolved through several models, reflecting both changing materials and changing ideas about what a stylish, mid‑priced American baitcaster should look like.
 
-**1930s**: Pflueger copyrighted the name in 1935 and in that year began production of the model shown in this overview, model *no. 1963*. Initial production featured a blue anodized aluminum finish, examples of which are rare today, apparently because the early anodization process was not very durable. In 1936 the satin "nickalum" finish was introduced, and the grease disc was added to facilitate easy maintenance.
+**1930s**: Pflueger copyrighted the name in 1935 and in that year began production of the model shown in this overview, model *No. 1963*. Initial production featured a blue anodized aluminum finish, examples of which are rare today, apparently because the early anodization process was not very durable. In 1936 the satin "nickalum" finish was introduced, and the grease disc was added to facilitate easy maintenance.
 
 **1940s**: In 1941 the cork arbor replaced the original aluminum arbor (the spool was still aluminum). 1948 saw the handle color change from the original marble to tan.
 
-**1950s**: In 1954 model *no. 1963C* was introduced, with chromium finish and white plastic handles. 1957 saw the original *no. 1963* replaced by the *Deluxe no. 1960*, sporting a maroon finish and tan handles. In 1958 a snap-on plastic arbor was offered, which meant anglers could use less backing line and still fill the spool for easier casting. Sometime during the 1950s a green finish was also offered.
+**1950s**: In 1954 model *No. 1963C* was introduced, with chromium finish and white plastic handles. 1957 saw the original *no. 1963* replaced by the *No. 1960 Deluxe*, sporting a maroon finish and tan handles. In 1958 a snap-on plastic arbor was offered, which meant anglers could use less backing line and still fill the spool for easier casting. Sometime during the 1950s a green finish was also offered.
 
-**1960s - 70s**: The "ultimate" model *no. 1965* was introduced in 1964 with a red finish, push-button free spool, and star drag. By 1967 the *Deluxe no. 1960* had been discontinued. Production of all Nobby models ended in 1971 as more technically advanced reels edged these older type reels out of a very competitive market.
+**1960s - 70s**: The model *No. 1965* was introduced in 1964 with a red finish, push-button free spool, and star drag. By 1967 the *No. 1960 Deluxe* had been discontinued. Production of all Nobby models ended in 1971 as more technically advanced reels edged these older type reels out of a very competitive market.
 
 The following table summarizes the various models, variations, and production timeline:
 
 Model | Production years | Colors | Features
 ---------|--|--|
-        *no. 1963* | 1935 - 1957 | blue / satin "nickalum"<br>marbled handles | level wind, grease disc
-       *no. 1963C* | 1954 - 1971 | chromium<br>white handles | -
-       *no. 1960 Deluxe* | 1957 - 1960 | maroon / green<br>tan handles | plastic arbor
-      *no. 1965 Free Spool* | 1964 - 1971 | red | push-button free spool<br>star drag
+        *No. 1963* | 1935 - 1957 | blue / satin "nickalum"<br>marbled handles | level wind, grease disc
+       *No. 1963C* | 1954 - 1971 | chromium<br>white handles | -
+       *No. 1960 Deluxe* | 1957 - 1960 | maroon / green<br>tan handles | plastic arbor
+      *No. 1965 Free Spool* | 1964 - 1971 | red | push-button free spool<br>star drag
 
 ### Dating the example reel
 
-The model *no. 1963* was produced from 1935 - 1957 and the satin finish was introduced after 1936. Cork arbors were introduced after 1941 and the marbled handles indicate a pre-1948 vintage, so this reel was likely made between 1941 and 1948. This means the reel shown in this overview is (as of writing July 2026) about 78 to 85 years old, and after servicing, still works perfectly.
+The model *No. 1963* was produced from 1935 - 1957 and the satin finish was introduced after 1936. Cork arbors were introduced after 1941 and the marbled handles indicate a pre-1948 vintage, so this reel was likely made between 1941 and 1948. This means the reel shown in this overview is (as of writing July 2026) about 78 to 85 years old, and after servicing, still works perfectly.
 
 ## Logo, colors, and finishes
 
-The Nobby sported a simple inscribed script logo.
+The Nobby sported a simple but stylish script logo, inscribed into the cap along with the model number.
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - logo](../../img/pflueger/nobby/pflueger-nobby-1963-logo-2.jpg)
@@ -79,11 +79,11 @@ The [History and models](#history-and-models) section provides a compact tabular
 
 ## Features and controls
 
-**Anti-backlash / ABL**: The Nobby features an interesting "infinite" anti-backlash control button. By rotating the button in the direction of the arrow (clockwise) the user can gradually increase the amount of tension on the spool. In practical terms, 3 or 4 partial turns gets to the "click" point when tension is again zero. So when beginning a casting session the angler may want a little more tension to help prevent backlashes while getting warmed up - 3 partial turns, a few casts, then all the way to zero, 2 partial turns, and so on, until the sweet spot for casting is found.
+**Anti-backlash / ABL**: The Nobby features an interesting "infinite" anti-backlash control button. By rotating the button in the direction of the arrow (clockwise) the user gradually increases the tension on the spool. Less tension means greater casting distance because the spool can spin more freely, but also increases possibility of backlash - depending on the skill of the angler!
 
-Less tension means greater casting distance because the spool can spin more freely, but also increases possibility of backlash - depending on the skill of the angler!
+In practical terms, 3 or 4 partial turns gets to the "click" point when tension resets to zero. So when beginning a casting session the angler may want a little more tension to help prevent backlashes while getting warmed up - 3 partial turns, a few casts, then all the way to zero, 2 partial turns, and so on, until the sweet spot for casting is found.
 
-**Grease disc**: Pfleuger recommends greasing the reel's gears regularly (a good practice for any reel, but perhaps even more important for these mid-century baitcasters), and this reel sports a fairly innovative feature - by sliding the grease disc to one side a small hole is exposed, which allows the angler to grease the gears without disassembling the reel. The box insert states that "It should not be necessary to take this reel apart for cleaning oftener than once or twice a season . . ."
+**Grease disc**: Pfleuger recommends greasing the reel's gears regularly (a good practice for any reel, but perhaps even more important for these mid-century baitcasters), and this reel sports a fairly innovative feature - by sliding the grease disc to one side a small hole is exposed, which allows the angler to grease the gears without disassembling the reel. The box insert states that *"It should not be necessary to take this reel apart for cleaning oftener than once or twice a season . . ."*
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4-annot.jpg)
@@ -108,13 +108,15 @@ Less tension means greater casting distance because the spool can spin more free
 
 **Weight**: 5 3/4 oz.
 
-**Gear ratio**: 4:1
+**Pillars**: 1 7/8"
 
-**Pillars / plates**: 1 7/8" / 2"
+ **Plates**: 2"
+
+**Gear ratio**: 4:1
 
 **Line capacity**:
 
-Monofilament
+*Monofilament*
 
 Line lb. test | yds.
 ---------|-----
@@ -124,7 +126,7 @@ Line lb. test | yds.
       25 | 65
       30 | -
 
-Braided
+*Braided*
 
 Line lb. test | yds.
 ---------|-----
@@ -148,7 +150,7 @@ The arbors were made of aluminum until 1941, when they began to be made of cork,
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - cork arbor](../../img/pflueger/nobby/pflueger-nobby-1963-cork-arbor-front-ref.jpg)
-<figcaption>Cork arbor</figcaption>
+<figcaption>Cork arbor, for easier casting</figcaption>
 </figure>
 
 ## Balanced tackle outfits

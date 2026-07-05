@@ -1,11 +1,13 @@
 # Pflueger Nobby overview
 
-The Pflueger Nobby is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament. That range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to muskies. The Pflueger catalog (1955) states the Nobby is "*An especially lightweight bait-casting reel - designed primarily for casting lighter lures, yet rugged enough to withstand anything that may be required of a fresh water reel*."
+The Pflueger Nobby, introduced in 1935, is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament. That range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to muskies. The Pflueger catalog (1955) states the Nobby is "*An especially lightweight bait-casting reel - designed primarily for casting lighter lures, yet rugged enough to withstand anything that may be required of a fresh water reel*."
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
 <figcaption>Pflueger Nobby model no. 1963 - front</figcaption>
 </figure>
+
+By 1955 the Nobby, retailing at $12.50, was positioned in Pflueger's freshwater baitcasting lineup just below the more aristocratic Supreme ($35.00) and Summit $14.75) reels. It was on the same level as the Skilkast (featuring the "mechanical thumber"), and a bit above the Akron ($11.00), Trump, and Trusty reels - these last two retailing for $6.60 and $5.50, respectively.
 
 These mid-priced, mid-century American baitcasters are still fine reels to take out on the water today - the design is very simple, strong, and easy to service. This is not to say that reel technology has not advanced in the years since the Nobby was state-of-the-art, but combined with the right [balanced tackle](#balanced-tackle-outfits), this reel casts smoothly and has a very nostalgic, mechanical feel. This is a reel that will appeal to anglers who are either skilled baitcasters, or are willing to develop their skill in thumb control of the spool - not a difficult art, but one that requires some practice. 
 
@@ -136,7 +138,7 @@ Line lb. test | yds.
 
 The Nobby is made mostly of aluminum alloy, sometimes referred to in company documentation as "nickalum." The trim is made of another company-original material, "diamolite." The bearing blocks, bushings, and bearings - all parts subject to heavy wear - are made of phosphor bronze.
 
-The thread shaft - the main component of the level-wind mechanism - is made of what Pflueger literature refers to as "diamalloy," reputed to be rustproof. The pawl, a very small part that rides back and forth across the thread shaft, is made of steel alloy. This combination of materials makes the reel very durable and rust-resistant, although rinsing is recommended after saltwater use. This reel is extremely light for its duty rating.
+The thread shaft - the main component of the level-wind mechanism - is made of what Pflueger literature refers to as "diamalloy," reputed to be rustproof. The pawl, a very small part that rides back and forth across the thread shaft, is made of steel alloy. This combination of materials makes the reel very durable and rust-resistant, but still recommended only for freshwater use. This reel is extremely light for its duty rating.
 
 The three internal gears are made of brass, which makes them very durable, hard, and long-wearing.
 

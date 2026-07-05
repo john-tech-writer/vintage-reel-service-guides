@@ -57,49 +57,6 @@ Model | Production years | Colors | Features
 
 The model *no. 1963* was produced from 1935 - 1957 and the satin finish was introduced after 1936. Cork arbors were introduced after 1941 and the marbled handles indicate a pre-1948 vintage, so this reel was likely made between 1941 and 1948. This means the reel shown in this overview is (as of writing July 2026) about 78 to 85 years old, and after servicing, still works perfectly.
 
-## Specifications and materials
-
-**Weight:** 5 3/4 oz.
-
-**Line capacity:**
-
-Monofilament
-
-Line lb. test | yds.
----------|-----
-       12 | 175
-       15 | 110
-       20 | 85
-      25 | 65
-      30 | -
-
-Braided
-
-Line lb. test | yds.
----------|-----
-       9 | 290
-       12 | 210
-       15 | 145
-      18 | 110
-      24 | 90
-      30 | 60
-      35 | -
-
-The Nobby is made mostly of aluminum alloy, sometimes referred to in company documentation as "nickalum." The trim is made of another company-original material, "diamolite." The bearing blocks, bushings, and bearings - all parts subject to heavy wear - are made of phosphor bronze.
-
-The thread shaft - the main component of the level-wind mechanism - is made of what Pflueger literature refers to as "diamalloy," reputed to be rustproof. The pawl, a very small part that rides back and forth across the thread shaft, is made of steel alloy. This combination of materials makes the reel very durable and rust-resistant, although rinsing is recommended after saltwater use. This reel is extremely light for its duty rating.
-
-The three internal gears are made of brass, which makes them very durable, hard, and long-wearing.
-
-The oil cups on the front and back plates, in which the steel pivots of the spool rotate, are inset with what the box insert calls "scarlet jewels," which are actually made of agate. In any case, they seem very long-wearing.
-
-The arbors were made of aluminum until 1941, when they began to be made of cork, which was supposed to make for easier casting, and to allow anglers to cast greater distances. The reel shown in this overview has the cork arbor. Some later models also had plastic arbors.
-
-<figure markdown>
-![Pflueger Nobby model 1963 - cork arbor](../../img/pflueger/nobby/pflueger-nobby-1963-cork-arbor-front-ref.jpg)
-<figcaption>Cork arbor</figcaption>
-</figure>
-
 ## Logo, colors, and finishes
 
 The Nobby sported a simple inscribed script logo.
@@ -143,6 +100,49 @@ Less tension means greater casting distance because the spool can spin more free
 <figure markdown>
 ![Pflueger Nobby model 1963 - clicker side](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-annot.jpg)
 <figcaption>Clicker</figcaption>
+</figure>
+
+## Specifications and materials
+
+**Weight:** 5 3/4 oz.
+
+**Line capacity:**
+
+Monofilament
+
+Line lb. test | yds.
+---------|-----
+       12 | 175
+       15 | 110
+       20 | 85
+      25 | 65
+      30 | -
+
+Braided
+
+Line lb. test | yds.
+---------|-----
+       9 | 290
+       12 | 210
+       15 | 145
+      18 | 110
+      24 | 90
+      30 | 60
+      35 | -
+
+The Nobby is made mostly of aluminum alloy, sometimes referred to in company documentation as "nickalum." The trim is made of another company-original material, "diamolite." The bearing blocks, bushings, and bearings - all parts subject to heavy wear - are made of phosphor bronze.
+
+The thread shaft - the main component of the level-wind mechanism - is made of what Pflueger literature refers to as "diamalloy," reputed to be rustproof. The pawl, a very small part that rides back and forth across the thread shaft, is made of steel alloy. This combination of materials makes the reel very durable and rust-resistant, although rinsing is recommended after saltwater use. This reel is extremely light for its duty rating.
+
+The three internal gears are made of brass, which makes them very durable, hard, and long-wearing.
+
+The oil cups on the front and back plates, in which the steel pivots of the spool rotate, are inset with what the box insert calls "scarlet jewels," which are actually made of agate. In any case, they seem very long-wearing.
+
+The arbors were made of aluminum until 1941, when they began to be made of cork, which was supposed to make for easier casting, and to allow anglers to cast greater distances. The reel shown in this overview has the cork arbor. Some later models also had plastic arbors.
+
+<figure markdown>
+![Pflueger Nobby model 1963 - cork arbor](../../img/pflueger/nobby/pflueger-nobby-1963-cork-arbor-front-ref.jpg)
+<figcaption>Cork arbor</figcaption>
 </figure>
 
 ## Balanced tackle outfits

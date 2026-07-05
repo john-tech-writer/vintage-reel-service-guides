@@ -47,7 +47,7 @@ Over the next few decades it evolved through several models, reflecting both cha
 The following table summarizes the various models, variations, and production timeline:
 
 Model | Production years | Colors | Features
----------|-----
+---------|--|--|
         *no. 1963* | 1935 - 1957 | blue / satin "nickalum"<br>marbled handles | level wind, grease disc
        *no. 1963C* | 1954 - 1971 | chromium<br>white handles | -
        *Deluxe no. 1960* | 1957 - 1960 | maroon / green<br>tan handles | plastic arbor
@@ -164,4 +164,4 @@ Miller, "The Pflueger Nobby – A Few Surprises."
 Shakespeare, *Secrets of Successful Fishing.*
 The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel.*
 
-For full source details, see [References](../references.md)
+For full source details, see [References](../references.md).

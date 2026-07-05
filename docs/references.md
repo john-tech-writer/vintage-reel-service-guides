@@ -54,6 +54,10 @@ Penn Fishing Tackle Mfg. Co. *Instruction Manual Spinfisher 720, et al*. Box ins
 
   - Line selection, capacity, schematics, parts lists, usage instructions, recommended balanced tackle outfits, and cleaning and lubricating instructions for all reels in the Spinfisher series. Schematics and parts lists highlight parts interchangeability across models.
 
+The Enterprise Manufacturing Co. *Pflueger Free Spool Nobby*. Box insert, n.d. (https://www.orcaonline.org).
+
+  - Schematic, parts list, line capacity, for the Pflueger Nobby model no. 1965. Located in the member library section of the site.
+
 The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*. Box insert, n.d. (https://www.orcaonline.org/product-category/orca-library/reel-schematics/).
 
   - Schematic, parts list, line capacity, cleaning and lubricating instructions, and mechanical description for the Pflueger Nobby no. 1963.

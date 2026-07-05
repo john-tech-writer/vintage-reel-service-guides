@@ -56,7 +56,7 @@ Penn Fishing Tackle Mfg. Co. *Instruction Manual Spinfisher 720, et al*. Box ins
 
 The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*. Box insert, n.d. (https://www.orcaonline.org/product-category/orca-library/reel-schematics/).
 
-  - Schematic, parts list, line capacity, cleaning and lubricating instructions, and mechanical description for the Pflueger Nobby No. 1963.
+  - Schematic, parts list, line capacity, cleaning and lubricating instructions, and mechanical description for the Pflueger Nobby no. 1963.
 
 ## Journal and newsletter articles
 

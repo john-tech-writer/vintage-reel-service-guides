@@ -1,6 +1,6 @@
 # Pflueger Nobby overview
 
-The Pflueger Nobby is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament. That range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to tarpon. This also means it is hefty enough to use for freshwater trolling.
+The Pflueger Nobby is a sporty‑ to heavy‑duty baitcasting reel, rated in its box insert for 12 to 30 lb. monofilament. That range overlaps the “sporty” and “heavy‑duty” baitcasting classes in Shakespeare’s *Secrets of Successful Fishing*, so the reel spans a notably wide section of the balanced‑tackle spectrum. This means it is suitable to use for fish ranging from bass to muskies. The Pflueger catalog (1955) states the Nobby is "*An especially lightweight bait-casting reel - designed primarily for casting lighter lures, yet rugged enough to withstand anything that may be required of a fresh water reel*."
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
@@ -32,7 +32,7 @@ The service guide video shows you how to disassemble, clean, lubricate, and reas
 
 Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitcasting lineup: more refined than earlier, plainer, winch‑style reels, but simpler and more affordable than top‑end models with full drag stacks and more complex controls. "Nobby" seems an odd name for a fishing reel. Looking at the dictionary definition helps explain what Pflueger was aiming for when they named this reel:
 
-    *nob’by, a.; comp. nobbier; superl. nobbiest. 1. of or for nobs; stylish; fashionable. [Slang] 2. excellent; first-rate. [Slang]*
+*nob’by, a.; comp. nobbier; superl. nobbiest. 1. of or for nobs; stylish; fashionable. [Slang] 2. excellent; first-rate. [Slang]*
 
 Over the next few decades it evolved through several models, reflecting both changing materials and changing ideas about what a stylish, mid‑priced American baitcaster should look like.
 
@@ -50,8 +50,8 @@ Model | Production years | Colors | Features
 ---------|--|--|
         *no. 1963* | 1935 - 1957 | blue / satin "nickalum"<br>marbled handles | level wind, grease disc
        *no. 1963C* | 1954 - 1971 | chromium<br>white handles | -
-       *Deluxe no. 1960* | 1957 - 1960 | maroon / green<br>tan handles | plastic arbor
-      "ultimate" *no. 1965* | 1964 - 1971 | red | push-button free spool<br>star drag
+       *no. 1960 Deluxe* | 1957 - 1960 | maroon / green<br>tan handles | plastic arbor
+      *no. 1965 Free Spool* | 1964 - 1971 | red | push-button free spool<br>star drag
 
 ### Dating the example reel
 
@@ -104,9 +104,13 @@ Less tension means greater casting distance because the spool can spin more free
 
 ## Specifications and materials
 
-**Weight:** 5 3/4 oz.
+**Weight**: 5 3/4 oz.
 
-**Line capacity:**
+**Gear ratio**: 4:1
+
+**Pillars / plates**: 1 7/8" / 2"
+
+**Line capacity**:
 
 Monofilament
 
@@ -147,7 +151,7 @@ The arbors were made of aluminum until 1941, when they began to be made of cork,
 
 ## Balanced tackle outfits
 
-Combined with the right rod, line, and lures, this reel casts smoothly and has a very nostalgic, mechanical feel.
+Combined with the right rod, line, and lures, this reel casts smoothly and has a very nostalgic, mechanical feel. The Pflueger catalog (1955) states the Nobby is "*Ideally suited to longer, lighter-action rods and 3/8 to 1/2 oz. lures*."
 
 Rod | Line lb. test | Lures oz.
 -|-|-
@@ -160,8 +164,11 @@ For more information on how Vintage Reel Service Guides determines these ratings
 
 ## References
 
-Miller, "The Pflueger Nobby – A Few Surprises."
-Shakespeare, *Secrets of Successful Fishing.*
-The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel.*
+Miller, "The Pflueger Nobby – A Few Surprises"
+Shakespeare, *Secrets of Successful Fishing*
+The Enterprise Manufacturing Co. *Fishing with Pflueger*
+The Enterprise Manufacturing Co. *Pflueger Fishing Tackle*.
+The Enterprise Manufacturing Co. *Pflueger Free Spool Nobby*
+The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*
 
 For full source details, see [References](../references.md).

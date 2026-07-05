@@ -58,6 +58,14 @@ The Enterprise Manufacturing Co. *Pflueger Free Spool Nobby*. Box insert, n.d. (
 
   - Schematic, parts list, line capacity, for the Pflueger Nobby model no. 1965. Located in the member library section of the site.
 
+The Enterprise Manufacturing Co. *Fishing with Pflueger*. Catalog, 1955. (https://www.orcaonline.org).
+
+  - Consumer catalog for 1955, includes all types of reels and lures.
+
+The Enterprise Manufacturing Co. *Pflueger Fishing Tackle*. Catalog, 1964. (https://www.orcaonline.org).
+
+  - Trade catalog for 1964, includes all types of reels.
+
 The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*. Box insert, n.d. (https://www.orcaonline.org/product-category/orca-library/reel-schematics/).
 
   - Schematic, parts list, line capacity, cleaning and lubricating instructions, and mechanical description for the Pflueger Nobby no. 1963.

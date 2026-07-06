@@ -38,7 +38,7 @@ Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitc
 
 <figure markdown>
 ![Pflueger Nobby model No. 1963 and Skilkast - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-skilkast-1955-cat-transparent.jpg)
-<figcaption>From the 1955 catalog</figcaption>
+<figcaption>Nobby model No. 1963 and Skilkast - from the 1955 catalog</figcaption>
 </figure>
 
 Over the next few decades it evolved through several models, reflecting both changing materials and changing ideas about what a stylish, mid‑priced American baitcaster should look like.

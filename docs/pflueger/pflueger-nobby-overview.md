@@ -36,6 +36,11 @@ Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitc
 
 *nob’by, a.; comp. nobbier; superl. nobbiest. 1. of or for nobs; stylish; fashionable. [Slang] 2. excellent; first-rate. [Slang]*
 
+<figure markdown>
+![Pflueger Nobby model 1963 - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-1955-cat-bw-transparent.jpg)
+<figcaption>From the 1955 catalog</figcaption>
+</figure>
+
 Over the next few decades it evolved through several models, reflecting both changing materials and changing ideas about what a stylish, mid‑priced American baitcaster should look like.
 
 **1930s**: Pflueger copyrighted the name in 1935 and in that year began production of the model shown in this overview, model *No. 1963*. Initial production featured a blue anodized aluminum finish, examples of which are rare today, apparently because the early anodization process was not very durable. In 1936 the satin "nickalum" finish was introduced, and the grease disc was added to facilitate easy maintenance.

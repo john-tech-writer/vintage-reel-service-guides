@@ -7,8 +7,6 @@ The Pflueger Nobby, [introduced in 1935](#history-and-models), is a sporty‑ to
 <figcaption>Pflueger Nobby model No. 1963 - front</figcaption>
 </figure>
 
-By 1955 the Nobby, retailing at $12.50, was positioned in Pflueger's freshwater baitcasting lineup just below the more aristocratic Supreme ($35.00) and Summit $14.75) reels. It was on the same level as the Skilkast (featuring the "mechanical thumber"), and a bit above the Akron ($11.00), Trump, and Trusty reels - these last two retailing for $6.60 and $5.50, respectively.
-
 These mid-priced, mid-century American baitcasters are still fine reels to take out on the water today - the design is very simple, strong, and easy to service. This is not to say that reel technology has not advanced in the years since the Nobby was state-of-the-art, but combined with the right [balanced tackle](#balanced-tackle-outfits), this reel casts smoothly and has a very nostalgic, mechanical feel. This is a reel that will appeal to anglers who are either skilled baitcasters, or are willing to develop their skill in thumb control of the spool - not a difficult art, but one that requires some practice. 
 
 Pflueger made several different models of the Nobby over its production years from 1935 to 1971. The reel shown in this overview is model *No. 1963* - which, a bit confusingly, has nothing to do with production years. Details on [models](#history-and-models), history, variations, features and controls, and specifications are provided in the following sections.
@@ -32,9 +30,13 @@ The service guide video shows you how to disassemble, clean, lubricate, and reas
 
 ## History and models
 
-Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitcasting lineup: more refined than earlier, plainer, winch‑style reels, but simpler and more affordable than top‑end models with full drag stacks and more complex controls. "Nobby" seems an odd name for a fishing reel. Looking at the dictionary definition helps explain what Pflueger was aiming for when they named this reel:
+Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitcasting lineup: more robust than the lower-priced reels in the family, which used some nylon gears rather than brass, but less engineered than the top-end Supreme.
+
+"Nobby" seems an odd name for a fishing reel. Looking at the dictionary definition helps explain what Pflueger was aiming for when they named this reel:
 
 *nob’by, a.; comp. nobbier; superl. nobbiest. 1. of or for nobs; stylish; fashionable. [Slang] 2. excellent; first-rate. [Slang]*
+
+By 1955 the Nobby, retailing at $12.50, was positioned in Pflueger's freshwater baitcasting lineup well below the more aristocratic Supreme ($35.00) and Summit $14.75) reels. It was on the same level as the Skilkast (featuring the "mechanical thumber"), and a bit above the Akron ($11.00), Trump, and Trusty reels - these last two retailing for $6.60 and $5.50, respectively.
 
 <figure markdown>
 ![Pflueger Nobby model No. 1963 and Skilkast - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-skilkast-1955-cat-transparent.jpg)

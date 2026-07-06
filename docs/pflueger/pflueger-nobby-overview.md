@@ -37,7 +37,7 @@ Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitc
 *nob’by, a.; comp. nobbier; superl. nobbiest. 1. of or for nobs; stylish; fashionable. [Slang] 2. excellent; first-rate. [Slang]*
 
 <figure markdown>
-![Pflueger Nobby model 1963 - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-1955-cat-bw-transparent.jpg)
+![Pflueger Nobby model No. 1963 and Skilkast - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-skilkast-1955-cat-transparent.jpg)
 <figcaption>From the 1955 catalog</figcaption>
 </figure>
 

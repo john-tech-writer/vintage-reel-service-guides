@@ -62,6 +62,8 @@ Model | Production years | Colors | Features
        *No. 1960 Deluxe* | 1957 - 1960 | maroon / green<br>tan handles | plastic arbor
       *No. 1965 Free Spool* | 1964 - 1971 | red | push-button free spool<br>star drag
 
+[Pflueger Nobby models](pflueger-nobby-models.md) provides images and more details on the various models.
+
 ### Dating the example reel
 
 The model *No. 1963* was produced from 1935 - 1957 and the satin finish was introduced after 1936. Cork arbors were introduced after 1941 and the marbled handles indicate a pre-1948 vintage, so this reel was likely made between 1941 and 1948. This means the reel shown in this overview is (as of writing July 2026) about 78 to 85 years old, and after servicing, still works perfectly.

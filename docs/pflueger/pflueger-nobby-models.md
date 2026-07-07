@@ -19,7 +19,7 @@
 1935 - 1957
 
 <figure markdown>
-![Pflueger Nobby model No. 1963C - from the 1959 catalog](../../img/pflueger/nobby/pflueger-nobby-no1963C-1959-cat.jpg)
+![Pflueger Nobby model No. 1963C - from the 1959 catalog](../../img/pflueger/nobby/pflueger-nobby-no1963c-1959-cat.jpg)
 <figcaption>Nobby model No. 1963C - from the 1959 catalog</figcaption>
 </figure>
 

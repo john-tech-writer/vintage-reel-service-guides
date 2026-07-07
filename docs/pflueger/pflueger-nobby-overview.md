@@ -39,8 +39,8 @@ Introduced in the mid‑1930s, the Nobby sat in the middle of Pflueger’s baitc
 By 1955 the Nobby, retailing at $12.50, was positioned in Pflueger's freshwater baitcasting lineup well below the more aristocratic Supreme ($35.00) and Summit $14.75) reels. It was on the same level as the Skilkast (featuring the "mechanical thumber"), and a bit above the Akron ($11.00), Trump, and Trusty reels - these last two retailing for $6.60 and $5.50, respectively.
 
 <figure markdown>
-![Pflueger Nobby model No. 1963 and Skilkast - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-skilkast-1955-cat-transparent.jpg)
-<figcaption>Nobby model No. 1963 and Skilkast - from the 1955 catalog</figcaption>
+![Pflueger Nobby model No. 1963 - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-no1963-1955-cat.jpg)
+<figcaption>Nobby model No. 1963 - from the 1955 catalog</figcaption>
 </figure>
 
 Over the next few decades it evolved through several models, reflecting both changing materials and changing ideas about what a stylish, mid‑priced American baitcaster should look like.
@@ -49,7 +49,7 @@ Over the next few decades it evolved through several models, reflecting both cha
 
 **1940s**: In 1941 the cork arbor replaced the original aluminum arbor (the spool was still aluminum). 1948 saw the handle color change from the original marble to tan.
 
-**1950s**: In 1954 model *No. 1963C* was introduced, with chromium finish and white plastic handles. 1957 saw the original *no. 1963* replaced by the *No. 1960 Deluxe*, sporting a maroon finish and tan handles. In 1958 a snap-on plastic arbor was offered, which meant anglers could use less backing line and still fill the spool for easier casting. Sometime during the 1950s a green finish was also offered.
+**1950s**: In 1954 model *No. 1963C* was introduced, with chromium finish and white plastic handles. 1957 saw the original *no. 1963* replaced by the *No. 1960 Deluxe*, sporting a maroon finish and tan handles, designed with a number of features for tournament casting, including hollowed-out gears. In 1958 a snap-on plastic arbor was offered, which meant anglers could use less backing line and still fill the spool for easier casting. Sometime during the 1950s a green finish was also offered.
 
 **1960s - 70s**: The model *No. 1965* was introduced in 1964 with a red finish, push-button free spool, and star drag. By 1967 the *No. 1960 Deluxe* had been discontinued. Production of all Nobby models ended in 1971 as more technically advanced reels edged these older type reels out of a very competitive market.
 
@@ -57,12 +57,12 @@ The following table summarizes the various models, variations, and production ti
 
 Model | Production years | Colors | Features
 ---------|--|--|
-        *No. 1963* | 1935 - 1957 | blue / satin "nickalum"<br>marbled handles | level wind, grease disc
-       *No. 1963C* | 1954 - 1971 | chromium<br>white handles | -
-       *No. 1960 Deluxe* | 1957 - 1960 | maroon / green<br>tan handles | plastic arbor
+        *No. 1963* | 1935 - 1957 | blue / satin aluminum<br>marbled handles | level wind<br>grease disc
+       *No. 1963C* | 1954 - 1971 | satin chromium<br>white handles | -
+       *No. 1960 Deluxe* | 1957 - 1960 | maroon<br>tan handles | hollow gears<br>nylon bearings<br>cork arbor
       *No. 1965 Free Spool* | 1964 - 1971 | red | push-button free spool<br>star drag
 
-[Pflueger Nobby models](pflueger-nobby-models.md) provides images and more details on the various models.
+[Pflueger Nobby models](pflueger-nobby-models.md) provides vintage catalog images of all the various models.
 
 ### Dating the example reel
 

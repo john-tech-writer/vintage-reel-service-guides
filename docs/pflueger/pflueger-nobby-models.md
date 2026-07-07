@@ -5,13 +5,6 @@
   - No. 1960 Deluxe
   - No. 1965 Free Spool
 
-## Nobby model No. 1963 and Skilkast
-
-<figure markdown>
-![Pflueger Nobby model No. 1963 and Skilkast - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-skilkast-1955-cat-transparent.jpg)
-<figcaption>Nobby model No. 1963 and Skilkast - from the 1955 catalog</figcaption>
-</figure>
-
 ## Nobby model No. 1963
 
 1935 - 1957
@@ -26,7 +19,7 @@
 1935 - 1957
 
 <figure markdown>
-![Pflueger Nobby model No. 1963C - from the 19-- catalog](../../img/pflueger/nobby/pflueger-nobby-no1963C-1959-cat.jpg)
+![Pflueger Nobby model No. 1963C - from the 1959 catalog](../../img/pflueger/nobby/pflueger-nobby-no1963C-1959-cat.jpg)
 <figcaption>Nobby model No. 1963C - from the 1959 catalog</figcaption>
 </figure>
 
@@ -45,6 +38,6 @@
 1964 - 1971
 
 <figure markdown>
-![Pflueger Nobby model No. 1965 Free Spool - from the 1964 catalog](../../img/pflueger/nobby/pflueger-nobby-no1965-1959-cat.jpg)
-<figcaption>Nobby model No. 1965 Free Spool - from the 1959 catalog</figcaption>
+![Pflueger Nobby model No. 1965 Free Spool - from the 1964 catalog](../../img/pflueger/nobby/pflueger-nobby-no1965-1964-cat.jpg)
+<figcaption>Nobby model No. 1965 Free Spool - from the 1964 catalog</figcaption>
 </figure>

@@ -57,10 +57,10 @@ The following table summarizes the various models, variations, and production ti
 
 Model | Production years | Colors | Features
 ---------|--|--|
-        *No. 1963* | 1935 - 1957 | blue / satin aluminum<br>marbled handles | level wind<br>grease disc
+        *No. 1963* | 1935 - 1957 | blue / satin aluminum<br>cream marbled handles | level wind<br>grease disc
        *No. 1963C* | 1954 - 1971 | satin chromium<br>white handles | -
        *No. 1960 Deluxe* | 1957 - 1960 | maroon<br>tan handles | hollow gears<br>nylon bearings<br>cork arbor
-      *No. 1965 Free Spool* | 1964 - 1971 | red | push-button free spool<br>star drag
+      *No. 1965 Free Spool* | 1964 - 1971 | red<br>gray marbled handles | push-button free spool<br>star drag
 
 [Pflueger Nobby models](pflueger-nobby-models.md) provides vintage catalog images of all the various models.
 
@@ -180,8 +180,9 @@ For more information on how Vintage Reel Service Guides determines these ratings
   - Miller, "The Pflueger Nobby – A Few Surprises"
   - Shakespeare, *Secrets of Successful Fishing*
   - The Enterprise Manufacturing Co. *Fishing with Pflueger*
-  - ibid. *Pflueger Fishing Tackle*.
+  - ibid. *Pflueger Fishing Tackle*
   - ibid. *Pflueger Free Spool Nobby*
+  - ibid. *Pflueger Trade Catalog 95*
   - The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*
 
 For full source details, see [References](../references.md).

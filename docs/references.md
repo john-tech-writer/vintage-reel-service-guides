@@ -40,7 +40,7 @@ Shakespeare, Henry. *Secrets of Successful Fishing.* Dell Publishing Co., 1962.
   - Comprehensive field guide to all types of fishing from a mid-century American perspective. Describes all types of reels, rods, lines, terminal tackle, lures, how to create balanced tackle outfits, and fishing methods. Includs many diagrams showing how to cast, where to locate fish, and various types of lures.
 
 
-## Manuals and box inserts
+## Manuals, catalogs, and box inserts
 
 The Enterprise Mfg. Co. *Facts You'll Want to Know about the New Pflueger Pelican Spinning Reel.* Box insert, n.d. (https://www.orcaonline.org/product-category/orca-library/reel-schematics/).
 
@@ -65,6 +65,22 @@ The Enterprise Manufacturing Co. *Fishing with Pflueger*. Catalog, 1955. (https:
 The Enterprise Manufacturing Co. *Pflueger Fishing Tackle*. Catalog, 1964. (https://www.orcaonline.org).
 
   - Trade catalog for 1964, includes all types of reels.
+
+The Enterprise Manufacturing Co. *Pflueger Fishing Tackle Trade Catalog 57*. Catalog, 1937. (https://www.orcaonline.org).
+
+  - Trade catalog for 1937, includes all types of reels, repair parts, and accessories.
+  
+The Enterprise Manufacturing Co. *Pflueger Trade Catalog 95*. Catalog, 1959. (https://www.orcaonline.org).
+
+  - Trade catalog for 1959, includes images and descriptions of all types of reels and accessories.
+
+The Enterprise Manufacturing Co. *Pflueger Level Wind Reels*. Catalog, 1938. (https://www.orcaonline.org).
+
+  - Pocket catalog for 1938, images and descriptions of level-wind baitcasting reels.
+
+The Enterprise Manufacturing Co. *Pocket Catalog No. 155*. Catalog, 1935. (https://www.orcaonline.org).
+
+  - Pocket catalog for 1935, includes history of the company, pictures of anglers and fish caught on Pflueger tackle, descriptions of game fish species, how-to tuides for angling knots, casting methods, fishing methods, tackle specs, illustrated descriptions of their rods, lines, lures, terminal tackle.
 
 The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*. Box insert, n.d. (https://www.orcaonline.org/product-category/orca-library/reel-schematics/).
 

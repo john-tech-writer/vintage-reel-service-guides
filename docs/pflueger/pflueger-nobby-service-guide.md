@@ -1,8 +1,12 @@
-# Pflueger Nobby model 1963 service guide
+# Pflueger Nobby model No. 1963 service guide
 
-This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model 1963 baitcasting reel. This is a [duty rating] reel generally intended for [fresh / saltwater, trolling, etc.] use. It was in production [years].
+This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model N0. 1963 baitcasting reel. This is a medium‑ to heavy‑duty baitcasting reel generally intended for freshwater fishing and trolling use. Various models were in production from 1935 to 1971.
 
-For more detailed background information about this reel see the [Pflueger Nobby overview](pflueger-nobby-overview).
+While this guide is specifically focused on the Pflueger Nobby, the larger purpose is to help you feel more confident with any small mechanical project. You don’t have to know how to fix anything to start learning that you actually can. As we work through this procedure together, you'll learn a lot of basic skills that can be easily transferred to other similar reels, and as you explore other parts of the library and media stack you can learn more about why these reels are so special and how they can connect the past with the present with a little help from us.
+
+The [Pflueger Nobby overview](pflueger-nobby-overview.md) provides more details on the various models, history, specifications, colors and finishes, and features of this reel. The overview also explains how to integrate this reel into a balanced tackle outfit for practical field use.
+
+[hero image] `![alt text](../img/[maker]/[model]/[slug]-[desc].jpg)`
 
 ## Section overview
 
@@ -22,7 +26,7 @@ Use this mini-index as a map for this guide. Click on the links to go to that se
 
   - [Cleaning and lubricating](#cleaning-and-lubricating)
 
-  - [Reassembly](#reassembly
+  - [Reassembly](#reassembly)
 
   - [Bench testing](#bench-testing)
 
@@ -32,11 +36,15 @@ Use this mini-index as a map for this guide. Click on the links to go to that se
 
 ## Before you begin
 
+Back to [Section overview](#section-overview)
+
 Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison.
 
 If you just acquired the reel, [remove the line from the spool](../removing-adding-line.md). There is no way to determine the age or condition of the line on a newly acquired vintage reel, so it makes sense to start with new line as the final part of servicing a reel. This also allows you to inspect the arbor to determine what type of material it is made of (this will help date the reel) and clean it along with the rest of the parts.
 
 ## Parts of a complete service and videos
+
+*Faux-embed YT overview and service videos when they are available - these will be made after the overview and guide are written and pushed to the repo, so this will be an update.*
 
 Since not all parts of a reel may need the same level of attention, the servicing is divided into sections. Watching the YouTube videos first is a good way to get an overall feel for the procedure. The step-by-step illustrated instructions that follow are useful at the bench as you work on the reel for specifics.
 
@@ -88,13 +96,15 @@ This is probably one of the simplest open-face spinning reels to service, so it 
 
 ## Disassembly I
 
-Goal: remove [parts] so you can [access, etc.].
+Goal: remove outer parts of the reel so you can access the gears and other inner parts.
 
 All directions assume you are looking at the front of the reel, with the reel upright - foot up - as it would be mounted on a rod.
 
 Take a picture prior to each step so later you will know how parts were oriented, etc.
 
-1. Remove [step text].
+1. Remove the crank nut and crank / handle.
+
+Use a 3/8" socket wrench. A screwdriver can also be used but the socket has the virtue of being less likely to damage the nut, especially if it is hard to turn.
 
     `![alt text](../img/[maker]/[model]/[slug]-[desc].jpg)`
 
@@ -102,31 +112,47 @@ Take a picture prior to each step so later you will know how parts were oriented
 
     Variations:
 
-2. 
+2. Remove the cap screws (3).
+
+These are small parts. Make sure to keep them in a container on the workbench or in the tray. Also note which screws came from which holes in the cap - in vintage reels it is important when re-assembling to put the screws in the same holes as they were in originally. Slight differences in the screw and hole threads can develop over the course of time.
 
     [image]
 
     
 
-3. 
+3. Loosen (do not remove) the guide block cover screw.
 
-4. 
+4. Turn the cover and remove the pawl / half nut.
 
-5. 
+This is a small part. Make sure to keep it in a container on the workbench or in the tray.
+
+5. Remove the cap.
 
 ## Disassembly II
 
-Goal: remove [parts] so you can [access, etc.].
+Goal: remove gears and other interior parts so you can clean and lubricate them.
 
-1. 
+1. Remove the gear.
 
-2. 
+2. Remove the spool pinion.
 
-3. 
+Small part!
 
-4. 
+3. Remove the shaft pinion.
 
-5. 
+4. Remove the shaft.
+
+The line guide + block assembly comes loose when the shaft is removed. Set that aside as well.
+
+5. Remove the housing screws (2).
+
+Small parts! Note which screws came from which holes.
+
+6. Remove the shaft housing.
+
+7 Remove the front plate.
+
+8. Remove the spool.
 
     You are now ready to clean and lubricate the gears and housing.
 

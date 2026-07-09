@@ -114,8 +114,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 1. Remove the crank nut and crank / handle.
 
     <figure markdown>
-    ![Pflueger Nobby No. 1963 - removing crank / handle](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
-    (../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
+    ![Pflueger Nobby No. 1963 - removing crank / handle 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg){width="260"}![Pflueger Nobby No. 1963 - removing crank / handle 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-2.jpg){width="260"}
     <figcaption>Pflueger Nobby model No. 1963 - removing crank / handles</figcaption>
     </figure>
 

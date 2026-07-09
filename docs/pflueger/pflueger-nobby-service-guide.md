@@ -113,33 +113,33 @@ All directions assume you are looking at the front of the reel, with the reel up
 Take a picture prior to each step so later you will know how parts were oriented, etc.
 
 1. Remove the crank nut and crank / handle.
-    
-<figure markdown>
-![Pflueger Nobby No. 1963 - removing crank / handle](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
-<figcaption>Pflueger Nobby model No. 1963 - removing crank / handles</figcaption>
-</figure>
-    
-Use a 3/8" socket wrench. A screwdriver can also be used but the socket has the virtue of being less likely to damage the nut, especially if it is hard to turn.
-    
-2. Remove the cap screws (3).
-    
-<figure markdown>
-![Pflueger Nobby No. 1963 - removing cap screws](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-screws.jpg)
-<figcaption>Pflueger Nobby model No. 1963 - removing cap screws</figcaption>
-</figure>
-    
-A flat-blade 3.5 cm screwdriver will probably be the best fit.
 
-**Note!** These are small parts. Make sure to keep them in a container on the workbench or in the tray. Also note which screws came from which holes in the cap - in vintage reels it is important when re-assembling to put the screws in the same holes as they were in originally. Slight differences in the screw and hole threads can develop over the course of time.
-    
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing crank / handle](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing crank / handles</figcaption>
+    </figure>
+
+    Use a 3/8" socket wrench. A screwdriver can also be used but the socket has the virtue of being less likely to damage the nut, especially if it is hard to turn.
+
+2. Remove the cap screws (3).
+
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing cap screws](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-screws.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing cap screws</figcaption>
+    </figure>
+
+    A flat-blade 3.5 cm screwdriver will probably be the best fit.
+
+    **Note!** These are small parts. Make sure to keep them in a container on the workbench or in the tray. Also note which screws came from which holes in the cap - in vintage reels it is important when re-assembling to put the screws in the same holes as they were in originally. Slight differences in the screw and hole threads can develop over the course of time.
+
 3. Loosen (do not remove) the guide block cover screw.
-    
-<figure markdown>
-![Pflueger Nobby No. 1963 - loosening guide block cover screw](../../img/pflueger/nobby/pflueger-nobby-1963-loosen-guide-block-cover-screw.jpg)
-<figcaption>Pflueger Nobby model No. 1963 - loosening the guide block cover screw</figcaption>
-</figure>
-    
-If you accidentally turn this very small screw too far (easy to do), it is not a problem. Just make sure if you want to leave it off for now, be sure to keep track of the very small guide block cover along with the screw. Otherwise you can just put it back in loosely to keep them both together.
+
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - loosening guide block cover screw](../../img/pflueger/nobby/pflueger-nobby-1963-loosen-guide-block-cover-screw.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - loosening the guide block cover screw</figcaption>
+    </figure>
+
+    If you accidentally turn this very small screw too far (easy to do), it is not a problem. Just make sure if you want to leave it off for now, be sure to keep track of the very small guide block cover along with the screw. Otherwise you can just put it back in loosely to keep them both together.
     
 4. Turn the cover and remove the pawl / half nut.
     

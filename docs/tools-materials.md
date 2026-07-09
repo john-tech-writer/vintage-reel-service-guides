@@ -6,7 +6,7 @@ This page is under development.
 
 Drivers, wrenches, picks.
 
-(Choosing the right screwdriver)[screwdriver-specs.md] is an important basic consideration in any repair project to make the work as easy as possible and avoid damage to the reel.
+[Choosing the right screwdriver](screwdriver-specs.md) is an important basic consideration in any repair project to make the work as easy as possible and avoid damage to the reel.
 
 ## Cleaning tools and materials
 

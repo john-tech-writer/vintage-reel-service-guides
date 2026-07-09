@@ -2,11 +2,16 @@
 
 This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model N0. 1963 baitcasting reel. This is a medium‑ to heavy‑duty baitcasting reel generally intended for freshwater fishing and trolling use. Various models were in production from 1935 to 1971.
 
-While this guide is specifically focused on the Pflueger Nobby, the larger purpose is to help you feel more confident with any small mechanical project. You don’t have to know how to fix anything to start learning that you actually can. As we work through this procedure together, you'll learn a lot of basic skills that can be easily transferred to other similar reels, and as you explore other parts of the library and media stack you can learn more about why these reels are so special and how they can connect the past with the present with a little help from us.
+While this guide is specifically focused on the Pflueger Nobby, the larger purpose is to help you feel more confident with any small mechanical project. You don’t have to know how to fix anything to start learning that you actually can.
+
+As we work through this procedure together, you'll learn a lot of basic skills that can be easily transferred to other similar reels, and as you explore other parts of the library and media stack you can learn more about why these reels are so special and how they can connect the past with the present with a little help from us.
 
 The [Pflueger Nobby overview](pflueger-nobby-overview.md) provides more details on the various models, history, specifications, colors and finishes, and features of this reel. The overview also explains how to integrate this reel into a balanced tackle outfit for practical field use.
 
-[hero image] `![alt text](../img/[maker]/[model]/[slug]-[desc].jpg)`
+<figure markdown>
+![Pflueger Nobby model 1963 - removing crank](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
+<figcaption>On the bench - removing the crank</figcaption>
+</figure>
 
 ## Section overview
 
@@ -90,7 +95,15 @@ Watch on YouTube: [alt text](https://youtu.be/[link])
 
 ## Typical issues
 
-For example, clicker/anti-reverse not working. Hardened grease can immobilize the dog and dog spring, which means the clicker and anti-reverse will not engage. A simple disassembly, cleaning and lubrication, and reassembly will fix this issue without needing to repair or replace any parts.
+This reel may not crank easily and smoothly if it has not been serviced (or not serviced correctly) for a long time and has accumulated old, hardened grease, possibly mixed with sand and grit. If the wrong grease was used in past service, it tends to harden and immobilize internal parts that need to move freely. A simple disassembly, cleaning and lubrication, and reassembly will fix this issue without needing to repair or replace any parts.
+
+Hardened grease and grit may prevent internal gears and pinons from meshing correctly. It can also prevent the clicker from engaging.
+
+Since the shaft is a more exposed part, it may have grit and / or hardened grease in the grooves, which will prevent the pawl / half-nut and guide block from traveling back and forth correctly, so the crank will not turn smoothly and the level wind will not work properly. Again, a thorough cleaning and lubrication will often correct this without having to replace any parts to perform additional repairs.
+
+The pawl / half-nut may be damaged if grit has been allowed to accumulate on the shaft and the reel has been used anyway, without cleaning and lubricating. When the pawl is removed from the guide block you can inspect it and, if it is damaged, it will need to be replaced. Fortunately Pflueger included an extra pawl in a small compartment in the cap, and you may be able to use this spare to replace a damaged pawl. If the spare is not in the compartment - it's been used by some long-ago fisherman to do a field repair - you will need to attempt to locate a replacement. The level wind will not work without this small, critical part.
+
+You will generally need to locate a "parts" reel on an online auction site or thrift store so that you can salvage replacement parts from that.
 
 ## Difficulty and time estimate
 
@@ -115,7 +128,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 1. Remove the crank nut and crank / handle.
 
     <figure markdown>
-    ![Pflueger Nobby No. 1963 - removing crank / handle](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
+    ![Pflueger Nobby No. 1963 - removing crank / handle](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)(../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing crank / handles</figcaption>
     </figure>
 
@@ -140,22 +153,22 @@ Take a picture prior to each step so later you will know how parts were oriented
     </figure>
 
     If you accidentally turn this very small screw too far (easy to do), it is not a problem. Just make sure if you want to leave it off for now, be sure to keep track of the very small guide block cover along with the screw. Otherwise you can just put it back in loosely to keep them both together.
-    
+
 4. Turn the cover and remove the pawl / half nut.
-    
-<figure markdown>
-![Pflueger Nobby No. 1963 - removing pawl / half-nut](../../img/pflueger/nobby/pflueger-nobby-1963-remove-pawl.jpg)
-<figcaption>Pflueger Nobby model No. 1963 - removing pawl / half-nut</figcaption>
-</figure>
-    
-This is a small part. Make sure to keep it in a container on the workbench or in the tray.
-    
+
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing pawl / half-nut](../../img/pflueger/nobby/pflueger-nobby-1963-remove-pawl.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing pawl / half-nut</figcaption>
+    </figure>
+
+    This is a small part. Make sure to keep it in a container on the workbench or in the tray.
+
 5. Remove the cap.
-    
-<figure markdown>
-![Pflueger Nobby No. 1963 - removing cap](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap.jpg)
-<figcaption>Pflueger Nobby model No. 1963 - removing cap</figcaption>
-</figure>
+
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing cap](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing cap</figcaption>
+    </figure>
 
 ## Disassembly II
 
@@ -163,86 +176,128 @@ Goal: remove gears and other interior parts so you can clean and lubricate them.
 
 1. Remove the gear.
 
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing gear](../../img/pflueger/nobby/pflueger-nobby-1963-remove-gear-1.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing gear</figcaption>
+    </figure>
+
 2. Remove the spool pinion.
 
-Small part!
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing spool pinion](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool-pinion-1.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing spool pinion</figcaption>
+    </figure>
+
+    Small part!
 
 3. Remove the shaft pinion.
 
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing shaft pinion](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-pinion-1.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing shaft pinion</figcaption>
+    </figure>
+
 4. Remove the shaft.
 
-The line guide + block assembly comes loose when the shaft is removed. Set that aside as well.
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing shaft](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-1.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing shaft</figcaption>
+    </figure>
+
+    The line guide + block assembly comes loose when the shaft is removed. Set that aside as well.
 
 5. Remove the housing screws (2).
 
-Small parts! Note which screws came from which holes.
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing shaft housing screws](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-housing-screws.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing housing screws</figcaption>
+    </figure>
+
+    Small parts! Note which screws came from which holes.
 
 6. Remove the shaft housing.
 
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing shaft housing](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-housing.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing shaft housing</figcaption>
+    </figure>
+
 7 Remove the front plate.
 
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing front plate](../../img/pflueger/nobby/pflueger-nobby-1963-remove-front-plate-1.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing front plate</figcaption>
+    </figure>
+
 8. Remove the spool.
+
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing spool](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing spool</figcaption>
+    </figure>
 
     You are now ready to clean and lubricate the gears and housing.
 
 ## Cleaning and lubricating
 
+    Most of these cleaning and lubrication instructions will be similar for all vintage reel. See the [Basic Cleaning and Lubricating Procedures](../cleaning-lubricating.md) for details.
+
 1. Clean the gears and inside of housing.
 
-2. Lubricate the gears with grease and all other lubrications points with oil.
+2. Lubricate the *gears* with grease.
 
-    See the [Basic Cleaning and Lubricating Procedures](../cleaning-lubricating.md)
+3. Lubricate *all other parts* with oil.
 
-    **Note!** The cleaners, grease, and oil you use should be *specifically* for fishing reels.
+    **Note!** The cleaners, grease, and oil you use should be *specifically* for fishing reels. The Basic Procedures page lists some commonly used cleaners and lubricants that are safe to use on vintage reels.
 
-Specific notes for this reel:
+### Specific notes for this reel
 
-- [for example, external grease discs / points, cite reel manual in refs]
+This reel features several lubrication points designed to allow you to grease and oil the reel without disassembly - these are useful *after* you have reassembled the reel, for regular maintenance, but while the reel is disassembled is a good time to see where lubricants applied to these points will end up inside the reel.
+
+The grease disc allows you to grease the gears and pinions without disassembling the reel. Simply push the disc with your fingertip to rotate it so the small hole in the disc aligns with the hole in the cap. Position the tip of the grease tube at the opening and apply a *small* amount of grease. Less is better! Applying too much grease invites sand and grit to be trapped and damage the gears.
+
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - grease disc](../../img/pflueger/nobby/pflueger-nobby-1963-grease-disc.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - grease disc</figcaption>
+    </figure>
+
+The small hole in the crank nut allows you to oil the crank without disassembling the gears. Simply poisition the tip of the oil applicator at the opening and apply a drop or two of oil. Again, less is best.
+
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - crank nut](../../img/pflueger/nobby/pflueger-nobby-1963-crank-nut.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - crank nut oil point</figcaption>
+    </figure>
 
     You are now ready to re-assemble the gears and housing.
 
 ## Reassembly
 
-Goal: replace [parts] so you can [access, etc.].
+Goal: replace all parts and bench-test the reel's functioning to verify that it has been reassembled correctly and that there are no up-until-now undiagnosed issues.
 
 To re-assemble the reel you basically reverse the disassembly steps. There are a couple of additional notes that will make re-assembly go more smoothly.
 
-When [specific step]:
-
-1. [note]
-
-    [image]
-
-2. 
+When re-inserting the pawl / half-nut into the guide block make sure that the two teeth on the pawl seat / engage correctly with the grooves on the shaft.
 
 ## Bench testing
 
 You can now perform several general functional tests before taking the reel into the field:
 
-1. With the anti-reverse **disengaged / off**: Make sure the handle turns smoothly in both directions.
+1. With the clicker **disengaged / off**: Make sure the crank turns smoothly in both directions.
 
-2. With the anti-reverse **engaged / on**: Make sure the handle will not turn backwards.
+2. With the clicker **engaged / on**: Make sure you can hear the clicker when the crank is turned. This should also prevent the spool from turning easily.
 
-3. With the anti-reverse **engaged**: Make sure you can hear the clicker.
+4. When turning the crank make sure the guide block travels smoothly back and forth across the shaft. This ensures that the level wind mechanism is working correctly and will wind line evenly onto the spool on retrieve.
 
-4. Make sure the rotor turns smoothly.
+Common issue: If the pawl / half-nut was not seated correctly on reassembly, or if any grit found its way into the grooves on the shaft, the guide block will not travel smoothly across the shaft. In this case loosen the guide block cover screw as in [Disassembly I](#Disassembly-I), remove the pawl, and re-seat it. It may take a few tries and some finesse to get it seated correctly. Then re-tighten the guide block screw and re-test.
 
-5. [for spinning reels] Make sure the bail flips correctly - easily flips manually into casting position, then when the handle is cranked, flips crisply back into retrieve position.
+5. Rotate the ABL button until it clicks - this should be about four or five turns. This is the zero tension setting. Try pulling some line from the spool - with the clicker off you should feel no resistance. Then rotate the ABL one or two turns and try pulling some line from the spool again - you should feel some resistance. Another turn of the ABL should put a bit more tension on the spool.
 
 If all this works, you can call it ready to fish.
 
-Any tight spots or noises at this stage tell you to stop and recheck your work before calling the service complete. Go back through the service procedures as necessary to troubleshoot.
-
-## Additional procedures
-
-[any separate services, e.g., the bail]
-
-[link to separate file]
+Any tight spots or noises at this stage tell you to **stop** and recheck your work before calling the service complete. Go back through the service procedures as necessary to troubleshoot. Most issues can be traced back to some gear, pinion, pawl, or shaft not being aligned properly with its companion parts.
 
 ## References
 
-Schematics, manuals, and other information on servicing and using this reel are listed in the [References](../references.md).
+  - The Enterprise Manufacturing Co.  *Pflueger Free Spool Nobby*
 
-Specific references used for this reel include:
-
-  - [cite, list]
+For full source details, see [References](../references.md).

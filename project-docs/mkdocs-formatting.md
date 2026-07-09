@@ -4,7 +4,7 @@
 
 ### Links to files
   - In the same dir: `[Alt text](filename.md)`
-  
+
 For example, from `vintage-reel-service-guides/project-docs/mkdocs-formatting` to `vintage-reel-service-guides/project-docs/photo-standards` is `[Photo Standards](photo-standards.md)`
 
   - In a dir one level up: `[Alt text](../dir/filename.md)`
@@ -14,7 +14,11 @@ Each ../ goes up one level in the dir structure, so two levels up would be ../..
 
   - From `/docs/` to a subfolder, add the subfolder. For example, from `/docs/schematics.md` to `/docs/magic/magic-fishing-reel-patent.pdf` is `[Original patent](magic/magic-fishing-reel-patent.pdf)` Note: no leading slash.
 
-  - If the target is in a different dir/subdir off the root, add the path: (../img/dir/dir/filename.md)
+  - If the target is in a different dir/subdir off the root, add the path: `(../img/dir/dir/filename.md)`
+  
+  - Within the same file / page: `[display text](#heading-text)
+
+For example, `[Disassembly I](#disassembly-I)` will link to `##Disassembly I`
 
 ### Adding links to site navigation
 
@@ -82,48 +86,20 @@ This gives the look of YouTube embed without the overhead.
 
 ## Numbered steps
 
-The following format allows entering numbers for procedures in mkdocs for editing purposes which will also be stable when pushed to the repo. Note that as long as this formatting is used you can *use 1s for all steps* and they will renumber correctly when pushed to the repo. This is useful when initially authoring steps where there may be a lot of additions, deletions, etc. so you don't have to keep renumbering them.
+Format as shown in this example will number correctly. You can use 1s for all steps and they will renumber correctly when pushed to the repo. This is useful when initially authoring steps where there may be a lot of additions, deletions, etc. so you don't have to keep renumbering them.
 
-**Steps**
+This format also supports figure captions and the <figcaption> tag supports inserting a link and / or emphasis in the caption.
 
-Start at the left margin, e.g.:
+Main points: Number starts at right margin, blank lines must be truly blank, no spaces, etc., all lines of the <figure> must be indented 4 spaces.
 
-1. Remove the drag cap...
-2. Remove the spool...
+1. Remove the crank nut and crank / handle.
 
-**Content under a step**
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - removing crank / handle](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - removing crank / handles</figcaption>
+    </figure>
 
-For example, images and extra paragraphs.
+    Use a 3/8" socket wrench. A screwdriver can also be used but the socket has the virtue of being less likely to damage the nut, especially if it is hard to turn.
 
-Indent 4 spaces:
+2. Remove the cap screws (3).
 
-␣␣␣␣![image](...)
-
-␣␣␣␣This is a good time to inspect...
-
-For bulleted lists under steps, to keep autonumbering working correctly (if using 1s for all steps) you will need to always indent 4 spaces rather than starting the first level of bullets with 2 spaces.
-
-**Blank lines inside a step**
-
-Between paragraphs or images.
-
-Leave them *truly* blank (no spaces), e.g.:
-
-␣␣␣␣![image](...)
-<empty line>
-␣␣␣␣Next sentence...
-
-**Between steps**
-
-One normal blank line (no spaces), then the next step number.
-
-## Figure captions
-
-example:
-
-<figure markdown>
-  ![Pflueger Nobby model 1963 - hero](../../img/pflueger/nobby/pflueger-nobby-1963-front-2.jpg)
-  <figcaption>Pflueger Nobby model 1963, front view.</figcaption>
-</figure>
-
-This supports inserting a link and / or emphasis in the caption.

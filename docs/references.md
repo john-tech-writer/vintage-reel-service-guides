@@ -56,7 +56,7 @@ Penn Fishing Tackle Mfg. Co. *Instruction Manual Spinfisher 720, et al*. Box ins
 
 The Enterprise Manufacturing Co. *Pflueger Free Spool Nobby*. Box insert, n.d. (https://www.orcaonline.org).
 
-  - Schematic, parts list, line capacity, for the Pflueger Nobby model no. 1965. Located in the member library section of the site.
+  - Schematic, parts list, line capacity, and lubrication instructions for the Pflueger Nobby model no. 1965. Located in the member library section of the site.
 
 The Enterprise Manufacturing Co. *Fishing with Pflueger*. Catalog, 1955. (https://www.orcaonline.org).
 

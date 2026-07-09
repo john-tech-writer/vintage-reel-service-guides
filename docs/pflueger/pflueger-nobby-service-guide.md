@@ -1,16 +1,16 @@
 # Pflueger Nobby model No. 1963 service guide
 
-This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model N0. 1963 baitcasting reel. This is a medium‑ to heavy‑duty baitcasting reel generally intended for freshwater fishing and trolling use. Various models were in production from 1935 to 1971.
+This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater fishing and trolling use, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various models were in production from 1935 to 1971.
+
+The [Pflueger Nobby overview](pflueger-nobby-overview.md) provides more details on the various models, history, specifications, colors and finishes, and features of this reel. The overview also explains how to integrate this reel into a balanced tackle outfit for practical field use.
 
 While this guide is specifically focused on the Pflueger Nobby, the larger purpose is to help you feel more confident with any small mechanical project. You don’t have to know how to fix anything to start learning that you actually can.
 
 As we work through this procedure together, you'll learn a lot of basic skills that can be easily transferred to other similar reels, and as you explore other parts of the library and media stack you can learn more about why these reels are so special and how they can connect the past with the present with a little help from us.
 
-The [Pflueger Nobby overview](pflueger-nobby-overview.md) provides more details on the various models, history, specifications, colors and finishes, and features of this reel. The overview also explains how to integrate this reel into a balanced tackle outfit for practical field use.
-
 <figure markdown>
 ![Pflueger Nobby model 1963 - removing crank](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
-<figcaption>On the bench - removing the crank</figcaption>
+<figcaption>Nobby on the bench - removing the crank</figcaption>
 </figure>
 
 ## Section overview
@@ -41,8 +41,6 @@ Use this mini-index as a map for this guide. Click on the links to go to that se
 
 ## Before you begin
 
-Back to [Section overview](#section-overview)
-
 Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison.
 
 If you just acquired the reel, [remove the line from the spool](../removing-adding-line.md). There is no way to determine the age or condition of the line on a newly acquired vintage reel, so it makes sense to start with new line as the final part of servicing a reel. This also allows you to inspect the arbor to determine what type of material it is made of (this will help date the reel) and clean it along with the rest of the parts.
@@ -59,21 +57,13 @@ Watch on YouTube: [alt text](https://youtu.be/ZDQlTf7cjkY)
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
 
-Videos coming soon!
-
 Since not all parts of a reel may need the same level of attention, the servicing is divided into sections. Watching the YouTube videos first is a good way to get an overall feel for the procedure. The step-by-step illustrated instructions that follow are useful at the bench as you work on the reel for specifics.
 
 **Disassembly and assessment** The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly. Simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated old grease and contaiminants like sand and salt, you will need to follow the entire disassembly procedure. While disassembling the reel you can note and assess any issues.
 
-Watch on YouTube: [alt text](https://youtu.be/[link])
-<a href="https://youtu.be/[link]" target="_blank" rel="noopener">
-  <img
-    src="https://img.youtube.com/vi/[link]/hqdefault.jpg"
-    alt="[alt text]"
-    style="max-width: 100%; height: auto; cursor: pointer;">
-</a>
+*Video coming soon.*
 
-**Cleaning and lubricating:** After disassembling the gears, all the parts, including the housing, should be cleaned and lubricated.
+**Cleaning and lubricating:** After disassembling the gears, all the parts, including the housing, should be cleaned and lubricated. Since this is generally the same for all vintage reels, one generic video covers the basics. Any special considerations are detailed in the service guide for each reel.
 
 Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/LsqoT7lD7cw)
 <a href="https://www.youtube.com/watch?v=LsqoT7lD7cw" target="_blank" rel="noopener">
@@ -85,50 +75,47 @@ Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/
 
 **Reassembly and testing:** As the reel is reassembled, various mini-tests can be performed along the way to catch any minor issues and avoid having to take the reel completely apart again. After the reel is completely reassembled there are several bench tests that should be performed to make sure it is ready for field use.
 
-Watch on YouTube: [alt text](https://youtu.be/[link])
-<a href="https://www.youtube.com/watch?v=[link]" target="_blank" rel="noopener">
-  <img
-    src="https://img.youtube.com/vi/[link]/hqdefault.jpg"
-    alt="Penn 720 Overview video"
-    style="max-width: 100%; height: auto; cursor: pointer;">
-</a>
+*Video coming soon.*
 
 ## Typical issues
 
-This reel may not crank easily and smoothly if it has not been serviced (or not serviced correctly) for a long time and has accumulated old, hardened grease, possibly mixed with sand and grit. If the wrong grease was used in past service, it tends to harden and immobilize internal parts that need to move freely. A simple disassembly, cleaning and lubrication, and reassembly will fix this issue without needing to repair or replace any parts.
+Any vintage reel may not crank easily and smoothly if it has not been serviced (or not serviced correctly) for a long time. Vintage reels tend to accumulate old, hardened grease, possibly mixed with sand and grit. Hardened grease and grit tend to immobilize internal parts that need to move freely - like the gears and pinons - and may prevent them from meshing correctly.
 
-Hardened grease and grit may prevent internal gears and pinons from meshing correctly. It can also prevent the clicker from engaging.
+**Clicker**: It can also prevent the clicker from engaging. If you turn the handle, try the clicker button in both positions, and don't hear a click, hardened grease is a likely suspect. A simple disassembly, cleaning and lubrication, and reassembly will often fix many issues without needing to repair or replace any parts.
 
-Since the shaft is a more exposed part, it may have grit and / or hardened grease in the grooves, which will prevent the pawl / half-nut and guide block from traveling back and forth correctly, so the crank will not turn smoothly and the level wind will not work properly. Again, a thorough cleaning and lubrication will often correct this without having to replace any parts to perform additional repairs.
+**Shaft and level wind**: On the Nobby, like many baitcasting reels, the shaft is a more exposed part. Since it is more exposed to the elements it is more likely to have grit and / or hardened grease in the grooves, which will prevent the pawl and guide block from traveling back and forth correctly, so the crank will not turn smoothly and the level wind will not work properly. Again, a thorough cleaning and lubrication will often correct this without having to replace any parts to perform additional repairs.
 
-The pawl / half-nut may be damaged if grit has been allowed to accumulate on the shaft and the reel has been used anyway, without cleaning and lubricating. When the pawl is removed from the guide block you can inspect it and, if it is damaged, it will need to be replaced. Fortunately Pflueger included an extra pawl in a small compartment in the cap, and you may be able to use this spare to replace a damaged pawl. If the spare is not in the compartment - it's been used by some long-ago fisherman to do a field repair - you will need to attempt to locate a replacement. The level wind will not work without this small, critical part.
+**Pawl**: The pawl (a very small part) may be damaged if grit has been allowed to accumulate on the shaft and the reel has been used anyway, without cleaning and lubricating. When the pawl is removed from the guide block you can inspect it and, if it is damaged, it will need to be replaced. Fortunately Pflueger included an extra pawl in a small compartment in the cap, and you may be able to use this spare to replace a damaged pawl.
 
-You will generally need to locate a "parts" reel on an online auction site or thrift store so that you can salvage replacement parts from that.
+If the spare is not in the compartment - it's been used by some long-ago fisherman to do a field repair, or just lost in the sand somewhere - you will need to attempt to locate a replacement. The level wind will not work without this small, critical part. You will generally need to locate a "parts" reel on an online auction site or thrift store so that you can salvage replacement parts from that.
 
 ## Difficulty and time estimate
 
-**Difficulty:** For a reasonably experienced DIY person this is an [Easy / Moderate / Advanced] procedure.
+**Difficulty:** For an experienced DIY person this is an easy procedure. Even for beginners, this is a good reel to start on as it is very simple and designed to be easily serviced in the field. There are a few challenges, but these are covered in the following procedures so anyone should be able to follow along.
 
-**Estimated service time:** Excluding soak times or dealing with stuck hardware, the actual procedure should take about [#] hours.
+Viewing the companion videos will help get an overall feel for the procedure, then you can follow the step-by-step procedure at the workbench.
+
+**Estimated service time:** Excluding soak times for cleaning parts or dealing with stuck hardware, the actual procedure should take about 1 hour.
 
 Servicing does not all have to be done all at one go. A good strategy is to disassemble, make notes of any issues, soak the parts overnight, then the next day clean, dry, lubricate, and reassemble and test.
 
 If you are a complete beginner it's a good idea to proceed at a leisurely pace. More experience will result in a considerably shorter timeframe.
 
-This is probably one of the simplest open-face spinning reels to service, so it is a good choice for a first project, but don't let this make it seem insignificant. It does require some dexterity and patience, and acquiring a "feel" for working on vintage reels, and at the same time it helps you build those very skills.
+Again, this is a very simple baitcasting reel to service, so it is a good choice for a first project, but don't let this make it seem insignificant. It does require some dexterity and patience, and acquiring a "feel" for working on vintage reels. At the same time it helps you build those skills.
 
 ## Disassembly I
 
-Goal: remove outer parts of the reel so you can access the gears and other inner parts.
+**Goal**: remove outer parts of the reel so you can access the gears and other inner parts.
 
-All directions assume you are looking at the front of the reel, with the reel upright - foot up - as it would be mounted on a rod.
+All directions assume you are looking at the front of the reel, with the reel upright - foot down - as it would be mounted on a casting rod.
 
-Take a picture prior to each step so later you will know how parts were oriented, etc.
+Take a picture prior to each step so later you will know how parts were oriented, etc. Keep a legal pad and pencil handy to make notes and draw diagrams.
 
 1. Remove the crank nut and crank / handle.
 
     <figure markdown>
-    ![Pflueger Nobby No. 1963 - removing crank / handle](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)(../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
+    ![Pflueger Nobby No. 1963 - removing crank / handle](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
+    (../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing crank / handles</figcaption>
     </figure>
 
@@ -172,7 +159,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 
 ## Disassembly II
 
-Goal: remove gears and other interior parts so you can clean and lubricate them.
+**Goal**: remove gears and other interior parts so you can clean and lubricate them.
 
 1. Remove the gear.
 

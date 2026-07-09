@@ -13,15 +13,9 @@ Pflueger made several different models of the Nobby over its production years fr
 
 ## Videos
 
-The overview video provides a quick tour of this reel's main features and controls. Watch on YouTube: [Pflueger Nobby overview](https://youtu.be/ZDQlTf7cjkY)
-<a href="https://www.youtube.com/watch?v=ZDQlTf7cjkY" target="_blank" rel="noopener">
-  <img
-    src="https://img.youtube.com/vi/ZDQlTf7cjkY/hqdefault.jpg"
-    alt="[Pflueger Nobby overview video]"
-    style="max-width: 100%; height: auto; cursor: pointer;">
-</a>
+The videos show you how to disassemble, clean, lubricate, and reassemble this reel. These are companion videos for the illustrated, step-by-step [service guide](pflueger-nobby-service-guide.md).
 
-The service guide video shows you how to disassemble, clean, lubricate, and reassemble this reel. This is the companion video for the illustrated, step-by-step service guide here on Vintage Reel Service Guides. *Both the service guide and the video are in the works*.
+*Videos coming soon*.
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - removing crank](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)

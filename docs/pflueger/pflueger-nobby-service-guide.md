@@ -165,7 +165,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 1. Remove the gear.
 
     <figure markdown>
-    ![Pflueger Nobby No. 1963 - removing gear](../../img/pflueger/nobby/pflueger-nobby-1963-remove-gear-1.jpg)
+    ![Pflueger Nobby No. 1963 - removing gear 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-gear-1.jpg)![Pflueger Nobby No. 1963 - removing gear 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-gear-2.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing gear</figcaption>
     </figure>
 
@@ -201,6 +201,8 @@ Take a picture prior to each step so later you will know how parts were oriented
     <figcaption>Pflueger Nobby model No. 1963 - removing housing screws</figcaption>
     </figure>
 
+    Leave the large shaft screw in place.
+
     Small parts! Note which screws came from which holes.
 
 6. Remove the shaft housing.
@@ -210,10 +212,10 @@ Take a picture prior to each step so later you will know how parts were oriented
     <figcaption>Pflueger Nobby model No. 1963 - removing shaft housing</figcaption>
     </figure>
 
-7 Remove the front plate.
+7. Remove the front plate.
 
     <figure markdown>
-    ![Pflueger Nobby No. 1963 - removing front plate 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-front-plate-2.jpg)![Pflueger Nobby No. 1963 - removing front plate 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-front-plate-2.jpg)
+    ![Pflueger Nobby No. 1963 - removing front plate 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-front-plate-1.jpg)![Pflueger Nobby No. 1963 - removing front plate 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-front-plate-2.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing front plate</figcaption>
     </figure>
 
@@ -225,7 +227,7 @@ Take a picture prior to each step so later you will know how parts were oriented
     </figure>
 
     <figure markdown>
-    ![Pflueger Nobby No. 1963 - completely disassembled](../../img/pflueger/nobby/pflueger-nobby-1963-completel-disassembled.jpg)
+    ![Pflueger Nobby No. 1963 - completely disassembled](../../img/pflueger/nobby/pflueger-nobby-1963-complete-disassembled.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - completely disassembled</figcaption>
     </figure>
 

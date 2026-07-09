@@ -17,6 +17,8 @@ We chose about half a dozen common sizes that matter for our mid‑century reels
 For each, we note where we tend to use it (cap plate, sideplate, internal screws) and one short caution or tip, like, “If the blade doesn’t fully span the slot, choose a wider driver”.
 
 Driver type | Typical use on reels | Notes
+---- | ---- | ----
+Flat 3.5 mm | Sideplate screws<br>on mid‑size baitcasters | tbd
 
 e.g., “Flat 3.0 mm”, “Phillips #1” | e.g., “Sideplate screws on mid‑size baitcasters”, “Handle knob screws on small spinners” | e.g., “Use where slot is narrow; confirm full contact before turning”
 

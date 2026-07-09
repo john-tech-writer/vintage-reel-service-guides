@@ -2,6 +2,8 @@
 
 This site's main purpose is to provide detailed, illustrated service procedures for mid‑priced, mid-century American‑made fishing reels. It also provides overview information on the various reels. This is a growing and evolving repository for service and repair guides and background information on reels of all types--spinning, spincast (push-button), baitcasting, and fly-fishing reels.
 
+This library exists not only to create and preserve reel repair knowledge, but to help you build confidence in your own fix‑it skills — skills you can carry into anything for a long time to come.
+
 This repository honors American craftsmanship of the early 20th century and provides resources for those interested in restoring and keeping concrete examples of that craftsmanship in working order. The intent here is to restore and use them in the field rather than simply collect, curate, and display them, although these activities are also valued. Line capacities and other specifications are provided to place these reels in the context of creating practical, affordable, balanced tackle for all types of fishing in combination with modern tackle.
 
 While the main focus is on American reels, important reels made by overseas manufacturers like the Abu Garcia 3000 and other baitcasting reels of that series are also included.

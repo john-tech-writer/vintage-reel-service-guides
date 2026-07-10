@@ -1,5 +1,10 @@
 # Pflueger Nobby model No. 1963 service guide
 
+<!-- Image status:
+- remove-crank-1/2: draft macro, reshoot planned
+- remove-cap-screws-1/2: final
+-->
+
 This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater fishing and trolling use, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various models were in production from 1935 to 1971.
 
 The [Pflueger Nobby overview](pflueger-nobby-overview.md) provides more details on the various models, history, specifications, colors and finishes, and features of this reel. The overview also explains how to integrate this reel into a balanced tackle outfit for practical field use.
@@ -47,9 +52,9 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 
 ## Parts of a complete service and videos
 
-**Pfleuger Nobby overview**
+The *overview* video provides a quick look at this reel's features.
 
-Watch on YouTube: [alt text](https://youtu.be/ZDQlTf7cjkY)
+[Watch the Pflueger Nobby model No. 163 overview on YouTube:](https://youtu.be/ZDQlTf7cjkY)
 <a href="https://youtu.be/ZDQlTf7cjkY" target="_blank" rel="noopener">
   <img
     src="https://img.youtube.com/vi/ZDQlTf7cjkY/hqdefault.jpg"
@@ -57,11 +62,13 @@ Watch on YouTube: [alt text](https://youtu.be/ZDQlTf7cjkY)
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
 
+The *service* videos show you how to disassemble, clean, lubricate, and reassemble this reel.
+
+*Disassembly and reassembly videos coming soon.*
+
 Since not all parts of a reel may need the same level of attention, the servicing is divided into sections. Watching the YouTube videos first is a good way to get an overall feel for the procedure. The step-by-step illustrated instructions that follow are useful at the bench as you work on the reel for specifics.
 
 **Disassembly and assessment** The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly. Simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated old grease and contaiminants like sand and salt, you will need to follow the entire disassembly procedure. While disassembling the reel you can note and assess any issues.
-
-*Video coming soon.*
 
 **Cleaning and lubricating:** After disassembling the gears, all the parts, including the housing, should be cleaned and lubricated. Since this is generally the same for all vintage reels, one generic video covers the basics. Any special considerations are detailed in the service guide for each reel.
 
@@ -222,7 +229,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 8. Remove the spool.
 
     <figure markdown>
-    ![Pflueger Nobby No. 1963 - removing spool 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool-2.jpg)![Pflueger Nobby No. 1963 - removing spool 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool-2.jpg)
+    ![Pflueger Nobby No. 1963 - removing spool 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool-1.jpg)![Pflueger Nobby No. 1963 - removing spool 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool-2.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing spool</figcaption>
     </figure>
 
@@ -235,7 +242,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 
 ## Cleaning and lubricating
 
-    Most of these cleaning and lubrication instructions will be similar for all vintage reel. See the [Basic Cleaning and Lubricating Procedures](../cleaning-lubricating.md) for details.
+Most of these cleaning and lubrication instructions will be similar for all vintage reel. See the [Basic Cleaning and Lubricating Procedures](../cleaning-lubricating.md) for details.
 
 1. Clean the gears and inside of housing.
 

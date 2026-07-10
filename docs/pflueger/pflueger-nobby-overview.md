@@ -13,7 +13,15 @@ Pflueger made several different models of the Nobby over its production years fr
 
 ## Videos
 
-The videos show you how to disassemble, clean, lubricate, and reassemble this reel. These are companion videos for the illustrated, step-by-step [service guide](pflueger-nobby-service-guide.md).
+[Watch the Pflueger Nobby model No. 163 overview on YouTube:](https://youtu.be/ZDQlTf7cjkY)
+<a href="https://youtu.be/ZDQlTf7cjkY" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/ZDQlTf7cjkY/hqdefault.jpg"
+    alt="[alt text]"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
+
+The service videos show you how to disassemble, clean, lubricate, and reassemble this reel. These are companion videos for the illustrated, step-by-step [service guide](pflueger-nobby-service-guide.md).
 
 *Videos coming soon*.
 
@@ -118,6 +126,8 @@ In practical terms, 3 or 4 partial turns gets to the "click" point when tension 
 **Gear ratio**: 4:1
 
 **Line capacity**:
+
+[Line capacity](pflueger-nobby-line-capacity.md)
 
 *Monofilament*
 

@@ -127,22 +127,15 @@ In practical terms, 3 or 4 partial turns gets to the "click" point when tension 
 
 **Line capacity**:
 
-[Line capacity](pflueger-nobby-line-capacity.md)
-
-*Monofilament*
-
-Line lb. test | yds.
+Line type / lb. test | yds.
 ---------|-----
+*monofilament*
        12 | 175
        15 | 110
        20 | 85
       25 | 65
       30 | -
-
-*Braided*
-
-Line lb. test | yds.
----------|-----
+*braided line*
        9 | 290
        12 | 210
        15 | 145

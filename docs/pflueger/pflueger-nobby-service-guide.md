@@ -89,8 +89,6 @@ Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/
 
 **Reassembly and testing:** As the reel is reassembled, various mini-tests can be performed along the way to catch any minor issues and avoid having to take the reel completely apart again. After the reel is completely reassembled there are several bench tests that should be performed to make sure it is ready for field use.
 
-*Video coming soon.*
-
 ## Typical issues
 
 Any vintage reel may not crank easily and smoothly if it has not been serviced (or not serviced correctly) for a long time. Vintage reels tend to accumulate old, hardened grease, possibly mixed with sand and grit. Hardened grease and grit tend to immobilize internal parts that need to move freely - like the gears and pinons - and may prevent them from meshing correctly.
@@ -104,6 +102,8 @@ Any vintage reel may not crank easily and smoothly if it has not been serviced (
 If the spare is not in the compartment - it's been used by some long-ago fisherman to do a field repair, or just lost in the sand somewhere - you will need to attempt to locate a replacement. The level wind will not work without this small, critical part. You will generally need to locate a "parts" reel on an online auction site or thrift store so that you can salvage replacement parts from that.
 
 ## Difficulty and time estimate
+
+Easy - 1 hour
 
 **Difficulty:** For an experienced DIY person this is an easy procedure. Even for beginners, this is a good reel to start on as it is very simple and designed to be easily serviced in the field. There are a few challenges, but these are covered in the following procedures so anyone should be able to follow along.
 
@@ -125,7 +125,7 @@ All directions assume you are looking at the front of the reel, with the reel up
 
 Take a picture prior to each step so later you will know how parts were oriented, etc. Keep a legal pad and pencil handy to make notes and draw diagrams.
 
-1. Remove the crank nut and crank / handle.
+**1. Remove the crank nut and crank / handle.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing crank / handle 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)![Pflueger Nobby No. 1963 - removing crank / handle 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-2.jpg)

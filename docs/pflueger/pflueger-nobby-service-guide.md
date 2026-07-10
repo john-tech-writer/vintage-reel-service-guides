@@ -285,7 +285,7 @@ Goal: replace all parts and bench-test the reel's functioning to verify that it 
 
 To re-assemble the reel you basically reverse the disassembly steps. There are a couple of additional notes that will make re-assembly go more smoothly.
 
-When re-inserting the pawl / half-nut into the guide block make sure that the two teeth on the pawl seat / engage correctly with the grooves on the shaft.
+When re-inserting the pawl into the guide block make sure that the two teeth on the pawl seat / engage correctly with the grooves on the shaft.
 
 ## Bench testing
 
@@ -295,21 +295,21 @@ You can now perform several general functional tests before taking the reel into
 
 2. With the clicker **engaged / on**: Make sure you can hear the clicker when the crank is turned. This should also prevent the spool from turning easily.
 
-<figure markdown>
-![Pflueger Nobby No. 1963 - clicker](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-annot.jpg)
-<figcaption>Pflueger Nobby model No. 1963 - clicker</figcaption>
-</figure>
+    <figure markdown>
+    ![Pflueger Nobby No. 1963 - clicker](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-annot.jpg)
+    <figcaption>Pflueger Nobby model No. 1963 - clicker</figcaption>
+    </figure>
 
 4. Rotate the ABL button until it clicks - this should be about four or five turns. This is the zero tension setting. Try pulling some line from the spool - with the clicker off you should feel no resistance. Then rotate the ABL one or two turns and try pulling some line from the spool again - you should feel some resistance. Another turn of the ABL should put a bit more tension on the spool.
 
 5. When turning the crank make sure the guide block travels smoothly back and forth across the shaft. This ensures that the level wind mechanism is working correctly and will wind line evenly onto the spool on retrieve.
 
-Common issue: If the pawl / half-nut was not seated correctly on reassembly, or if any grit found its way into the grooves on the shaft, the guide block will not travel smoothly across the shaft. In this case loosen the guide block cover screw as in [Disassembly I](#Disassembly-I), remove the pawl, and re-seat it. It may take a few tries and some finesse to get it seated correctly. Then re-tighten the guide block screw and re-test.
+Common issue: If the pawl was not seated correctly on reassembly, or if any grit found its way into the grooves on the shaft, the guide block will not travel smoothly across the shaft. In this case loosen the guide block cover screw as in [Disassembly I](#Disassembly-i), remove the pawl, and re-seat it. It may take a few tries and some finesse to get it seated correctly. Then re-tighten the guide block screw and re-test.
 
-    <figure markdown>
-    ![Pflueger Nobby No. 1963 - removing pawl](../../img/pflueger/nobby/pflueger-nobby-1963-pflueger-nobby-1963-remove-pawl-2.jpg)
-    <figcaption>Pflueger Nobby model No. 1963 - removing the pawl-2</figcaption>
-    </figure>
+<figure markdown>
+![Pflueger Nobby No. 1963 - removing pawl](../../img/pflueger/nobby/pflueger-nobby-1963-pflueger-nobby-1963-remove-pawl-2.jpg)
+<figcaption>Pflueger Nobby model No. 1963 - removing the pawl-2</figcaption>
+</figure>
 
 If all this works, you can call it ready to fish.
 

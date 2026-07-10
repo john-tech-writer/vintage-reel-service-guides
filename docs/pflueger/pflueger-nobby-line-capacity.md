@@ -1,12 +1,12 @@
-Line lb. test | yds.
+Line type / lb. test | yds.
 ---------|-----
-Monofilament | 
+*monofilament*
        12 | 175
        15 | 110
        20 | 85
       25 | 65
       30 | -
-Braided | 
+*braided line* | 
        9 | 290
        12 | 210
        15 | 145

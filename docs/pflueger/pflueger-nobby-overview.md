@@ -13,7 +13,7 @@ Pflueger made several different models of the Nobby over its production years fr
 
 ## Videos
 
-[Watch the Pflueger Nobby model No. 163 overview on YouTube:](https://youtu.be/ZDQlTf7cjkY)
+[Watch the Pflueger Nobby model No. 1963 overview on YouTube:](https://youtu.be/ZDQlTf7cjkY)
 <a href="https://youtu.be/ZDQlTf7cjkY" target="_blank" rel="noopener">
   <img
     src="https://img.youtube.com/vi/ZDQlTf7cjkY/hqdefault.jpg"
@@ -23,12 +23,7 @@ Pflueger made several different models of the Nobby over its production years fr
 
 The service videos show you how to disassemble, clean, lubricate, and reassemble this reel. These are companion videos for the illustrated, step-by-step [service guide](pflueger-nobby-service-guide.md).
 
-*Videos coming soon*.
-
-<figure markdown>
-![Pflueger Nobby model 1963 - removing crank](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
-<figcaption>On the bench - removing the crank</figcaption>
-</figure>
+*Service videos coming soon*.
 
 ## History and models
 
@@ -68,7 +63,7 @@ Model | Production years | Colors | Features
 
 ### Dating the example reel
 
-The model *No. 1963* was produced from 1935 - 1957 and the satin finish was introduced after 1936. Cork arbors were introduced after 1941 and the marbled handles indicate a pre-1948 vintage, so this reel was likely made between 1941 and 1948. This means the reel shown in this overview is (as of writing July 2026) about 78 to 85 years old, and after servicing, still works perfectly.
+The model *No. 1963* was produced from 1935 - 1957 and the satin aluminum finish was introduced after 1936. Cork arbors were introduced after 1941 and the cream marbled handles indicate a pre-1948 vintage, so this reel was likely made between 1941 and 1948. This means the reel shown in this overview is (as of writing July 2026) about 78 to 85 years old, and after servicing, still works perfectly.
 
 ## Logo, colors, and finishes
 
@@ -79,7 +74,7 @@ The Nobby sported a simple but stylish script logo, inscribed into the cap along
 <figcaption>Logo and model number</figcaption>
 </figure>
 
-The various models and years of production saw the Nobby offered in a variety of colors and finishes. The representative example reel featured in this overview sports the satin "nickalum" finish, in production after 1936, and the marbled crank handles, used prior to 1948.
+The various models and years of production saw the Nobby offered in a variety of colors and finishes. The representative example reel featured in this overview sports the satin "nickalum" finish, in production after 1936, and the cream marbled crank handles, used prior to 1948.
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - handle macro](../../img/pflueger/nobby/pflueger-nobby-1963-handle-macro.jpg)
@@ -170,7 +165,7 @@ Rod | Line lb. test | Lures oz.
 5'2", 5'8" medium | 20 | 5/6 - best, 3/8, 1/2, 3/4 - good
 4'6", 5'2" heavy | 25 | 3/4 and up
 
-These ratings are derived from both manufacturer documentation and the balanced tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing*. For details on this method see [Balanced tackle and duty ratings](../balanced-tackle-duty-ratings.md).
+These ratings are derived from both manufacturer documentation and the balanced tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing*. For details on this method see [Duty ratings](../balanced-tackle-duty-ratings.md).
 
 ## References
 

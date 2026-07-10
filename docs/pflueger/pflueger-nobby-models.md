@@ -1,5 +1,12 @@
 # Pflueger Nobby models
 
+Model | Production years | Colors | Features
+---------|--|--|
+        *No. 1963* | 1935 - 1957 | blue / satin aluminum<br>cream marbled handles | level wind<br>grease disc
+       *No. 1963C* | 1954 - 1971 | satin chromium<br>white handles | -
+       *No. 1960 Deluxe* | 1957 - 1960 | maroon<br>tan handles | hollow gears<br>nylon bearings<br>cork arbor
+      *No. 1965 Free Spool* | 1964 - 1971 | red<br>gray marbled handles | push-button free spool<br>star drag
+
   - No. 1963
   - No. 1963C
   - No. 1960 Deluxe
@@ -7,7 +14,9 @@
 
 ## Model No. 1963
 
-1935 - 1957
+Production years | Colors | Features
+--|--|--
+1935 - 1957 | blue / satin aluminum<br>cream marbled handles | level wind<br>grease disc
 
 <figure markdown>
 ![Pflueger Nobby model No. 1963 - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-no1963-1955-cat.jpg)

@@ -103,3 +103,7 @@ Miller, Bob. "The Pflueger Nobby - A Few Surpises." *The Reel News* 13, no. 3 (2
 Goldberg, Jacob M., inventor. Fishing Reel. [United States patent US 2,571,440](magic/magic-fishing-reel-patent.pdf). 1951 Oct 16.
 
   - Describes the mechanics and operation of the reel marketed as the Magic Fishing Reel, includes schematics.
+
+## Dictionaries and other general references
+
+Webster's New Twentieth Century Dicitonary, unabridged, 2nd ed. Edited by Jean L. McKechnie, et. al. 1983. Simon & Schuster. Prentice Hall Press, NY.

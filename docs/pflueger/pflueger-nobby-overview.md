@@ -170,7 +170,7 @@ Rod | Line lb. test | Lures oz.
 5'2", 5'8" medium | 20 | 5/6 - best, 3/8, 1/2, 3/4 - good
 4'6", 5'2" heavy | 25 | 3/4 and up
 
-For more information on how Vintage Reel Service Guides determines these ratings, see [Balanced tackle and duty ratings](../balanced-tackle-duty-ratings.md).
+These ratings are derived from both manufacturer documentation and the balanced tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing*. For details on this method see [Balanced tackle and duty ratings](../balanced-tackle-duty-ratings.md).
 
 ## References
 
@@ -181,5 +181,6 @@ For more information on how Vintage Reel Service Guides determines these ratings
   - ibid. *Pflueger Free Spool Nobby* (manual)
   - ibid. *Pflueger Trade Catalog 95* (1937)
   - The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel* (box insert)
+  - Webster's New Twentieth Century Dicitonary
 
 For full source details, see [References](../references.md).

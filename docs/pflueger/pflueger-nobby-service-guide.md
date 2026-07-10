@@ -125,7 +125,7 @@ All directions assume you are looking at the front of the reel, with the reel up
 
 Take a picture prior to each step so later you will know how parts were oriented, etc. Keep a legal pad and pencil handy to make notes and draw diagrams.
 
-**1. Remove the crank nut and crank / handle.**
+1. **Remove the crank nut and crank / handle.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing crank / handle 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)![Pflueger Nobby No. 1963 - removing crank / handle 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-2.jpg)

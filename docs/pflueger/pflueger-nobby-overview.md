@@ -175,11 +175,11 @@ For more information on how Vintage Reel Service Guides determines these ratings
 ## References
 
   - Miller, "The Pflueger Nobby – A Few Surprises"
-  - Shakespeare, *Secrets of Successful Fishing*
-  - The Enterprise Manufacturing Co. *Fishing with Pflueger*
-  - ibid. *Pflueger Fishing Tackle*
-  - ibid. *Pflueger Free Spool Nobby*
-  - ibid. *Pflueger Trade Catalog 95*
-  - The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*
+  - Shakespeare, *Secrets of Successful Fishing* (1962)
+  - The Enterprise Manufacturing Co. *Fishing with Pflueger* (1955 catalog)
+  - ibid. *Pflueger Fishing Tackle* (1964 catalog)
+  - ibid. *Pflueger Free Spool Nobby* (manual)
+  - ibid. *Pflueger Trade Catalog 95* (1937)
+  - The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel* (box insert)
 
 For full source details, see [References](../references.md).

@@ -16,14 +16,15 @@ These bibliography entries loosely follow a combination of the Chicago Manual of
 
 For repository pages references are briefly cited as follows:
 
-  - For books and articles: `[Author last name], “[Title].”`
-    Examples: Shakespeare, *Secrets of Successful Fishing.*
-    Miller, "The Pflueger Nobby – A Few Surprises."
+  - For books and articles: `[Author last name], “[Title]”`
+  - Examples:
+    - Shakespeare, *Secrets of Successful Fishing.*
+    - Miller, "The Pflueger Nobby – A Few Surprises."
 
-  - For manuals / inserts with no named author: `[Company name], *[Title]*.`
-    Example: Penn Fishing Tackle Mfg. Co., *Instruction Manual Spinfisher 720, et al.*
+  - For manuals / inserts with no named author: `[Company name], *[Title]*`
+  - Example: Penn Fishing Tackle Mfg. Co., *Instruction Manual Spinfisher 720, et al.*
 
-  - Optionally, the year in parentheses if needed to disambiguate.
+  - Optionally, the year in parentheses if needed to differentiate between similar sources.
 
 ## Books
 
@@ -39,8 +40,9 @@ Shakespeare, Henry. *Secrets of Successful Fishing.* Dell Publishing Co., 1962.
 
   - Comprehensive field guide to all types of fishing from a mid-century American perspective. Describes all types of reels, rods, lines, terminal tackle, lures, how to create balanced tackle outfits, and fishing methods. Includs many diagrams showing how to cast, where to locate fish, and various types of lures.
 
+## Manuals and box inserts
 
-## Manuals, catalogs, and box inserts
+Manuals for vintage reels often took the form of small box inserts. If a box insert is literally titled "manual," that is how it will be listed here. If not, it will be listed simply as a box insert.
 
 The Enterprise Mfg. Co. *Facts You'll Want to Know about the New Pflueger Pelican Spinning Reel.* Box insert, n.d. (https://www.orcaonline.org/product-category/orca-library/reel-schematics/).
 
@@ -54,9 +56,17 @@ Penn Fishing Tackle Mfg. Co. *Instruction Manual Spinfisher 720, et al*. Box ins
 
   - Line selection, capacity, schematics, parts lists, usage instructions, recommended balanced tackle outfits, and cleaning and lubricating instructions for all reels in the Spinfisher series. Schematics and parts lists highlight parts interchangeability across models.
 
-The Enterprise Manufacturing Co. *Pflueger Free Spool Nobby*. Box insert, n.d. (https://www.orcaonline.org).
+The Enterprise Manufacturing Co. *Pflueger Free Spool Nobby No. 1965*. Instruction manual, n.d. (https://www.orcaonline.org).
 
   - Schematic, parts list, line capacity, and lubrication instructions for the Pflueger Nobby model no. 1965. Located in the member library section of the site.
+
+The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*. Box insert, n.d. (https://www.orcaonline.org/product-category/orca-library/reel-schematics/).
+
+  - Schematic, parts list, line capacity, cleaning and lubricating instructions, and mechanical description for the Pflueger Nobby no. 1963.
+
+## Catalogs
+
+Manufacturer catalogs were variously aimed at consumers, both as full-size and "pocket" versions, and tradespeople. These are rich sources of images and information on not only the reels but other tackle (rods, lures, terminal tackle), fishing practices of that era, and historic information on the manufacturers.
 
 The Enterprise Manufacturing Co. *Fishing with Pflueger*. Catalog, 1955. (https://www.orcaonline.org).
 
@@ -80,11 +90,7 @@ The Enterprise Manufacturing Co. *Pflueger Level Wind Reels*. Catalog, 1938. (ht
 
 The Enterprise Manufacturing Co. *Pocket Catalog No. 155*. Catalog, 1935. (https://www.orcaonline.org).
 
-  - Pocket catalog for 1935, includes history of the company, pictures of anglers and fish caught on Pflueger tackle, descriptions of game fish species, how-to tuides for angling knots, casting methods, fishing methods, tackle specs, illustrated descriptions of their rods, lines, lures, terminal tackle.
-
-The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel*. Box insert, n.d. (https://www.orcaonline.org/product-category/orca-library/reel-schematics/).
-
-  - Schematic, parts list, line capacity, cleaning and lubricating instructions, and mechanical description for the Pflueger Nobby no. 1963.
+  - Pocket catalog for 1935, includes history of the company, pictures of anglers and fish caught on Pflueger tackle, descriptions of game fish species, how-to guides for angling knots, casting methods, fishing methods, tackle specs, illustrated descriptions of their rods, lines, lures, terminal tackle.
 
 ## Journal and newsletter articles
 

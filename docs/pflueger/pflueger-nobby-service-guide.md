@@ -1,8 +1,15 @@
 # Pflueger Nobby model No. 1963 service guide
 
-<!-- Image status:
-- remove-crank-1/2: draft macro, reshoot planned
-- remove-cap-screws-1/2: final
+<!-- Images for reshoot:
+- pflueger-nobby-1963-remove-crank-2.jpg, focus, try more depth of field, f16
+- pflueger-nobby-1963-remove-cap-screws-1.jpg. -2
+- pflueger-nobby-1963-loosen-guide-block-cover-screw.jpg
+- pflueger-nobby-1963-remove-pawl-2.jpg
+- pflueger-nobby-1963-remove-cap-2.jpg
+- pflueger-nobby-1963-remove-shaft-pinion-1.jpg, need a -2
+- pflueger-nobby-1963-remove-shaft-2.jpg, need a -3
+- pflueger-nobby-1963-remove-shaft-housing-screws.jpg, focus, try more depth of field, f16
+- pflueger-nobby-1963-remove-spool-2.jpg
 -->
 
 This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater fishing and trolling use, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various models were in production from 1935 to 1971.
@@ -54,7 +61,7 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 
 The *overview* video provides a quick look at this reel's features.
 
-[Watch the Pflueger Nobby model No. 163 overview on YouTube:](https://youtu.be/ZDQlTf7cjkY)
+[Watch the Pflueger Nobby model No. 1963 overview on YouTube:](https://youtu.be/ZDQlTf7cjkY)
 <a href="https://youtu.be/ZDQlTf7cjkY" target="_blank" rel="noopener">
   <img
     src="https://img.youtube.com/vi/ZDQlTf7cjkY/hqdefault.jpg"
@@ -258,19 +265,19 @@ This reel features several lubrication points designed to allow you to grease an
 
 The grease disc allows you to grease the gears and pinions without disassembling the reel. Simply push the disc with your fingertip to rotate it so the small hole in the disc aligns with the hole in the cap. Position the tip of the grease tube at the opening and apply a *small* amount of grease. Less is better! Applying too much grease invites sand and grit to be trapped and damage the gears.
 
-    <figure markdown>
-    ![Pflueger Nobby No. 1963 - grease disc](../../img/pflueger/nobby/pflueger-nobby-1963-grease-disc-ref.jpg)
-    <figcaption>Pflueger Nobby model No. 1963 - grease disc</figcaption>
-    </figure>
+<figure markdown>
+![Pflueger Nobby No. 1963 - grease disc](../../img/pflueger/nobby/pflueger-nobby-1963-grease-disc.jpg)
+<figcaption>Pflueger Nobby model No. 1963 - grease disc</figcaption>
+</figure>
 
 Most of the controls for the reel are on the crank side. There is a small hole in the crank nut (in the center of the crank) which allows you to oil the crank without disassembling the gears. Simply poisition the tip of the oil applicator at the opening and apply a drop or two of oil. Again, less is best.
 
-    <figure markdown>
-    ![Pflueger Nobby No. 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4-annot.jpg)
-    <figcaption>Pflueger Nobby model No. 1963 - handle side</figcaption>
-    </figure>
+<figure markdown>
+![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4-annot.jpg)
+<figcaption>Handle-side features: ABL, extra pawl, grease disc, and oil cup</figcaption>
+</figure>
 
-    You are now ready to re-assemble the gears and housing.
+You are now ready to re-assemble the gears and housing.
 
 ## Reassembly
 
@@ -288,10 +295,10 @@ You can now perform several general functional tests before taking the reel into
 
 2. With the clicker **engaged / on**: Make sure you can hear the clicker when the crank is turned. This should also prevent the spool from turning easily.
 
-    <figure markdown>
-    ![Pflueger Nobby No. 1963 - clicker](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-annot.jpg)
-    <figcaption>Pflueger Nobby model No. 1963 - clicker</figcaption>
-    </figure>
+<figure markdown>
+![Pflueger Nobby No. 1963 - clicker](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-annot.jpg)
+<figcaption>Pflueger Nobby model No. 1963 - clicker</figcaption>
+</figure>
 
 4. Rotate the ABL button until it clicks - this should be about four or five turns. This is the zero tension setting. Try pulling some line from the spool - with the clicker off you should feel no resistance. Then rotate the ABL one or two turns and try pulling some line from the spool again - you should feel some resistance. Another turn of the ABL should put a bit more tension on the spool.
 

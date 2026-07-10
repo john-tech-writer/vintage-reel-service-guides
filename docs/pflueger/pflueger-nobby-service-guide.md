@@ -240,12 +240,12 @@ Take a picture prior to each step so later you will know how parts were oriented
     <figcaption>Pflueger Nobby model No. 1963 - removing spool</figcaption>
     </figure>
 
-    <figure markdown>
-    ![Pflueger Nobby No. 1963 - completely disassembled](../../img/pflueger/nobby/pflueger-nobby-1963-complete-disassembled.jpg)
-    <figcaption>Pflueger Nobby model No. 1963 - completely disassembled</figcaption>
-    </figure>
+The reel is now fully disassembled and you are now ready to clean and lubricate the gears and housing.
 
-    You are now ready to clean and lubricate the gears and housing.
+<figure markdown>
+![Pflueger Nobby No. 1963 - completely disassembled](../../img/pflueger/nobby/pflueger-nobby-1963-complete-disassembled.jpg)
+<figcaption>Pflueger Nobby model No. 1963 - completely disassembled</figcaption>
+</figure>
 
 ## Cleaning and lubricating
 

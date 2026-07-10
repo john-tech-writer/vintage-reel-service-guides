@@ -134,7 +134,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 
     Use a 3/8" socket wrench. A screwdriver can also be used but the socket has the virtue of being less likely to damage the nut, especially if it is hard to turn.
 
-2. Remove the cap screws (3).
+2. **Remove the cap screws (3).**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing cap screws 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-screws-1.jpg)![Pflueger Nobby No. 1963 - removing cap screws 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-screws-2.jpg)
@@ -147,7 +147,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 
     Note which screws came from which holes in the cap - in vintage reels it is important when re-assembling to put the screws in the same holes as they were in originally. Slight differences in the screw and hole threads can develop over the course of time.
 
-3. Loosen (do not remove) the guide block cover screw.
+3. **Loosen (do not remove) the guide block cover screw.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - loosening guide block cover screw](../../img/pflueger/nobby/pflueger-nobby-1963-loosen-guide-block-cover-screw.jpg)
@@ -156,7 +156,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 
     If you accidentally turn this very small screw too far (easy to do), it is not a problem. Just make sure if you want to leave it off for now, be sure to keep track of the very small guide block cover along with the screw. Otherwise you can just put it back in loosely to keep them both together.
 
-4. Turn the cover and remove the pawl.
+4. **Turn the cover and remove the pawl.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing pawl 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-pawl-1.jpg)![Pflueger Nobby No. 1963 - removing pawl 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-pawl-2.jpg)
@@ -165,7 +165,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 
     This is a very small part! Make sure to keep it in a container on the workbench or in the tray.
 
-5. Remove the cap.
+5. **Remove the cap.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing cap 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-1.jpg)![Pflueger Nobby No. 1963 - removing cap 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-2.jpg)
@@ -176,14 +176,14 @@ Take a picture prior to each step so later you will know how parts were oriented
 
 **Goal**: remove gears and other interior parts so you can clean and lubricate them.
 
-1. Remove the gear.
+1. **Remove the gear.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing gear 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-gear-1.jpg)![Pflueger Nobby No. 1963 - removing gear 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-gear-2.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing gear</figcaption>
     </figure>
 
-2. Remove the spool pinion.
+2. **Remove the spool pinion.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing spool pinion 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool-pinion-1.jpg)![Pflueger Nobby No. 1963 - removing spool pinion 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool-pinion-2.jpg)
@@ -192,14 +192,14 @@ Take a picture prior to each step so later you will know how parts were oriented
 
     Small part!
 
-3. Remove the shaft pinion.
+3. **Remove the shaft pinion.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing shaft pinion 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-pinion-1.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing shaft pinion</figcaption>
     </figure>
 
-4. Remove the shaft.
+4. **Remove the shaft.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing shaft 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-1.jpg)![Pflueger Nobby No. 1963 - removing shaft 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-2.jpg)
@@ -208,7 +208,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 
     The line guide + block assembly comes loose when the shaft is removed. Set that aside as well.
 
-5. Remove the housing screws (2).
+5. **Remove the housing screws (2).**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing shaft housing screws](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-housing-screws.jpg)
@@ -219,21 +219,21 @@ Take a picture prior to each step so later you will know how parts were oriented
 
     Small parts! Note which screws came from which holes.
 
-6. Remove the shaft housing.
+6. **Remove the shaft housing.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing shaft housing](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-housing.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing shaft housing</figcaption>
     </figure>
 
-7. Remove the front plate.
+7. **Remove the front plate.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing front plate 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-front-plate-1.jpg)![Pflueger Nobby No. 1963 - removing front plate 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-front-plate-2.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing front plate</figcaption>
     </figure>
 
-8. Remove the spool.
+8. **Remove the spool.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing spool 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool-1.jpg)![Pflueger Nobby No. 1963 - removing spool 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-spool-2.jpg)

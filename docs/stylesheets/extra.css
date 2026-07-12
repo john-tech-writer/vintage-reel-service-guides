@@ -3,8 +3,7 @@ figcaption {
   font-size: 0.9em;
 }
 
-.md-typeset ol li,
-.md-typeset ol li p {
+.md-typeset ol > li > p:first-child {
   font-weight: 600;
 }
 

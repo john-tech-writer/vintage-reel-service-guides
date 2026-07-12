@@ -311,7 +311,7 @@ Insert the pawl into the block, then **without closing the cover** turn the cran
 The finished reel should be ready for bench testing.
 
 <figure markdown>
-![Pflueger Nobby model 1963 - reassembled and ready to test](../../img/pflueger/nobby/pflueger-nobby-1963-finished.jpg)
+![Pflueger Nobby model 1963 - reassembled and ready to test](../../img/pflueger/nobby/pflueger-nobby-1963-finish.jpg)
 <figcaption>Reassembled and ready to test</figcaption>
 </figure>
 
@@ -335,7 +335,7 @@ You can now perform several general functional tests before taking the reel into
 Common issue: If the pawl was not seated correctly on reassembly, or if any grit found its way into the grooves on the shaft, the guide block will not travel smoothly across the shaft. In this case loosen the guide block cover screw as in [Disassembly I](#Disassembly-i), remove the pawl, and re-seat it. It may take a few tries and some finesse to get it seated correctly. Then re-tighten the guide block screw and re-test.
 
 <figure markdown>
-![Pflueger Nobby No. 1963 - removing pawl](../../img/pflueger/nobby/pflueger-nobby-1963-pflueger-nobby-1963-remove-pawl-2.jpg)
+![Pflueger Nobby No. 1963 - removing pawl](../../img/pflueger/nobby/pflueger-nobby-1963-remove-pawl-2.jpg)
 <figcaption>Pflueger Nobby model No. 1963 - removing the pawl-2</figcaption>
 </figure>
 

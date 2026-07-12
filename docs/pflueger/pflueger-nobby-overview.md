@@ -90,7 +90,7 @@ The [History and models](#history-and-models) section provides a compact tabular
 In practical terms, 3 or 4 partial turns gets to the "click" point when tension resets to zero. So when beginning a casting session the angler may want a little more tension to help prevent backlashes while getting warmed up - 3 partial turns, a few casts, then all the way to zero, 2 partial turns, and so on, until the sweet spot for casting is found.
 
 <figure markdown>
-![Pflueger Nobby model 1963 - abl mechanism](../../img/pflueger/nobby/pflueger-nobby-1963-abl.jpg)
+![Pflueger Nobby model 1963 - abl mechanism](../../img/pflueger/nobby/pflueger-nobby-1963-abl-mech.jpg)
 <figcaption>ABL - inside mechanism</figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ In practical terms, 3 or 4 partial turns gets to the "click" point when tension 
 </figure>
 
 <figure markdown>
-![Pflueger Nobby model 1963 - clicker mechanism](../../img/pflueger/nobby/pflueger-nobby-1963-clicker.jpg)
+![Pflueger Nobby model 1963 - clicker mechanism](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-mech.jpg)
 <figcaption>Clicker - inside mechanism</figcaption>
 </figure>
 

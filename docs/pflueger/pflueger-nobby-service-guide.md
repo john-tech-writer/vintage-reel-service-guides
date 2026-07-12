@@ -1,17 +1,5 @@
 # Pflueger Nobby model No. 1963 service guide
 
-<!-- Images for reshoot:
-- pflueger-nobby-1963-remove-crank-2.jpg, focus, try more depth of field, f16
-- pflueger-nobby-1963-remove-cap-screws-1.jpg. -2
-- pflueger-nobby-1963-loosen-guide-block-cover-screw.jpg
-- pflueger-nobby-1963-remove-pawl-2.jpg
-- pflueger-nobby-1963-remove-cap-2.jpg
-- pflueger-nobby-1963-remove-shaft-pinion-1.jpg, need a -2
-- pflueger-nobby-1963-remove-shaft-2.jpg, need a -3
-- pflueger-nobby-1963-remove-shaft-housing-screws.jpg, focus, try more depth of field, f16
-- pflueger-nobby-1963-remove-spool-2.jpg
--->
-
 This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater fishing and trolling use, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various models were in production from 1935 to 1971 and much of the information here can be applied to all the models.
 
 The [Pflueger Nobby overview](pflueger-nobby-overview.md) provides more details on the various models, history, specifications, colors and finishes, and features of this reel. The overview also explains how to integrate this reel into a balanced tackle outfit for practical field use.
@@ -125,7 +113,7 @@ All directions assume you are looking at the front of the reel, with the reel up
 
 Take a picture prior to each step so later you will know how parts were oriented, etc. Keep a legal pad and pencil handy to make notes and draw diagrams.
 
-1. Remove the crank nut and crank / handles.
+1. **Remove the crank nut and crank / handles.**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing crank / handle 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)![Pflueger Nobby No. 1963 - removing crank / handle 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-2.jpg)![Pflueger Nobby No. 1963 - removing crank / handle 3](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-3.jpg)
@@ -134,7 +122,7 @@ Take a picture prior to each step so later you will know how parts were oriented
 
     Use a 3/8" socket wrench. A screwdriver can also be used but the socket has the virtue of being less likely to damage the nut, especially if it is hard to turn.
 
-2. Remove the cap screws (3).
+2. **Remove the cap screws (3).**
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing cap screws 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-screws-1.jpg)![Pflueger Nobby No. 1963 - removing cap screws 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-screws-2.jpg)
@@ -195,14 +183,14 @@ Take a picture prior to each step so later you will know how parts were oriented
 3. **Remove the shaft pinion.**
 
     <figure markdown>
-    ![Pflueger Nobby No. 1963 - removing shaft pinion 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-pinion-1.jpg)
+    ![Pflueger Nobby No. 1963 - removing shaft pinion 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-pinion-1.jpg)![Pflueger Nobby No. 1963 - removing shaft pinion 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-pinion-2.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing shaft pinion</figcaption>
     </figure>
 
 4. **Remove the shaft.**
 
     <figure markdown>
-    ![Pflueger Nobby No. 1963 - removing shaft 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-1.jpg)![Pflueger Nobby No. 1963 - removing shaft 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-2.jpg)
+    ![Pflueger Nobby No. 1963 - removing shaft 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-1.jpg)![Pflueger Nobby No. 1963 - removing shaft 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-2.jpg)![Pflueger Nobby No. 1963 - removing shaft 3](../../img/pflueger/nobby/pflueger-nobby-1963-remove-shaft-3.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing shaft</figcaption>
     </figure>
 
@@ -285,7 +273,47 @@ Goal: replace all parts and bench-test the reel's functioning to verify that it 
 
 To re-assemble the reel you basically reverse the disassembly steps. There are a couple of additional notes that will make re-assembly go more smoothly.
 
-When re-inserting the pawl into the guide block make sure that the two teeth on the pawl seat / engage correctly with the grooves on the shaft.
+**Replacing the shaft**: make sure that (1) the guide block is seated in the shaft cover, (2) the line guide is seated in the pillar slot, and (3) the shaft slides all the way through the line guide block assembly and is firmly seated.
+
+<figure markdown>
+![Pflueger Nobby model 1963 - replacing the shaft](../../img/pflueger/nobby/pflueger-nobby-1963-replace-shaft.jpg)
+<figcaption>Replacing the shaft</figcaption>
+</figure>
+
+<figure markdown>
+![Pflueger Nobby model 1963 - checking the line guide](../../img/pflueger/nobby/pflueger-nobby-1963-check-line-guide.jpg)
+<figcaption>Checking the line guide</figcaption>
+</figure>
+
+**Replacing the spool pinion**: make sure the slots on the sides of the pinion seat correctly on the end of the spool.
+
+<figure markdown>
+![Pflueger Nobby model 1963 - replacing the spool pinion](../../img/pflueger/nobby/pflueger-nobby-1963-replace-spool-pinion.jpg)
+<figcaption>Replacing the spool pinion</figcaption>
+</figure>
+
+**Replacing shaft pinion, spool pinion, and gear**: make sure they are all firmly seated and the teeth all mesh.
+
+<figure markdown>
+![Pflueger Nobby model 1963 - checking the gears](../../img/pflueger/nobby/pflueger-nobby-1963-check-gears.jpg)
+<figcaption>Checking the gears</figcaption>
+</figure>
+
+**Replacing the pawl**: make sure that the pawl seats correctly into the guide block, where it contacts the shaft - the teeth on the pawl **must** mesh correctly with the grooves in the shaft for the level wind to work correctly.
+
+Insert the pawl into the block, then **without closing the cover** turn the crank - after a few turns, the pawl should seat itself and the guide block should start traveling back and forth across the shaft. Then close the guide block cover, tighten the screw, and test again.
+
+<figure markdown>
+![Pflueger Nobby model 1963 - replacing the pawl](../../img/pflueger/nobby/pflueger-nobby-1963-remove-pawl-1.jpg)
+<figcaption>Replacing the pawl</figcaption>
+</figure>
+
+The finished reel should be ready for bench testing.
+
+<figure markdown>
+![Pflueger Nobby model 1963 - reassembled and ready to test](../../img/pflueger/nobby/pflueger-nobby-1963-finished.jpg)
+<figcaption>Reassembled and ready to test</figcaption>
+</figure>
 
 ## Bench testing
 

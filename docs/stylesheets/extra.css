@@ -2,15 +2,3 @@ figcaption {
   text-align: center;
   font-size: 0.9em;
 }
-
-.md-typeset ol > li > p:first-child {
-  font-weight: 600;
-}
-
-.md-typeset ol li::marker {
-  font-weight: 700;
-}
-
-.md-typeset ol li + li {
-  margin-top: 0.25rem;
-}

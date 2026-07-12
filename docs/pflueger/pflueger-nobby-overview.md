@@ -89,6 +89,11 @@ The [History and models](#history-and-models) section provides a compact tabular
 
 In practical terms, 3 or 4 partial turns gets to the "click" point when tension resets to zero. So when beginning a casting session the angler may want a little more tension to help prevent backlashes while getting warmed up - 3 partial turns, a few casts, then all the way to zero, 2 partial turns, and so on, until the sweet spot for casting is found.
 
+<figure markdown>
+![Pflueger Nobby model 1963 - abl mechanism](../../img/pflueger/nobby/pflueger-nobby-1963-abl.jpg)
+<figcaption>ABL - inside mechanism</figcaption>
+</figure>
+
 **Grease disc**: Pfleuger recommends greasing the reel's gears regularly (a good practice for any reel, but perhaps even more important for these mid-century baitcasters), and this reel sports a fairly innovative feature - by sliding the grease disc to one side a small hole is exposed, which allows the angler to grease the gears without disassembling the reel. The box insert states that *"It should not be necessary to take this reel apart for cleaning oftener than once or twice a season . . ."*
 
 <figure markdown>
@@ -108,6 +113,11 @@ In practical terms, 3 or 4 partial turns gets to the "click" point when tension 
 <figure markdown>
 ![Pflueger Nobby model 1963 - clicker side](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-annot.jpg)
 <figcaption>Clicker</figcaption>
+</figure>
+
+<figure markdown>
+![Pflueger Nobby model 1963 - clicker mechanism](../../img/pflueger/nobby/pflueger-nobby-1963-clicker.jpg)
+<figcaption>Clicker - inside mechanism</figcaption>
 </figure>
 
 ## Specifications and materials

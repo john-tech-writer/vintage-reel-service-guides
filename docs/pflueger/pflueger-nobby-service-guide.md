@@ -12,7 +12,7 @@
 - pflueger-nobby-1963-remove-spool-2.jpg
 -->
 
-This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater fishing and trolling use, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various models were in production from 1935 to 1971.
+This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater fishing and trolling use, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various models were in production from 1935 to 1971 and much of the information here can be applied to all the models.
 
 The [Pflueger Nobby overview](pflueger-nobby-overview.md) provides more details on the various models, history, specifications, colors and finishes, and features of this reel. The overview also explains how to integrate this reel into a balanced tackle outfit for practical field use.
 
@@ -103,7 +103,7 @@ If the spare is not in the compartment - it's been used by some long-ago fisherm
 
 ## Difficulty and time estimate
 
-Easy - 1 hour
+**Easy - 1 hour**
 
 **Difficulty:** For an experienced DIY person this is an easy procedure. Even for beginners, this is a good reel to start on as it is very simple and designed to be easily serviced in the field. There are a few challenges, but these are covered in the following procedures so anyone should be able to follow along.
 
@@ -125,16 +125,17 @@ All directions assume you are looking at the front of the reel, with the reel up
 
 Take a picture prior to each step so later you will know how parts were oriented, etc. Keep a legal pad and pencil handy to make notes and draw diagrams.
 
-1. **Remove the crank nut and crank / handle.**
+1. Remove the crank nut and crank / handles.
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing crank / handle 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)![Pflueger Nobby No. 1963 - removing crank / handle 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-2.jpg)
+    ![Pflueger Nobby No. 1963 - removing crank / handle 3](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-3.jpg)
     <figcaption>Pflueger Nobby model No. 1963 - removing crank / handles</figcaption>
     </figure>
 
     Use a 3/8" socket wrench. A screwdriver can also be used but the socket has the virtue of being less likely to damage the nut, especially if it is hard to turn.
 
-2. **Remove the cap screws (3).**
+2. Remove the cap screws (3).
 
     <figure markdown>
     ![Pflueger Nobby No. 1963 - removing cap screws 1](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-screws-1.jpg)![Pflueger Nobby No. 1963 - removing cap screws 2](../../img/pflueger/nobby/pflueger-nobby-1963-remove-cap-screws-2.jpg)

@@ -20,9 +20,9 @@ Fly rods, as with most things fly fishing, tend to be more expensive and the buy
 
 This kind of testing can be done in your yard or anyplace with at least 50 to 75 feet of clear space for casting. If this is convenient to your workspace (e.g., your garage), so much the better. There is no need to go to the water or fish in order to test reels, and in fact casting should be practiced at home to improve your fishing experience when you do go into the field.
 
-Having a range of weights for the size reels you are working with is important. For example, the [Penn 720 Spinfisher](penn-720-overview.md) can cast lures in the 1/8 to 1/2 oz. range, so it will be useful to test it with 1/8, 1/4, 3/8, and 1/2 oz. weights.
+Having a range of weights for the size reels you are working with is important. For example, the [Penn 720 Spinfisher](../penn-720-overview.md) can cast lures in the 1/8 to 1/2 oz. range, so it will be useful to test it with 1/8, 1/4, 3/8, and 1/2 oz. weights.
 
-In practical field-use terms, if you are planning to do mostly freshwater fishing for smaller bass and sunfish you could assemble a [balanced tackle](balanced-tackle.md) setup with a Penn 720, an ultralight 6'6" spinning rod, and 4 or 6 lb. test line; with this setup you would get the best results with lures in the 1/8 to 3/8 oz. range, so that is the range you would want to use for testing. A set can be made very easily and inexpensively using just a range of egg sinkers and some monofilament.
+In practical field-use terms, if you are planning to do mostly freshwater fishing for smaller bass and sunfish you could assemble a [balanced tackle](balanced-tackle-duty-ratings.md) setup with a Penn 720, an ultralight 6'6" spinning rod, and 4 or 6 lb. test line; with this setup you would get the best results with lures in the 1/8 to 3/8 oz. range, so that is the range you would want to use for testing. A set can be made very easily and inexpensively using just a range of egg sinkers and some monofilament.
 
 [Egg sinkers](https://www.fishusa.com/Eagle-Claw-Egg-Sinkers/) are inexpensive and offered in a wide variety of weights. Buy weights matched to the type of reels and fishing you plan to do. Applying a spray of bright colored paint, red or yellow, will help you to locate the inevitable lost weight out in the yard, or up in a tree.
 

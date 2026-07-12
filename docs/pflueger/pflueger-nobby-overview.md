@@ -44,7 +44,7 @@ Over the next few decades it evolved through several models, reflecting both cha
 
 **1930s**: Pflueger copyrighted the name in 1935 and in that year began production of the model shown in this overview, model *No. 1963*. Initial production featured a blue anodized aluminum finish, examples of which are rare today, apparently because the early anodization process was not very durable. In 1936 the satin aluminum (sometimes referred to as "nickalum") finish was introduced, and the grease disc was added to facilitate easy maintenance.
 
-**1940s**: In 1941 the cork arbor replaced the original aluminum arbor (the spool was still aluminum). 1948 saw the handle color change from the original marble to tan.
+**1940s**: In 1941 the cork arbor replaced the original aluminum arbor (the spool was still aluminum). 1948 saw the handle color change from the original cream marble to tan.
 
 **1950s**: In 1954 model *No. 1963C* was introduced, with satin chromium finish and white plastic handles. 1957 saw the original *No. 1963* replaced by the *No. 1960 Deluxe*, sporting a maroon finish and tan handles. The *Deluxe* Nobby was designed with a number of features for tournament casting, including hollowed-out gears. In 1958 a snap-on plastic arbor was offered, which meant anglers could use less backing line and still fill the spool for easier casting.
 
@@ -74,11 +74,11 @@ The Nobby sported a simple but stylish script logo, inscribed into the cap along
 <figcaption>Logo and model number</figcaption>
 </figure>
 
-The various models and years of production saw the Nobby offered in a variety of colors and finishes. The representative example reel featured in this overview sports the satin "nickalum" finish, in production after 1936, and the cream marbled crank handles, used prior to 1948.
+The various models and years of production saw the Nobby offered in a variety of colors and finishes. The representative example reel featured in this overview sports the satin aluminum - referred to in some places by Pflueger as "nickalum" - finish, in production after 1936, and the cream marbled crank handles, used prior to 1948.
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - handle macro](../../img/pflueger/nobby/pflueger-nobby-1963-handle-macro.jpg)
-<figcaption>Handles - marbled</figcaption>
+<figcaption>Handles - cream marbled - pre-1948</figcaption>
 </figure>
 
 The [History and models](#history-and-models) section provides a compact tabular summary of all the various colors across all models and years.
@@ -112,7 +112,7 @@ In practical terms, 3 or 4 partial turns gets to the "click" point when tension 
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - clicker side](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-annot.jpg)
-<figcaption>Clicker</figcaption>
+<figcaption>Clicker control</figcaption>
 </figure>
 
 <figure markdown>
@@ -161,7 +161,7 @@ The arbors were made of aluminum until 1941, when they began to be made of cork,
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - cork arbor](../../img/pflueger/nobby/pflueger-nobby-1963-cork-arbor-front-ref.jpg)
-<figcaption>Cork arbor, for easier casting</figcaption>
+<figcaption>Cork arbor - for easier casting</figcaption>
 </figure>
 
 ## Balanced tackle outfits
@@ -174,6 +174,8 @@ Rod | Line lb. test | Lures oz.
 5'2", 5'8" light or medium | 15 | 1/2 - best, 3/8 & 5/8 - good
 5'2", 5'8" medium | 20 | 5/6 - best, 3/8, 1/2, 3/4 - good
 4'6", 5'2" heavy | 25 | 3/4 and up
+
+Based on these ratings, a good starter outfit could be a 6' light-action rod, 12 lb. test monofilament, aiming to cast mostly lures in the 3/8 - 1/2 oz. range. This outfit would be considered "sporty," to make common smaller gamefish feel more challenging. Another good possibility would be a 5'8" light- to medium- action rod with 14 or 15 lb. test line, which would probably perform somewhat better with mostly 1/2 oz. lures. This outfit would be suitable for freshwater casting or trolling, and lighter saltwater casting - provided the reel is rinsed thoroughly after saltwater use.
 
 These ratings are derived from both manufacturer documentation and the balanced tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing*. For details on this method see [Duty ratings](../balanced-tackle-duty-ratings.md).
 

@@ -37,8 +37,6 @@ Use this TOC as a map for this guide. Click the link to go to that section.
 
   - [Bench testing](#bench-testing)
 
-  - [Additional procedures](#additional-procedures)
-
   - [References](#references)
 
 ## Videos
@@ -77,7 +75,7 @@ If you just acquired the reel, [remove the line from the spool](../removing-addi
 
 Since not all parts of a reel may need the same level of attention, servicing is divided into sections.
 
-**Disassembly and assessment**: The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly. Simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated old grease and contaiminants like sand and salt, you will need to follow the entire disassembly procedure. While disassembling the reel you can note and assess any issues.
+**Disassembly and assessment**: The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly. Simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated old grease and contaminants like sand and salt, you will need to follow the entire disassembly procedure. While disassembling the reel you can note and assess any issues.
 
 If the disassembly requires more than five to seven steps it will generally be divided into sections to make the procedure easier to follow and to provide some logical breaks.
 

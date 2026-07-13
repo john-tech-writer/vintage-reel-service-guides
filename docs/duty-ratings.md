@@ -8,7 +8,7 @@ Shakespeare's *Secrets of Successful Fishing* gives separate tables for baitcast
 
 For example, for baitcasting reels 10 lb. monofilament is classified at the high end of ultra-light tackle and the low end of sporty tackle - for a spinning reel, that same line weight is at the high end of *medium* and low end of *medium-heavy* tackle. This is partly because baitcasting tackle is traditionally used for larger fish species.
 
- While there may be some variation in how different writers of that era classified different types of reels, [Henry Shakespeare](https://www.shakespeare-fishing.com/pages/about-us) has very good credentials, so this is the primary text being used.
+While there may be some variation in how different writers of that era classified different types of reels, [Henry Shakespeare](https://www.shakespeare-fishing.com/pages/about-us) has very good credentials, so this is the primary text being used.
 
 ## An Example of the method
 

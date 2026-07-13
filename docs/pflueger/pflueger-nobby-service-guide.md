@@ -1,25 +1,27 @@
 # Pflueger Nobby model No. 1963 service guide
 
-This is a detailed, step-by-step illustrated service procedure for the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater fishing and trolling use, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various models were in production from 1935 to 1971 and much of the information here can be applied to all the models.
+This step-by-step illustrated procedure will guide you through the process of servicing the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater casting and trolling, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various [models](nobby-models.md) were in production from 1935 to 1971 and much of the information here can be applied to all the models.
 
 The [Pflueger Nobby overview](pflueger-nobby-overview.md) provides more details on the various models, history, specifications, colors and finishes, and features of this reel. The overview also explains how to integrate this reel into a balanced tackle outfit for practical field use.
 
-While this guide is specifically focused on the Pflueger Nobby, the larger purpose is to help you feel more confident with any small mechanical project - but especially fishing reels! You don’t have to know how to fix anything to start learning that you actually *can*.
+While this guide is specifically focused on the Pflueger Nobby, the larger purpose is to help you feel more confident of your ability to learn to fix things - especially fishing reels! You don’t have to know how to fix anything to start learning that you actually *can*. We're all beginners at some point.
 
-As we work through this procedure together, you'll learn a lot of basic skills that can be easily transferred to other similar reels, and as you explore other parts of the library and media stack you can learn more about why these reels are so special and how they can connect the past with the present with a little help from us.
+As we work through this procedure together, you'll learn a lot of basic skills that can be easily transferred to other similar reels, and as you explore other parts of the library and media stack you can learn more about why these reels are so special and how they can connect good things from the past with the present, with a little help from us.
 
 <figure markdown>
-![Pflueger Nobby model 1963 - removing crank](../../img/pflueger/nobby/pflueger-nobby-1963-remove-crank-1.jpg)
-<figcaption>Nobby on the bench - removing the crank</figcaption>
+![Pflueger Nobby model 1963 - checking the gears](../../img/pflueger/nobby/pflueger-nobby-1963-check-gears.jpg)
+<figcaption>Checking the gears</figcaption>
 </figure>
 
-## Section overview
+## Table of contents
 
-Use this mini-index as a map for this guide. Click on the links to go to that section.
+Use this TOC as a map for this guide. Click the link to go to that section.
+
+  - [Videos](#videos)
 
   - [Before you begin](#before-you-begin)
 
-  - [Parts of a complete service and videos](#parts-of-a-complete-service-and-videos)
+  - [Parts of a complete service](#parts-of-a-complete-service)
 
   - [Typical issues](#typical-issues)
 
@@ -39,15 +41,11 @@ Use this mini-index as a map for this guide. Click on the links to go to that se
 
   - [References](#references)
 
-## Before you begin
+## Videos
 
-Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison.
+Watching the YouTube videos first is a good way to get an overall feel for the reel and the service procedures.
 
-If you just acquired the reel, [remove the line from the spool](../removing-adding-line.md). There is no way to determine the age or condition of the line on a newly acquired vintage reel, so it makes sense to start with new line as the final part of servicing a reel. This also allows you to inspect the arbor to determine what type of material it is made of (this will help date the reel) and clean it along with the rest of the parts.
-
-## Parts of a complete service and videos
-
-The *overview* video provides a quick look at this reel's features.
+**Overview video**: provides a quick look at this reel's features.
 
 [Watch the Pflueger Nobby model No. 1963 overview on YouTube:](https://youtu.be/ZDQlTf7cjkY)
 <a href="https://youtu.be/ZDQlTf7cjkY" target="_blank" rel="noopener">
@@ -57,15 +55,7 @@ The *overview* video provides a quick look at this reel's features.
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
 
-The *service* videos show you how to disassemble, clean, lubricate, and reassemble this reel.
-
-*Disassembly and reassembly videos coming soon.*
-
-Since not all parts of a reel may need the same level of attention, the servicing is divided into sections. Watching the YouTube videos first is a good way to get an overall feel for the procedure. The step-by-step illustrated instructions that follow are useful at the bench as you work on the reel for specifics.
-
-**Disassembly and assessment** The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly. Simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated old grease and contaiminants like sand and salt, you will need to follow the entire disassembly procedure. While disassembling the reel you can note and assess any issues.
-
-**Cleaning and lubricating:** After disassembling the gears, all the parts, including the housing, should be cleaned and lubricated. Since this is generally the same for all vintage reels, one generic video covers the basics. Any special considerations are detailed in the service guide for each reel.
+**Service videos**: show you how to disassemble, clean, lubricate, and reassemble this reel.
 
 Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/LsqoT7lD7cw)
 <a href="https://www.youtube.com/watch?v=LsqoT7lD7cw" target="_blank" rel="noopener">
@@ -75,13 +65,31 @@ Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
 
-**Reassembly and testing:** As the reel is reassembled, various mini-tests can be performed along the way to catch any minor issues and avoid having to take the reel completely apart again. After the reel is completely reassembled there are several bench tests that should be performed to make sure it is ready for field use.
+*Disassembly and reassembly videos coming soon.*
+
+## Before you begin
+
+Complete an [initial evaluation](../initial-evaluation.md) of the reel. All vintage reels should be evaluated and tested before starting any work on them to provide a baseline for later comparison.
+
+If you just acquired the reel, [remove the line from the spool](../removing-adding-line.md). There is no way to determine the age or condition of the line on a newly acquired vintage reel, so it makes sense to start with new line as the final part of servicing a reel. This also allows you to inspect the arbor to determine what type of material it is made of (this will help date the reel) and clean it along with the rest of the parts.
+
+## Parts of a complete service
+
+Since not all parts of a reel may need the same level of attention, servicing is divided into sections.
+
+**Disassembly and assessment**: The housing must be disassembled to inspect the gears. If a reel has been well-maintained it may not need further disassembly. Simply lubricate the gears and other lubrication points and put the housing back together. If, however, the gears have accumulated old grease and contaiminants like sand and salt, you will need to follow the entire disassembly procedure. While disassembling the reel you can note and assess any issues.
+
+If the disassembly requires more than five to seven steps it will generally be divided into sections to make the procedure easier to follow and to provide some logical breaks.
+
+**Cleaning and lubricating**: After disassembling the gears, all the parts, including the housing, should be cleaned and lubricated. Since this is generally the same for all vintage reels, a generic video and service page cover the basics. Special considerations for each reel are detailed in the service guide for each reel.
+
+**Reassembly and testing**: As the reel is reassembled, various mini-tests can be performed along the way to catch any minor issues and avoid having to take the reel completely apart again. After the reel is completely reassembled there are several bench tests that should be performed to make sure it is ready for field use.
 
 ## Typical issues
 
-Any vintage reel may not crank easily and smoothly if it has not been serviced (or not serviced correctly) for a long time. Vintage reels tend to accumulate old, hardened grease, possibly mixed with sand and grit. Hardened grease and grit tend to immobilize internal parts that need to move freely - like the gears and pinons - and may prevent them from meshing correctly.
+Vintage reels tend to accumulate old, hardened grease, possibly mixed with sand and grit. Hardened grease and grit tend to immobilize internal parts that need to move freely - like the gears and pinons - and may prevent them from meshing correctly. The reel may not crank easily and smoothly if it has not been serviced (or not serviced correctly) for a long time. 
 
-**Clicker**: Hardened grease and grit can prevent the clicker from engaging. If you turn the handle, try the clicker button in both positions, and don't hear a click, hardened grease is a likely suspect. A simple disassembly, cleaning and lubrication, and reassembly will often fix many issues without needing to repair or replace any parts.
+**Clicker**: Hardened grease and grit can prevent the clicker from engaging. If you turn the handle, try the clicker button in both positions, and don't hear a click, hardened grease is a likely suspect. Simple servicing the reel will often fix many issues like this without needing to repair or replace any parts.
 
 **Shaft and level wind**: On the Nobby, like many baitcasting reels, the shaft is a more exposed part. Since it is more exposed to the elements it is more likely to have grit and / or hardened grease in the grooves, which will prevent the pawl and guide block from traveling back and forth correctly, so the crank will not turn smoothly and the level wind will not work properly. Again, a thorough cleaning and lubrication will often correct this without having to replace any parts to perform additional repairs.
 

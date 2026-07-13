@@ -1,6 +1,6 @@
 # Pflueger Nobby model No. 1963 service guide
 
-This step-by-step illustrated procedure will guide you through the process of servicing the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater casting and trolling, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various [models](nobby-models.md) were in production from 1935 to 1971 and much of the information here can be applied to all the models.
+This step-by-step illustrated procedure will guide you through the process of servicing the Pflueger Nobby model No. 1963 baitcasting reel. This medium‑ to heavy‑duty baitcasting reel is generally intended for freshwater casting and trolling, although it may be used for saltwater if rinsed and dried thoroughly after each field trip. Various [models](pflueger-nobby-models.md) were in production from 1935 to 1971 and much of the information here can be applied to all the models.
 
 The [Pflueger Nobby overview](pflueger-nobby-overview.md) provides more details on the various models, history, specifications, colors and finishes, and features of this reel. The overview also explains how to integrate this reel into a balanced tackle outfit for practical field use.
 
@@ -340,16 +340,21 @@ You can now perform several general functional tests before taking the reel into
 
 5. When turning the crank make sure the guide block travels smoothly back and forth across the shaft. This ensures that the level wind mechanism is working correctly and will wind line evenly onto the spool on retrieve.
 
-Common issue: If the pawl was not seated correctly on reassembly, or if any grit found its way into the grooves on the shaft, the guide block will not travel smoothly across the shaft. In this case loosen the guide block cover screw as in [Disassembly I](#Disassembly-i), remove the pawl, and re-seat it. It may take a few tries and some finesse to get it seated correctly. Then re-tighten the guide block screw and re-test.
+Common issue: If the pawl was not seated correctly on reassembly, or if any grit found its way into the grooves on the shaft, the guide block will not travel smoothly across the shaft. In this case loosen the guide block cover screw as in [Disassembly I](#disassembly-i), remove the pawl, and re-seat it. It may take a few tries and some finesse to get it seated correctly. Then re-tighten the guide block screw and re-test.
 
 <figure markdown>
 ![Pflueger Nobby No. 1963 - removing pawl](../../img/pflueger/nobby/pflueger-nobby-1963-remove-pawl-2.jpg)
 <figcaption>Removing the pawl</figcaption>
 </figure>
 
+Any tight spots or noises at this stage tell you to **stop** and recheck your work before calling the service complete. Go back through the service procedures as necessary to troubleshoot. Most issues can be traced back to some gear, pinion, pawl, or shaft not being aligned properly with its companion parts.
+
 If all this works, you can call it ready to fish.
 
-Any tight spots or noises at this stage tell you to **stop** and recheck your work before calling the service complete. Go back through the service procedures as necessary to troubleshoot. Most issues can be traced back to some gear, pinion, pawl, or shaft not being aligned properly with its companion parts.
+<figure markdown>
+![Flounders](../../img/pflueger/nobby/flounders-half-page-cropped-auto-contrast-levels.jpg)
+<figcaption>The flounders are waiting!</figcaption>
+</figure>
 
 ## References
 

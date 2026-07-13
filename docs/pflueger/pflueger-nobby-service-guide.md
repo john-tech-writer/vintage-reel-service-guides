@@ -266,12 +266,7 @@ The grease disc allows you to grease the gears and pinions without disassembling
 <figcaption>Grease disc</figcaption>
 </figure>
 
-Most of the controls for the reel are on the crank side. There is a small hole in the crank nut (in the center of the crank) which allows you to oil the crank without disassembling the gears. Simply poisition the tip of the oil applicator at the opening and apply a drop or two of oil. Again, less is best.
-
-<figure markdown>
-![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4-annot.jpg)
-<figcaption>Handle-side features: ABL, extra pawl, grease disc, and oil cup</figcaption>
-</figure>
+There is a small hole in the crank nut (in the center of the crank) which allows you to oil the crank without disassembling the gears. Simply poisition the tip of the oil applicator at the opening and apply a drop or two of oil. Again, less is best.
 
 You are now ready to re-assemble the gears and housing.
 
@@ -336,7 +331,12 @@ You can now perform several general functional tests before taking the reel into
     <figcaption>Clicker control</figcaption>
     </figure>
 
-4. Rotate the ABL button until it clicks - this should be about four or five turns. This is the zero tension setting. Try pulling some line from the spool - with the clicker off you should feel no resistance. Then rotate the ABL one or two turns and try pulling some line from the spool again - you should feel some resistance. Another turn of the ABL should put a bit more tension on the spool.
+4. Rotate the ABL button clockwise until it clicks - this should be about 2 1/2 complete turns. Right after the ABL button clicks is the zero tension setting. Try rotating the crank / handles - with the tension at zero you should feel no resistance. Then rotate the ABL one turn and turn the crank again - you should feel some resistance. Turning the ABL further should put more tension on the spool until the ABL button clicks and resets to zero. The ABL, along with most of the other controls, are on the crank side. 
+
+<figure markdown>
+![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4-annot.jpg)
+<figcaption>Handle-side features: ABL, extra pawl, grease disc, and oil cup</figcaption>
+</figure>
 
 5. When turning the crank make sure the guide block travels smoothly back and forth across the shaft. This ensures that the level wind mechanism is working correctly and will wind line evenly onto the spool on retrieve.
 

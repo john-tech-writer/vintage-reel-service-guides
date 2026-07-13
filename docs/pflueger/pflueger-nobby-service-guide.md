@@ -320,40 +320,42 @@ The finished reel should be ready for bench testing.
 
 ## Bench testing
 
-You can now perform several general functional tests before taking the reel into the field:
+You can now perform several general functional tests before taking the reel into the field. As a basic general rule, if you turn the crank and there is any resistance or if there are any odd noises, **stop** and recheck your work because forcing the crank further may damage the reel. Go back through the service procedures as necessary to troubleshoot. Most issues can be traced back to some gear, pinion, pawl, or shaft not being aligned properly with its companion parts.
 
-1. With the clicker **disengaged / off**: Make sure the crank turns smoothly in both directions.
+Besides smooth, mostly silent action when turning the crank, the following functions should be checked:
 
-2. With the clicker **engaged / on**: Make sure you can hear the clicker when the crank is turned. This should also prevent the spool from turning easily.
+**Clicker**: With the clicker **disengaged / off**, make sure the crank turns smoothly in both directions.
 
-    <figure markdown>
-    ![Pflueger Nobby No. 1963 - clicker](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-annot.jpg)
-    <figcaption>Clicker control</figcaption>
-    </figure>
+With the clicker **engaged / on**, make sure you can hear the clicker when the crank is turned. This should also prevent the spool from turning easily.
 
-4. Rotate the ABL button clockwise until it clicks - this should be about 2 1/2 complete turns. Right after the ABL button clicks is the zero tension setting. Try rotating the crank / handles - with the tension at zero you should feel no resistance. Then rotate the ABL one turn and turn the crank again - you should feel some resistance. Turning the ABL further should put more tension on the spool until the ABL button clicks and resets to zero. The ABL, along with most of the other controls, are on the crank side. 
+<figure markdown>
+![Pflueger Nobby No. 1963 - clicker](../../img/pflueger/nobby/pflueger-nobby-1963-clicker-annot.jpg)
+<figcaption>Clicker control</figcaption>
+</figure>
+
+**ABL**: Rotate the ABL button clockwise until it clicks - this should be about 2 1/2 complete turns. Right after the ABL button clicks is the zero tension setting. Rotate the crank / handles - with the tension at zero you should feel no resistance.
+
+Then rotate the ABL one turn and turn the crank again - you should feel some resistance. Turning the ABL further should put more tension on the spool until the ABL button clicks and resets to zero. The ABL, along with most of the other controls, is on the crank side. 
 
 <figure markdown>
 ![Pflueger Nobby model 1963 - handle side](../../img/pflueger/nobby/pflueger-nobby-1963-handle-side-4-annot.jpg)
 <figcaption>Handle-side features: ABL, extra pawl, grease disc, and oil cup</figcaption>
 </figure>
 
-5. When turning the crank make sure the guide block travels smoothly back and forth across the shaft. This ensures that the level wind mechanism is working correctly and will wind line evenly onto the spool on retrieve.
+**Level wind**: Turn the crank / handles. Make sure the guide block travels smoothly back and forth across the shaft. This means that the level wind mechanism is working correctly and will wind line evenly onto the spool on retrieve.
 
-Common issue: If the pawl was not seated correctly on reassembly, or if any grit found its way into the grooves on the shaft, the guide block will not travel smoothly across the shaft. In this case loosen the guide block cover screw as in [Disassembly I](#disassembly-i), remove the pawl, and re-seat it. It may take a few tries and some finesse to get it seated correctly. Then re-tighten the guide block screw and re-test.
+If the pawl was not seated correctly on reassembly, or if any grit found its way into the grooves on the shaft, the guide block will not travel smoothly across the shaft. In this case loosen the guide block cover screw as in [Disassembly I](#disassembly-i), remove the pawl, and re-seat it. It may take a few tries and some finesse to get it seated correctly. Then re-tighten the guide block screw and re-test.
 
 <figure markdown>
 ![Pflueger Nobby No. 1963 - removing pawl](../../img/pflueger/nobby/pflueger-nobby-1963-remove-pawl-2.jpg)
 <figcaption>Removing the pawl</figcaption>
 </figure>
 
-Any tight spots or noises at this stage tell you to **stop** and recheck your work before calling the service complete. Go back through the service procedures as necessary to troubleshoot. Most issues can be traced back to some gear, pinion, pawl, or shaft not being aligned properly with its companion parts.
-
 If all this works, you can call it ready to fish.
 
 <figure markdown>
 ![Flounders](../../img/pflueger/nobby/flounders-half-page-cropped-auto-contrast-levels.jpg)
-<figcaption>The flounders are waiting!</figcaption>
+<figcaption>The fish are waiting!</figcaption>
 </figure>
 
 ## References

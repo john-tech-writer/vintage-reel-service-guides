@@ -106,4 +106,6 @@ Goldberg, Jacob M., inventor. Fishing Reel. [United States patent US 2,571,440](
 
 ## Dictionaries and other general references
 
-Webster's New Twentieth Century Dicitonary, unabridged, 2nd ed. Edited by Jean L. McKechnie, et. al. 1983. Simon & Schuster. Prentice Hall Press, NY.
+Webster's New Twentieth Century Dictionary, unabridged, 2nd ed. Edited by Jean L. McKechnie, et. al. 1983. Simon & Schuster. Prentice Hall Press, NY.
+
+[Common gamefish](common-gamefish.md)

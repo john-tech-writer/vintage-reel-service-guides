@@ -188,6 +188,6 @@ These ratings are derived from both manufacturer documentation and the balanced 
   - ibid. *Pflueger Free Spool Nobby* (manual)
   - ibid. *Pflueger Trade Catalog 95* (1937)
   - The Pfluegers. *Pflueger Nobby Level Wind Fishing Reel* (box insert)
-  - Webster's New Twentieth Century Dicitonary
+  - Webster's New Twentieth Century Dictionary
 
 For full source details, see [References](../references.md).

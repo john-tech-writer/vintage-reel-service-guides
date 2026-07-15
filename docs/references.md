@@ -40,6 +40,11 @@ Shakespeare, Henry. *Secrets of Successful Fishing.* Dell Publishing Co., 1962.
 
   - Comprehensive field guide to all types of fishing from a mid-century American perspective. Describes all types of reels, rods, lines, terminal tackle, lures, how to create balanced tackle outfits, and fishing methods. Includs many diagrams showing how to cast, where to locate fish, and various types of lures.
 
+The Book of Fishes. Edited by John Oliver La Gorce. 1939. National Geographic Society. Washington, D.C. https://commons.wikimedia.org/wiki/File:The_book_of_fishes_(IA_bookoffishes00nati_0).pdf
+
+  - A early-mid-century survey of fishes in America. Plates by Hashime Murayama and others. Digitized in the public domain.
+
+
 ## Manuals and box inserts
 
 Manuals for vintage reels often took the form of small box inserts. If a box insert is literally titled "manual," that is how it will be listed here. If not, it will be listed simply as a box insert.

@@ -72,7 +72,7 @@ Line lb. test | yds.
 
 ## Balanced Tackle Outfits
 
-These specifications are for both the Penn 720 and 722.
+These specifications are for both the Penn 720 and 722 and are from the reel's instruction manual.
 
 Rod | Line lb. test | Lures oz.
 -|-|-
@@ -81,6 +81,22 @@ Rod | Line lb. test | Lures oz.
 6'6" light action | 4 - 8 | 1/4 - 1/2
 7' light action | 4 - 10 | 1/4 - 1/2
 
+Shakespeare's more general recommendations for spinning tackle are slightly different:
+
+Rod | Line lb. test | Lures oz.
+-|-|-
+6'6" - 7' extra light, light | 2 - 6 | 1/8 - 3/8
+6'6" - 7' light | 4 - 8 | 1/4 - 1/2
+6'6" - 7' medium | 6 - 10 | 3/8 - 3/4
+7' - 8'6" saltwater class | 10 - 15 | 1/2 - 1
+
+Comparing these two sources, it's reasonable to assume that the manufacturer's box insert for that specific reel is more exactly correct for the 720 / 722. Another consideration here is that Penn probably - and rightly - considered other, heavier reels in the Spinfisher series to be more appropriate for heavier use.
+
+On the other hand, Shakespeare's recommendations suggest that this reel could be suitable for targeting larger species although the last category (saltwater class) seems to be at the outer limits of what make sense for this reel.
+
 ## References
 
-[References](../references.md)
+  - Penn Fishing Tackle Mfg. Co. *Instruction Manual Spinfisher 720, et al*
+  - Shakespeare, *Secrets of Successful Fishing* (1962)
+
+For full source details, see [References](../references.md)

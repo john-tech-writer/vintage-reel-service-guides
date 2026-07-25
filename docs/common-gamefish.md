@@ -22,14 +22,14 @@ The suggestions for vintage tackle outfits are fairly general and come from Shak
 
 Since bass range from 1 - 3 pounds up to 20 + pounds, a wide range of outfits can work, depending on the fishery.
 
-**Baitcasting**: [Pflueger Nobby model No. 1963](../pflueger/pflueger-nobby-overview.md)
+**Baitcasting**: [Pflueger Nobby model No. 1963](pflueger/pflueger-nobby-overview.md)
 
 Rod | Line lb. test | Lures oz.
 -|-|-
 5'8", 6' light | 12 | 3/8 - best, 1/4 & 1/2 - good
 5'2", 5'8" light or medium | 15 | 1/2 - best, 3/8 & 5/8 - good
 
-**Spinning**: [Penn 720](../penn/penn-720-overview.md)
+**Spinning**: [Penn 720](penn/penn-720-overview.md)
 
 Rod | Line lb. test | Lures oz.
 -|-|-

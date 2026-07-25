@@ -16,6 +16,21 @@ This appendix is a growing collection of artwork depicting common American gamef
 <figcaption>Black bass - micropterus salmoides - from the Pflueger 1935 catalog</figcaption>
 </figure>
 
+### Example vintage tackle outfits for bass
+
+**Baitcasting**: [Pflueger Nobby model No. 1963](pflueger-nobby-overview.md)
+
+Rod | Line lb. test | Lures oz.
+-|-|-
+5'8", 6' light | 12 | 3/8 - best, 1/4 & 1/2 - good
+5'2", 5'8" light or medium | 15 | 1/2 - best, 3/8 & 5/8 - good
+
+**Spinning**: [Penn 720](penn-720-overview.md)
+
+Rod | Line lb. test | Lures oz.
+-|-|-
+7' light action | 10 | 1/4 - 1/2
+
 ## Flounder
 
 ## Muskellunge (muskie)

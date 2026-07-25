@@ -76,10 +76,10 @@ These specifications are for both the Penn 720 and 722.
 
 Rod | Line lb. test | Lures oz.
 -|-|-
-5'6" light action | 2--6 | 1/8--1/2
-6' light action | 4--8 | 1/4--1/2
-6'6" light action | 4--8 | 1/4--1/2
-7' light action | 4--10 | 1/--1/2
+5'6" light action | 2 - 6 | 1/8 - 1/2
+6' light action | 4 - 8 | 1/4 - 1/2
+6'6" light action | 4 - 8 | 1/4 - 1/2
+7' light action | 4 - 10 | 1/4 - 1/2
 
 ## References
 

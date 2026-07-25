@@ -18,6 +18,10 @@ The suggestions for vintage tackle outfits are fairly general and come from Shak
 <figcaption>Black bass - micropterus salmoides - from the Pflueger 1935 catalog</figcaption>
 </figure>
 
+Species | Comments
+-|-
+![Black bass - from Pflueger 1935 catalog](../../img/fish/black-bass-w-text.jpg) | Wide range of sizes
+
 ### Example vintage tackle outfits for bass
 
 Since bass range from 1 - 3 pounds up to 20 + pounds, a wide range of outfits can work, depending on the fishery.

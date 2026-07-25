@@ -20,6 +20,8 @@ Each ../ goes up one level in the dir structure, so two levels up would be ../..
 
 For example, `[Disassembly I](#disassembly-I)` will link to `##Disassembly I`
 
+From a file in `/docs/` (a general file like references.md) up to one of the reel files like `/penn/penn-720-overview.md`: `[link text]([dir]/[filename]`, e.g., `[Penn 70 overview](penn/penn-overview.md)`
+
 ### Adding links to site navigation
 
 In root add filename to `mkdocs.yml`:

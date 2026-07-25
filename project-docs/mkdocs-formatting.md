@@ -105,3 +105,11 @@ Main points: Number starts at right margin, blank lines must be truly blank, no 
 
 2. Remove the cap screws (3).
 
+## Mermaid tables
+
+Usage: to create a two-column format, for example, images in one column and text in the other.
+
+Species | Comments
+-|-
+![Black bass - from Pflueger 1935 catalog](../../img/fish/black-bass-w-text.jpg) | Wide range of sizes
+

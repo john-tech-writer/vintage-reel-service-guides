@@ -55,7 +55,7 @@ Watching the YouTube videos first is a good way to get an overall feel for the r
 
 **Service videos**: show you how to disassemble, clean, lubricate, and reassemble this reel.
 
-Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/LsqoT7lD7cw)
+[Watch Cleaning and Lubrication for Vintage Reels on YouTube](https://youtu.be/LsqoT7lD7cw)
 <a href="https://www.youtube.com/watch?v=LsqoT7lD7cw" target="_blank" rel="noopener">
   <img
     src="https://img.youtube.com/vi/LsqoT7lD7cw/hqdefault.jpg"
@@ -63,7 +63,21 @@ Watch on YouTube: [Cleaning and Lubrication for Vintage Reels](https://youtu.be/
     style="max-width: 100%; height: auto; cursor: pointer;">
 </a>
 
-*Disassembly and reassembly videos coming soon.*
+[Watch Service Part 1 - Disassembly on YouTube](https://youtu.be/https://youtu.be/Q2kWHNo627I)
+<a href="https://www.youtube.com/watch?v=https://youtu.be/Q2kWHNo627I" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/https://youtu.be/Q2kWHNo627I/hqdefault.jpg"
+    alt="Cleaning and lubrication for vintage reels video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
+
+[Watch Service Part 2 - Resassembly and Testing on YouTube](https://youtu.be/https://youtu.be/https://youtu.be/Dr5moU4hotE)
+<a href="https://www.youtube.com/watch?v=https://youtu.be/https://youtu.be/Dr5moU4hotE" target="_blank" rel="noopener">
+  <img
+    src="https://img.youtube.com/vi/https://youtu.be/https://youtu.be/Dr5moU4hotE/hqdefault.jpg"
+    alt="Cleaning and lubrication for vintage reels video"
+    style="max-width: 100%; height: auto; cursor: pointer;">
+</a>
 
 ## Before you begin
 

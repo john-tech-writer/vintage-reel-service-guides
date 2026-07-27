@@ -50,18 +50,21 @@ Over the next few decades it evolved through several models, reflecting both cha
 
 The following table summarizes the various models, variations, and production timeline:
 
-Model | Production years | Colors | Features
----------|--|--|
-        *No. 1963* | 1935 - 1957 | blue / satin aluminum<br>cream marbled handles | level wind<br>grease disc
-       *No. 1963C* | 1954 - 1971 | satin chromium<br>white handles | -
-       *No. 1960 Deluxe* | 1957 - 1960 | maroon<br>tan handles | hollow gears<br>nylon bearings<br>cork arbor
-      *No. 1965 Free Spool* | 1964 - 1971 | red<br>gray marbled handles | push-button free spool<br>star drag
+Model | Production years | Colors | New features
+--|--|--|--
+*No. 1963* | 1935 | blue anodized aluminum<br>cream marbled handles | aluminum spool<br>level wind
+- | 1936 - 1947 | satin aluminum<br>cream marbled handles | grease disc
+- | 1941 | - | cork arbor
+- | 1948 - 1957 | satin aluminum<br>tan handles | -
+*No. 1963C* | 1954 - 1971 | satin chromium<br>white handles | "diamolite" cap
+*No. 1960 Deluxe* | 1957 - 1967 | maroon anodized aluminum<br>tan handles → <br>later years . . .<br>gray marbled handles | hollow gears<br>nylon bearings<br>smaller aluminum crank
+*No. 1965 Free Spool* | 1964 - 1971 | red anodized aluminum<br>gray marbled handles | push-button free spool<br>star drag
 
 [Pflueger Nobby models](pflueger-nobby-models.md) provides vintage catalog images of all the various models.
 
 ### Dating the example reel
 
-The model *No. 1963* was produced from 1935 - 1957 and the satin aluminum finish was introduced after 1936. Cork arbors were introduced after 1941 and the cream marbled handles indicate a pre-1948 vintage, so this reel was likely made between 1941 and 1948. This means the reel shown in this overview is (as of writing July 2026) about 78 to 85 years old, and after servicing, still works perfectly.
+The model *No. 1963* was produced from 1935 - 1957 and the satin aluminum finish was introduced in 1936. Cork arbors were introduced starting in 1941 and the cream marbled handles indicate a pre-1948 vintage. Based on the finish, arbor material, and handle color - cross-referenced against ORCA archive articles - this reel was most likely made between 1941 and 1947. This means the reel shown in this overview is (as of writing July 2026) about 79 to 85 years old, and after servicing, still works perfectly.
 
 ## Logo, colors, and finishes
 

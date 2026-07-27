@@ -2,9 +2,12 @@
 
 ## No. 1963
 
-Production years | Colors | Features
+Production years | Colors | New features
 --|--|--
-1935 - 1957 | blue / satin aluminum<br>cream marbled handles | level wind<br>grease disc
+1935 | blue anodized aluminum<br>cream marbled handles | aluminum spool<br>level wind
+1936 - 1947 | satin aluminum<br>cream marbled handles | grease disc
+1941 | - | cork arbor
+1948 - 1957 | satin aluminum<br>tan handles | -
 
 <figure markdown>
 ![Pflueger Nobby model No. 1963 - from the 1955 catalog](../../img/pflueger/nobby/pflueger-nobby-no1963-1955-cat.jpg)
@@ -15,9 +18,9 @@ Production years | Colors | Features
 
 Production years | Colors | Features
 --|--|--
-1954 - 1971 | satin chromium<br>white handles | -
+1954 - 1971 | satin chromium<br>white handles | "diamolite" cap
 
-The *No. 1963C* was basically the original Nobby with a satin chromium finish.
+The *No. 1963C* was basically the original Nobby with a satin chromium finish and a "diamolite" cap.
 
 <figure markdown>
 ![Pflueger Nobby model No. 1963C - from the 1959 catalog](../../img/pflueger/nobby/pflueger-nobby-no1963c-1959-cat.jpg)
@@ -28,7 +31,7 @@ The *No. 1963C* was basically the original Nobby with a satin chromium finish.
 
 Production years | Colors | Features
 --|--|--
-1957 - 1960 | maroon<br>tan handles | hollow gears<br>nylon bearings<br>cork arbor
+1957 - 1960 | maroon anodized aluminum<br>tan handles → <br>later years . . .<br>gray marbled handles | hollow gears<br>nylon bearings<br>smaller aluminum crank
 
 The *No. 1960* was designed with a number of features intended for tournament casting, including hollowed-out gears and nylon bushings.
 

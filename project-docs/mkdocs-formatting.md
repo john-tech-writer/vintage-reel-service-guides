@@ -105,11 +105,59 @@ Main points: Number starts at right margin, blank lines must be truly blank, no 
 
 2. Remove the cap screws (3).
 
-## Mermaid tables
+## Tables
 
-Usage: to create a two-column format, for example, images in one column and text in the other.
+Usage: formatted tables. note that this does not depend on Mermaid, which is only for flowcharts and similar elements.
 
 Species | Comments
 -|-
 ![Black bass - from Pflueger 1935 catalog](../../img/fish/black-bass-w-text.jpg) | Wide range of sizes
+
+Model | Production years | Colors | Features
+--|--|--|
+*No. 1963* | 1935 - 1957 | blue / satin aluminum<br>cream marbled handles | level wind<br>grease disc
+*No. 1963C* | 1954 - 1971 | satin chromium<br>white handles | -
+*No. 1960 Deluxe* | 1957 - 1967 | maroon<br>tan handles | hollow gears<br>nylon bearings<br>cork arbor
+*No. 1965 Free Spool* | 1964 - 1971 | red<br>gray marbled handles | push-button free spool<br>star drag
+
+Troubleshooting: if table does not format correctly when built:
+
+  - count the pipe-split segments in the separator row and compare against the header's cell count
+  - check Encoding > UTF-8
+  - check blank lines before / after table
+
+# Creating a two-column layout
+
+Usage: for example, creating pages with images on one side and text on the other.
+
+What actually works well: md_in_html + a custom CSS class
+
+Good news — your mkdocs.yml already has everything needed for the clean approach (attr_list and md_in_html are both already enabled, and you've got extra_css: stylesheets/extra.css wired up). This pattern works with any theme, not just Material — it's core Python-Markdown behavior:
+
+In the page markdown:
+
+<div class="two-col" markdown="1">
+<div class="two-col-img" markdown="1">
+![Nobby cover engraving](../images/nobby-cover.jpg)
+</div>
+<div class="two-col-text" markdown="1">
+Text about the Nobby's history goes here, and it can include **markdown** formatting, links, etc.
+</div>
+</div>
+
+Then add this once to stylesheets/extra.css:
+
+.two-col {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin: 1.5rem 0;
+}
+.two-col-img { flex: 0 0 40%; }
+.two-col-img img { width: 100%; height: auto; display: block; }
+.two-col-text { flex: 1; }
+
+@media (max-width: 768px) {
+  .two-col { flex-direction: column; }
+}
 

@@ -1,6 +1,6 @@
 # Vintage Reel Service Guides
 
-This site's main purpose is to provide detailed, illustrated service procedures for mid‑priced, mid-century American‑made fishing reels. It also provides overview information on the various reels. This is a growing and evolving repository for service and repair guides and background information on reels of all types--spinning, spincast (push-button), baitcasting, and fly-fishing reels.
+This site's main purpose is to provide detailed, illustrated service procedures for mid‑priced, mid-century American‑made fishing reels. It also provides overview information on the various reels. This is a growing and evolving repository for service and repair guides and background information on reels of all types - spinning, spincast (push-button), baitcasting, and fly-fishing reels.
 
 This library exists not only to create and preserve reel repair knowledge, but to help you build confidence in your own fix‑it skills — skills you can carry into anything for a long time to come.
 

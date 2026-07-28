@@ -8,13 +8,15 @@ The first baitcasting reels were made by watchmakers in early 19th century Kentu
 
 Mid-century baitcasting reels all share a single basic design. Well-known makers like Shakespeare, Pflueger, Langley, and Ambassadeur all used a typically round frame in this era; later, more modern baitcasting reels would evolve into a more low-profile design. Various makers and models evolved a fairly short set of internal features that helped make the reels easier to use:
 
-- Level wind
+- Level wind: on retrieve, winds the line evenly onto the spool.
 
-- Free‑spool
+- Free spool: on early baitcasters the handles revolved along with the spool when casting - with free spool, the handles can be disengaged from the spool.
 
-- Anti‑backlash
+- Anti‑backlash: usually a control knob on the side of the reel which allows the angler to apply more tension to the spool so that it revolves less freely when casting - this allows adjusting for various lure weights and casting conditions.
 
-- Various braking types, for example, cast control caps and centrifugal
+- Drag / star drag: allows the angler to apply / vary resistance to the spool when playing a fish.
+
+Gear ratios are not a feature, but part of a reel's specifications, and indicate how many times the spool revolves for each revolution of the crank / handle. For example, 4:1 is common, meaning the spool revolves 4 times for each turn of the crank / handle.
 
 ## Important Manufacturers and Models
 

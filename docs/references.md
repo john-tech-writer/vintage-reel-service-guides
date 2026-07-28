@@ -107,11 +107,11 @@ Miller, Bob. "The Pflueger Nobby - A Few Surpises." *The Reel News* 13, no. 3 (2
 
 Note: When searching the https://ppubs.uspto.gov/basic/ patent office site enter patent numbers only - without commas or spaces. If the number is less than 7 digits, add leading 0 character(s) to make 7 total.
 
-Goldberg, Jacob M., inventor. Fishing Reel. United States patent 2,571,440. 1951 Oct 16.
+Goldberg, Jacob M., inventor. Fishing Reel. [United States patent 2,571,440](magic/magic-fishing-reel-patent.pdf). 1951 Oct 16.
 
   - Describes the mechanics and operation of the reel marketed as the Magic Fishing Reel, includes schematics.
 
-Shakespeare, William, Jr., inventor. Fish-Line Reel. United States patent 591,086. 1897 Oct 5.
+Shakespeare, William, Jr., inventor. Fish-Line Reel. [United States patent 591,086](baitcasting/level-wind-patent-figs-1-2.png). 1897 Oct 5.
 
   - Schematics of the first reel with a level-wind mechanism, includes functional description.
 

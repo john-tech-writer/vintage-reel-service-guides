@@ -18,6 +18,27 @@ Mid-century baitcasting reels all share a single basic design. Well-known makers
 
 Gear ratios are not a feature, but part of a reel's specifications, and indicate how many times the spool revolves for each revolution of the crank / handle. For example, 4:1 is common, meaning the spool revolves 4 times for each turn of the crank / handle.
 
+### Level wind history
+
+The level-wind mechanism is so basic to the modern baitcasting reel and so intertwined with one of the most well-known names in fishing tackle manufacturing that it deserves a bit more historical background. William Shakespeare, Jr. developed the first successful level‑wind reel in 1896, and it was patented on October 5, 1897. He began marketing that "Style C" level‑wind reel commercially soon after, around 1897–1900.
+
+Key dates:
+
+  - 1896: Shakespeare perfects a functional twin worm‑gear level‑wind mechanism and builds his first successful reel using it.
+
+  - May 13, 1897: Files his U.S. patent application for a “fish‑line reel” with the level‑wind mechanism.
+
+  - October 5, 1897: Granted U.S. Patent No. 591,086 for the level‑winding reel.
+
+  - Circa 1897–1900: The patented reel is sold as the Shakespeare "Style C" level‑wind reel, regarded as his first commercial level‑wind offering to the tackle marketplace.
+
+So, in historical context, he introduces the level‑wind mechanism to the reel market in the late 1890s, anchored by the 1897 patent and the subsequent sale of the Style C reel. Shakespeare went on to found one of the most successful fishing tackle manufacturing companies in America.
+
+<figure markdown>
+![Level-wind patent - Figs. 1 and 2](../../img/baitcasting/level-wind-patent-figs-1-2.png)
+<figcaption>Shakespeare's level-wind patent - Figs. 1 and 2</figcaption>
+</figure>
+
 ## Important Manufacturers and Models
 
 **Pfleuger:** The [Nobby](pflueger/pflueger-nobby-service-guide.md). The versatile and simple little Nobby covers a lot of balanced tackle ground as it will accommodate 12 to 30 lb. test line, so it will fit into balanced tackle outfits from sporty to heavy duty; it will work for everything from bass to heavy duty freshwater trolling and saltwater casting.
@@ -54,4 +75,11 @@ So, how light you are willing to go for a given fish species is also a considera
 
 Remember with balanced tackle outfits the main consideration is the lure weight--what you are going to be *casting* determines what rod, reel, and line will work best. And backing up a bit more to actual field conditions, what species and size fish you are after determines what lures you will be using.
 
+
+## References
+
+  - Shakespeare, William, Jr. United States patent US 591,086 (1897)
+  - Shakespeare, Henry. *Secrets of Successful Fishing* (1962)
+
+For full source details, see [References](../references.md).
 [References](references.md)

@@ -20,6 +20,11 @@ This provides an angler-focused approach to vintage reels - you can start with t
 <figcaption>Black bass - micropterus salmoides - from the Pflueger 1935 catalog</figcaption>
 </figure>
 
+<figure markdown>
+![Small- and large-mouth bass - murayama](../../img/fish/bass-cropped-auto-contrast-levels-1800px.jpg)
+<figcaption>Small- (L) and large-mouth (R) bass - painting by H. Murayama</figcaption>
+</figure>
+
 ### Example vintage tackle outfits for bass
 
 Since bass range from 1 - 3 pounds up to 20 + pounds, a wide range of outfits can work, depending on the fishery.
@@ -49,4 +54,4 @@ Rod | Line lb. test | Lures oz.
   - The Book of Fishes. Edited by John Oliver La Gorce (1939)
   - The Enterprise Manufacturing Co. *Pocket Catalog No. 155* (1935)
 
-For full source details, see [References](../references.md).
+For full source details, see [References](references.md).

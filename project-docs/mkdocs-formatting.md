@@ -18,6 +18,8 @@ Each ../ goes up one level in the dir structure, so two levels up would be ../..
   
   - Within the same file / page: `[display text](#heading-text)
 
+Notes: if within same file type link is used as a list, e.g., a TOC / nav, each entry must be separated by a blank line and bulleted in order to display correctly as a list.
+
 For example, `[Disassembly I](#disassembly-I)` will link to `##Disassembly I`
 
 From a file in `/docs/` (a general file like references.md) up to one of the reel files like `/penn/penn-720-overview.md`: `[link text]([dir]/[filename]`, e.g., `[Penn 70 overview](penn/penn-overview.md)`

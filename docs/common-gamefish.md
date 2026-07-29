@@ -43,6 +43,15 @@ Rod | Line lb. test | Lures oz.
 
 ## Bluegill
 
+*lepomis macrochirus*
+
+The standard scientific name for Bluegill in most American tackle and outdoor literature up through the 1930s (as in the catalog art below) was *lepomis pallidus*. In 1940 American ichthyologists changed the species name to *macrochirus*. In 1948 the joint [American Fisheries Society](https://fisheries.org/books-journals/writing-tools/names-of-fishes-searchable-version/) and the American Society of Ichthyologists and Herpetologists (AFS/ASIH) names committee published its first authoritative checklist of American fish names, which locked in *macrochirus* as the official name of record used ever since.
+
+<figure markdown>
+![Sunfish - from Pflueger 1935 catalog](../../img/fish/sunfish-w-text.jpg)
+<figcaption>Sunfish - lepomis pallidus - from the Pflueger 1935 catalog</figcaption>
+</figure>
+
 ## Bonefish
 
 ## Crappie
@@ -68,11 +77,6 @@ Including Atlantic and steelhead species.
 ## Striped Bass
 
 ## Sunfish
-
-<figure markdown>
-![Sunfish - from Pflueger 1935 catalog](../../img/fish/sunfish-w-text.jpg)
-<figcaption>Sunfish - lepomis pallidus - from the Pflueger 1935 catalog</figcaption>
-</figure>
 
 ## Tarpon
 

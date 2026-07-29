@@ -52,6 +52,10 @@ Cacioppo, Michael. "Servicing a Penn Spinfisher 710 Spinning Reel," in *Cleaning
 
   - Illustrated procedure, cover disassembly and reassembly. Some of the information can be generalized to the other reels in the Penn Spinfishers series, provides a good starting point to work out specific procedures for other similar reels.
 
+Fichter, George S. and Phil Francis. *A Guide to Fresh and Salt-Water Fishing.* Western Publishing Co., 1965.
+
+  - One of books from the Golden Handbook series, an introductory field guide including descriptions and illustrations of fish species, baits, tackle, and fishing methods.
+
 Shakespeare, Henry. *Secrets of Successful Fishing.* Dell Publishing Co., 1962.
 
   - Comprehensive field guide to all types of fishing from a mid-century American perspective. Describes all types of reels, rods, lines, terminal tackle, lures, how to create balanced tackle outfits, and fishing methods. Includs many diagrams showing how to cast, where to locate fish, and various types of lures.

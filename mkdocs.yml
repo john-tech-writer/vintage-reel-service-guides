@@ -39,6 +39,7 @@ nav:
 
   - References - Manuals - Schematics:
       - References: references.md
+      - Common Gamefish: common-gamefish.md
 theme:
   name: readthedocs
 plugins:

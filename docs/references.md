@@ -22,7 +22,7 @@ This references page tells you where specific information in these guides comes 
 
   - Some entries provide direct links to schematics or the documents containing them; these are typically documents owned and scanned by Vintage Reel Service Guides, or documents from open-source archives, like the US Patent Office.
 
-  - Some entries provide links to other sites or archives. Some of these sites, for example, [The Old Reel Collector's Association]((https://www.orcaonline.org/), charge non-members a nominal fee for downloading manuals and schematics per document; members can download documents free. ORCA provides valuable services to the entire vintage reel enthusiast community and the fees go toward supporting these services.
+  - Some entries provide links to other sites or archives. Some of these sites, for example, [The Old Reel Collector's Association](https://www.orcaonline.org/), charge non-members a nominal fee for downloading manuals and schematics per document; members can download documents free. ORCA provides valuable services to the entire vintage reel enthusiast community and the fees go toward supporting these services.
   
 Other documents listed here, like books and articles, are less directly important for service procedures but provide background information that will be of interest to the vintage reel enthusiast. Some provide information about field use, like how to create balanced tackle outfits, how to cast effectively, and how to fish using specific methods like trolling.
 
@@ -127,12 +127,10 @@ Goldberg, Jacob M., inventor. Fishing Reel. [United States patent 2,571,440](mag
 
   - Describes the mechanics and operation of the reel marketed as the Magic Fishing Reel, includes schematics.
 
-Shakespeare, William, Jr., inventor. Fish-Line Reel. [United States patent 591,086](baitcasting/level-wind-patent-figs-1-2.png). 1897 Oct 5.
+Shakespeare, William, Jr., inventor. Fish-Line Reel. [United States patent 591,086](baitcasting/level-wind-patent.pdf). 1897 Oct 5.
 
   - Schematics of the first reel with a level-wind mechanism, includes functional description.
 
 ## Dictionaries and other general references
 
 Webster's New Twentieth Century Dictionary, unabridged, 2nd ed. Edited by Jean L. McKechnie, et. al. 1983. Simon & Schuster. Prentice Hall Press, NY.
-
-[Common gamefish](common-gamefish.md)

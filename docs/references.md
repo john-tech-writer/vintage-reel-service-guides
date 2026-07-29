@@ -3,10 +3,15 @@
 The references are grouped into sections by source type. Click the link to go to that section.
 
 [Books](#books)
+
 [Manuals and box inserts](#manuals-and-box-inserts)
+
 [Catalogs](#catalogs)
+
 [Journal and newsletter articles](#journal-and-newsletter-articles)
+
 [Patents](#patents)
+
 [Dictionaries and other general references](#dictionaries-and-other-general-references)
 
 ## About the references

@@ -6,6 +6,8 @@ A second purpose for this collection is to match target species with guidelines 
 
 This provides an angler-focused approach to vintage reels - you can start with the species you intend to target and determine what vintage reel would work best for that species, and in combination with what rods, lines, and lure weights.
 
+The range of fish here is taken from Shakespeare's *Secrets of Successful Fishing* and reflects the focus of this site, which is on small- to large gamefish, but specifically excluding big-game fish, e.g., marlin, sailfish, and swordfish because this type of fishing is a specialty sport of its own and deserves separate treatment. This site intentionally focuses on species that the average mid-century (an 21st-century) American angler would target, not the big-game sportsman.
+
 ## Bass
 
 Including large-mouth, small-mouth, rock, spotted, and white species.

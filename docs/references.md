@@ -1,10 +1,21 @@
 # References
 
+The references are grouped into sections by source type. Click the link to go to that section.
+
+[Books](#Books)
+[Manuals and box inserts](#Manuals-and-box-inserts)
+[Catalogs](#Catalogs)
+[Journal and newsletter articles](#Journal-and-newsletter-articles)
+[Patents](#Patents)
+[Dictionaries and other general references](#Dictionaries-and-other-general-references)
+
+## About the references
+
 This references page tells you where specific information in these guides comes from and how to locate the original sources for follow‑up. To see which documents were used for a particular reel, check the References section at the end of that reel’s overview and service guide.
 
 *Schematics and manuals* are the most important documents for service procedures so all *known* manuals and schematics are listed here in one of two ways:
 
-  - Some entries provide direct links to schematics or the documents containing them; these are typically documents owned and scanned by Vintage Reel Service Guides, or documents from open-source archives.
+  - Some entries provide direct links to schematics or the documents containing them; these are typically documents owned and scanned by Vintage Reel Service Guides, or documents from open-source archives, like the US Patent Office.
 
   - Some entries provide links to other sites or archives. Some of these sites, for example, [The Old Reel Collector's Association]((https://www.orcaonline.org/), charge non-members a nominal fee for downloading manuals and schematics per document; members can download documents free. ORCA provides valuable services to the entire vintage reel enthusiast community and the fees go toward supporting these services.
   

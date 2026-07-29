@@ -6,14 +6,9 @@ A second purpose for this collection is to match target species with guidelines 
 
 This provides an angler-focused approach to vintage reels - you can start with the species you intend to target and determine what vintage reel would work best for that species, and in combination with what rods, lines, and lure weights.
 
-## Sunfish
-
-<figure markdown>
-![Sunfish - from Pflueger 1935 catalog](../../img/fish/sunfish-w-text.jpg)
-<figcaption>Sunfish - lepomis pallidus - from the Pflueger 1935 catalog</figcaption>
-</figure>
-
 ## Bass
+
+Including large-mouth, small-mouth, rock, spotted, and white species.
 
 <figure markdown>
 ![Black bass - from Pflueger 1935 catalog](../../img/fish/black-bass-w-text.jpg)
@@ -22,7 +17,7 @@ This provides an angler-focused approach to vintage reels - you can start with t
 
 <figure markdown>
 ![Small- and large-mouth bass - murayama](../../img/fish/bass-cropped-auto-contrast-levels-1800px.jpg)
-<figcaption>Small- (L) and large-mouth (R) bass - painting by H. Murayama</figcaption>
+<figcaption>Small- (R) and large-mouth (L) bass - painting by H. Murayama</figcaption>
 </figure>
 
 ### Example vintage tackle outfits for bass
@@ -44,9 +39,46 @@ Rod | Line lb. test | Lures oz.
 6'6" - 7' light | 4 - 8 | 1/4 - 1/2
 6'6" - 7' medium | 6 - 10 | 3/8 - 3/4
 
+## Bluegill
+
+## Bonefish
+
+## Crappie
+
 ## Flounder
 
+## Grayling
+
 ## Muskellunge (muskie)
+
+## Northern Pike
+
+## Perch
+
+## Pickerel
+
+## Salmon
+
+Including Atlantic and steelhead species.
+
+## Snook
+
+## Striped Bass
+
+## Sunfish
+
+<figure markdown>
+![Sunfish - from Pflueger 1935 catalog](../../img/fish/sunfish-w-text.jpg)
+<figcaption>Sunfish - lepomis pallidus - from the Pflueger 1935 catalog</figcaption>
+</figure>
+
+## Tarpon
+
+## Trout
+
+Including brook, brown, cutthroat, lake, and rainbow species.
+
+## Walleye
 
 ## References
 

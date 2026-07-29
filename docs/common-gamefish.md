@@ -1,8 +1,10 @@
 # Common American gamefish and suggested tackle outfits
 
-This appendix is a growing collection of artwork depicting common American gamefish. This artwork comes from various period sources, including books and fishing tackle manufacturer's catalogs.
+This appendix is a growing collection of mid-century natural history artwork depicting common American gamefish. This artwork comes from various period sources, including books and fishing tackle manufacturer's catalogs.
 
-The suggestions for vintage tackle outfits are fairly general and come from Shakespeare's *Secrets of Successful Fishing*." More specific suggestions are provided in the overviews for each reel.
+A second purpose for this collection is to match target species with guidelines for assembling balanced vintage tackle outfits. These suggestions are fairly general and come from Shakespeare's *Secrets of Successful Fishing*." More specific tackle outfits are provided in the overviews for each reel.
+
+This provides an angler-focused approach to vintage reels - you can start with the species you intend to target and determine what vintage reel would work best for that species, and in combination with what rods, lines, and lure weights.
 
 ## Sunfish
 

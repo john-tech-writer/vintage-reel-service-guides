@@ -121,7 +121,7 @@ Miller, Bob. "The Pflueger Nobby - A Few Surpises." *The Reel News* 13, no. 3 (2
 
 ## Patents
 
-Note: When searching the https://ppubs.uspto.gov/basic/ patent office site enter patent numbers only - without commas or spaces. If the number is less than 7 digits, add leading 0 character(s) to make 7 total.
+Note: When searching the [US Patent Office Public Search Basic site](https://ppubs.uspto.gov/basic/) enter patent numbers only - without commas or spaces. If the number is less than 7 digits, add leading 0 character(s) to make 7 total.
 
 Goldberg, Jacob M., inventor. Fishing Reel. [United States patent 2,571,440](magic/magic-fishing-reel-patent.pdf). 1951 Oct 16.
 

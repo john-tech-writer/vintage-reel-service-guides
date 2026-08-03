@@ -1,5 +1,9 @@
 # Project Backlog / Parking Lot
 
+## Implement some ideas from Munsell's color model
+
+7.31.26: I'd found the books via Internet Archive and P. convo exploring the ideas is in workspace `/project development-background/artwork-munsell-color-model`
+
 ## Implement Pandoc
 
 See in workspace `/project development-background/pandoc quick start.docx`

@@ -30,6 +30,10 @@ Pfueger Pelican 1021 manual pick-up open face spinning reel
 
 These reels have already been acquired so are ready to be documented.
 
+## Penn Spinfisher series and other spinners of note
+
+See workspace `/project development-background/content-penn-spinfisher-series-discussion`
+
 ## Volume 2
 Pflueger Pelican 1020/1020A open face spinning reel
   - 5.20.26: Acquired, also manual from ORCA.

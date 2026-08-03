@@ -107,13 +107,17 @@ For closer macro shots f8, .4 s seems to work [need to doc distance, 1 / should 
 
 ### m.zuiko digital ED 30 mm 1:3.5 macro lens
 
-30mm macro default setup: M, ISO 200, f11, 1/10 s, 2 s timer, fixed focal length = 30 mm, camera distance X (see diagram), custom WB from white card.
+30mm macro default setup (starting point): M, ISO 200, f11, 1/10 s, 2 s timer, fixed focal length = 30 mm, camera distance X (see diagram), custom WB from white card.
+
+f8, f9 work too. 
 
 magnification is from 1/4 x - 1.25 x
-subject distance = .20 mm - .095 mm
+
+subject distance = .20 mm - .095 mm (.02 cm - ~ < 1 cm). Getting this close is challenging, depth of field drops off to almost zero, so focus is challenging, definitely manual adjustment is required
+
 exposure comp. = + 1/3 - +2 (not needed for auto mode)
 
-Practical working distances: about 20 cm for full‑reel hero shots (≈0.25×), and roughly 6 cm for tight badge/part details (≈1–1.25×).
+Practical working distances: about 20 cm for full‑reel hero shots (≈0.25×), and roughly 6 cm for tight badge/part details (≈1–1.25×). So this is not true macro usage, but it works. The 14-42mm may work as well for most of this sort of thing.
 
 Usable aperture range tested: f7.1 to f13 all producing solid images, with plans to compare f8 vs f11 more carefully at the hero distance.
 

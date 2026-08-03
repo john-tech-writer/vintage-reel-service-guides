@@ -178,7 +178,7 @@ Rod | Line lb. test | Lures oz.
 
 Based on these ratings, a good starter outfit could be a 6' light-action rod, 12 lb. test monofilament, aiming to cast mostly lures in the 3/8 - 1/2 oz. range. This outfit would be considered "sporty," to make common smaller gamefish feel more challenging. Another good possibility would be a 5'8" light- to medium- action rod with 14 or 15 lb. test line, which would probably perform somewhat better with mostly 1/2 oz. lures. This outfit would be suitable for freshwater casting or trolling, and lighter saltwater casting - provided the reel is rinsed thoroughly after saltwater use.
 
-These ratings are derived from both manufacturer documentation and the balanced tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing*. For details on this method see [Duty ratings](../balanced-tackle-duty-ratings.md).
+These ratings are derived from both manufacturer documentation and the balanced tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing*. For details on this method see [Duty ratings](../duty-ratings.md).
 
 ## References
 

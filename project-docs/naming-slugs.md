@@ -1,8 +1,6 @@
 # Naming and slugs
 
-**Let the real work teach what the theory should look like**. As project content is developed, the workflow can also be abstracted and made concrete. Workflow documentation informs ongoing content development and the content development in turn informs the evolution of the workflow. This includes processes, naming standards, software tools, and all the rest of the machinery that moves the project forward and makes content stylistically coherent and repeatable.
-
-Iterations on lived examples result in constant improvement.
+Disciplined naming of directories and files keeps large projects more manageable. As this project goes through iteratations and refactors it's expected that the naming conventions and standards will evolve. This document is where it all gets documented.
 
 ## Slugs
 

@@ -10,6 +10,26 @@ Best‑practice pattern for document templates / skeletons development:
 
 The form is never blank - it always provides both real content plus minimal commentary. Over time, after a few of these combo docs stabilize, a more generic template can always be abstracted from it if that is needed for speed or sharing (a sanitized version, for example, for a generic how-to project on the repo).
 
+## Philosophy and development guidelines
+
+Skeletons should enable authoring to be consistent within a given media stack / series and enable the author to avoid re‑inventing structure, sections, content types, and flow for each new document. Skeletons usually start as stripped-down versions of completed documents, with specific language mostly removed to make the skeleton reusable, while preserving the pacing and voice for the overall authorial presence for the stack. In other words, a finished doc is authored first, then the skeleton is abstracted from that, not the other way around. It's the codified wisdom contained in a developed doc.
+
+The process for a new doc / series type / skeleton, roughly:
+
+  - Draft a general doc outline, including sections with headings (form and structure) and prompts for what content types should go in each section. With a general theme and a few idea-notes Perplexity generally does a very good job of rounding it out, so these can profitably be started as Perplexity conversations, then copied from the P. window and pasted into an md file, then lightly formatted for Markdown.
+
+For Substack posts and other online media it is better not to include markdown in the files since it will just have to be removed anyway when reformatting.
+
+  - For online media the md file can then be copied and pasted into a new online media article / post, depending on the media type, and saved as a draft (not published). It may need some reformatting. This can be saved online as a draft skeleton.
+
+  - The draft can then be copied / pasted into a new article and that can be developed into a draft post, then a published post. Most of this editing can be done in SS.
+
+  - As the post is developed on SS it can be copied and pasted into a local md file for backup and possible local authoring. There may be some back and forth between the two files, the main idea being to manually synch them from time to time as logical groups of edits are completed.
+
+The md files are very useful for sending to Perplexity because it does a very good job of reviewing them and providing constructive editing comments to develop the draft into a finished post with consistent voice, no redundancies, etc. The local md file will require a few differences in format, for example, instead of including images, the location and filename for the image file. Alternately images can just be less formally noted.
+
+  - When the draft skeleton > draft post > published final post process is complete, the skeleton - both the copy on SS and the local copy - should be manually synched with the finished draft,. then most of the post-specific content deleted so the skeleton is generalized enough to serve as the structural, etc. basis for all other posts in the series.
+
 ## Repo skeletons
 
 Live in the project folder `project-docs/repo skeletons/`
@@ -55,4 +75,19 @@ Workflow:
 In Substack > Posts > Drafts > open the skeleton for the type of post being drafted > select all / copy > Create > Article > paste > start drafting in Substack / paste into a new md doc > save in workspace `substack/[slug]/[slug]-[title].md
 
 There will be a good bit of back and forth between the Substack draft and local draft. After the local file is finalized and the post scheduled / published, append -final to filename.
+
+## Substack detailed workflow
+
+Each post will be based on, authored, and saved using the following series names and locations:
+
+  - **Substack skeletons** - in Substack `/posts / drafts [SKELETON] [series name]: [title pattern]` Starting form for new posts. Open, copy, paste into new article / post. Should be occasionally re‑synced if the skeleton changes.
+
+  - **Substack posts** - in Substack `/posts / drafts [series name]: [title]` > `/posts / [scheduled or published] [series name]: [title]` Drafts and final versions of posts on Substack.
+
+  - **Local copies of posts** - in workspace `/substack/[slug]/[slug].md` >`/substack/[slug]/[slug]-final.md` Local backup drafts and final versions of posts. Finals are canonical text of published posts on Substack. Use these for content diffing, quote reuse, and as a reference if Substack’s editor ever mangles something.
+
+  - **Local skeletons** - in workspace `/substack/templates-skeletons/[series-name]-skeleton.md` Conceptual pattern for each series: headings, section order, prompt comments, and only light example text. Use this to design or revise the structure of the series. Lock the local as “frozen reference,” and treat the pairing between local skeleton and Substack skeleton as the living thing you revise over time. Only edit structure in the local skeleton. For substantive changes, e.g., add / remove a section, update the Substack template to match and note the update in a change log in the skeleton’s header, like: 
+
+*Service guide skeleton (v1)*
+*Last synced to Substack template: 2026‑06‑11*
 

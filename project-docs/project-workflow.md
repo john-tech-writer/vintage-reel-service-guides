@@ -6,7 +6,11 @@ This file provides the basic roadmap for navigating, creating, and managing all 
 
 - [Parking lot](parking-lot.md): List of project upgrades and ideas for future iterations.
 
-## Inspiration
+## Workflow philosophy
+
+**Let the real work teach what the theory should look like**. As project content is developed, the workflow can also be abstracted and made concrete. Iterations on lived and living, dynamic examples result in constant improvement.
+
+Workflow documentation informs ongoing content development and the content development in turn informs the evolution of the workflow. This includes processes, naming standards, software tools, and all the rest of the machinery that moves the project forward and makes content stylistically coherent and repeatable.
 
 This file is the **one place** to always return to push the project a little further: cleaning dirs, tightening steps, wiring pieces together.
 

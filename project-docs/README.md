@@ -1,13 +1,15 @@
 # README - Project documentation
 
-This folder contains internal project documents for planning, organizing, and maintaining the Vintage Reel Service Guides repository and related workflow. These files support the working process behind the public site and help keep structure, naming, and production decisions documented.
+This folder contains internal project documents for planning, organizing, and maintaining the Vintage Reel Service Guides repository and related workflow. These files support the working process behind the public site and help keep structure, content, and production decisions documented.
 
-These are working documents for managing the project itself, not end-user service guide content. They reside in the project folder in `/project-docs/` and get pushed to the repo but are not included in site navigation.
+These are working documents for managing the project itself, not end-user service guide content. They reside in the project folder in `project-docs/` and get pushed to the repo but are not included in site navigation.
 
 
 ## Start here
 
-These internal documents are most easily accessed on the repo via [project workflow](project-workflow.md), which acts as the index page for project documentation on the repo. This file is the main process document for the project. It serves as the spine for the rest of the project documentation and describes the overall path from reel selection and research through writing, media production, publishing, and repository updates.
+These internal documents are most easily accessed on the repo via [project workflow](project-workflow.md), which acts as the index page for project documentation on the repo. project-workflow is the basic roadmap for navigating, creating, and managing all project content.
+
+This file is the main process document for the project. It serves as the spine for the rest of the project documentation and describes the overall path from reel selection and research through writing, media production, publishing, and repository updates.
 
 ## What lives here - key files
 

@@ -1,8 +1,10 @@
 # Duty ratings for reels
 
-Duty ratings (e.g., ultra-light, sporty, heavy duty) are important when deciding how to integrate a reel into a balanced tackle outfit. Balanced tackle tables are provided in each reel's overview page, for example, the [Pflueger Nobby overview](pflueger-nobby-overview.md).
+Duty ratings (e.g., ultra-light, sporty, heavy duty) are important when deciding how to integrate a reel into a balanced tackle outfit. Balanced tackle tables are provided in each reel's overview page, for example, the [Pflueger Nobby overview](pflueger/pflueger-nobby-overview.md).
 
 In these guides the duty ratings are derived from mid-century period sources. For each reel, original line recommendations from box inserts, manuals, or schematics are compared with the balanced tackle tables in Henry Shakespeare’s *Secrets of Successful Fishing* (1962) to determine the proper tackle class for that reel.
+
+Since these duty ratings are based on mid-century sources, when they refer to rods they are typically referring to fiberglass / glass rods. More modern rods are generally graphite, so if you want to combine a vintage reel with a modern rod you will need to work out a modern graphite equivalent to a mid-century glass rod.
 
 Shakespeare's *Secrets of Successful Fishing* gives separate tables for baitcasting, spinning, spincasting, and fly fishing tackle, so in Vintage Reel Service Guides we also break down these ratings by reel type. There is some overlap between the different types of reels but also significant differences due in part to the mechanics of the different reel types.
 

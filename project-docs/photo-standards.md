@@ -109,11 +109,16 @@ For closer macro shots f8, .4 s seems to work [need to doc distance, 1 / should 
 
 30mm macro default setup (starting point): M, ISO 200, f11, 1/10 s, 2 s timer, fixed focal length = 30 mm, camera distance X (see diagram), custom WB from white card.
 
-f8, f9 work too. 
+Other setting combos - these shutter speeds depend of course on lighting:
+
+  - f5.6 / 1/8
+  - f8 / 1/20
+  - f11 / 1/5
+
 
 magnification is from 1/4 x - 1.25 x
 
-subject distance = .20 mm - .095 mm (.02 cm - ~ < 1 cm). Getting this close is challenging, depth of field drops off to almost zero, so focus is challenging, definitely manual adjustment is required
+subject distance = .20 mm - .095 mm (.02 cm - ~ < 1 cm). Getting this close is challenging, depth of field drops off to almost zero, so focus is challenging, definitely manual adjustment is required. Tripod is best for getting this close - the smallrig arms are not good for fine adjustments.
 
 exposure comp. = + 1/3 - +2 (not needed for auto mode)
 

@@ -1,28 +1,39 @@
 # Naming and slugs
 
-## Reel slugs
+**Let the real work teach what the theory should look like**. As project content is developed, the workflow can also be abstracted and made concrete. Workflow documentation informs ongoing content development and the content development in turn informs the evolution of the workflow. This includes processes, naming standards, software tools, and all the rest of the machinery that moves the project forward and makes content stylistically coherent and repeatable.
+
+Iterations on lived examples result in constant improvement.
+
+## Slugs
 
 Each reel gets a *slug* that is used consistently across folders and filenames.
 
+As needed other items can be assigned slugs, for example, source documents about reels: `maker and reel docs/penn-700-series-manual.pdf`
+
+Generally the slugs should be as specific as possible while keeping them as short as possible while still providing a clear idea of the file content.
+
 ### Pattern
 
-- Base:  
-  `[maker]-[model]`
-  Example: `penn-720`
-- If there is a model number or size:
-  `[maker]-[model]-[model-number]`
-  Example: `pfleuger-pelican-1020`
-- If there is a variant:
-  `[maker]-[model]-[model-number](if applicable)-[variant]`
-  Example: `zebco-33-hudson-bay-red`
+  - Base:
+`[maker]-[model]`
+Example: `penn-720`
+
+  - If there is a model number or size:
+`[maker]-[model]-[model-number]`
+Example: `pfleuger-pelican-1020`
+
+  - If there is a variant:
+`[maker]-[model]-[model-number](if applicable)-[variant]`
+Example: `zebco-33-hudson-bay-red`
 
 ### Rules
 
-- All lowercase
-- Use hyphens between all words and codes
-- In general do not use production years-*may* be used to distinguish variants
+  - In filenames slugs come first
+  - All lowercase
+  - For files that are or likely will be pushed to the repo, use hyphens between all words and codes, no spaces - for some documents, e.g., project development docs, spaces may be used
+- In general do not use production years - *may* be used to distinguish variants
 
-### Where slugs are used-examples
+### Where slugs are used - examples
 
 Project folder
   - Overview: `docs/[maker]/[slug]-overview.md`
@@ -30,16 +41,8 @@ Project folder
 
 Workspace
   - Substack drafts: `.../substack/[slug]/[slug]-welcome-bench.md`
-  - etc.
-  - Video scripts: `.../youtube/[slug]-overview script.docx`
-  - etc.
+  - `maker and reel docs/maker/[slug]-manual.pdf`
 
 Media folders
-  - Pictures: `Pictures/vintage reel service guides/[maker]/[model]/[slug]-[desc].jpg`  ← all images
-  - Video: `Video/vintage reel service guides/[maker]/[model]/[overview, service guide]/[slug]-[desc].[mlt, mkv, rpp, wav, mp4]`
-
-.mlt = Shotcut project file
-.mkv = Shotcut file
-.mp4 = final output file for YouTube
-.wav = voiceover
-.rpp = Reaper file
+  - Pictures: `Pictures/vintage reel service guides/[maker]/[model]/[slug]-[desc].jpg`
+  - Video: `Video/vintage reel service guides/[maker]/[model]/[overview / service guide / #]/[slug]-[desc].[mlt / mkv / rpp / wav / mp4 / txt]`

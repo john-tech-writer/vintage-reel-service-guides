@@ -1,10 +1,10 @@
 # Project workflow
 
-This file is the index for all other project documentation. Other key files:
+This file provides the basic roadmap for navigating, creating, and managing all project content. Other key files:
 
-- [README](README.md): Orientation to the project documentation.
+- [README](README.md): Orientation to the internal project documentation.
 
-- [Parking lot](parking-lot.md): Listing of project upgrades to work on.
+- [Parking lot](parking-lot.md): List of project upgrades and ideas for future iterations.
 
 ## Inspiration
 
@@ -12,25 +12,21 @@ This file is the **one place** to always return to push the project a little fur
 
 Every pass makes the project flow better: clearer naming, better links, more honest reflection of how project work is actually accomplished, not some abstract ideal.
 
-Leaning on it solves decision fatigue: if the stack feels overwhelming--slugs/naming, badge/design, Substack/narrative, YouTube/video, reels/content sourcing--`project-workflow.md` can be opened, reviewed, worked on, and will move the project one notch higher. **That counts**.
+Leaning on it solves decision fatigue: if the stack feels overwhelming - slugs / naming, badge / design, Substack / narrative, YouTube / video, reels / content sourcing - `project-workflow.md` can be opened, reviewed, worked on, and will move the project one notch higher. **That counts**.
 
-## Naming and dirs
+## Naming and slugs
 
-Something very textbook‑good with the naming and dirs: testing conventions by actually *using* them, then adjusting the wording in `project-workflow.md` when friction is noticed. That’s exactly how robust naming schemes and workflows usually get built—by *terating on lived examples* rather than designing the whole system in the abstract.
+All reels and other project content sources are assigned a slug for easy and consistent identification across all directories and usages.
 
-**Let the real work teach what the theory should look like**. That’s why it feels like learning to think and write about it at the same time.
+See [Naming and slugs](naming-slugs.md)
 
-## Templates and examples
+## Templates and skeletons
 
-The pattern for document templates/examples being used in this project is a known best‑practice shape:
+All content is based on skeletons / templates which enforce evolving content standards and help jog memory and ideas.
 
-- A concrete worked example (existing published guide, reel stack, etc.).
+See [Skeletons and templates workflow](skeletons-templates-workflow.md)
 
--  Light inline guidance layered on top (italic hints: *here’s why this name works*, *this is where the template comes from*, etc.).
-
-That’s more powerful than a rigid empty template, because the form is never blank; it always provides both a real thing plus a little commentary. Over time, after a few of these combo docs stabilize, a more generic template can always be abstracted from it if that is needed for speed or sharing (a sanitized version, for example, for a generic how-to project on the repo).
-
-## The Workflow
+## Workflow
 
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 
@@ -44,6 +40,9 @@ That’s more powerful than a rigid empty template, because the form is never bl
 1. Take initial pictures of reel using [Photo Standards](photo-standards.md). Save to [Pictures](directory-layout.md) in `/maker and reel docs/[maker]/` as `[slug]-[desc].jpg`.
 
     See [Using grids and framing shots](using-grids-framing-shots.md) for a detailed discussion.
+
+Backup step (summary):
+After taking the initial pictures, sync updated project folders to Dropbox as described in backup-workflow.md.
 
 1. Open pictures folder using [XnView](https://www.xnview.com/en/xnview/) and edit as necessary:
     - Crop and rotate.

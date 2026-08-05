@@ -4,9 +4,9 @@
 
 For Olympus PL1 camera body.
 
-  - Use 3 x 3 grid.
-  
-  - Shoot white card for white balance: Press start / OK, select capture WB icon, press info, point camera at white card, press shutter, select yes. If the camera can't set WB based on what's in front of it - low light, etc. - there will be error message WB NG RETRY.
+- Use 3 x 3 grid.
+
+- Shoot white card for white balance: Press start / OK, select capture WB icon, press info, point camera at white card, press shutter, select yes. If the camera can't set WB based on what's in front of it - low light, etc. - there will be error message WB NG RETRY.
 
 Using focus modes - for lenses with manual focus ring (e.g., the macro lens):
 

@@ -24,19 +24,19 @@ Leaning on it solves decision fatigue: if the stack feels overwhelming - slugs /
 
 All reels and other project content sources are assigned a slug for easy and consistent identification across all directories and usages.
 
-See [Naming and slugs](naming-slugs.md)
+See [Naming and slugs](naming-slugs.md).
 
 ## Skeletons and templates
 
 All content is based on skeletons / templates which enforce evolving content standards and help jog memory and ideas.
 
-See [Skeletons and templates workflow](skeletons-templates-workflow.md)
+See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
 ## Workflow
 
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 
-    Add an entry for the reel in workspace `reference docs and books/reel collection.docx`. This file is a record of when each reel was acquired, cost, origin, and notes on what's been done/needs to be done for each reel.
+    Add an entry for the reel in workspace `reference docs and books/reel collection.docx`. This file is a record of when each reel was acquired, cost, origin, and notes on what's been done / needs to be done for each reel.
 
 2. Acquire all available documentation for the reel, save in workspace `maker and reel docs/[maker]/[slug]-[desc].[ext]` and add entries to [References](../docs/references.md).
 

@@ -35,29 +35,53 @@ Focal lengths, apertures, and shutter speeds will vary depending on the size of 
 For the Pflueger Nobby:
 
 Hero shots - angled, whole reel:
-- 35mm - f11 - 1/10 sec
+35mm - f11 - 1/10 sec
 
 Side shots - straight on:
-- 42mm - f5.6 - 1/60
+42mm - f5.6 - 1/60 sec
+
+Service guide shots - e.g., disassembly:
+15mm - f9 - 1/30, 1/20, 1/15 sec
+
+Closer:
+27mm / f9 / 1/25 sec
 
 Need to doc working distance - ~13" I think.
 
+For large-format book pages / manuals:
+22mm - f11 - 1/10
+28mm - f11 - 1/10
+
 ### m.zuiko digital ED 30 mm 1:3.5 macro lens
 
+Fixed 30mm focal length.
+
 Hero shots - angled, whole reel:
-- 30mm - f11 - 1/10 sec
+f11 - 1/10 sec
 
 Side shots - straight on:
-- 30mm - f5.6 - 1/50, 1/60,1/80 sec
-- 30mm - f11 - 1/25 sec
+f5.6 - 1/50, 1/60,1/80 sec
+f11 - 1/25 sec
 
-Closer shots of details:
-- 30mm - f8 - 1/13 sec
-- 30mm - f11 - 1/10 sec
+Closer shots of details - e.g., logos:
+f8 - 1/13 sec
+f11 - 1/10 sec
+f5.6 - 1/30 sec
 
-magnification is from 1/4 x - 1.25 x
+Closer - gears and parts around 1 - 2cm
+f11 - 1/2 sec
+f5.6 - 1/8, 1/6 sec
 
-subject distance = .20 mm - .095 mm (.02 cm - ~ < 1 cm). Getting this close is challenging, depth of field drops off to almost zero, so focus is challenging, definitely manual adjustment is required. Tripod is best for getting this close - the smallrig arms are not good for fine adjustments.
+For large-format book pages / manuals:
+f11 - 1/10
+
+Magnification is from 1/4 x - 1.25 x.
+
+Need to doc better what size image field will be for a given distance.
+- 1.5cm image field = ? working distance
+- 2.2cm image field = ? working distance
+
+Subject distance = .20 mm - .095 mm (.02 cm - ~ < 1 cm). Getting this close is challenging, depth of field drops off to almost zero, so focus is challenging, definitely manual adjustment is required. Tripod is best for getting this close - the smallrig arms are not good for fine adjustments.
 
 exposure comp. = + 1/3 - +2 (not needed for auto mode)
 
@@ -67,21 +91,15 @@ Usable aperture range tested: f7.1 to f13 all producing solid images, with plans
 
 Focusing workflow that finally felt comfortable: MF Assist off, using MF or S‑AF+MF as needed, with the focus ring behaving predictably on the PL1.
 
-## Grids
+### Grids
 
-To turn on and select type.
+In the Olympus PL1. To turn on and select type:
 
 MENU > [two gears icon] > DISP/PC > /INFO SETTING > LV-Info > Displayed Grid [4 types or off]
 
-During shooting use INFO to toggle selected grid on/off.
+During shooting use INFO to toggle selected grid on / off.
 
 For details see in the workspace `photo-video-grids-framing.md`, also see PL-1 manual p. 44.
-
-## Framing / positioning
-
-Heros:  Reel positioned as if mounted on rod, for example, for spinning reels the foot should be at top. Reel front facing left, center of front lower 3rd, handle side facing camera, handle at diagonal.
-
-For detailed discussion and ideas, see in the workspace `photo-video-grids-framing.md`
 
 ## Basic photos - initial session for new reels
 
@@ -95,16 +113,26 @@ See [Image lists](image-lists.md)
 
 Details: Hero images should show what makes each reel *visually distinctive*, like the badge, finish, or proportions - while this can be more or less generalized for each reel type, e.g., for spinning reels the handle side is usually more interesting, and the bail should be rotated to show it off - it will be somewhat different for each reel, and this will contribute to the unique take on each reel.
 
-## Disassembly and reassembly photos
+### Framing / positioning
+
+Heros:  Reel positioned as if mounted on rod, for example, for spinning reels the foot should be at top. Reel front facing left, center of front lower 3rd, handle side facing camera, handle at diagonal.
+
+For detailed discussion and ideas, see in the workspace `photo-video-grids-framing.md`
+
+### Disassembly and reassembly photos
 
 Taken while working on reel in tray.
   - At least one image per user action/step. For some steps two or three images to show progression of more intricate moves.
+
   - Hands are always in frame.
+
   - Tools are always shown in use.
+
   - Maintain a clean workspace to reduce visual distractions. Only show tools actually in use on a specific reel.
+
   - Keep parts neatly organized in tray so all are clearly visible.
 
-## Cleaning and lubrication photos
+### Cleaning and lubrication photos
 
 Cleaning and lubricating are covered in a generic document, but if there are any reel-specific cleaning/lubricating procedures for a specific reel, photograph those.
 
@@ -113,9 +141,9 @@ Cleaning and lubricating are covered in a generic document, but if there are any
 Having consistent filenames for images will facilitate all current work and any future refactoring. The basic goal is to have descriptive but brief, self-explanatory filenames which will work in the repo, and which help provide a map through each procedure.
 
   - Basic example form is `[slug]-[description].jpg`
-  
+
   - Always use hyphens (for compatability with repo).
-  
+
   - Descriptions in filenames - when it's an action, leave off suffixes, e.g., "align" not "aligning."
 
   - Describe reel position by front, back, handle side, and badge / drag side (not left, -1, etc.)
@@ -133,7 +161,7 @@ Use numbers sparingly and consistently:
     Example: penn-720-hero-front-v1.jpg, penn-720-hero-front-v2.jpg = alternative candidates you’re evaluating; only one may end up in the guide.
 
   - Keep a simple photo-standards.md with sections like verbs, states, views, suffixes (-ref, -v1, -v2). Each time you invent a new term while renaming (lift, separate, inspect, hero-front, etc.), add it there and keep using the same spelling.
-  
+
     - **Verbs**: align, clean, remove, grease, replace, lubricate, reassemble, test.
 
     - **States**: engaged / disengaged, pre-service, removed.
@@ -148,23 +176,39 @@ Use numbers sparingly and consistently:
 
 ### Naming workflow
 
-1. Import images from card to workspace `/[maker]/[model]/`
-2. Open folder in XnView, r-click, batch rename to `[maker]-[model]`
-Filenames by default will have numeric suffix.
+Import images from card to workspace `/[maker]/[model]/`
 
-## XnView settings
+Several batch operations can be performed in XnView on the initial images.
 
-Several batch operations can be performed on the initial images.
+Open folder in XnView, R-click an image, batch rename: `[slug]-[desc].jpg` for example, in the name box enter `pflueger-nobby-1963-#` and all the images will get the slug and a number. More detailed descriptors can be added to each file as the images are sorted.
 
-Batch rename: `[slug]-[desc].jpg
+## Batch convert
 
-Batch convert: resize, contrast, levels, output folder
+R-click, batch convert > Actions tab > Resize to 1800px / longest side, Auto contrast, Auto levels.
 
-## Video cam settings
+Output tab > Folder = various, e.g., images to be used in the repo overview would go to the project folder `/docs/img/[slug]/`
 
-Software is [Guvcview](https://guvcview.sourceforge.net/) loaded on an ubuntu laptop.
+## Video
 
-On startup select cam. Use preset 3.
+### Cam settings
+
+Software: [Guvcview](https://guvcview.sourceforge.net/) loaded on an Ubuntu laptop.
+
+If Ubuntu needs updating it may cause issues with capturing video. To update Ubuntu: 
+
+Ctrl + Alt + T
+sudo add-apt-repository
+ppa:pj-assis/ppa
+
+Ubuntu refreshes, this should fix it. If not, reinstall Guvcview:
+
+sudo apt update
+sudo apt install guvcview
+
+Cam: Logitech HD Pro webcam C920, 3.67mm, 20cm - 2m working distance.
+
+On startup select cam. Use preset - this takes care of most settings. Select the aperture priority exposure, then switch back to manual.
+
   - Resolution: 1920x1080
   - Frame rate: 30 fps
   - Video codec: H.264
@@ -202,11 +246,3 @@ Describe position of hero box, tray, light and camera rigs, overall workspace, l
 Describe lights, intensity, color temp, diffusion fabric.
 
 NEO
-
-## Saving images, naming standards, slugs, and dirs for image files
-
-All images are saved as jpg files. For image workflow, see [project workflow](project-workflow.md).
-
-For details on naming and slugs see [naming slugs](naming-slugs.md).
-
-For details on dirs see [directory layout](directory-layout.md).

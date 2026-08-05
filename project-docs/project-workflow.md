@@ -70,7 +70,7 @@ See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
   - Wire to YT: Connections section includes link to YT. Create substack video for posting to YouTube.
 
-1. Post substack vid to YT.
+6. Post substack vid to YT.
     - Wire to substack: YouTube post description includes a *connections* section, with a link to Substack.
     - Wire to repo: YouTube post description includes a *connections* section, with a link to the repo. 
 

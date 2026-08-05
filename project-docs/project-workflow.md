@@ -86,7 +86,7 @@ See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
 ## Workflow - Substack
 
-The other couple of Substack series can be published on a looser schedule. See [Substack standards and series](substack-standards-series).
+The other couple of Substack series can be published on a looser schedule. See [Substack standards and series](substack-standards-series.md).
 
 When service is completed on a reel, write one or more "Reel stories," about test casting, taking it into the field, how it performs, how it is integrated with other tackle to make a balanced outfit, what fish are sought and caught.
 

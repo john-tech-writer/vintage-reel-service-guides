@@ -84,7 +84,9 @@ Each post will be based on, authored, and saved using the following series names
 
   - **Local copies of posts** - in workspace `/substack/[slug]/[slug].md` >`/substack/[slug]/[slug]-final.md` Local backup drafts and final versions of posts. Finals are canonical text of published posts on Substack. Use these for content diffing, quote reuse, and as a reference if Substack’s editor ever mangles something.
 
-  - **Local skeletons** - in workspace `/substack/templates-skeletons/[series-name]-skeleton.md` Conceptual pattern for each series: headings, section order, prompt comments, and only light example text. Use this to design or revise the structure of the series. Lock the local as “frozen reference,” and treat the pairing between local skeleton and Substack skeleton as the living thing you revise over time. Only edit structure in the local skeleton. For substantive changes, e.g., add / remove a section, update the Substack template to match and note the update in a change log in the skeleton’s header, like: 
+  - **Local skeletons** - in workspace `/substack/templates-skeletons/[series-name]-skeleton.md` Conceptual pattern for each series: headings, section order, prompt comments, and only light example text. Use this to design or revise the structure of the series.
+
+    Lock the local as “frozen reference,” and treat the pairing between local skeleton and Substack skeleton as the living thing you revise over time. Only edit structure in the local skeleton. For substantive changes, e.g., add / remove a section, update the Substack template to match and note the update in a change log in the skeleton’s header, like: 
 
 *Service guide skeleton (v1)*
 *Last synced to Substack template: 2026‑06‑11*

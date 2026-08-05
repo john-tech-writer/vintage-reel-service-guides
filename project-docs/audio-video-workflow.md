@@ -1,4 +1,4 @@
-# Video / audio workflow
+# Audio / video workflow
 
 Output: overview and service videos for YouTube.
 
@@ -43,11 +43,9 @@ overview template.mlt > `[slug]-overview.mlt`
 
 `[slug]-overview.mp4`
 
-8. Upload .mp4 to YouTube, write video details with title and desc. based on skeleton, add to appropriate playlists (refer to playlists doc if needed).
+8. Upload .mp4 to YouTube, write video title and description based on last YouTube upload, compare to local skeleton in workspace `youtube/skeletons-templates/`, and add to appropriate playlists. See in workspace `youtube/youtube-playlists.md`.
 
-youtube-video-details-skeleton.md > author in YouTube
-
-9. Add title and video link to youtube-video-links.md
+9. Add title and video link to the workspace `youtube/youtube-video-links.md`.
 
 9. Go through the same sequence for service videos 1, 2, and any additional shorts. For steps 7 / 8, service videos will also have markers as chapters exported from Shotcut as a .txt file and pasted into the YouTube description.
 

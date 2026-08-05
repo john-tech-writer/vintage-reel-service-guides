@@ -1,4 +1,4 @@
-# Image workflow
+# Photo workflow
 
 ## Camera settings
 
@@ -188,7 +188,7 @@ R-click, batch convert > Actions tab > Resize to 1800px / longest side, Auto con
 
 Output tab > Folder = various, e.g., images to be used in the repo overview would go to the project folder `/docs/img/[slug]/`
 
-## Video
+## Video workflow
 
 ### Cam settings
 

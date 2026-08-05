@@ -32,9 +32,9 @@ All content is based on skeletons / templates which enforce evolving content sta
 
 See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
-## Workflow - repo
+## Workflow - overviews
 
-1. Select reel based on [volume planning](volume-planning.md), acquire.
+1. Select reel based on [Volume planning](volume-planning.md), acquire.
 
     Add an entry for the reel in workspace `reference docs and books/reel collection.docx`. This file is a record of when each reel was acquired, cost, origin, and notes on what's been done / needs to be done for each reel.
 
@@ -46,64 +46,48 @@ See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
     If documents are obtained from other sources, the files are not included in the project. The source link will be provided in the References page but users may need to pay to view the documents (e.g., ORCA online archives).
 
-3. Take initial photos of reel using the standards in [Image workflow](image-workflow.md). Save to the Pictures media folder `/maker and reel docs/[maker]/[slug]-[desc].jpg`
+3. Take initial photos of reel in one piece using the standards in [Image workflow](image-workflow.md). Save to the Pictures media folder `/maker and reel docs/[maker]/[slug]-[desc].jpg`.
 
     These images will be used initially / primarily for the repo overview. Secondarily some will be used later in the workflow for the repo service guide, videos, and substack posts - anywhere an image of the reel intact is useful.
 
     For info on how to use grids on the Olympus PL1 camera and in Shotcut, as well as principles of framing and grid use, see in the workspace `photo-video-grids-framing.md`
 
-    After taking the initial pictures, sync updated project folders to Dropbox as described in [Backup workflow](backup-workflow.md)
+    After taking the initial pictures, sync updated project folders to Dropbox as described in [Backup workflow](backup-workflow.md).
 
 4. Open Pictures folder using [XnView](https://www.xnview.com/en/xnview/) and batch rename / batch convert. See [Image workflow](image-workflow.md)
 
-    Save to [project folder](directory-layout.md) in `docs/img/[maker]/[model]/[slug]-[desc].jpg` using Tools > Batch convert > Output tab
+    Save to Project folder `docs/img/[maker]/[model]/[slug]-[desc].jpg` using Tools > Batch convert > Output tab
 
 5. Write substack post for "Welcome to the bench" series.
 
-See [Substack standards and series](substack-standards-series.md).
+    See [Substack standards and series](substack-standards-series.md) and See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
 6. Write overview using skeleton in project folder `repo skeletons/` and save in project folder as `docs/[maker]/[slug]-overview.md.` This will get pushed to the repo.
 
-7. Take a second round of images. Save to the Pictures media folder `/maker and reel docs/[maker]/sg/[slug]-[desc].jpg`
+7. Create overview video. Follow the procedure in [Audio - video workflow](audio-video-workflow.md).
+
+## Workflow - service guides
+
+1. Take a second round of images while disassembling and reassembling reel. Save to the Pictures media folder `/maker and reel docs/[maker]/sg/[slug]-[desc].jpg`
 
     These images will be used initially / primarily for the repo service guide. Some of the service guide images will also be taken from the overview images (reel intact). Secondarily some will be used later in the workflow for videos and substack posts - anywhere an image of the reel intact is useful.
 
     After taking the second round of photos, sync updated project folders to Dropbox as described in [Backup workflow](backup-workflow.md)
 
-8. Write service guide using skeleton in project folder `repo skeletons/` and save in project folder as `docs/[maker]/[slug]-service-guide.md.` This will get pushed to the repo.
+2. Write service guide using skeleton in project folder `repo skeletons/` and save in project folder as `docs/[maker]/[slug]-service-guide.md.` This will get pushed to the repo.
 
-## Workflow - videos
+3. Create service guide videos, usually two but sometimes more. Follow the procedure in [Audio - video workflow](audio-video-workflow.md).
 
-1. Write script for overview video based on skeleton. See [Skeletons and templates workflow](skeleton-templates-workflow.md).
+4. Write substack post for "Service guides" series.
 
-2. Capture video for overview using logitech cam and guvcview on laptop. See [Image workflow](image-workflow.md).
+    This post is intended as the main notification (Substack serves as the "hub") for new completed stacks - overview and service guides on the repo and videos on YouTube.
 
-    Use a card or stick to transfer the raw video mkv file from the laptop / benchtop to the workstation.
+    See [Substack standards and series](substack-standards-series.md) and See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
-1. Write service guide using Notepad ++ based on template in, save as .md file in 
+## Workflow - Substack
 
-1. Capture video for service guide using logitech cam and guvcview on laptop.
+The other couple of Substack series can be published on a looser schedule. See [Substack standards and series](substack-standards-series).
 
-1. Upload to YouTube.
-    - Write description based on template
+When service is completed on a reel, write one or more "Reel stories," about test casting, taking it into the field, how it performs, how it is integrated with other tackle to make a balanced outfit, what fish are sought and caught.
 
-1. Commit and push; confirm GitHub Pages update.
-
-# Content standards
-- Titles: pattern, capitalization rules.
-- Filenames: `penn-720-service.md`, `penn-720-step-01.jpg`, etc.
-- Section structure: Overview, Tools, Disassembly, Cleaning, Lubrication, Reassembly, Variants.
-
-# Release checklist
-- Spellcheck and style check.
-- Confirm all images load.
-- Post/update links on YouTube and ORCA.
-
-# Reference-commands for command line version of github
-This is not needed if using the github gui
-- Start local preview: `py -m mkdocs serve`
-- Stop preview: `Ctrl + C`
-- Build site: `py -m mkdocs build`
-- Check git status: `git status`
-- Commit changes: `git commit -am "Message"`
-- Push to GitHub: `git push`
+"Production notes" can be published anytime as occasional features. Progress milestones during a stack production run make good subjects, like how the lighting is done / changed / etc.

@@ -54,12 +54,9 @@ See [Skeletons and templates workflow](skeletons-templates-workflow.md)
 
     After taking the initial pictures, sync updated project folders to Dropbox as described in [Backup workflow](backup-workflow.md)
 
-4. Open Pictures folder using [XnView](https://www.xnview.com/en/xnview/) and edit as necessary:
+4. Open Pictures folder using [XnView](https://www.xnview.com/en/xnview/) and batch rename / batch convert. See [Image workflow](image-workflow.md)
 
-    - Crop and rotate.
-    - Size (standards?), auto contrast and levels using Tools > Batch convert > Actions tab
-    Most of these actions are already saved in XnView but can be checked/unchecked, edited, etc.
-    - Save to [project folder](directory-layout.md) in `/docs/img/[maker]/[model]/[slug]-[desc].jpg` using Tools > Batch convert > Output tab
+- Save to [project folder](directory-layout.md) in `/docs/img/[maker]/[model]/[slug]-[desc].jpg` using Tools > Batch convert > Output tab
 
 1. Write substack post for "welcome to the bench" series.
     - Use template / example in workspace in `/substack/templates-skeletons/`, save to workspace as`/substack/[slug]/[slug]-new-arrival.md`.

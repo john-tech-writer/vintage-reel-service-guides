@@ -1,5 +1,83 @@
 # Image workflow
 
+## Camera settings
+
+For Olympus PL1 camera body.
+
+  - Use 3 x 3 grid.
+  
+  - Shoot white card for white balance: Press start / OK, select capture WB icon, press info, point camera at white card, press shutter, select yes. If the camera can't set WB based on what's in front of it - low light, etc. - there will be error message WB NG RETRY.
+
+Using focus modes - for lenses with manual focus ring (e.g., the macro lens):
+
+See p. 44 in PL-1 manual for full details
+
+To set basic mode:
+
+Menu > gears > AM / MF > AF mode > still picture / movie > S-AF+MF (auto-focus + allows fine manual adjustment) / MF (full manual control)
+
+To turn off MF assist (if on, this zooms to 10x when using manual focus to assist with fine adjustments - but it can be distracting):
+
+/ AM / MF > MF assist on / off
+
+## Lenses
+
+### m.zuiko digital ED 14-42mm 1:3.5-5.6 lens
+
+  - Manual setting
+  - ISO 200
+  - f11
+  - 1/10 sec
+  - 2 sec timer
+  - focal length ~ 27 mm (varies with shots)
+
+Short version:
+
+14-42mm 1:3.5-5.6 default setup: M, ISO 200, f11, 1/10 s, 2 s timer, focal length ~ 27 mm (varies with zoom), camera distance X (see diagram), custom WB from white card.
+
+These settings seem to work well for full-body hero shots of spinning reels. [need to doc distance - 13" i think]
+
+For closer macro shots f8, .4 s seems to work [need to doc distance, 1 / should be .10 meter].
+
+### m.zuiko digital ED 30 mm 1:3.5 macro lens
+
+30mm macro default setup (starting point): M, ISO 200, f11, 1/10 s, 2 s timer, fixed focal length = 30 mm, camera distance X (see diagram), custom WB from white card.
+
+Other setting combos - these shutter speeds depend of course on lighting:
+
+  - f5.6 / 1/8
+  - f8 / 1/20
+  - f11 / 1/5
+
+
+magnification is from 1/4 x - 1.25 x
+
+subject distance = .20 mm - .095 mm (.02 cm - ~ < 1 cm). Getting this close is challenging, depth of field drops off to almost zero, so focus is challenging, definitely manual adjustment is required. Tripod is best for getting this close - the smallrig arms are not good for fine adjustments.
+
+exposure comp. = + 1/3 - +2 (not needed for auto mode)
+
+Practical working distances: about 20 cm for full‑reel hero shots (≈0.25×), and roughly 6 cm for tight badge/part details (≈1–1.25×). So this is not true macro usage, but it works. The 14-42mm may work as well for most of this sort of thing.
+
+Usable aperture range tested: f7.1 to f13 all producing solid images, with plans to compare f8 vs f11 more carefully at the hero distance.
+
+Focusing workflow that finally felt comfortable: MF Assist off, using MF or S‑AF+MF as needed, with the focus ring behaving predictably on the PL1.
+
+## Grids
+
+To turn on and select type.
+
+MENU > [two gears icon] > DISP/PC > /INFO SETTING > LV-Info > Displayed Grid [4 types or off]
+
+During shooting use INFO to toggle selected grid on/off.
+
+For details see in the workspace `photo-video-grids-framing.md`, also see PL-1 manual p. 44.
+
+## Framing / positioning
+
+Heros:  Reel positioned as if mounted on rod, for example, for spinning reels the foot should be at top. Reel front facing left, center of front lower 3rd, handle side facing camera, handle at diagonal.
+
+For detailed discussion and ideas, see in the workspace `photo-video-grids-framing.md`
+
 ## Basic photos - initial session for new reels
 
 Taken before the reel is serviced and also after. Used in overview, also possibly in service guide, on substack posts, etc.
@@ -69,85 +147,13 @@ Use numbers sparingly and consistently:
 2. Open folder in XnView, r-click, batch rename to `[maker]-[model]`
 Filenames by default will have numeric suffix.
 
-## Camera settings
-
-For Olympus PL1 camera body.
-
-  - Use 3 x 3 grid.
-  
-  - Shoot white card for white balance: Press start / OK, select capture WB icon, press info, point camera at white card, press shutter, select yes. If the camera can't set WB based on what's in front of it - low light, etc. - there will be error message WB NG RETRY.
-
-Using focus modes - for lenses with manual focus ring (e.g., the macro lens):
-
-See p. 44 in PL-1 manual for full details
-
-To set basic mode:
-
-Menu > gears > AM / MF > AF mode > still picture / movie > S-AF+MF (auto-focus + allows fine manual adjustment) / MF (full manual control)
-
-To turn off MF assist (if on, this zooms to 10x when using manual focus to assist with fine adjustments - but it can be distracting):
-
-/ AM / MF > MF assist on / off
-
-## Lenses
-
-### m.zuiko digital ED 14-42mm 1:3.5-5.6 lens
-
-  - Manual setting
-  - ISO 200
-  - f11
-  - 1/10 sec
-  - 2 sec timer
-  - focal length ~ 27 mm (varies with shots)
-
-Short version:
-
-14-42mm 1:3.5-5.6 default setup: M, ISO 200, f11, 1/10 s, 2 s timer, focal length ~ 27 mm (varies with zoom), camera distance X (see diagram), custom WB from white card.
-
-These settings seem to work well for full-body hero shots of spinning reels. [need to doc distance - 13" i think]
-
-For closer macro shots f8, .4 s seems to work [need to doc distance, 1 / should be .10 meter].
-
-### m.zuiko digital ED 30 mm 1:3.5 macro lens
-
-30mm macro default setup (starting point): M, ISO 200, f11, 1/10 s, 2 s timer, fixed focal length = 30 mm, camera distance X (see diagram), custom WB from white card.
-
-Other setting combos - these shutter speeds depend of course on lighting:
-
-  - f5.6 / 1/8
-  - f8 / 1/20
-  - f11 / 1/5
-
-
-magnification is from 1/4 x - 1.25 x
-
-subject distance = .20 mm - .095 mm (.02 cm - ~ < 1 cm). Getting this close is challenging, depth of field drops off to almost zero, so focus is challenging, definitely manual adjustment is required. Tripod is best for getting this close - the smallrig arms are not good for fine adjustments.
-
-exposure comp. = + 1/3 - +2 (not needed for auto mode)
-
-Practical working distances: about 20 cm for full‑reel hero shots (≈0.25×), and roughly 6 cm for tight badge/part details (≈1–1.25×). So this is not true macro usage, but it works. The 14-42mm may work as well for most of this sort of thing.
-
-Usable aperture range tested: f7.1 to f13 all producing solid images, with plans to compare f8 vs f11 more carefully at the hero distance.
-
-Focusing workflow that finally felt comfortable: MF Assist off, using MF or S‑AF+MF as needed, with the focus ring behaving predictably on the PL1.
-
-### Grids
-
-To turn on and select type.
-
-MENU > [two gears icon] > DISP/PC > /INFO SETTING > LV-Info > Displayed Grid [4 types or off]
-
-During shooting use INFO to toggle selected grid on/off.
-
-For details see in the workspace `photo-video-grids-framing.md`, also see PL-1 manual p. 44.
-
-## Framing/positioning
-
-Heros:  Reel positioned as if mounted on rod, for example, for spinning reels the foot should be at top. Reel front facing left, center of front lower 3rd, handle side facing camera, handle at diagonal.
-
 ## XnView settings
 
-for image size, output dirs, levels, etc.
+Several batch operations can be performed on the initial images.
+
+Batch rename: `[slug]-[desc].jpg
+
+Batch convert: resize, contrast, levels, output folder
 
 ## Video cam settings
 

@@ -1,8 +1,11 @@
-# Photo standards
+# Image workflow
 
 ## Basic photos - initial session for new reels
 
 Taken before the reel is serviced and also after. Used in overview, also possibly in service guide, on substack posts, etc.
+
+See [Image lists](image-lists.md)
+
   - Multiple views of whole reel - front, handle-side, badge / drag-side, top, bottom, back, left (angled left), right (angled right)  - these will be candidates for hero images
   - Badge or nameplate
   - Exterior/special features (varies with reel, i.e., drag lever)

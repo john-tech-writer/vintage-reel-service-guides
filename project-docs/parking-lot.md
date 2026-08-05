@@ -48,31 +48,27 @@ Continue connecting to substack narrative by posting substack animations - DaVin
 
 ## Substack
 
-For substack, see in the workspace project development-background [Substack initial setup and ideas](docs-substack-initial-setup-ideas.md).
+For substack, see in the workspace project development-background `docs-substack-initial-setup-ideas.md`
 
-- New series: Reel Zen: Notes on the meditative aspects of bench work, casting practice, and fishing. Probably would use existing tags like Production Notes, Field Stories, depending on the content. So some series titles might use multiple tags, and probably vice versa.
+New series:
 
-Ritual and Routine
+  - Reel Zen: Notes on the meditative aspects of bench work, casting practice, and fishing. Probably would use existing tags like Production Notes, Field Stories, depending on the content. So some series titles might use multiple tags, and probably vice versa.
 
-This title captures exactly what bench work is about, and it fits beautifully into the "Production Notes" series.
+  - Ritual and Routine: This title captures exactly what bench work is about, and it fits beautifully into the "Production Notes" series. Structure it around:
 
-Structure it around:
+    - The physical ritual: setting up the workspace, gathering tools, the first inspection
 
-  - The physical ritual: setting up the workspace, gathering tools, the first inspection
+    - The mental shift that happens when you sit down at the bench
 
-  - The mental shift that happens when you sit down at the bench
+    - How repetitive tasks (cleaning, inspection, reassembly) become meditative
 
-  - How repetitive tasks (cleaning, inspection, reassembly) become meditative
+    - The satisfaction of completing a known sequence vs. troubleshooting unknowns
 
-  - The satisfaction of completing a known sequence vs. troubleshooting unknowns
-
-  - Maybe tie it to a specific reel or repair session as the anchor
+    - Maybe tie it to a specific reel or repair session as the anchor
 
 It's the kind of post that will resonate with anyone who does hands-on restoration work - not just reels, but watches, typewriters, cameras, any vintage mechanical gear. And it connects your personal experience (the grounding aspect during difficult times) to the universal appeal of craft work without being heavy-handed about it.
 
-How to build a project like this
-
-Narrative series that would connect with the generic project building companion repository, which would be related to (but probably branching off from) the "production notes" series.
+- How to build a project like this: Narrative series that would connect with the generic project building companion repository, which would be related to (but probably branching off from) the "production notes" series.
 
 # Substack - leveraging behind-the-scences content
 

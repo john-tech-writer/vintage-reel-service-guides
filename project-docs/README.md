@@ -25,11 +25,7 @@ This folder is for internal project-level documentation such as:
 
 *Adjust this list as files are added, renamed, split, or retired.*
 
-Other project-related documents live elsewhere:
-
-- [references](../docs/references.md) — - references, annotation, and self-documenting guidance on these elements of the project, part of the published pages in the repo
-
-- repo maintenance and publishing support documents, which address the main aspects of the project (admin, docs, photo, video, and design) live in the [workspace](directory-layout.md) in `/project development-background`)
+Other project-related documents live elsewhere: repo maintenance and publishing support documents, which address the main aspects of the project (admin, docs, photo, video, and design) live in the workspace `/project development-background`
 
 ## Relationship to the main site
 

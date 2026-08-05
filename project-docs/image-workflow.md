@@ -4,9 +4,15 @@
 
 For Olympus PL1 camera body.
 
-- Use 3 x 3 grid.
+- Use 3 x 3 grid - press Info button to turn on / off.
 
 - Shoot white card for white balance: Press start / OK, select capture WB icon, press info, point camera at white card, press shutter, select yes. If the camera can't set WB based on what's in front of it - low light, etc. - there will be error message WB NG RETRY.
+
+- Manual setting
+
+- ISO 200
+
+- 2 sec timer
 
 Using focus modes - for lenses with manual focus ring (e.g., the macro lens):
 
@@ -16,7 +22,7 @@ To set basic mode:
 
 Menu > gears > AM / MF > AF mode > still picture / movie > S-AF+MF (auto-focus + allows fine manual adjustment) / MF (full manual control)
 
-To turn off MF assist (if on, this zooms to 10x when using manual focus to assist with fine adjustments - but it can be distracting):
+To turn MF assist on / off (if on, this zooms to 10x when using manual focus to assist with fine adjustments - but it can be distracting):
 
 / AM / MF > MF assist on / off
 
@@ -24,31 +30,30 @@ To turn off MF assist (if on, this zooms to 10x when using manual focus to assis
 
 ### m.zuiko digital ED 14-42mm 1:3.5-5.6 lens
 
-  - Manual setting
-  - ISO 200
-  - f11
-  - 1/10 sec
-  - 2 sec timer
-  - focal length ~ 27 mm (varies with shots)
+Focal lengths, apertures, and shutter speeds will vary depending on the size of the reel or other object, lighting, etc. but here are some sample settings that seem to work for starting points. These settings were using the bench lighting (ceiling, over the bench, NEO, and sometimes a white card).
 
-Short version:
+For the Pflueger Nobby:
 
-14-42mm 1:3.5-5.6 default setup: M, ISO 200, f11, 1/10 s, 2 s timer, focal length ~ 27 mm (varies with zoom), camera distance X (see diagram), custom WB from white card.
+Hero shots - angled, whole reel:
+- 35mm - f11 - 1/10 sec
 
-These settings seem to work well for full-body hero shots of spinning reels. [need to doc distance - 13" i think]
+Side shots - straight on:
+- 42mm - f5.6 - 1/60
 
-For closer macro shots f8, .4 s seems to work [need to doc distance, 1 / should be .10 meter].
+Need to doc working distance - ~13" I think.
 
 ### m.zuiko digital ED 30 mm 1:3.5 macro lens
 
-30mm macro default setup (starting point): M, ISO 200, f11, 1/10 s, 2 s timer, fixed focal length = 30 mm, camera distance X (see diagram), custom WB from white card.
+Hero shots - angled, whole reel:
+- 30mm - f11 - 1/10 sec
 
-Other setting combos - these shutter speeds depend of course on lighting:
+Side shots - straight on:
+- 30mm - f5.6 - 1/50, 1/60,1/80 sec
+- 30mm - f11 - 1/25 sec
 
-  - f5.6 / 1/8
-  - f8 / 1/20
-  - f11 / 1/5
-
+Closer shots of details:
+- 30mm - f8 - 1/13 sec
+- 30mm - f11 - 1/10 sec
 
 magnification is from 1/4 x - 1.25 x
 

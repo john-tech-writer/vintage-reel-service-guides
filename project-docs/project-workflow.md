@@ -60,15 +60,15 @@ See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
 5. Write substack post for "welcome to the bench" series.
 
-- Use template / example in workspace in `/substack/templates-skeletons/`, save to workspace as`/substack/[slug]/[slug]-new-arrival.md`.
+  - Use template / example in workspace in `/substack/templates-skeletons/`, save to workspace as`/substack/[slug]/[slug]-new-arrival.md`.
 
-- For clarity on substack series names and tags, see [substack notes](substack-notes.md); for ideas on developing content, see workspace `/project development and background/admin-substack-initial-setup-ideas.md.
+  - For clarity on substack series names and tags, see [substack notes](substack-notes.md); for ideas on developing content, see workspace `/project development and background/admin-substack-initial-setup-ideas.md.
 
-- Post to substack, tag as "new arrival" (corresponds to "welcome to the bench" post series).
+  - Post to substack, tag as "new arrival" (corresponds to "welcome to the bench" post series).
 
-- Wire to repo: Post template includes a *connections* section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.
+  - Wire to repo: Post template includes a *connections* section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.
 
-- Wire to YT: Connections section includes link to YT. Create substack video for posting to YouTube.
+  - Wire to YT: Connections section includes link to YT. Create substack video for posting to YouTube.
 
 1. Post substack vid to YT.
     - Wire to substack: YouTube post description includes a *connections* section, with a link to Substack.

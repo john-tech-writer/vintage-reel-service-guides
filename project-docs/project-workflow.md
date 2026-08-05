@@ -6,6 +6,8 @@ This file provides the basic roadmap for navigating, creating, and managing all 
 
 - [Parking lot](parking-lot.md): List of project upgrades and ideas for future iterations.
 
+- [Directory layout](directory-layout.md): Diagram of all project directories and notes on their contents.
+
 ## Workflow philosophy
 
 **Let the real work teach what the theory should look like**. As project content is developed, the workflow can also be abstracted and made concrete. Iterations on lived and living, dynamic examples result in constant improvement.
@@ -34,24 +36,26 @@ See [Skeletons and templates workflow](skeletons-templates-workflow.md)
 
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 
-    Add an entry for the reel in the workspace `reference docs and books/reel collection.docx`. This file is a record of when each reel was acquired, cost, origin, and notes on what's been done/needs to be done for each reel.
+    Add an entry for the reel in workspace `reference docs and books/reel collection.docx`. This file is a record of when each reel was acquired, cost, origin, and notes on what's been done/needs to be done for each reel.
 
-1. Acquire all available documentation for the reel, save in workspace `/maker and reel docs/[maker]/[slug]-[desc].[ext]`. Add entries to [References](../docs/references.md).
+2. Acquire all available documentation for the reel, save in workspace `maker and reel docs/[maker]/[slug]-[desc].[ext]` and add entries to [References](../docs/references.md).
 
     Typical docs include schematics, parts lists, box inserts, user manuals, patents, and articles from the ORCA archives.
 
-    - If documents and/or box is included with reel, take photos and save in the project folder in `/docs/[maker]`. Also if docs are not copyrighted and are available outside pay walls (e.g., ORCA archives), then they can be included in the project. These these images are treated as documents, linked from the References page, and included in the project so users can view them using the link provided in the References page.
+    If documents and / or box is included with reel, take photos and save in project folder `/docs/[maker]/[slug].[pdf / jpg / etc.]`. Also if docs are not copyrighted and are available outside pay walls (e.g., ORCA archives), then they can be included in the project. These images are treated as documents, linked from the References page, and included in the project so users can view them using the link provided in the References page.
 
-    - If documents are obtained from other sources, the files are not included in the project. The source link will be provided in the References page but users may need to pay to view the documents (e.g., ORCA online archives).
+    If documents are obtained from other sources, the files are not included in the project. The source link will be provided in the References page but users may need to pay to view the documents (e.g., ORCA online archives).
 
-1. Take initial pictures of reel using [Photo Standards](photo-standards.md). Save to [Pictures](directory-layout.md) in `/maker and reel docs/[maker]/` as `[slug]-[desc].jpg`.
+3. Take initial pictures of reel using the photo standards in [Image workflow](image-workflow.md). Save to the Pictures media folder `/maker and reel docs/[maker]/[slug]-[desc].jpg`
 
-    See [Using grids and framing shots](using-grids-framing-shots.md) for a detailed discussion.
+    These images will be used initially / primarily for the repo overview. Secondarily some will be used later in the workflow for the repo service guide, videos, and substack posts - anywhere an image of the reel intact is useful.
 
-Backup step (summary):
-After taking the initial pictures, sync updated project folders to Dropbox as described in backup-workflow.md.
+    For info on how to use grids on the Olympus PL1 camera and in Shotcut, as well as principles of framing and grid use, see in the workspace `photo-video-grids-framing.md`
 
-1. Open pictures folder using [XnView](https://www.xnview.com/en/xnview/) and edit as necessary:
+    After taking the initial pictures, sync updated project folders to Dropbox as described in [Backup workflow](backup-workflow.md)
+
+4. Open Pictures folder using [XnView](https://www.xnview.com/en/xnview/) and edit as necessary:
+
     - Crop and rotate.
     - Size (standards?), auto contrast and levels using Tools > Batch convert > Actions tab
     Most of these actions are already saved in XnView but can be checked/unchecked, edited, etc.

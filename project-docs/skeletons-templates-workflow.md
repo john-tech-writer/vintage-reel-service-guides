@@ -46,11 +46,9 @@ Usage:
 
   - Creating YouTube descriptions. Local md files are mostly for reference and backup, to compare with descriptions on the YouTube channel and enforce standards. May be Saved As if needed for temporary use. Most drafting can be done on YouTube.
 
-Workflow:
+    In YouTube > Studio > Content > Videos > select a video of the same type > pencil icon / details > copy title / details > paste into new video description
 
-In YouTube > Studio > Content > Videos > select a video of the same type > pencil icon / details > copy title / details > paste into new video description
-
-There may be some back and forth between the local description example and the online draft for convenience in drafting but there is no need to save most of these descriptions locally since they are fairly generic. One or two examples of each type are enough.
+    There may be some back and forth between the local description example and the online draft for convenience in drafting but there is no need to save most of these descriptions locally since they are fairly generic. One or two examples of each type are enough.
 
 ### Video templates
 

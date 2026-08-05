@@ -32,7 +32,7 @@ All content is based on skeletons / templates which enforce evolving content sta
 
 See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
-## Workflow
+## Workflow - repo
 
 1. Select reel based on [volume planning](volume-planning.md), acquire.
 
@@ -46,7 +46,7 @@ See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
     If documents are obtained from other sources, the files are not included in the project. The source link will be provided in the References page but users may need to pay to view the documents (e.g., ORCA online archives).
 
-3. Take initial pictures of reel using the photo standards in [Image workflow](image-workflow.md). Save to the Pictures media folder `/maker and reel docs/[maker]/[slug]-[desc].jpg`
+3. Take initial photos of reel using the standards in [Image workflow](image-workflow.md). Save to the Pictures media folder `/maker and reel docs/[maker]/[slug]-[desc].jpg`
 
     These images will be used initially / primarily for the repo overview. Secondarily some will be used later in the workflow for the repo service guide, videos, and substack posts - anywhere an image of the reel intact is useful.
 
@@ -56,36 +56,29 @@ See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
 4. Open Pictures folder using [XnView](https://www.xnview.com/en/xnview/) and batch rename / batch convert. See [Image workflow](image-workflow.md)
 
-    Save to [project folder](directory-layout.md) in `/docs/img/[maker]/[model]/[slug]-[desc].jpg` using Tools > Batch convert > Output tab
+    Save to [project folder](directory-layout.md) in `docs/img/[maker]/[model]/[slug]-[desc].jpg` using Tools > Batch convert > Output tab
 
-5. Write substack post for "welcome to the bench" series.
+5. Write substack post for "Welcome to the bench" series.
 
-  - Use template / example in workspace in `/substack/templates-skeletons/`, save to workspace as`/substack/[slug]/[slug]-new-arrival.md`.
+See [Substack standards and series](substack-standards-series.md).
 
-  - For clarity on substack series names and tags, see [substack notes](substack-notes.md); for ideas on developing content, see workspace `/project development and background/admin-substack-initial-setup-ideas.md.
+6. Write overview using skeleton in project folder `repo skeletons/` and save in project folder as `docs/[maker]/[slug]-overview.md.` This will get pushed to the repo.
 
-  - Post to substack, tag as "new arrival" (corresponds to "welcome to the bench" post series).
+7. Take a second round of images. Save to the Pictures media folder `/maker and reel docs/[maker]/sg/[slug]-[desc].jpg`
 
-  - Wire to repo: Post template includes a *connections* section with link to the repo, notes that when the entire stack is published a notification will be posted on substack.
+    These images will be used initially / primarily for the repo service guide. Some of the service guide images will also be taken from the overview images (reel intact). Secondarily some will be used later in the workflow for videos and substack posts - anywhere an image of the reel intact is useful.
 
-  - Wire to YT: Connections section includes link to YT. Create substack video for posting to YouTube.
+    After taking the second round of photos, sync updated project folders to Dropbox as described in [Backup workflow](backup-workflow.md)
 
-6. Post substack vid to YT.
-    - Wire to substack: YouTube post description includes a *connections* section, with a link to Substack.
-    - Wire to repo: YouTube post description includes a *connections* section, with a link to the repo. 
+8. Write service guide using skeleton in project folder `repo skeletons/` and save in project folder as `docs/[maker]/[slug]-service-guide.md.` This will get pushed to the repo.
 
-1. Write overview using template in [workspace](directory-layout.md) in `/repo templates/` and save in [project folder](directory-layout.md) as `/docs/[slug]-overview.md.` This will get pushed to the repo.
+## Workflow - videos
 
-1. Write service guide using template in [project folder](directory-layout.md) in `/repo templates/` and save in [project folder](directory-layout.md) as `/docs/[slug]-service-guide.md.` This will get pushed to the repo.
+1. Write script for overview video based on skeleton. See [Skeletons and templates workflow](skeleton-templates-workflow.md).
 
-1. Write script for overview based on skeleton and example in E://documents/vintage-reel-service-guides/docs/project-docs, save as E://documents/1-vintage reel service guide project/video scripts/script maker model number-overview.docx
+2. Capture video for overview using logitech cam and guvcview on laptop. See [Image workflow](image-workflow.md).
 
-    Notes: The skeletons and examples should be in the project folder as .md files so they can eventually be pushed to a github repo to (1) document the project workflow for my personal use, and (2) to use as a basis for the "how to build a stack" future project. The reel-specific scripts however should be saved as .docx files for easy printing and reading while recording the vids. There is no simple way to print reader-friendly .md files. Also they should be saved (as noted) in the project working docs folder since the reel-specific files don't belong in the repo.
-
-1. Capture video for overview using logitech cam and guvcview on laptop.
-    - Save as .mpv
-    - Copy to stick
-    - Copy to office machine, to 
+    Use a card or stick to transfer the raw video mkv file from the laptop / benchtop to the workstation.
 
 1. Write service guide using Notepad ++ based on template in, save as .md file in 
 

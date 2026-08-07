@@ -127,7 +127,7 @@ In practical terms, 3 or 4 partial turns gets to the "click" point when tension 
 
 **Pillars**: 1 7/8"
 
- **Plates**: 2"
+**Plates**: 2"
 
 **Gear ratio**: 4:1
 

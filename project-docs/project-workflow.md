@@ -38,7 +38,7 @@ See [Skeletons and templates workflow](skeletons-templates-workflow.md).
 
     Add an entry for the reel in workspace `reference docs and books/reel collection.docx`. This file is a record of when each reel was acquired, cost, origin, and notes on what's been done / needs to be done for each reel.
 
-2. Acquire all available documentation for the reel, save in workspace `maker and reel docs/[maker]/[slug]-[desc].[ext]` and add entries to [References](../docs/references.md).
+2. Acquire all available documentation for the reel, save in workspace `maker and reel docs/[maker]/[slug]-[desc].[ext]` and add entries to project folder `docs/references.md`.
 
     Typical docs include schematics, parts lists, box inserts, user manuals, patents, and articles from the ORCA archives.
 

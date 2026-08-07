@@ -1,6 +1,6 @@
 # Volume planning
 
-ch volume will include one reel of each of the four basic types (spinner, etc.) plus one oddball/novel reel. Each reel will get:
+Each volume will include one reel of each of the four basic types (spinner, etc.) plus one oddball/novel reel. Each reel will get:
 
   - Overview and service guide for repo
 

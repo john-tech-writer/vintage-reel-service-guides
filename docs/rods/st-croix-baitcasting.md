@@ -39,6 +39,20 @@ Start progressively:
 
 ## Specifications, colors / finishes, features
 
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - maker decal](../../img/rods/st-croix-baitcast-4-6-decal-maker-macro-auto-contrast-levels-800px.jpg)
+<figcaption>Maker decal</figcaption>
+</figure>
+
+![St. Croix Pacemaker 400 HD baitcasting rod - name decal](../../img/rods/st-croix-baitcast-4-6-decal-name-macro-auto-contrast-levels-800px.jpg)
+<figcaption>Rod name / maker location decal - "Pacemaker"</figcaption>
+</figure>
+
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - model no. decal](../../img/rods/st-croix-baitcast-4-6-decal-model-auto-contrast-levels-800px.jpg)
+<figcaption>Model no. decal</figcaption>
+</figure>
+
 | Field | Working entry |
 | -- | -- |
 | Maker | St. Croix Rods, Park Falls, WI |
@@ -47,12 +61,81 @@ Start progressively:
 | No. of sections / material / type | one-piece fiberglass baitcasting rod |
 | Ferrule material | -- |
 | Length | 4'6" |
-| Blank color / finish  | metallic teal / turquoise |
+| Blank color / finish  | teal / turquoise |
 | Reel seat color / style  | cobalt blue / pistol grip |
-| Handle material | cork |
-| No. of guides / material | 3 + tip |
-| Guide wrap color | -- |
+| Handle | cork |
+| Butt cap | hard rubber |
+| No. of guides / size, material | 3 + top / HD, steel |
+| Guide wrap color | dark blue |
 | Unusual features | -- |
+
+**Guide details**
+
+Heavy duty (HD) rings, 3 + top
+
+Markings: "Allan" on both sides of each guide.
+
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - guide marking](../../img/rods/st-croix-baitcast-4-6-guide-marking-auto-contrast-levels-800px.jpg)
+<figcaption>Guide marking "Allan"</figcaption>
+</figure>
+
+*Spacing is from reel seat / to next guide.*
+
+| Guide | Spacing | Size |
+| -- | -- | -- |
+| 1 | 16 3/8" | 8/64" |
+| 2 | 11" | 7/64" |
+| 3 | 8 7/8" | 7/64" |
+| top | 7 1/4" | 7/64" |
+
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - top](../../img/rods/st-croix-baitcast-4-6-top-macro-auto-contrast-levels-800px.jpg)
+<figcaption>Top</figcaption>
+</figure>
+
+## Condition
+
+Overall: very good, perfectly functional with minor blemishes
+
+Guides: light rust
+
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - guide - angle view](../../img/rods/st-croix-baitcast-4-6-guide-angle-auto-contrast-levels-800px.jpg)
+<figcaption>Guide and wrapping</figcaption>
+</figure>
+
+Reel seat: light wear with some bare metal showing through paint
+
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - reel seat and handle](../../img/rods/st-croix-baitcast-4-6-reel-seat-auto-contrast-levels-800px.jpg)
+<figcaption>Reel seat and handle</figcaption>
+</figure>
+
+Line wraps: very good
+
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - guide - side view](../../img/rods/st-croix-baitcast-4-6-line-wrap-auto-contrast-levels-800px.jpg)
+<figcaption></figcaption>
+</figure>
+
+Blank: very good, a few minor scratches
+
+Decals: fair with some worn spots
+
+Locking nut for blank: unscrews OK, oiled lightly with penetrating oil. Blank to reel seat connection looks good, minimal corrosion 4 metal strips. Did not attempt to separate blank from reel seat.
+
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - locking nut](../../img/rods/st-croix-baitcast-4-6-reel-seat-lock-auto-contrast-levels-800px.jpg)
+<figcaption>Locking nut</figcaption>
+</figure>
+
+Reel lock: works, utilizes a rubber knob and screw head. Some minor rust.
+
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - reel lock](../../img/rods/st-croix-baitcast-4-6-reel-lock-auto-contrast-levels-800px.jpg)
+<figcaption>Reel lock</figcaption>
+</figure>
 
 ## Balanced tackle outfit
 

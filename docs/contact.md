@@ -1,5 +1,3 @@
 # Contact
 
-You can contact the website administrator at:
-
-[john-tech-writer@vintagereelserviceguides.com](mailto:john-tech-writer@vintagereelserviceguides.com)
+For comments, corrections, or additional information about this project please use the [contact email](mailto:john-tech-writer@vintagereelserviceguides.com).

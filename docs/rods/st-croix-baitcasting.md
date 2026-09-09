@@ -17,25 +17,15 @@ This rod's overall length, guide spacing, and short, stout handle represents the
 
 Manufacturer documentation is elusive. St. Croix’s original line and lure specification remains to be confirmed from the complete rod decal or catalog evidence. In the meantime, usage will be inferred from Shakespeare's recommendations and cautious testing.
 
+## Power
+
+[briefly discuss power vs. action - more general discussion belongs in the testing etc. file]
+
 ## Action
 
 This rod will likely be slow to moderate in action, flexing well down the blank rather than behaving like a modern fast graphite rod. The short length gives excellent close-range control, especially for plug pitching, bank fishing, boat work, or confined water.
 
 Fiberglass smooths the shock of a cast — useful with an older direct-drive or less-forgiving reel. The four-guide layout (3 guides + tip) is typical of an older short casting rod, but it is sparse by modern standards - line will not track the blank as closely under load.
-
-## Test casting
-
-Shakespeare places such short HD rods in the heavy class but treat 3/4 + oz. casting weight as a careful test range, not an assumption that it is a true heavy-power rod. A 4'6" fiberglass rod can feel stout in hand while still having a tip and ferrule-free (one-piece) blank that dislikes repeated hard acceleration with 1 oz. + weights.
-
-Start progressively:
-
-  - Cast a 1/2 oz. practice plug or sinker with a smooth lob.
-
-  - Move to 3/4 oz. and watch the top third of the blank during the cast.
-
-  - If it loads smoothly without the tip folding excessively or the butt feeling overstrained, try 1 oz—but avoid snap-casting.
-
-  - Stop if you hear guide-wrap ticking, see stress whitening/cracks, or feel a sharp “hinge” in the blank.
 
 ## Specifications, colors / finishes, features
 
@@ -69,11 +59,15 @@ Start progressively:
 | Guide wrap color | dark blue |
 | Unusual features | -- |
 
-**Guide details**
+### Guide details
 
 Heavy duty (HD) rings, 3 + top
 
-Markings: "Allan" on both sides of each guide.
+Original stamped and formed metal frame guides, likely nickel- or chrome-plated brass or plated steel, ALLAN stamped on both side arms. The rings appear to be solid metal, probably steel, spot-welded to the frames. The inside of each ring appears to have a series of shallow grooves / ridges cut into the surface.
+
+
+The ALLAN stamp refers to the Allan Manufacturing Company / Allan Marine of Hicksville, New York, a period supplier of rod hardware. The company was promoted in 1956 as the country’s largest producer of fishing-tackle hardware and was later associated with rod holders, line guides, and other rod components.
+
 
 <figure markdown>
 ![St. Croix Pacemaker 400 HD baitcasting rod - guide marking](../../img/rods/st-croix-baitcast-4-6-guide-marking-auto-contrast-levels-800px.jpg)
@@ -94,43 +88,41 @@ Markings: "Allan" on both sides of each guide.
 <figcaption>Top</figcaption>
 </figure>
 
-## Condition
+## Features
 
-Overall: very good, perfectly functional with minor blemishes
-
-Guides: light rust
+**Guides**
 
 <figure markdown>
 ![St. Croix Pacemaker 400 HD baitcasting rod - guide - angle view](../../img/rods/st-croix-baitcast-4-6-guide-angle-auto-contrast-levels-800px.jpg)
 <figcaption>Guide and wrapping</figcaption>
 </figure>
 
-Reel seat: light wear with some bare metal showing through paint
+**Reel seat**
 
 <figure markdown>
 ![St. Croix Pacemaker 400 HD baitcasting rod - reel seat and handle](../../img/rods/st-croix-baitcast-4-6-reel-seat-auto-contrast-levels-800px.jpg)
 <figcaption>Reel seat and handle</figcaption>
 </figure>
 
-Line wraps: very good
+**Line wraps**
 
 <figure markdown>
-![St. Croix Pacemaker 400 HD baitcasting rod - guide - side view](../../img/rods/st-croix-baitcast-4-6-line-wrap-auto-contrast-levels-800px.jpg)
-<figcaption></figcaption>
+![St. Croix Pacemaker 400 HD baitcasting rod - line wraps](../../img/rods/st-croix-baitcast-4-6-line-wrap-auto-contrast-levels-800px.jpg)
+<figcaption>Line wraps</figcaption>
 </figure>
 
-Blank: very good, a few minor scratches
+**Blank**
 
-Decals: fair with some worn spots
+**Decals**
 
-Locking nut for blank: unscrews OK, oiled lightly with penetrating oil. Blank to reel seat connection looks good, minimal corrosion 4 metal strips. Did not attempt to separate blank from reel seat.
+**Locking nut for blank**
 
 <figure markdown>
 ![St. Croix Pacemaker 400 HD baitcasting rod - locking nut](../../img/rods/st-croix-baitcast-4-6-reel-seat-lock-auto-contrast-levels-800px.jpg)
 <figcaption>Locking nut</figcaption>
 </figure>
 
-Reel lock: works, utilizes a rubber knob and screw head. Some minor rust.
+**Reel lock**
 
 <figure markdown>
 ![St. Croix Pacemaker 400 HD baitcasting rod - reel lock](../../img/rods/st-croix-baitcast-4-6-reel-lock-auto-contrast-levels-800px.jpg)

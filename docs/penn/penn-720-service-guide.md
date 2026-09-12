@@ -120,6 +120,8 @@ A good plan for the beginning vintage reel enthusiast could be to service the ho
 
     ![Penn 720 - Removing Crosswind Block](../img/penn/720/penn-720-removing-crosswind-block.jpg)
 
+    **Repair note:** Inspect the crosswind block as it is removed. If it is cracked, worn, or otherwise damaged, see [Penn 720 repair notes](../penn-720-repair-notes/) for replacement-part and repair information.
+
 9. Remove the rotor cup.
 
     ![Penn 720 - Removing Rotor Cup](../img/penn/720/penn-720-removing-rotor-cup.jpg)

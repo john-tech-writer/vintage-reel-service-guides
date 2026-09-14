@@ -25,7 +25,7 @@ Supplier links and information is provided so that users can go directly to the 
 ### Penn 720 / 722 / z crosswind block
 
 <figure markdown>
-![Penn 720 crosswind block - annotated](../../img/penn/720/penn-720-crosswind-block-annot-auto-contrast--levels-800px.jpg)
+![Penn 720 crosswind block - annotated](../../img/penn/720/penn-720-crosswind-block-non-oem-annot-auto-contrast-levels-800px.jpg)
 <figcaption>Penn 720 crosswind block</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Supplier links and information is provided so that users can go directly to the 
 
 **Part name / number:** Crosswind block, original Penn part no. 43-720.
 
-**Part type / material:** Non-OEM, black carbon fiber.
+**Part type / material:** Non-OEM, black carbon fiber (original block is white plastic).
 
 **Source:** [maxpartsrepair](https://www.ebay.com/usr/maxpartsrepair), last verified 9.12.26.
 

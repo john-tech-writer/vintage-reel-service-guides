@@ -1,6 +1,6 @@
 # Vintage reel parts
 
-This page lists a limited range of parts for vintage reels and sources for those parts. These listings are intended to facilitate locating difficult-to-locate parts, many of which are no longer available from the original reel makers. Several caveats are in order concerning parts, suppliers, and repairs:
+This page lists parts for vintage reels and sources for those parts. These listings are intended to facilitate locating difficult-to-locate parts, many of which are no longer available from the original reel makers. Several caveats are in order concerning parts, suppliers, and repairs:
 
   - **Parts** listed here have been used in repairs for reels actually documented on this site. The repairs have been bench-tested, and on that limited basis the parts are considered to work for their intended purpose.
 
@@ -8,7 +8,7 @@ This page lists a limited range of parts for vintage reels and sources for those
 
   - **Repairs** described here apply only to reels actually documented on this site. Vintage reels, even of the same maker and model, have many points of variation including differences in usage, condition, and age. Repairs as described on this site do not guarantee compatibility, performance, or durability for every reel of the same model or family.
 
-Several different types of parts sources will be included on this page, so here are some definitions to clarify the terminology.
+Several different types of parts are included in these listings - here are some definitions to clarify the terminology.
 
 | Term                | Meaning in this page                              |
 | ------------------- | ------------------------------------------------- |
@@ -24,7 +24,7 @@ Supplier links and information is provided so that users can go directly to the 
 
 ### Penn 720 / 722 / z crosswind block
 
-**Application:** [Penn 720, 722](penn/penn-720-service-guide.md), 720z, 722Z spinning reels (the z-series reels are later models).
+**Application:** [Penn 720, 722](penn/penn-720-service-guide.md), 720z, 722z spinning reels (the z-series reels are later models).
 
 **Part name / number:** Crosswind block, original Penn part no. 43-720.
 
@@ -34,4 +34,4 @@ Supplier links and information is provided so that users can go directly to the 
 
 **Repair / outcome:** Installed in one Penn 720, passed initial bench test.
 
-**Notes**: The parts arrived ahead of schedule after ordering, were as described / pictured, and appeared to be virtually identical to the original except that they are black instead of white.
+**Notes**: The parts arrived ahead of schedule after ordering, were as described / pictured, and appeared to be virtually identical to the original except that they are black instead of white. Since the 720 and 722 models used the same crosswind block, a donor part could also be sourced from a vintage "parts" reel of either model.

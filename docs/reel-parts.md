@@ -24,7 +24,7 @@ Supplier links and information is provided so that users can go directly to the 
 
 ### Penn 720 / 722 / z crosswind block
 
-**Application:** [Penn 720, 722](docs/penn-720-service-guide.md), 720z, 722Z spinning reels (the z-series reels are later models).
+**Application:** [Penn 720, 722](penn/penn-720-service-guide.md), 720z, 722Z spinning reels (the z-series reels are later models).
 
 **Part name / number:** Crosswind block, original Penn part no. 43-720.
 

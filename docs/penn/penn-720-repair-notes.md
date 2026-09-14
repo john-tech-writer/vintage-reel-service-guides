@@ -1,12 +1,12 @@
 # Penn 720 - repair notes
 
-All repairs for the Penn 720 will be listed here. Most of these repairs can be applied to the Penn 722 as well.
+All repairs for the Penn 720 are listed here. Most of these repairs can be applied to the Penn 722 as well.
 
 ## Crosswind block replacement
 
 **Project-reel history**: During field testing in August 2026, the reel's crank stopped turning freely in either direction. Disassembly in the field revealed that the crosswind block had cracked into several pieces.
 
-**Original part**: The crosswind block's original Penn part no. is 43-720. It is one of the very few plastic components used in Penn 720, 720Z, 722, and 722Z reels. This part may be more susceptible than the metal parts to cracking and failure with normal wear, age, and field use. The original block is made of white plastic.
+**Original part**: The crosswind block's original Penn part no. is 43-720. It is one of the very few plastic components used in Penn 720 and 722 reels. This part may be more susceptible than the metal parts to cracking and failure with normal wear, age, and field use. The original block is made of white plastic.
 
 An epoxy repair of the original crosswind block was attempted, but when slight pressure was applied to the part - even without installing in the reel - it failed. A different adhesive may have worked better, but overall the most reliable repair was considered replacement.
 

@@ -1,17 +1,19 @@
 # Penn 720 - repair notes
 
+All repairs for the Penn 720 will be listed here. Most of these repairs can be applied to the Penn 722 as well.
+
 ## Crosswind block replacement
 
-**Project-reel history**: During field testing in August 2026, the original crosswind block in the project Penn 720 cracked. The immediate symptom was that the crank would not turn in either direction, indicating an internal bind.
+**Project-reel history**: During field testing in August 2026, the reel's crank stopped turning freely in either direction. Disassembly in the field revealed that the crosswind block had cracked into several pieces.
 
-An epoxy repair of the original crosswind block was attempted but failed.
+**Original part**: The crosswind block's original Penn part no. is 43-720. It is one of the very few plastic components used in Penn 720, 720Z, 722, and 722Z reels. This part may be more susceptible than the metal parts to cracking and failure with normal wear, age, and field use. The original block is made of white plastic.
+
+An epoxy repair of the original crosswind block was attempted, but when slight pressure was applied to the part - even without installing in the reel - it failed. A different adhesive may have worked better, but overall the most reliable repair was considered replacement.
 
 <figure markdown>
 ![Penn 720 crosswind block - damaged](../../img/penn/720/penn-720-crosswind-block-cracked-auto-contrast--levels-800px.jpg)![Penn 720 crosswind block - attempted repair](../../img/penn/720/penn-720-crosswind-block-epoxy-repair-top-auto-contrast--levels-800px.jpg)
 <figcaption>Original damaged block and attempted repair</figcaption>
 </figure>
-
-**Original part**: The crosswind block's original Penn part no. is 43-720. It is one of the very few plastic components used in Penn 720, 720Z, 722, and 722Z reels. This part may be more susceptible than the metal parts to cracking and failure with normal wear, age, and field use. The original block is made of white plastic.
 
 **Replacement part**: A new, non-OEM replacement crosswind block was located and obtained for the repair. See [Reel parts](../reel-parts.md) for details. The replacement block obtained for this repair is made of black carbon fiber and appeared virtually identical to the original part except for the color. There were some very small bits of stray material here and there which were easily removed with light tooling.
 
@@ -31,7 +33,7 @@ An epoxy repair of the original crosswind block was attempted but failed.
 
 **Field-test record**: Not yet field tested.
 
-[when field-tested, outings, period covered, and observations will be listed here - this information will be accumulated over time and consitute anecdotal evidence of the durability of the part / repair]
+*when field-tested, outings, period covered, and observations will be listed here - this information will be accumulated over time and consitute anecdotal evidence of the durability of the part / repair*
 
 ## Parts resources
 

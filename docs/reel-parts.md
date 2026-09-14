@@ -1,14 +1,12 @@
 # Vintage reel parts
 
-This page lists parts and sources that have actually been used for repairs for reels documented on this site. Parts are listed by reel maker / model / part name.
+This page lists a limited range of parts for vintage reels and sources for those parts. These listings are intended to facilitate locating difficult-to-locate parts, many of which are no longer available from the original reel makers. Several caveats are in order concerning parts, suppliers, and repairs:
 
-These listings are intended to facilitate locating difficult-to-locate parts, most of which are no longer made by the reels' original makers. Listings are provided for education and information only. Every effort is made to ensure accuracy in these listing, but parts availability, compatibility, prices, materials, and seller policies may change.
+  - **Parts** listed here have been used in repairs for reels actually documented on this site. The repairs have been bench-tested, and on that limited basis the parts are considered to work for their intended purpose.
 
-**All suppliers listed here are independent of the Vintage Reels Service Guides project and no endorsement is implied.**
+  - **Suppliers** listed here are independent of the Vintage Reels Service Guides project and no affiliation or endorsement is implied. Every effort is made to ensure accuracy in these listings, but parts availability, compatibility, prices, materials, and seller policies may change.
 
-Repairs described here apply only to reels actually documented on this site. Vintage reels have many points of inherent variation according to differences in models, usage, condition, and age. Repairs as described here do not guarantee compatibility, performance, or durability for every reel of the same model or family. 
-
-## Terminology
+  - **Repairs** described here apply only to reels actually documented on this site. Vintage reels, even of the same maker and model, have many points of variation including differences in usage, condition, and age. Repairs as described on this site do not guarantee compatibility, performance, or durability for every reel of the same model or family.
 
 Several different types of parts sources will be included on this page, so here are some definitions to clarify the terminology.
 
@@ -20,18 +18,20 @@ Several different types of parts sources will be included on this page, so here 
 | Donor part          | An original used part removed from another reel   |
 | Non-OEM replacement | A compatible part made by an independent maker    |
 
-This page will only list suppliers that the Vintage Reels project has obtained parts, installed them in reels, tested them, and found them on that limited basis to be resources worth including here. Parts and suppliers are listed by repairs actually performed in the guides.
+## Parts listing by reel maker / model / part name
 
-## Penn 720 / 722 / z crosswind block
+Supplier links and information is provided so that users can go directly to the supplier to verify availability.
 
-**Application:** Penn 720, 720z, 722, 722Z spinning reels
+### Penn 720 / 722 / z crosswind block
 
-**Part name / number:** Crosswind block, original Penn part no. 43-720
+**Application:** [Penn 720, 722](docs/penn-720-service-guide.md), 720z, 722Z spinning reels (the z-series reels are later models).
 
-**Part type / material:** Non-OEM, carbon fiber
+**Part name / number:** Crosswind block, original Penn part no. 43-720.
+
+**Part type / material:** Non-OEM, black carbon fiber.
 
 **Source:** [maxpartsrepair](https://www.ebay.com/usr/maxpartsrepair), last verified 9.12.26.
 
-**Repair / outcome:** Installed in one Penn 720, passed initial bench test
+**Repair / outcome:** Installed in one Penn 720, passed initial bench test.
 
 **Notes**: The parts arrived ahead of schedule after ordering, were as described / pictured, and appeared to be virtually identical to the original except that they are black instead of white.

@@ -6,10 +6,10 @@
 
 An epoxy repair of the original crosswind block was attempted but failed.
 
-    <figure markdown>
-    ![Penn 720 crosswind block - damaged](../../img/penn/720/penn-720-crosswind-block-cracked-auto-contrast--levels-800px.jpg)
-    <figcaption>Original damaged block</figcaption>
-    </figure>
+<figure markdown>
+![Penn 720 crosswind block - damaged](../../img/penn/720/penn-720-crosswind-block-cracked-auto-contrast--levels-800px.jpg)
+<figcaption>Original damaged block</figcaption>
+</figure>
 
 **Original part**: The crosswind block's original Penn part no. is 43-720. It is one of the very few plastic components used in Penn 720, 720Z, 722, and 722Z reels. This part may be more susceptible than the metal parts to cracking and failure with normal wear, age, and field use. The original block is made of white plastic.
 

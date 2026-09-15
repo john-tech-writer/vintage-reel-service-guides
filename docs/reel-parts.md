@@ -26,7 +26,7 @@ Supplier links and information is provided so that users can go directly to the 
 
 <figure markdown>
 ![Penn 720 crosswind block - annotated](../../img/penn/720/penn-720-crosswind-block-non-oem-annot-auto-contrast-levels-800px.jpg)
-<figcaption>Penn 720 crosswind block</figcaption>
+<figcaption>Penn 720 with non-OEM replacement crosswind block</figcaption>
 </figure>
 
 **Application:** [Penn 720, 722](penn/penn-720-service-guide.md), 720z, 722z spinning reels (the z-series reels are later models).

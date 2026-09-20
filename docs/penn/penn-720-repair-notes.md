@@ -1,6 +1,6 @@
 # Penn 720 - repair notes
 
-All repairs for the Penn 720 are listed here. Most of these repairs can be applied to the Penn 722 as well.
+All repairs for the Penn 720 are listed here. Most of these repairs can be applied to the Penn 722 as well. See the [Penn 720 service guide](penn/penn-720-service-guide.md) for full service procedures for the 720 / 722.
 
 ## Crosswind block replacement
 

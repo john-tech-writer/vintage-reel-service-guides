@@ -2,6 +2,8 @@
 
 *Ratings: excellent, very good, good, fair, poor. Review ORCA standards for this and revise accordingly*
 
+*for service and repairs, there will usually be three dated entries: when the damage is noted, when the part is ordered, and when the repair is complete*
+
 ## Penn 720
 
 **Purchased**: 12.30.25, $87.63, eBay, seller: likeasummerbreeze.
@@ -30,11 +32,11 @@ Functional tests:
 
 (sometime prior to 5.20.26): Completely serviced. No repairs needed.
 
-8.9.26: Crosswind block cracked during a fishing trip.
+8.29.26: Crosswind block cracked during a fishing trip.
 
 9.8.26: Ordered two new non-OEM blocks, part no. 43-720, $9.99/ea, ebay, seller: maxpartsrepair. Expecting delivery M 9.14.
 
-9.12.26: Received parts ahead of schedule, installed, passes initial bench test.
+9.12.26: Received parts ahead of schedule, installed, passed initial bench test.
 
 ### Documentation
 
@@ -43,6 +45,8 @@ Functional tests:
 Needed: Additional mini service guides for drag stack and bail and companion vids for YT.
 
 9.12.26: Need to document crosswind block repair in sg, supplier / part info in workspace supplier-reference.md
+
+9.18.26: Over last week or so documented crosswind block repair in the repo - added note / link in sg to repair notes for Penn 720.
 
 ### Field use
 

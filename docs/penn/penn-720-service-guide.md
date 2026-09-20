@@ -42,7 +42,9 @@ Watch on YouTube: [Penn 720 - Quick Service - Part 2 of 2](https://youtu.be/rvZY
 
 ## Typical Issues
 
-For example, clicker/anti-reverse not working. Hardened grease can immobilize the dog and dog spring, which means the clicker and anti-reverse will not engage. A simple disassembly, cleaning and lubrication, and reassembly will fix this issue without needing to repair or replace any parts.
+**Clicker / anti-reverse not working**: Hardened grease can immobilize the dog and dog spring, which means the clicker and anti-reverse will not engage. Over-application of grease can do the same. A simple disassembly, cleaning and lubrication, and reassembly will fix this issue without needing to repair or replace any parts.
+
+**Handle will not turn in either direction**: One possibility is that the crosswind block (the only plastic part inside the reel) is cracked / damaged. See the [Penn 720 repair notes](penn-720-repair-notes.md) for a repair procedure and pointers to possible parts.
 
 ## Difficulty and Time Estimate
 

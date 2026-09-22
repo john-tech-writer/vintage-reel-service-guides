@@ -19,7 +19,7 @@ Manufacturer documentation is elusive. St. Croix’s original line and lure spec
 
 ## Power
 
-[briefly discuss power vs. action - more general discussion belongs in the testing etc. file]
+*this section is coming soon - a brief discussion of power vs. action*
 
 ## Action
 
@@ -35,12 +35,12 @@ Fiberglass smooths the shock of a cast — useful with an older direct-drive or 
 </figure>
 
 ![St. Croix Pacemaker 400 HD baitcasting rod - name decal](../../img/rods/st-croix-baitcast-4-6-decal-name-macro-auto-contrast-levels-800px.jpg)
-<figcaption>Rod name / maker location decal - "Pacemaker"</figcaption>
+<figcaption>Rod name / maker location decal - Pacemaker - Park Falls, Wisconsin</figcaption>
 </figure>
 
 <figure markdown>
 ![St. Croix Pacemaker 400 HD baitcasting rod - model no. decal](../../img/rods/st-croix-baitcast-4-6-decal-model-auto-contrast-levels-800px.jpg)
-<figcaption>Model no. decal</figcaption>
+<figcaption>Model no. / duty rating / length decal</figcaption>
 </figure>
 
 | Field | Working entry |
@@ -90,11 +90,16 @@ The ALLAN stamp refers to the Allan Manufacturing Company / Allan Marine of Hick
 
 ## Features
 
-**Guides**
+**Guides and wraps**
 
 <figure markdown>
 ![St. Croix Pacemaker 400 HD baitcasting rod - guide - angle view](../../img/rods/st-croix-baitcast-4-6-guide-angle-auto-contrast-levels-800px.jpg)
-<figcaption>Guide and wrapping</figcaption>
+<figcaption>Guide and wrap</figcaption>
+</figure>
+
+<figure markdown>
+![St. Croix Pacemaker 400 HD baitcasting rod - line wraps](../../img/rods/st-croix-baitcast-4-6-line-wrap-auto-contrast-levels-800px.jpg)
+<figcaption>Guide and wrap</figcaption>
 </figure>
 
 **Reel seat**
@@ -105,11 +110,6 @@ The ALLAN stamp refers to the Allan Manufacturing Company / Allan Marine of Hick
 </figure>
 
 **Line wraps**
-
-<figure markdown>
-![St. Croix Pacemaker 400 HD baitcasting rod - line wraps](../../img/rods/st-croix-baitcast-4-6-line-wrap-auto-contrast-levels-800px.jpg)
-<figcaption>Line wraps</figcaption>
-</figure>
 
 **Blank**
 

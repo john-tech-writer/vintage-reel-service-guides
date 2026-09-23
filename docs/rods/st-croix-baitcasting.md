@@ -1,6 +1,6 @@
 # St. Croix Pacemaker - baitcasting rod
 
-*Note: While the focus of this site is vintage reels, vintage rods are a natural and logical pairing. This initial entry in the vintage rod information for this site will be expanded as more vintage rods become part of the library.*
+*While the focus of this site is vintage reels, vintage rods are a natural and logical pairing. The rod collection will remain complementary to the reel archive and serve the larger purpose of demonstrating how vintage reels and vintage rods can be paired to create well-balanced tackle outfits.*
 
 *Since much of the interest in vintage rods focuses on how they work as part of a balanced tackle outfit with vintage reels, testing and usage will be a major part of these pages. As rods are tested the language in these pages will change to reflect the results.*
 

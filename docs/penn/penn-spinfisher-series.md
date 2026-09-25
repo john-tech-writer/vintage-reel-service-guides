@@ -4,23 +4,25 @@ The Penn Spinfisher series of open-face full-bail spinning reels ranged from the
 
 These reels were very simple, strong, dependable designs, and many are still in use today. Since there are currently (in 2026) a fair number of these reels available in the used marketplace, spare parts are reasonably available too--it's a good idea to buy a "parts" reel that matches the reel that actually goes out into the field. In the case of the 720/722, there are even a few parts (like the drag cap) available new.
 
-Penn made each size Spinfisher in two different models, with the most important differences being the same across the entire series--one model in each size used a brass bushing on the main shaft, and the other model used a ball bearing, with the practical result being smoother cranking action for the slightly upgraded, ball bearing version.
+Penn made each size Spinfisher in two different models. For the 720 / 722 pair, the difference is internal - the 720 uses a bushing on the main shaft, and the 722 model uses a bearing - the practical result is smoother cranking action for the 722.
 
-Model number | Bushing or Bearing
+For the rest of the pairs, the difference is which side the handle is on, to accommodate either right- or left-handled anglers. The distinction between a left-handed vs. a right-handed spinning reel is a bit confusing and is explained more fully on the [Spinning reel handedness page](spinning/left-hand-vs-right-hand-spinning-reels.md)
+
+Model number | Differences
 -|-
 720 | Bushing
 722 | Bearing
 |
-710 | Bushing
-711 | Bearing
+710 | Handle on left
+711 | Handle on right
 |
-712 | Bushing
-713 | Bearing
+712 | Handle on left
+713 | Handle on right
 |
-704 | Bushing
-705 | Bearing
+704 | Handle on left
+705 | Handle on right
 
-Otherwise the reels are mechanically almost identical, and the practical implication of this is that most parts are interchangeable. If you need a replacement part for a 720, then you could locate and use either a 720 or a 722 for most internal parts. You could even mix and match exterior parts like the housing, housing plate, and rotor cup. The same is true for the other model pairs.
+Otherwise the reels are mechanically almost identical, and the practical implication of this is that most parts are interchangeable. If you need a replacement part for a 720, then you could locate and use either a 720 or a 722 for most internal parts. You could even mix and match most of the exterior parts like the housing, housing plate, and rotor cup. The same is true for the other model pairs.
 
 ## The Spinfishers and Balanced Tackle
 

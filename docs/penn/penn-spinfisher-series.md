@@ -6,7 +6,7 @@ These reels were very simple, strong, dependable designs, and many are still in 
 
 Penn made each size Spinfisher in two different models. For the 720 / 722 pair, the difference is internal - the 720 uses a bushing on the main shaft, and the 722 model uses a bearing - the practical result is smoother cranking action for the 722.
 
-For the rest of the pairs, the difference is which side the handle is on, to accommodate either right- or left-handled anglers. The distinction between a left-handed vs. a right-handed spinning reel is a bit confusing and is explained more fully on the [Spinning reel handedness page](spinning/left-hand-vs-right-hand-spinning-reels.md)
+For the rest of the pairs, the difference is which side the handle is on, to accommodate either right- or left-handled anglers. The distinction between a left-handed vs. a right-handed spinning reel is a bit confusing and is explained more fully in [Left- vs. right-handed spinning reels](../spinning/left-hand-vs-right-hand-spinning-reels.md).
 
 Model number | Differences
 -|-

@@ -1,4 +1,4 @@
-# Spinning Reel Handedness: Left, Right, and the Confusion Between Them
+# Left-handed vs. right- handed spinning reels
 
 ## The short version
 
@@ -8,56 +8,47 @@ A spinning reel with the handle on the **right** side is made for a **left-hande
 
 ## Why it gets confusing
 
-The words "left" and "right" get used for two different things:
+In discussions about spinning reels, "left" and "right" get used for two different things:
 
-- **The angler's handedness:** which hand casts and holds the rod.
-- **The handle side:** which side of the reel the crank is on. This is often called "left-hand retrieve" or "right-hand retrieve."
+  - **The angler's handedness:** which hand casts and holds the rod.
 
-For a spinning reel, these two are opposites. A right-handed angler uses a reel with the handle on the left. Sellers, forum posts, and even collector publications often use "left-handed" without saying which meaning they intend.
+  - **The handle side:** which side of the reel the crank is on. This is often referred to as "left-hand retrieve" or "right-hand retrieve." It could also, and maybe most clearly, be stated as "handle on left side" or handle on right side."
 
-Baitcasting and conventional reels sit on top of the rod and follow different habits. That adds to the confusion when people move between reel types.
+For a spinning reel, these two are opposites. A right-handed angler uses a reel with the handle on the left side of the reel. Sellers, forum posts, and even collector publications referring to spinning reels sometimes use left- and right-handed in ambiguous ways. Manufacturer documentation is not always clear either.
 
-> **Recommendation:** When describing a reel, say which side the handle is on, for example "handle on the left side." It can't be misread.
+Contrasted with spinning reels, baitcasting reels sit on top of the rod, so a reel with the handle on the right side is for a right-handed angler. This adds yet more to the confusion in discussions about different reel types and left vs. right.
 
-## Manufacturer evidence
+## Manufacturer documentation
 
-### Pflueger Pelican
+Following are a couple of examples to illustrate how a couple of well-known mid-century manufacturers approached the manufacture and documentation of spinning reel models that differed only in which side the handle is on.
 
-- **1020:** handle on the left (standard, for right-handed anglers)
-- **1020A:** handle on the right (left-handed version)
+### Pflueger Pelican model no. 1020
 
-The box insert states this directly.
+Pflueger was very clear in their box insert as to the purpose for their left- and right-handed variations on their model no. 1020.
 
-`[PHOTO: Pelican 1020A box insert, close-up of the handedness statement]`
+  - **1020:** handle on the left (standard, for right-handed anglers)
+
+  - **1020A:** handle on the right (left-handed version)
+
+The box insert explains this clearly on the schematic / parts list, for example, the schematic / parts list includes a note: "Part numbers followed by A designate parts for the 1020A Left Hand Model." Of course this still assumes the angler / reader knows that a right-handed angler will want a spinning reel with the handle on the left side!
 
 ### Penn Spinfisher 700 series
 
-Penn marked the left-handed version with the next model number up.
+Penn was a good bit less clear about the differences between handle on the left / handle on the right variations in their [Spinfisher series](penn/spinfisher-series.md). While at least one otherwise comprehensive one box insert lists all the various model numbers and includes schematics and parts lists, there is no clear explanation of the differences between the models in terms of handle on the left / handle on the right versions, the schematics do not show the different parts for the different versions, and the parts lists do not list the parts for the versions with handles on the right side.
 
-| Handle on left (right-handed angler) | Handle on right (left-handed angler) |
+| Handle on left<br>(right-handed angler) | Handle on right<br>(left-handed angler) |
 |-|-|
 | 704 | 705 |
-| 706 | 707 |
 | 710 | 711 |
 | 712 | 713 |
-| 716 | none made |
-| 720 / 722 | none known |
+| 720 / 722 | - |
 
-Confirmed on the bench: 710, 720, 722 (handle on the left).
+The difference between the 720 and 722 models was not a left-right disctinction, but internal - bushings vs. bearings - and is covered more fully in the [Penn 720 overview](penn/penn-720-overview).
 
-`[PHOTO: Penn 710 from the front, showing the handle side]`
+## References
 
-### Other makers
+  - Penn Fishing Tackle Mfg. Co. *Instruction Manual Spinfisher 720, et al*
+  - Shakespeare, *Secrets of Successful Fishing* (1962)
+  - The Enterprise Mfg. Co. *Facts You'll Want to Know about the New Pflueger Pelican Spinning Reel*
 
-`[TO ADD: Mitchell 300/301, Shakespeare, others as documented]`
-
-## Tips for buyers
-
-- **Don't rely on the listing's wording.** Look at a photo that shows the handle side.
-- **Check the model number.** A letter suffix (Pflueger's "A") or a model number one higher (Penn) often marks the left-handed version.
-- **Check whether the handle can be swapped.** Many later reels let you move the handle to either side. Many vintage reels can't.
-
-## Related pages
-
-- `[LINK: Penn 700 Series overview]`
-- `[LINK: Pflueger Pelican overview]`
+For full source details, see [References](../references.md).

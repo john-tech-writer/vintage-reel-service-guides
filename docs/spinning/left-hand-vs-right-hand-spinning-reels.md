@@ -34,7 +34,7 @@ The box insert explains this clearly on the schematic / parts list, for example,
 
 ### Penn Spinfisher 700 series
 
-Penn was a good bit less clear about the differences between handle on the left / handle on the right variations in their [../Spinfisher series](penn/spinfisher-series.md). While at least one otherwise comprehensive one box insert lists all the various model numbers and includes schematics and parts lists, there is no clear explanation of the differences between the models in terms of handle on the left / handle on the right versions, the schematics do not show the different parts for the different versions, and the parts lists do not list the parts for the versions with handles on the right side.
+Penn was a good bit less clear about the differences between handle on the left / handle on the right variations in their [Spinfisher series](../penn/spinfisher-series.md). While at least one otherwise comprehensive one box insert lists all the various model numbers and includes schematics and parts lists, there is no clear explanation of the differences between the models in terms of handle on the left / handle on the right versions, the schematics do not show the different parts for the different versions, and the parts lists do not list the parts for the versions with handles on the right side.
 
 | Handle on left<br>(right-handed angler) | Handle on right<br>(left-handed angler) |
 |-|-|
